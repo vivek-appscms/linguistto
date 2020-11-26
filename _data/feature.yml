@@ -1,13 +1,10 @@
 ---
 image_one: img/feature/i1.png
-title_one: Instant setup
-description_one: 'Just integrate our SDK in your app, and it will automatically integrate
-  with our server. '
+title_one: Paraphrasing Tool
+description_one: Multilingual paraphrasing tool to reword your content to avoid plagiarism 
 image_two: img/feature/i3.png
-title_two: Over the air update
-description_two: Change strings from Appscms, and your users will see latest strings
-  without upgrading.
+title_two: Sentence Translation
+description_two: Multilingual sentence translation tool to translate sentences to any language
 image_three: img/feature/i4.png
-title_three: Effective translation workflow
-description_three: Add new languages and automatically translate strings in any language
-  with Appcms.
+title_three: Transliteration
+description_three: Typing tool based on transliteration for writing content for any language

@@ -1,18 +1,16 @@
 ---
-name: Appscms
-title: Appscms - CMS for Mobile Apps
-email: marketing@appscms.com
+name: Contenttool
+title: Contenttool - Smartest tools for content professionals
+email: marketing@Contenttool.io
 address: B404 Noida, 201301
 phone: "8750348350"
-tagline: Appscms - CMS for Mobile Apps
-description: Appcms is a modern, cloud-based content & translation management system
-  for all of your native mobile apps, enabling you to change strings in your app without
-  Playstore release.
+tagline: Contenttool - Smartest tools for content professionals
+description: Contenttools.io provides smartest tools for day to day usage by content professionals. 
 baseurl: ''
 permalink: /blog/:categories/:year_:month_:day_:title
-url: https://appscms.com
-twitter_username: appscms
-github_username: appscms
+url: https://Contenttool.io
+twitter_username: Contenttool
+github_username: Contenttool
 favicon: img/favicon.png
 paginate: "12"
 paginate_path: "/blog/page:num/"
@@ -24,9 +22,9 @@ plugins:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-include-cache
-google_analytics: 'UA-179965937-1'
+google_analytics: 'G-J9G88RTDTR'
 disqus:
-  shortname: appscms-com
+  shortname: contenttool-io
 hero: product_fixed_image
 exclude:
 - Gemfile
@@ -45,7 +43,7 @@ mailchimp:
   user-id: 
   list-id: 
 copyright_text: Copyright © 2020 All rights reserved to
-company_url: https://appscms.com
+company_url: https://contenttool.io
 google_site_verification: 
 bing_site_verification: 
 yandex_site_verification: 

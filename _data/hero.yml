@@ -1,12 +1,12 @@
 
 # sass [ only one image ]
-sass_name: 'Change strings in your app without Playstore release'
-sass_text: 'No Code rewrite needed. Just integrate our SDK. Get control to instantaneously change strings in your app with Cloudrene. Sign Up !'
+sass_name: 'Smartest tools for Content writers'
+sass_text: 'Multilingual tools for paraphrasing content, sentence translation and transliteration based typing tools.'
 sass_image: 'img/hero/hero-img.png'
 sass_btn_one_link: '#'
-sass_btn_one_text:  'Start a project'
+sass_btn_one_text:  'Start now'
 sass_btn_two_link: '#'
-sass_btn_two_text: ' View Pricing '
+sass_btn_two_text: ' See Blog'
 
 # saas_video [ video type mp4 ]
 #saas_video_name: 'We Made our <br> Software 100% Errorless' 
@@ -85,12 +85,12 @@ sass_btn_two_text: ' View Pricing '
 blog_slider:
   - image: 'img/blog/blog-details-bg.png'
     author: 'Sir Alex James'
-    title: 'Thought leadership for Mobile Apps Industry'
+    title: 'Thought leadership for Content Writing Industry'
     category: 'Technical' 
   
   - image: 'img/blog/blog-details-bg.png'	
     author: 'Sir Alex James'	
-    title: 'Thought leadership for Mobile Apps Industry'	
+    title: 'Thought leadership for Content Writing Industry'	
     category: 'Art &amp; Fantacy'
 
 
