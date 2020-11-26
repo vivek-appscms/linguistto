@@ -1,0 +1,182 @@
+---
+
+
+---
+
+<html>
+<head>
+
+<title>{{ site.data.jar_decompiler.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="{{ site.data.jar_decompiler.meta }}">
+
+    <!-- Favicon-->
+<link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
+
+<link rel="stylesheet" href="css/file-upload.css">
+<link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+
+</head>
+<body>
+ 
+    <!-- start Header Area -->
+<header id="header" >
+    <div class="container-fluid">
+        <div class="row align-items-center justify-content-between">
+            <div id="logo">
+                <a href="{{ '/' | relative_url }}">
+                    <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                </a>
+                <!-- <a href="{{ '/' | relative_url }}">
+                    <img class="logo-2" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                </a> -->
+            </div>
+        {% include nav-menu.html %}
+        </div>
+    </div>
+</header>
+
+
+
+    <div class="heading">
+        <h1 class="heading-h1">{{ site.data.jar_decompiler.h1 }}</h1>
+        <h2 class="heading-h2">{{ site.data.jar_decompiler.h2 }}</h2>
+    </div>
+    <div class="uploader">
+        <div class="inner-box">
+            <div class="dropzone">
+                <img class="img-uploader"src="https://sta2.pdfdoctor.com/1/3000/upload-icon.svg.svg" alt="Drop PDF file here">
+                <span class="drop-span">Drop Class File here</span>
+                <em>or</em>
+                <div>
+                    <button class="button">Upload file</button>   
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center textual-content">
+        <div class="col-md-9">
+        <div class="row col">
+            
+                <div class="col-md-4">
+                    <i><img class="icon" src="img/file-upload/icon-1.svg.svg" alt="{{site.data.jar_decompiler.features_desc_heading_1}}"></i>
+                    <span>{{site.data.jar_decompiler.features_desc_heading_1}}</span>
+                    <p>{{site.data.jar_decompiler.features_desc_detail_1}}</p>
+                </div>
+                <div class="col-md-4">
+                    <i><img class="icon" src="img/file-upload/security.svg.svg" alt="{{site.data.jar_decompiler.features_desc_heading_2}}"></i>
+                    <span>{{site.data.jar_decompiler.features_desc_heading_2}}</span>
+                    <p>{{site.data.jar_decompiler.features_desc_detail_2}}</p>
+                </div>
+                <div class="col-md-4">
+                    <i><img class="icon" src="img/file-upload/cross-paltform.svg.svg" alt="{{site.data.jar_decompiler.features_desc_heading_3}}"></i>
+                    <span>{{site.data.jar_decompiler.features_desc_heading_3}}</span>
+                    <p>{{site.data.jar_decompiler.features_desc_detail_3}}</p>
+                </div>
+
+             
+            
+                <div class="col-md-4">
+                    <i><img class="icon" src="img/file-upload/ease-use.svg.svg" alt="{{site.data.jar_decompiler.features_desc_heading_4}}"></i>
+                    <span>{{site.data.jar_decompiler.features_desc_heading_4}}</span>
+                    <p>{{site.data.jar_decompiler.features_desc_detail_4}}</p>
+                </div>
+                <div class="col-md-4">
+                    <i><img class="icon" src="img/file-upload/multilingual.svg.svg"alt="{{site.data.jar_decompiler.features_desc_heading_5}}"></i>
+                    <span>{{site.data.jar_decompiler.features_desc_heading_5}}</span>
+                    <p>{{site.data.jar_decompiler.features_desc_detail_5}}</p>
+                </div>
+                <div class="col-md-4">
+                    <i><img class="icon" src="img/file-upload/coudbased.svg.svg" alt="{{site.data.jar_decompiler.features_desc_heading_6}}"></i>
+                    <span>{{site.data.jar_decompiler.features_desc_heading_6}}</span>
+                    <p>{{site.data.jar_decompiler.features_desc_detail_6}}</p>
+                </div>
+
+            
+            
+        </div>
+        
+        
+    </div>
+    <div class="how-to">
+        <div class="how-to-text">
+            <h2 class="how-to-h2">{{site.data.jar_decompiler.how_to_heading}}<h2>
+                <ul>
+                    <li>
+                        <span></span>
+                        <p class="how-to-p">{{site.data.jar_decompiler.how_to_para}}</p>
+                    </li>
+                    {% for step in site.data.jar_decompiler.how_to_steps %}
+                        <li>
+                            <span><img src="img/file-upload/check-selected.svg.svg" alt="checkbox"></span><p class="steps">{{step}}</p>
+                        </li>
+                    {% endfor %}
+                </ul>
+
+        </div>
+      </div>
+    </div>
+    <!-- <div class="rating-div">
+        <div class="rating-container">
+            rating
+        <div>
+
+    </div> -->
+    <div class="faq">
+        <div class="faq-container">
+            <h2 class="faq-h2">Frequently Asked Questions</h2>
+            <ul class="faq-list">
+
+                {% for faq in site.data.jar_decompiler.faqs %}
+                <li>
+                    <h3 class="faq-h3" itemprop="name">{{faq.question}}<em style="transform: rotate(-135deg);">
+                        <i></i></em>
+                    </h3>
+                    <div style="display: block;">
+                        <p itemprop="text">{{faq.answer}}</p>
+                    </div>
+                </li>
+                <hr>
+                {% endfor %}
+            </ul>
+        </div>
+
+    </div>
+    <!-- supported Feature -->
+    <div class="row justify-content-center col-md-offset-1 supported">
+        <div class="col-md-8">
+        <h2 class="sup-h2">Supported Features</h2>
+        <ul class="sup-ul row col" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+            <li class="sup-li col-md-3" itemprop="name">
+                <a itemprop="url" href="/#">
+                    <span class="sup-span">feature 1</span>
+                </a>
+            </li>
+            <li class="sup-li col-md-3" itemprop="name">
+                <a itemprop="url" href="/#">
+                   
+                    <span class="sup-span">feature 2</span>
+                </a>
+            </li>
+            <li class="sup-li col-md-3" itemprop="name">
+                <a itemprop="url" href="/#">
+                    
+                    <span class="sup-span">feature 3</span>
+                </a>
+            </li>
+            <li class="sup-li col-md-3" itemprop="name">
+                <a itemprop="url" href="/#">
+                   
+                    <span class="sup-span">feature 4</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- Footer -->
+{% include footer.html %}
+</body>
+</html>

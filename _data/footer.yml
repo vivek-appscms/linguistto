@@ -1,0 +1,37 @@
+---
+title: About Us
+description: We make mobile apps dynamic so that your users do not have to upgrade
+  their apps for minor changes.
+resources_link_heading: Resources
+resources_link_one_text: Blog
+resources_link_one_link: "/blog"
+resources_link_two_text: Documentation
+resources_link_two_link: "#"
+resources_link_three_text: About us
+resources_link_three_link: "/about"
+resources_link_four_text: Contact us
+resources_link_four_link: "/contact"
+features_link_heading: Features
+facebook_link: facebook.com
+twitter_link: twitter.com
+dribbble_link: ''
+behance_link: ''
+
+
+features:
+  # - text: Over the air update
+  #   link: "/"
+  # - text: Content Management
+  #   link: "/"
+  # - text: Translation System
+  #   link: "/"
+  - text: 'Java Decompiler'
+    link: '/java-decompiler'
+  - text: 'Jar file opener'
+    link: '/jar-file-opener'
+  - text: 'Jar decompiler'
+    link: '/jar-decompiler'
+  - text: 'Apk decompiler'
+    link: '/apk-decompiler'
+  - text: 'Open apk file'
+    link: '/open-apk-file'

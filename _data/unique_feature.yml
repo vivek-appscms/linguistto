@@ -1,0 +1,19 @@
+---
+title: Features that make us Stand Out
+description: We provide simple solutions to complex problems
+image: img/title-icon.png
+main_image_slider:
+- image: img/carusel/c1.png
+- image: img/carusel/c2.png
+- image: img/carusel/c3.png
+section_one_title: Over the air update for string changes
+section_one_description: 'You can change any string of you app from Appscms, and those
+  changes will be pushed to your user''s mobile over the air ! '
+section_one_image: "/img/feature/f1.png"
+section_one_link: "#"
+section_two_title: Multi-locale content management system
+section_two_description: Appscms natively supports multiple locales. You can add new
+  locale or change value for any locale using Appcms and those changes will get reflected
+  on your users mobile apps, without them needing to upgrade.
+section_two_image: "/img/feature/f2.png"
+section_two_link: "#"

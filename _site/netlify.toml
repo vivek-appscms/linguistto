@@ -1,0 +1,19 @@
+[[redirects]]
+  from = "/data/*"
+  to = "https://library.appscms.com/data/:splat"
+  force = true
+  status = 200
+
+
+[[redirects]]
+  from = "/library"
+  to = "https://library.appscms.com"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/library/*"
+  to = "https://library.appscms.com/library/:splat"
+  force = true
+  status = 200
+  
