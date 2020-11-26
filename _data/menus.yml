@@ -11,11 +11,6 @@ header:
     title: 'about'
     link: '/about'
 
-  - name: 'pricing'
-    title: 'pricing'
-    link: '/pricing'
-
-
   - name: 'blog'
     title: 'blog'
     link: '/blog'
