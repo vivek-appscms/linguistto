@@ -3,5 +3,5 @@ layout: translate
 fileName: english_to_malayalam 
 from: en
 to: ml 
-permalink: translate-english-to-malayalam-sentence-translation
+permalink: english-to-malayalam-sentence-translation
 ---

@@ -3,5 +3,5 @@ layout: translate
 fileName: japanese-to-english 
 from: ja
 to: en 
-permalink: translate-japanese-to-english-sentence-translation
+permalink: japanese-to-english-sentence-translation
 ---

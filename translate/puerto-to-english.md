@@ -3,5 +3,5 @@ layout: translate
 fileName: puerto_to_english
 from: en
 to: hi 
-permalink: translate-puerto-to-english-sentence-translation
+permalink: puerto-to-english-sentence-translation
 ---
