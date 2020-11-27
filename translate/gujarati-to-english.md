@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: gujarati_to_english 
 from: gu
 to: en 
 permalink: translate-gujarati-to-english

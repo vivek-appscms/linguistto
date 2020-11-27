@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: telugu_to_english
 from: te
 to: en 
 permalink: translate-telugu-to-english

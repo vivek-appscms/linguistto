@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: english_to_kinyarwanda 
 from: en
 to: rw 
 permalink: translate-english-to-kinyarwanda

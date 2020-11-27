@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: english_to_hindi 
+fileName: english_to_spanish 
 from: en
 to: es 
 permalink: translate-english-to-spanish

@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: malayalam_to_english
 from: ml
 to: en 
 permalink: translate-malayalam-to-english

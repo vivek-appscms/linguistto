@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: english_to_punjabi 
 from: en
 to: pa 
 permalink: translate-english-to-punjabi

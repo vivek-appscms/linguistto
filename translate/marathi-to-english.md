@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: marathi_to_english
 from: mr
 to: en 
 permalink: translate-marathi-to-english

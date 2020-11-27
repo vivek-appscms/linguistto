@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: english_to_arabic 
 from: en
 to: ar 
 permalink: translate-english-to-arabic

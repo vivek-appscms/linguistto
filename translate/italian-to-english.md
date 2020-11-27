@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: italian_to_english 
 from: it
 to: en 
 permalink: translate-italian-to-english

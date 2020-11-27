@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: tamil_to_english
 from: ta
 to: en 
 permalink: translate-tamil-to-english

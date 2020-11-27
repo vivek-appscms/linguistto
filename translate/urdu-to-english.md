@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: urdu_to_english
 from: ur
 to: en 
 permalink: translate-urdu-to-english

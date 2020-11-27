@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: english_to_swahili 
 from: en
 to: sw 
 permalink: translate-english-to-swahili

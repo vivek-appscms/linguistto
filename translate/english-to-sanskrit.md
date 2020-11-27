@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: english_to_sanskrit 
 from: en
 to: sa 
 permalink: translate-english-to-sanskrit

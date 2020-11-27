@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: english_to_amharic 
 from: en
 to: am 
 permalink: translate-english-to-amharic

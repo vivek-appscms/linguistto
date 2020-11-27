@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: puerto_to_english
 from: en
 to: hi 
 permalink: translate-puerto-to-english

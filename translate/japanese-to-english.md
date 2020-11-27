@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: japanese-to-english 
 from: ja
 to: en 
 permalink: translate-japanese-to-english

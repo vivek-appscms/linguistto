@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: bengali_to_english 
 from: bn
 to: en 
 permalink: translate-bengali-to-english

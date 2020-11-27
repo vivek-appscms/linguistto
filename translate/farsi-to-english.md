@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: farsi_to_english 
 from: en
 to: hi 
 permalink: translate-farsi-to-english

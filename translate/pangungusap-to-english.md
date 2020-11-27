@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: pangungusap_to_english
 from: en
 to: hi 
 permalink: translate-pangungusap-to-english

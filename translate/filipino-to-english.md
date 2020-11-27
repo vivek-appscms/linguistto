@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: filipino_to_english 
 from: fil
 to: en 
 permalink: translate-filipino-to-english

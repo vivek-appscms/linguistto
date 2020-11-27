@@ -1,6 +1,6 @@
 --- 
 layout: translate 
-fileName: translate_english_to_hindi 
+fileName: pinyin_to_english
 from: en
 to: hi 
 permalink: translate-pinyin-to-english
