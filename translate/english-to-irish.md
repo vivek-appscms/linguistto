@@ -2,6 +2,6 @@
 layout: translate 
 fileName: translate_english_to_hindi 
 from: en
-to: hi 
+to: ga 
 permalink: translate/english-to-irish
 ---
