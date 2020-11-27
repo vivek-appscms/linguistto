@@ -4,6 +4,8 @@
 
 .footer-area {
     padding: 100px 0px;
+    height: 450px;
+
     @extend .d1-gradient-bg;
     .social-icons {
         a {
@@ -20,6 +22,7 @@
         h4 {
             color: $white;
             margin-bottom: 30px;
+           
         }
         p {
             color: $white;

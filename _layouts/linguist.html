@@ -4,7 +4,7 @@
 {% include head.html %}
 
 
-<body class="version2 pages">
+<body class="{{ body_class }}">
     <!-- start Header Area -->
     <header id="header">
         <div class="container-fluid">
@@ -23,11 +23,9 @@
     </header>
 
 {{ content }}
-
-
 {% include footer.html %}
 {% include scripts.html %}
-
 </body>
+
 
 </html>
