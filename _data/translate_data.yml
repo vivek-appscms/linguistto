@@ -1,4 +1,4 @@
-translate_english_to_hindi:
+english_to_hindi:
 - h1 : Translate english to hindi #0
 - h2 : Decompile your Jar file using JAR decompiler #1
 - title : Best Jar Decompiler by Appscms #2
@@ -40,7 +40,7 @@ translate_english_to_hindi:
   - question: Which versions of Java are supported by this decompiler ?
     answer: All versions of Java are supported by Appscms's decompiler.
 #2nd      
-translate_hindi_to_english:
+hindi_to_english:
 - h1 : Translate hindi to english
 - h2 : Decompile your Jar file using JAR decompiler
 - title : Best Jar Decompiler by Appscms
