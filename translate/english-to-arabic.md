@@ -3,5 +3,5 @@ layout: translate
 fileName: english_to_arabic 
 from: en
 to: ar 
-permalink: translate-english-to-arabic
+permalink: translate-english-to-arabic-sentence-translation
 ---
