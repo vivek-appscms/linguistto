@@ -1,31 +1,21 @@
+
+---
+layout: compress.html
+---
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
-
-{% include head.html %}
-
-
+   
 <body class="{{ body_class }}">
-    <!-- start Header Area -->
-    <header id="header">
-        <div class="container-fluid">
-            <div class="row align-items-center justify-content-between">
-                <div id="logo">
-                    <a href="{{ '/' | relative_url }}">
-                        <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
-                    </a>
-                    <a href="{{ '/' | relative_url }}">
-                        <img class="logo-2" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
-                    </a>
-                </div>
-                 {% include nav-menu.html %}
-            </div>
-        </div>
-    </header>
+    {{ content }}
+    
+    <!-- {% include base/right-sidebar-2.html %} -->
 
-{{ content }}
-{% include footer.html %}
-{% include scripts.html %}
+    {% include footer.html %}
+
+    
+    {% include scripts.html %}
 </body>
 
-
 </html>
+
+
