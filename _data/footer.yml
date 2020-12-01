@@ -21,6 +21,6 @@ features:
   - text: 'Paraphrasing Tool'
     link: #
   - text: 'Sentence Translation'
-    link: '/translate'
+    link: '/sentence-translation'
   - text: 'Typing tools'
     link: #
