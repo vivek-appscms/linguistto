@@ -2,7 +2,6 @@
 layout: linguist
 ---
 {% assign keyName = page.fileName %} 
-<!-- {{page.fileName}} -->
 {% assign conversion = 'translate_data' %} 
 {% assign test = site.data[conversion] %}
 {% assign dataArr = test[keyName] %}
@@ -67,7 +66,7 @@ layout: linguist
             <div class="row align-items-center justify-content-between">
                 <div id="logo">
                     <a href="{{ '/' | relative_url }}">
-                        <img class="logo-2" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                        <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
                     </a>
                 </div>
                  {% include nav-menu.html %}
@@ -114,7 +113,7 @@ layout: linguist
             </div>    
         </div>
 
-
+        <!-- {% if data[4] != blank %}
         <div class="row col col-md-12">
             <div class="col-md-4">
                 <i><img class="icon" src="img/file-upload/icon-1.svg.svg" alt="{{data[4].features_desc_heading_1}}"></i>
@@ -147,7 +146,7 @@ layout: linguist
                     <p>{{data[15].features_desc_detail_6}}</p>
             </div>
         </div>
-            
+        {% endif %} -->
         <!-- <div class="faq col-md-12">
             <div class="faq-container">
                 <h2 class="faq-h2">Frequently Asked Questions</h2>
@@ -169,18 +168,22 @@ layout: linguist
             </div>
 
         </div> -->
+
+
+
         <div class="col-md-12">
             <div>
                 <h2 class="sup-h2">Popular Conversions</h2>
                 <ul class="sup-ul row col-md-12">
-
-                    {% for faq in data.faqs %}
-                    <li class="col-md-3 conver-list"> 
-                        <a itemprop="url" href="/#">
-                            x to y
+                    {% for post in site.pages %}
+                    {% assign path = post.url | replace: "/","" %} 
+                    {% if post.url contains 'translation'%}
+                    <li class="col-md-3 conver-list">
+                        <a href="/{{path}}">
+                          {{ path | replace: "-"," " |capitalize}}
                         </a>
-                    </li>
-                    <hr>
+                    </li> 
+                    {% endif %}
                     {% endfor %}
                 </ul>
             </div>
