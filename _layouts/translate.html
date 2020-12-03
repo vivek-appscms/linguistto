@@ -49,8 +49,8 @@ layout: linguist
             const response = await fetch(url); 
             let data=  await response.json(); 
             if(data){
-                data && data[0].map((item)=>{
-                    item[0].length> 0 && strOutput.push(item[0]);
+                data && data[0].map(async(item)=>{
+                    item[0].length> 0 && await strOutput.push(item[0]);
                 })
             }
             strOutput = strOutput.toString();
@@ -59,6 +59,7 @@ layout: linguist
         async function getInputValue(){
             var inputString = document.getElementById("input-string").value;
             var outputStr = await translateFunction(inputString,`{{page.from}}`,`{{page.to}}`);
+            console.log(outputStr);
             document.getElementById("output-string").value = outputStr.replace(/['",]+/g, '');
         }
         async function translateFunction(string,sl,tl){ 
