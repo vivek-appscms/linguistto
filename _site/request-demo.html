@@ -54,6 +54,20 @@
 
 
 
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<script>
+  window.onload = function () {
+    google.accounts.id.initialize({
+      client_id: '48343847788-8kus1c795k5d9h0coakvs12n97vt6db4.apps.googleusercontent.com',
+      callback: handleOnetapResponse
+    });
+    google.accounts.id.prompt();
+  }
+  function handleOnetapResponse(res){
+    console.log(res.credential)
+  }
+</script>
+
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -298,7 +312,7 @@
                     <ul class="menu-list">
                         
                         <li>
-                            <a href="/paraphrasing-tool">Paraphrasing Tool</a>
+                            <a href="">Paraphrasing Tool</a>
                         </li>
                         
                         <li>
@@ -306,7 +320,7 @@
                         </li>
                         
                         <li>
-                            <a href="/typing-tools">Typing tools</a>
+                            <a href="">Typing tools</a>
                         </li>
                         
                     </ul>

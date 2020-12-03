@@ -1,7 +1,7 @@
----
-layout: translate
-fileName: translate_english_to_hindi
+--- 
+layout: translate 
+fileName: english_to_hindi 
 from: en
-to: hi
-permalink: "/translate-english-to-hindi"
+to: hi 
+permalink: english-to-hindi-sentence-translation
 ---
