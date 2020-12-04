@@ -13,34 +13,46 @@ layout: default
     <script src="https://accounts.google.com/gsi/client" async defer></script>
    
     <script>
-        let languageList = ["bn", "hi", "ar", "ah","af", "al", "am","ch","co","da","du","ga","gu","ha","hm","kh","la","sl","ma","od","zu","ur","ta","te"]
-        let sorted1
+        
         
         //get input
         async function getInputValue(){
-            var inputString = document.getElementById("input-string").value;
-            sorted1 = await languageList.sort((x,y)=>Math.random() - Math.random())
-            sorted1[0]=`{{initialLanguage}}`
-            sorted1[5]=`{{initialLanguage}}`
-            paraphraseControler(inputString)
+            let languageList = ["sq","am","ar","zh","da","gu","hy","id","it","ja","ko","la","ms","ne","pa","sq","ta","te","zh","ur",]
+            let inputString = document.getElementById("input-string").value;
+
+            for ( let i=languageList.length-1; i>0; i--){
+                const randomNum = Math.floor(Math.random()*i)
+                const temp = languageList[i]
+                languageList[i] = languageList[randomNum]
+                languageList[randomNum] = temp
+            }
+
+            languageList[0]=`{{initialLanguage}}`
+            languageList[5]=`{{initialLanguage}}`
+
+            paraphraseControler(inputString, languageList)
         }
 
-        let paraphrase1
-        async function paraphraseControler(string){
-            paraphrase1 = string
+       
+        async function paraphraseControler(string, lang){
+            let paraphrase1 = string
 
             for (let i=0; i<5; i++){
-                const api_url =`https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sorted1[i]}&tl=${sorted1[i+1]}&dt=t&q=${paraphrase1}`; 
+                const api_url =`https://translate.googleapis.com/translate_a/single?client=gtx&sl=${lang[i]}&tl=${lang[i+1]}&dt=t&q=${paraphrase1}`; 
+                console.log(api_url)
                 const response = await fetch(api_url); 
                 let data=  await response.json(); 
                 let strOutput=[];
+
                 if(data){
                     data && data[0].map((item)=>{
                         item[0].length> 0 && strOutput.push(item[0]);
                     })
                 }
+
                 strOutput = strOutput.toString();
-                paraphrase1 = strOutput
+                paraphrase1 = strOutput.replace(/['",]+/g, '')
+
                 if(i==4){
                     document.getElementById("output-string").value = paraphrase1;
                 }
@@ -81,7 +93,4 @@ layout: default
     <div>
     </div>
 </body>
-
-
-
-
+<!-- https://cors-anywhere.herokuapp.com/ -->
