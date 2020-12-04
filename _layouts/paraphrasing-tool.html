@@ -14,7 +14,7 @@ layout: default
    
     <script>
         let languageList = ["bn", "hi", "ar", "ah","af", "al", "am","ch","co","da","du","ga","gu","ha","hm","kh","la","sl","ma","od","zu","ur","ta","te"]
-        let sorted1, sorted2, sorted3;
+        let sorted1
         
         //get input
         async function getInputValue(){
@@ -24,28 +24,12 @@ layout: default
             sorted1[5]=`{{initialLanguage}}`
             paraphraseControler(inputString)
         }
-        
 
-        let paraphrase1, paraphrase2, paraphrase3; 
+        let paraphrase1
         async function paraphraseControler(string){
             paraphrase1 = string
 
             for (let i=0; i<5; i++){
-                if(i==4){
-                    const api_url =`https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sorted1[i]}&tl=${sorted1[i+1]}&dt=t&q=${paraphrase1}`; 
-                    const response = await fetch(api_url); 
-                    let data=  await response.json(); 
-                    let strOutput=[];
-                    if(data){
-                        data && data[0].map((item)=>{
-                            item[0].length> 0 && strOutput.push(item[0]);
-                        })
-                    }
-                    strOutput = strOutput.toString();
-                    
-                    document.getElementById("output-string").value = strOutput;
-                }
-                
                 const api_url =`https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sorted1[i]}&tl=${sorted1[i+1]}&dt=t&q=${paraphrase1}`; 
                 const response = await fetch(api_url); 
                 let data=  await response.json(); 
@@ -57,6 +41,9 @@ layout: default
                 }
                 strOutput = strOutput.toString();
                 paraphrase1 = strOutput
+                if(i==4){
+                    document.getElementById("output-string").value = paraphrase1;
+                }
             }
         }
      
