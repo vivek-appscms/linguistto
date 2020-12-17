@@ -432,3 +432,11 @@ button{
   }
   
  
+  .counter-input{
+    height:400px;
+  }
+  @media only screen and (max-width:767px){
+    .counter-input{
+      height:200px;
+    }
+  }
