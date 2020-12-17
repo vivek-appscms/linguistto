@@ -1,9 +1,9 @@
-<h1 style="text-align: center;margin-top:80px">List of Paraphrase</h1>
+<h1 style="text-align: center;margin-top:80px">List of Translation</h1>
 
 <div class="row" style="margin-top:20px">
 {% for post in site.pages %}
 {% assign path = post.url | replace: "/","" %} 
-{% if post.url contains 'translation'%}
+{% if post.url contains 'paraphrase'%}
 <h2 class="col-md-4" style="font-size:16px;margin-left: 0px; margin-right: 0px; text-align: center;padding: 6px;">
     <a href="/{{path}}">
       {{ path | replace: "-"," " |capitalize}}

@@ -34,7 +34,8 @@ layout: linguist
     <link rel="stylesheet" href="{{ 'css/animate.min.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'css/owl.carousel.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
-    <!-- <script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script>
         window.onload = function () {
           google.accounts.id.initialize({
             client_id: 'YOUR_GOOGLE_CLIENT_ID',
@@ -42,15 +43,15 @@ layout: linguist
           });
           google.accounts.id.prompt();
         }
-      </script> -->
+      </script>
     <script> 
     var strOutput=[];
         async function getapi(url) { 
             const response = await fetch(url); 
             let data=  await response.json(); 
             if(data){
-                data && data[0].map((item)=>{
-                    item[0].length> 0 && strOutput.push(item[0]);
+                data && data[0].map(async(item)=>{
+                    item[0].length> 0 && await strOutput.push(item[0]);
                 })
             }
             strOutput = strOutput.toString();
@@ -59,6 +60,7 @@ layout: linguist
         async function getInputValue(){
             var inputString = document.getElementById("input-string").value;
             var outputStr = await translateFunction(inputString,`{{page.from}}`,`{{page.to}}`);
+            console.log(outputStr);
             document.getElementById("output-string").value = outputStr.replace(/['",]+/g, '');
         }
         async function translateFunction(string,sl,tl){ 
