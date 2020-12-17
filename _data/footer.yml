@@ -19,7 +19,7 @@ behance_link: ''
 
 features:
   - text: 'Paraphrasing Tool'
-    link: #
+    link: '/paraphrasing-tool'
   - text: 'Sentence Translation'
     link: '/sentence-translation'
   - text: 'Typing tools'
