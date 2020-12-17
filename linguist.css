@@ -432,11 +432,11 @@ button{
   }
   
  
-  .counter-input{
+  .counter-input, .transliteration-input{
     height:400px;
   }
   @media only screen and (max-width:767px){
-    .counter-input{
+    .counter-input, .transliteration-input{
       height:200px;
     }
   }
