@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/russian-paraphrase</loc>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -100,6 +103,9 @@
 <loc>http://localhost:4000/english-to-vietnamese-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/english-paraphrase</loc>
+</url>
+<url>
 <loc>http://localhost:4000/farsi-to-english-sentence-translation</loc>
 </url>
 <url>
@@ -115,10 +121,16 @@
 <loc>http://localhost:4000/german-to-english-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/german-paraphrase</loc>
+</url>
+<url>
 <loc>http://localhost:4000/gujarati-to-english-sentence-translation</loc>
 </url>
 <url>
 <loc>http://localhost:4000/hindi-to-english-sentence-translation</loc>
+</url>
+<url>
+<loc>http://localhost:4000/hindi-paraphrase</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/</loc>
@@ -145,10 +157,16 @@
 <loc>http://localhost:4000/malayalam-to-english-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/manpreet</loc>
+</url>
+<url>
 <loc>http://localhost:4000/marathi-to-english-sentence-translation</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pangungusap-to-english-sentence-translation</loc>
+</url>
+<url>
+<loc>http://localhost:4000/paraphrasing-tool</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pinyin-to-english-sentence-translation</loc>
@@ -173,6 +191,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/spanish-to-english-sentence-translation</loc>
+</url>
+<url>
+<loc>http://localhost:4000/spanish-paraphrase</loc>
 </url>
 <url>
 <loc>http://localhost:4000/swahili-to-english-sentence-translation</loc>
