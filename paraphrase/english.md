@@ -1,6 +1,8 @@
 --- 
 layout: paraphrasing-tool 
-fileName: English 
+fileName: Paraphrasing tool for professionals 
 language: en
-permalink: english-paraphrase
+permalink: paraphrasing-tool
+title: 	Paraphrasing tool for professionals.- Rewrite content online for free.
+description: Get multiple paraphrased variants of your content and pick the best variant for your use case. Only tool which provides this feature. Try it out now !
 ---
