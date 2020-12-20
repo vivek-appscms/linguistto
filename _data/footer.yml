@@ -18,9 +18,12 @@ behance_link: ''
 
 
 features:
-  - text: 'Paraphrasing Tool'
+  - text: 'Paraphrasing tool'
     link: '/paraphrasing-tool'
-  - text: 'Sentence Translation'
-    link: '/sentence-translation'
-  - text: 'Typing tools'
-    link: #
+  - text: 'Transliteration tool'
+    link: '/english-to-hindi-typing'
+  - text: 'Word count tool'
+    link: '/word-count-tool'
+  - text: 'Character count tool'
+    link: '/character-count-tool'
+
