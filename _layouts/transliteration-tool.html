@@ -28,7 +28,7 @@ layout: default
 <body>
     <div class="container">
         <div class="main">
-            <h1 class="col-md-12 text">{{keyName}}</h1>
+            <h1 class="col-md-12 text">English to {{keyName}}  Typing</h1>
             
             <div class="hr">
                 <hr class="hr-css"/>
@@ -39,7 +39,7 @@ layout: default
                 </div>
                 <div class="row col-md-12 d-flex justify-content-center">
                 <div class="col-md-12 mb-3 pl-5">
-                    <p>Type in english and it will be transliterated to {{langName}}</p>
+                    <p>Type in english and it will be transliterated to {{keyName}}</p>
                     <textarea onkeyup="inputHandle()" class="mt-3 transliteration-input" id="input-string"  ></textarea>                    
                     <div class=" d-flex justify-content-left">
                         <button onclick="inputHandle('transliterateButton')" class="ml-2" style="font-size:14px; font-weight:normal; height:30px" onclick="getInputValue();">
@@ -57,43 +57,43 @@ layout: default
         <div>
     </div>
 
-    <!-- start features -->
+    <!-- start features
         <div class="row d-block textual-content">
             <div class="d-flex justify-content-center">
                 <div class="col-md-9">
                     <div class="row ">
                             <div class="col-md-4">
-                                <i><img class="icon" src="img/file-upload/icon-1.svg.svg" alt="{{site.data.paraphrase.features_desc_heading_1}}"></i>
-                                <span>{{site.data.paraphrase.features_desc_heading_1}}</span>
-                                <p>{{site.data.paraphrase.features_desc_detail_1}}</p>
+                                <i><img class="icon" src="img/file-upload/icon-1.svg.svg" alt="{{site.data.transliteration.features_desc_heading_1}}"></i>
+                                <span>{{site.data.transliteration.features_desc_heading_1}}</span>
+                                <p>{{site.data.transliteration.features_desc_detail_1}}</p>
                             </div>
                             <div class="col-md-4">
-                                <i><img class="icon" src="img/file-upload/security.svg.svg" alt="{{site.data.paraphrase.features_desc_heading_2}}"></i>
-                                <span>{{site.data.paraphrase.features_desc_heading_2}}</span>
-                                <p>{{site.data.paraphrase.features_desc_detail_2}}</p>
+                                <i><img class="icon" src="img/file-upload/security.svg.svg" alt="{{site.data.transliteration.features_desc_heading_2}}"></i>
+                                <span>{{site.data.transliteration.features_desc_heading_2}}</span>
+                                <p>{{site.data.transliteration.features_desc_detail_2}}</p>
                             </div>
                             <div class="col-md-4">
-                                <i><img class="icon" src="img/file-upload/cross-paltform.svg.svg" alt="{{site.data.paraphrase.features_desc_heading_3}}"></i>
-                                <span>{{site.data.paraphrase.features_desc_heading_3}}</span>
-                                <p>{{site.data.paraphrase.features_desc_detail_3}}</p>
+                                <i><img class="icon" src="img/file-upload/cross-paltform.svg.svg" alt="{{site.data.transliteration.features_desc_heading_3}}"></i>
+                                <span>{{site.data.transliteration.features_desc_heading_3}}</span>
+                                <p>{{site.data.transliteration.features_desc_detail_3}}</p>
                             </div>
             
                          
                         
                             <div class="col-md-4">
-                                <i><img class="icon" src="img/file-upload/ease-use.svg.svg" alt="{{site.data.paraphrase.features_desc_heading_4}}"></i>
-                                <span>{{site.data.paraphrase.features_desc_heading_4}}</span>
-                                <p>{{site.data.paraphrase.features_desc_detail_4}}</p>
+                                <i><img class="icon" src="img/file-upload/ease-use.svg.svg" alt="{{site.data.transliteration.features_desc_heading_4}}"></i>
+                                <span>{{site.data.transliteration.features_desc_heading_4}}</span>
+                                <p>{{site.data.transliteration.features_desc_detail_4}}</p>
                             </div>
                             <div class="col-md-4">
-                                <i><img class="icon" src="img/file-upload/multilingual.svg.svg"alt="{{site.data.paraphrase.features_desc_heading_5}}"></i>
-                                <span>{{site.data.paraphrase.features_desc_heading_5}}</span>
-                                <p>{{site.data.paraphrase.features_desc_detail_5}}</p>
+                                <i><img class="icon" src="img/file-upload/multilingual.svg.svg"alt="{{site.data.transliteration.features_desc_heading_5}}"></i>
+                                <span>{{site.data.transliteration.features_desc_heading_5}}</span>
+                                <p>{{site.data.transliteration.features_desc_detail_5}}</p>
                             </div>
                             <div class="col-md-4">
-                                <i><img class="icon" src="img/file-upload/coudbased.svg.svg" alt="{{site.data.paraphrase.features_desc_heading_6}}"></i>
-                                <span>{{site.data.paraphrase.features_desc_heading_6}}</span>
-                                <p>{{site.data.paraphrase.features_desc_detail_6}}</p>
+                                <i><img class="icon" src="img/file-upload/coudbased.svg.svg" alt="{{site.data.transliteration.features_desc_heading_6}}"></i>
+                                <span>{{site.data.transliteration.features_desc_heading_6}}</span>
+                                <p>{{site.data.transliteration.features_desc_detail_6}}</p>
                             </div>
                     </div>
             </div>   
@@ -102,13 +102,13 @@ layout: default
         <div class="how-to d-block mb-0 pb-0">
             <div class="how-to-text  d-flex justify-content-center">
                 <div>
-                    <h2 class="how-to-h2">{{site.data.paraphrase.how_to_heading}}<h2>
+                    <h2 class="how-to-h2">{{site.data.transliteration.how_to_heading}}<h2>
                         <ul > 
                             <li>
                                 <span></span>
-                                <p class="how-to-p">{{site.data.paraphrase.how_to_para}}</p>
+                                <p class="how-to-p">{{site.data.transliteration.how_to_para}}</p>
                             </li>
-                            {% for step in site.data.paraphrase.how_to_steps %}
+                            {% for step in site.data.transliteration.how_to_steps %}
                                 <li>
                                     <span><img src="img/file-upload/check-selected.svg.svg" alt="checkbox"></span><p class="steps">{{step}}</p>
                                 </li>
@@ -124,7 +124,7 @@ layout: default
                 <h2 class="faq-h2">Frequently Asked Questions</h2>
                 <ul class="faq-list">
     
-                    {% for faq in site.data.paraphrase.faqs %}
+                    {% for faq in site.data.transliteration.faqs %}
                     <li>
                         <h3 class="faq-h3" itemprop="name">{{faq.question}}<em style="transform: rotate(-135deg);">
                             <i></i></em>
@@ -139,7 +139,7 @@ layout: default
             </div>
     
         </div>
-        <!-- supported Feature -->
+   
         <div class="row justify-content-center col-md-offset-1 supported">
             <div class="col-md-8">
             <h2 class="sup-h2">Supported Features</h2>
@@ -169,6 +169,6 @@ layout: default
                 </li>
             </ul>
         </div>
-        </div>
+        </div> -->
 </body>
 <!-- https://cors-anywhere.herokuapp.com/ -->
