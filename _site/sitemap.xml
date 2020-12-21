@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/russian-paraphrase</loc>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -10,7 +13,13 @@
 <loc>http://localhost:4000/arabic-to-english-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/bangla-transliteration-tool</loc>
+</url>
+<url>
 <loc>http://localhost:4000/bengali-to-english-sentence-translation</loc>
+</url>
+<url>
+<loc>http://localhost:4000/character-count-tool</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact</loc>
@@ -100,6 +109,9 @@
 <loc>http://localhost:4000/english-to-vietnamese-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/paraphrasing-tool</loc>
+</url>
+<url>
 <loc>http://localhost:4000/farsi-to-english-sentence-translation</loc>
 </url>
 <url>
@@ -115,16 +127,25 @@
 <loc>http://localhost:4000/german-to-english-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/german-paraphrase</loc>
+</url>
+<url>
 <loc>http://localhost:4000/gujarati-to-english-sentence-translation</loc>
 </url>
 <url>
 <loc>http://localhost:4000/hindi-to-english-sentence-translation</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>http://localhost:4000/english-to-hindi-typing</loc>
+</url>
+<url>
+<loc>http://localhost:4000/hindi-paraphrase</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/irish-to-english-sentence-translation</loc>
@@ -175,6 +196,9 @@
 <loc>http://localhost:4000/spanish-to-english-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/spanish-paraphrase</loc>
+</url>
+<url>
 <loc>http://localhost:4000/swahili-to-english-sentence-translation</loc>
 </url>
 <url>
@@ -196,7 +220,10 @@
 <loc>http://localhost:4000/vietnamese-to-english-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/word-count-tool</loc>
+</url>
+<url>
 <loc>http://localhost:4000/admin/</loc>
-<lastmod>2020-11-23T13:19:03+05:30</lastmod>
+<lastmod>2020-12-21T11:20:42+06:00</lastmod>
 </url>
 </urlset>
