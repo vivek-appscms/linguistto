@@ -8,7 +8,8 @@ image: ''
 comments: false
 
 ---
-![](/uploads/becoming-good-content-writer.jpeg)
+
+![](/uploads/content-ww.jpg)
 
 In simple words, content writing is all about wordplay. If you are someone who writes content that is reader friendly, creative and engaging, then you are a good content writer. For example, a new fashion designer has just launched her new website. If she wishes to showcase her distinction in the field and business, she will be doing so by producing content on her website that showcases her skills. Here the content will show her brand to the audience. Being a content writer comes with great perks. Depending on the nature of your work you have the incredible flexibility to either work from home or from office. But the job is not easy in nature and one must inculcate certain skills in order to be a published writer. As a content writer you will have to come with innovative ideas and the work could be anything from writing content for websites, blogs, technical or research papers. Before you take a pen, paper or even a laptop, you must know that writing great content is just not about writing what comes on your mind but generating content based on knowledge. Now that I have captured your attention let us take a look at what it takes to don the hat of a content writer.
 
@@ -60,34 +61,32 @@ An analytical mind and good grasp over language is a must to be a successful wri
 3. Blogging is another independent and creative way to explore. Setting up your blog is free and since no qualifications are required you are free to write at your own pace. You only require a unique style of writing that resonates with the choices of your audience.
 4. If you are looking for a professional addition to your career, you could possibly explore various certification courses in writing. From Search Engine Optimization to Content Management System, these certifications teach everything. Such courses improve your writing skills and also competence in the market. There are a number of courses available in India and abroad which are both online and offline-TBS The Brand Salon, Mumbai, Digital Academy 360, Bangalore or Udemy Content Writing Course (Online)
 
-   ![](/uploads/writing.png)
+   **Tips for aspiring content writers**
+   1. Read a lot
+   2. Improve your networking
+   3. Maintain a social media presence
+   4. Strengthen your researching skills
+   5. Broaden your horizon
 
-**Tips for aspiring content writers**
+   **Successful content writers and bloggers**
 
-1. Read a lot
-2. Improve your networking
-3. Maintain a social media presence
-4. Strengthen your researching skills
-5. Broaden your horizon
+   1\.Carol Tice
 
-**Successful content writers and bloggers**
+   2\.Heidi Cohen
 
-1\.Carol Tice
+   3\.Neil Patel
 
-2\.Heidi Cohen
+   4\.Brain Clark
 
-3\.Brain Clark
+     
+   **Books on content writing**
 
-4\.Neil Patel
+   1\.Content Writing by Joseph Robinson
 
-**Books on content writing**
+   2\.Everybody Writes by Ann Handley
 
-1\.Content Writing by Joseph Robinson
+   3\.The copywriter’s handbook by Robert W.Bly
 
-2\.Everybody Writes by Ann Handley
+   4\. Don't make me think by Steve Krug
 
-3\.The copywriter’s handbook by Robert W.Bly
-
-4\. Don't make me think by Steve Krug
-
-Therefore, create an online writing portfolio. As a starter, it is always better to start applying for paid content writing gigs after you have a few content pieces and experience under your belt. This way, you will be able to showcase yourself better and convey to potential clients or recruiters that you can actually do the job, and do it well.
+                                                                                                    Therefore, create an online writing portfolio. As a starter, it is always better to start applying for paid content writing gigs after you have a few content pieces and experience under your belt. This way, you will be able to showcase yourself better and convey to potential clients or recruiters that you can actually do the job, and do it well.
