@@ -34,4 +34,4 @@ fields:
   type: boolean
   label: Comments
 pages:
-- _posts/test-blog-article.md
+- _posts/2020-12-24-test-blog-article.md
