@@ -12,8 +12,7 @@ When you want to translate a word or a sentence into other foriegn languages , y
 
 When you want to translate a word or a sentence into other foreign languages , you probably think of using a dictionary or ask a friend who is well adept at the language. Sentences translation is a humongous task and most people face issues dealing with it. Sentence translators are effective and easy to use tools and have been developed after extensive research. While some of these sentence translators speak the words and sentences aloud, and others simply pop up with the translated text. While these online smart tools cannot replace the proficiency of human translators, these are still handy for those looking at quick solutions. In this post, we will share with you some of the effective translation tools.
 
-  
-![](/uploads/services-translation.png)
+![](/uploads/translate.jpg)
 
 1\.[Google translate](https://www.google.com/search?q=google+translate&rlz=1C1RLNS_enIN842IN842&oq=Google+translate&aqs=chrome.0.0i131i433i457j0l2j0i433l3j0i131i433j69i64.335j0j4&sourceid=chrome&ie=UTF-8)
 
@@ -28,9 +27,6 @@ This online instantly translates phrases and sentences into any language you pre
 3\.[Deepl Translate](https://www.deepl.com/en/translator)
 
 This is another free translator and you could translate upto 12 languages using this tool. This tool applies machine learning in order to produce closer to accuracy translated content which is a thumbs up factor when compared to other similar translating tools available on the web. Deepl Translate also offers definitions and options for automatic sentence completion. You can copy , share, save the file. If you want more details of a word, all you require is to double click it and a dropdown box will appear with all the definitions and examples of how the language is used.
-
-  
-![](/uploads/translatedict.jpg)
 
 4\.[Translatedict](https://www.translatedict.com/)
 
