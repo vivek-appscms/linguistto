@@ -8,7 +8,7 @@ image: ''
 comments: false
 
 ---
-![](/uploads/plagirasm.png)
+![](/uploads/plagiarism.jpg)
 
 **Plagiarism** is the act of using someone else’s work or ideas without crediting the original owner of the content and reproducing them as your own.
 
@@ -30,7 +30,6 @@ Let’s consider various paraphrased versions of the following material on the e
 
 **Paraphrased content :** A textbook of anatomy and physiology¹ reports that the concentration of potassium ions inside of the cell is relatively high and, consequently, some potassium tends to escape out of the cell. Just the opposite occurs with sodium ions. Their concentration outside of the cell causes sodium ions to cross the membrane into the cell, but they do so at a slower rate. According to these authors, this is because the permeability of the cell membrane is such that it favors the movement of potassium relative to sodium ions. Because the rate of crossing for potassium ions that exit the cell is higher than that for sodium ions that enter the cell, the inside portion of the cell is left with an overload of negatively charged particles, namely, proteins that contain a negative charge.
 
-  
 In addition to thoroughly changing much of the language and some of the structure of the original paragraph, the paraphrase also indicates, that the ideas contained in the rewritten version were taken from another source.
 
 Sometimes in their attempts at paraphrasing, authors commit ‘near plagiarism’ because they fail to sufficiently modify the original text and thus, produce an inappropriately paraphrased version.
@@ -39,7 +38,6 @@ Inappropriate paraphrasing also happens sometimes by writers who are not adept a
 
 Obviously, inexperienced authors (e.g., students) have the greatest difficulty paraphrasing the advanced technical text often found in the primary literature.
 
-  
 Therefore, practice a two step process of paraphrasing an article.
 
 First, understand the basic structure of the sentence. Sentences can be simple, compound or simple compound. Once you have identified the sentence structure, you can reconstruct the sentences keeping in mind the active voice and passive voice formation.
