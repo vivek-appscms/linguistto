@@ -60,6 +60,8 @@ An analytical mind and good grasp over language is a must to be a successful wri
 3. Blogging is another independent and creative way to explore. Setting up your blog is free and since no qualifications are required you are free to write at your own pace. You only require a unique style of writing that resonates with the choices of your audience.
 4. If you are looking for a professional addition to your career, you could possibly explore various certification courses in writing. From Search Engine Optimization to Content Management System, these certifications teach everything. Such courses improve your writing skills and also competence in the market. There are a number of courses available in India and abroad which are both online and offline-TBS The Brand Salon, Mumbai, Digital Academy 360, Bangalore or Udemy Content Writing Course (Online)
 
+   ![](/uploads/writing.png)
+
 **Tips for aspiring content writers**
 
 1. Read a lot
@@ -70,8 +72,6 @@ An analytical mind and good grasp over language is a must to be a successful wri
 
 **Successful content writers and bloggers**
 
-![](/uploads/screen-shot-2018-03-23-at-1-28-55-pm.png)
-
 1\.Carol Tice
 
 2\.Heidi Cohen
@@ -81,8 +81,6 @@ An analytical mind and good grasp over language is a must to be a successful wri
 4\.Neil Patel
 
 **Books on content writing**
-
-![](/uploads/1200x630wp.png)
 
 1\.Content Writing by Joseph Robinson
 
