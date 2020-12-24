@@ -8,8 +8,6 @@ image: ''
 comments: false
 
 ---
-![](/uploads/content-ww.jpg)
-
 In simple words, content writing is all about wordplay. If you are someone who writes content that is reader friendly, creative and engaging, then you are a good content writer. For example, a new fashion designer has just launched her new website. If she wishes to showcase her distinction in the field and business, she will be doing so by producing content on her website that showcases her skills. Here the content will show her brand to the audience. Being a content writer comes with great perks. Depending on the nature of your work you have the incredible flexibility to either work from home or from office. But the job is not easy in nature and one must inculcate certain skills in order to be a published writer. As a content writer you will have to come with innovative ideas and the work could be anything from writing content for websites, blogs, technical or research papers. Before you take a pen, paper or even a laptop, you must know that writing great content is just not about writing what comes on your mind but generating content based on knowledge. Now that I have captured your attention let us take a look at what it takes to don the hat of a content writer.
 
 **Here are seven skills sets one must emulate in order to become an unmatched writer.**
@@ -88,5 +86,3 @@ An analytical mind and good grasp over language is a must to be a successful wri
    4\. Don't make me think by Steve Krug.
 
    Therefore, create an online writing portfolio. As a starter, it is always better to start applying for paid content writing gigs after you have a few content pieces and experience under your belt. This way, you will be able to showcase yourself better and convey to potential clients or recruiters that you can actually do the job, and do it well.
-
-       
