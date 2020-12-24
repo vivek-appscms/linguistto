@@ -1,7 +1,7 @@
 ---
 tags: []
 categories: []
-title: X free content tools which every content writers should use
+title: Free content tools which every content writers should use
 layout: post
 hero: ''
 image: ''
