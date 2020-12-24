@@ -1,7 +1,7 @@
 ---
 tags: []
 categories: []
-title: X paid content tools which professional content writers should use
+title: Top paid content tools which professional content writers should use
 layout: post
 hero: ''
 image: ''
