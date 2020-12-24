@@ -1,7 +1,7 @@
 ---
 tags: []
 categories: []
-title: X paid paraphrasing tools which you can consider
+title: 12 paid paraphrasing tools which you can consider
 layout: post
 hero: ''
 image: ''
