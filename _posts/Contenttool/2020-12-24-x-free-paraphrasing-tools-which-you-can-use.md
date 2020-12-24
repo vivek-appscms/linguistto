@@ -1,7 +1,7 @@
 ---
 tags: []
 categories: []
-title: X free Paraphrasing Tools which you can use
+title: Best free Paraphrasing Tools which you can use
 layout: post
 hero: ''
 image: ''
