@@ -6,6 +6,7 @@ layout: post
 hero: ''
 image: ''
 comments: false
+permalink : best-free-paraphrasing-tools-which-you-can-use
 
 ---
 **What is a paraphrasing tool?**
