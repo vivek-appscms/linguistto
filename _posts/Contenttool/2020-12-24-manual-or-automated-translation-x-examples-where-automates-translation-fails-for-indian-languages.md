@@ -1,12 +1,13 @@
 ---
 tags: []
 categories: []
-title: Manual or automated translation ? X examples where automates translation fails
+title: Manual or automated translation ? Top examples where automates translation fails
   for Indian languages
 layout: post
 hero: ''
 image: ''
 comments: false
+permalink : manual-or-automated-translation-top-examples-where-automates-translation-fails-for-indian-languages
 
 ---
 ![](/uploads/lastt.PNG)![](/uploads/gg.PNG)

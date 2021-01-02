@@ -7,7 +7,7 @@ phone: "8750348350"
 tagline: Contenttool - Smartest tools for content professionals
 description: Contenttools.io provides smartest tools for day to day usage by content professionals. 
 baseurl: ''
-permalink: /blog/:categories/:year_:month_:day_:title
+permalink: /blog/:categories/:title
 url: https://Contenttool.io
 twitter_username: Contenttool
 github_username: Contenttool
