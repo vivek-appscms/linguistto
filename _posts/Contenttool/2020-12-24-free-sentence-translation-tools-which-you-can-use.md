@@ -5,9 +5,11 @@ title: Free sentence translation tools which you can use
 layout: post
 hero: ''
 image: ''
+author: monica_powell
+image: img/blog/blog-details-bg.png
 comments: false
-
 ---
+
 When you want to translate a word or a sentence into other foriegn languages , you probably think of using a dictionary or ask a friend who is well adept at the language. Sentences translation is a humongous task and most people face issues dealing with it. Sentence translators are effective and easy to use tools and have been developed after extensive research.While some of these sentence translators speak the words and sentences aloud, and others simply pop up with the translated text. While these online smart tools cannot replace the proficiency of human translators, these are still handy for those looking at quick solutions. In this post, we will share with you some of the effective translation tools.
 
 When you want to translate a word or a sentence into other foreign languages , you probably think of using a dictionary or ask a friend who is well adept at the language. Sentences translation is a humongous task and most people face issues dealing with it. Sentence translators are effective and easy to use tools and have been developed after extensive research. While some of these sentence translators speak the words and sentences aloud, and others simply pop up with the translated text. While these online smart tools cannot replace the proficiency of human translators, these are still handy for those looking at quick solutions. In this post, we will share with you some of the effective translation tools.
