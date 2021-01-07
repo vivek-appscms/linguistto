@@ -26,4 +26,5 @@ features:
     link: '/word-count-tool'
   - text: 'Character count tool'
     link: '/character-count-tool'
-
+ - text: 'Sentence translation'
+    link: '/sentence-translation'
