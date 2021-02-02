@@ -1,3 +1,8 @@
 ---
+<<<<<<< HEAD
 title: Mediumish
 description: Jekyll template, Medium styled, free for bloggers.
+=======
+h1: Latest Posts from our Blog
+description: 'We are thought leaders in Content writing industry. Check out what our editors have written recently ! '
+>>>>>>> 95491a5d1b0eb10f7029ec6775c65600127961b4
