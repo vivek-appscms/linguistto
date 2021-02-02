@@ -3,12 +3,64 @@ layout: blog
 hero: blog_details
 ---
 
-{% include hero/blog_details.html %}
-    <!-- Start main body contents -->
-    <section class="blog-post section-gap">
-        <div class="details-body">
-            <div class="container">
-                <h2 class="head">{{ page.title | escape }}</h2>
+<!-- Start main body contents -->
+<section class="blog-post" style="font-family: 'Open Sans',sans-serif;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mt-5">
+                <h1 style="font-weight: 900;">
+                    {{ site.data.blog.title }}
+                </h1>
+                <p class="lead" style="font-size: 18px; color:#000">
+                    {{ site.data.blog.description }}
+                </p>
+            </div>
+        </div>
+
+
+        <div class="row mt-3">
+            <div class="col-md-2">
+                <div class="socialIons">
+                    <ul class="list-unstyled item-lists2">
+                        <li><a>Share</a></li>
+                        <li>
+                            <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
+                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                                title="Share on Twitter">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                                title="Share on Facebook">
+                                <i class="fab fa-facebook-square"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
+                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                                title="Share on LinkedIn">
+                                <i class="fab fa-linkedin"></i>
+                            </a>
+                        </li>
+                        <div class="sep"></div>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="col-md-8">
+
+                {% assign author = site.data.authors[page.author] %}
+
+                {% if author %}
+                {% include author_bio.html %}
+                {% endif %}
+
+                <h2 class="head" style="font-weight: 900; margin-bottom:1.5rem;color: #212529;">
+                    {{ page.title | escape }}</h2>
+
 
                 {{ content }}
 
@@ -18,7 +70,7 @@ hero: blog_details
 
                 <div class="post-links">
                     <div class="d-flex align-items-center justify-content-between">
-                       {% if page.previous.url %} 
+                        {% if page.previous.url %}
                         <div class="prev-post d-flex relative align-items-center">
                             <div>
                                 <a class="post-link" href="{{page.previous.url}}">
@@ -45,16 +97,14 @@ hero: blog_details
                     </div>
                 </div>
 
-
                 <div class="comment-section">
                     <h4 class="comment-head">
-                      {%- if site.disqus.shortname -%}
-					    {%- include disqus_comments.html -%}
-					  {%- endif -%}
+                        {%- if site.disqus.shortname -%}
+                        {%- include disqus_comments.html -%}
+                        {%- endif -%}
                 </div>
-
-       
             </div>
         </div>
-    </section>
-    <!-- End main body contents -->
+    </div>
+</section>
+<!-- End main body contents -->

@@ -4,7 +4,8 @@ categories: []
 title: Free sentence translation tools which you can use
 layout: post
 hero: ''
-image: ''
+image: "/uploads/output-8.png"
+author: monica_powell
 comments: false
 
 ---
