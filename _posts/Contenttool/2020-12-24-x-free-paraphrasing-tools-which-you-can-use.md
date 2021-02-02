@@ -4,12 +4,11 @@ categories: []
 title: Best free Paraphrasing Tools which you can use
 layout: post
 hero: ''
-image: ''
+image: "/uploads/r-2.png"
 author: john
-image: img/blog/blog-details-bg.png
 comments: false
----
 
+---
 **What is a paraphrasing tool?**
 
 Paraphrasing tools are tools that assist you with rephrasing , spinning or rewriting articles. These tools are mostly used by people who want to rewrite either a sentence or the whole article and give it a uniqueness.
