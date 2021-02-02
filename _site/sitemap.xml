@@ -176,10 +176,10 @@
 <loc>http://localhost:4000/hindi-to-english-sentence-translation</loc>
 </url>
 <url>
-<loc>http://localhost:4000/hindi-paraphrase</loc>
+<loc>http://localhost:4000/english-to-hindi-typing</loc>
 </url>
 <url>
-<loc>http://localhost:4000/english-to-hindi-typing</loc>
+<loc>http://localhost:4000/hindi-paraphrase</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -264,6 +264,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/admin/</loc>
-<lastmod>2020-11-23T13:19:03+05:30</lastmod>
+<lastmod>2021-02-02T23:25:11+05:30</lastmod>
 </url>
 </urlset>
