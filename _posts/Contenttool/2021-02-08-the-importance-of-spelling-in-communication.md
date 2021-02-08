@@ -4,7 +4,7 @@ categories: []
 title: The importance of spelling in communication
 layout: post
 hero: ''
-image: ''
+image: "/uploads/li.png"
 comments: false
 
 ---
