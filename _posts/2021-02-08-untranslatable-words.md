@@ -5,7 +5,7 @@ title: Untranslatable Words
 layout: post
 hero: ''
 image: "/uploads/a.png"
-comments: false
+comments: true
 
 ---
 ## **Untranslatable Words**
