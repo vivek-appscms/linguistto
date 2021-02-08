@@ -5,7 +5,7 @@ title: Language and its importance
 layout: post
 hero: ''
 image: "/uploads/h.png"
-comments: false
+comments: true
 
 ---
 ### **Language and its importance**
