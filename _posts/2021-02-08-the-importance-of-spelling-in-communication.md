@@ -5,7 +5,7 @@ title: The importance of spelling in communication
 layout: post
 hero: ''
 image: "/uploads/output.png"
-comments: false
+comments: true
 
 ---
 ## **The importance of spelling in communication**
