@@ -4,11 +4,11 @@ categories: []
 title: Plagiarism vs paraphrasing ?
 layout: post
 hero: ''
-image: "/uploads/ki.png"
-author: sal
+image: '/uploads/ki.png'
+author: ankita
 comments: false
-
 ---
+
 **Plagiarism** is the act of using someone else’s work or ideas without crediting the original owner of the content and reproducing them as your own.
 
 **Paraphrasing** a text means re writing a sentence or words without changing the original meaning of the same. The rewritten content consists of no duplicacy and hence is not plagiarized.

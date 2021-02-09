@@ -5,7 +5,7 @@
 <lastmod>2020-12-24T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/free-sentence-translation-tools-which-you-can-use</loc>
+<loc>http://localhost:4000/blog/cool/free-sentence-translation-tools-which-you-can-use</loc>
 <lastmod>2020-12-24T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -59,10 +59,16 @@
 <loc>http://localhost:4000/bengali-to-english-sentence-translation</loc>
 </url>
 <url>
+<loc>http://localhost:4000/blog/categories</loc>
+</url>
+<url>
 <loc>http://localhost:4000/character-count-tool</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact</loc>
+</url>
+<url>
+<loc>http://localhost:4000/disclaimer</loc>
 </url>
 <url>
 <loc>http://localhost:4000/english-to-amharic-sentence-translation</loc>
@@ -251,7 +257,7 @@
 <loc>http://localhost:4000/telugu-to-english-sentence-translation</loc>
 </url>
 <url>
-<loc>http://localhost:4000/terms-conditions</loc>
+<loc>http://localhost:4000/terms-and-conditions</loc>
 </url>
 <url>
 <loc>http://localhost:4000/urdu-to-english-sentence-translation</loc>

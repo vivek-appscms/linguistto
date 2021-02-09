@@ -3,11 +3,11 @@
     "navbarBrandLogo": "/assets/images/logo.png",
     "navItems":[
       {
-        "name":"Home",
+        "name":"",
         "url":""
        },
        {
-        "name":"Features",
+        "name":"",
         "url":"features"
        },
         {
