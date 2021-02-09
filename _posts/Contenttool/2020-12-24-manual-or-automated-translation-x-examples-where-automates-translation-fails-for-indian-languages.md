@@ -1,15 +1,16 @@
 ---
 tags: []
 categories: []
-title: Manual or automated translation ? Top examples where automates translation
+title:
+  Manual or automated translation ? Top examples where automates translation
   fails for Indian languages
 layout: post
 hero: ''
-image: "/uploads/output-7.png"
-author: ram
+image: '/uploads/output-7.png'
+author: ankita
 comments: false
-
 ---
+
 ![](/uploads/lastt.PNG)![](/uploads/gg.PNG)
 
 Technology and internet services were created in order to surpass the communication barriers across the globe . Even then we have not been able to fully break the barriers of languages. Scientists and developers all over spend countless hours as well as resources in order to improve the robotic achievements of language translation activity. For example, in order to provide their users with new experiences, [Twitter](https://help.twitter.com/es/using-twitter/translate-tweets) and [Facebook](https://www.facebook.com/help/509936952489634?helpref=search&sr=4&query=traducci%C3%B3n) recently added translations that allow messages to be transformed into more than 40 languages when sent or received from their web pages or mobile applications. Google has also announced the development of ‘AutoML Translation’ as a way of improving the interpretative abilities of its translator in 27 dialects. The latest step forward for artificial intelligence is [Neuro-Linguistic Programming](https://insidebigdata.com/2018/09/14/neural-attention-please-attention-models-can-work/), a technology that stimulates the human brain and tries to capture the meaning of phrases and words in their context in order to adapt them into a new language (Source: Cultureconnection.com).

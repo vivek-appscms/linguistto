@@ -5,7 +5,7 @@ title: Ways to become a good content writer
 layout: post
 hero: ''
 image: ''
-author: nisha
+author: ankita
 image: img/blog/blog-details-bg.png
 comments: false
 ---
