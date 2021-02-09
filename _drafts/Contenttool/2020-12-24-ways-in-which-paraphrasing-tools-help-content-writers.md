@@ -4,11 +4,11 @@ categories: []
 title: Ways in which paraphrasing tools help content writers?
 layout: post
 hero: ''
-image: '/uploads/si.png'
+image: "/uploads/sita.png"
 author: ankita
 comments: false
----
 
+---
 Technology these days is growing at a rapid pace and offering us creative innovations that make our lives more comforting. Everything that is introduced, has both a positive as well as negative effect and thoroughly depends on the intention of using it. If you find a way to use technology in a positive way , it will generate excellent results and if used in negative way, it will hamper your excellence. Today we will discuss about the paraphrasing tools and how it has helped content writers when used in an effective and wise manner.
 
 The paraphrasing tool has a growing popularity owing to its ease of usage and generation of valuable and unique content for bloggers and digital content writers. A plagiarized content hampers the hard work by bloggers and creative content writers and these get penalized .
