@@ -1,6 +1,6 @@
 ---
 tags: []
-categories: cool
+categories: []
 title: Free sentence translation tools which you can use
 layout: post
 hero: ''
