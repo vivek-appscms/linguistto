@@ -174,15 +174,11 @@ Critically endangered - the youngest speakers are grandparents and older, and th
 
 Extinct - there are no speakers left
 
-![](/uploads/language-3.PNG)
-
-![](/uploads/language-4.PNG)
-
-![](/uploads/language-5.PNG)
+![](/uploads/world_04.jpg)
 
 **Language ranking difficulty for English Speakers**
 
-![](/uploads/language-difficulty-6.jpg)
+![](/uploads/language-difficulty_5.jpg)
 
 Learning another dialect as a grown-up is huge endeavor – so on the off chance that you need the best an incentive for your time, pick carefully.
 
