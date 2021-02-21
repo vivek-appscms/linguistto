@@ -1,15 +1,16 @@
 ---
 tags: []
 categories: []
-title: Manual or automated translation ? Top examples where automates translation fails
-  for Indian languages
+title:
+  Manual or automated translation ? Top examples where automates translation
+  fails for Indian languages
 layout: post
 hero: ''
-image: ''
+image: '/uploads/output-7.png'
+author: ankita
 comments: false
-permalink : manual-or-automated-translation-top-examples-where-automates-translation-fails-for-indian-languages
-
 ---
+
 ![](/uploads/lastt.PNG)![](/uploads/gg.PNG)
 
 Technology and internet services were created in order to surpass the communication barriers across the globe . Even then we have not been able to fully break the barriers of languages. Scientists and developers all over spend countless hours as well as resources in order to improve the robotic achievements of language translation activity. For example, in order to provide their users with new experiences, [Twitter](https://help.twitter.com/es/using-twitter/translate-tweets) and [Facebook](https://www.facebook.com/help/509936952489634?helpref=search&sr=4&query=traducci%C3%B3n) recently added translations that allow messages to be transformed into more than 40 languages when sent or received from their web pages or mobile applications. Google has also announced the development of ‘AutoML Translation’ as a way of improving the interpretative abilities of its translator in 27 dialects. The latest step forward for artificial intelligence is [Neuro-Linguistic Programming](https://insidebigdata.com/2018/09/14/neural-attention-please-attention-models-can-work/), a technology that stimulates the human brain and tries to capture the meaning of phrases and words in their context in order to adapt them into a new language (Source: Cultureconnection.com).
@@ -18,8 +19,6 @@ We are still in the process of generating 100% artificial intelligence accuracy 
 
 **Automated vs Manual translation**
 
-  
-  
 ![](/uploads/auto.PNG)
 
 Our country India is home to 122 languages out of which 22 are designated as official languages. The complexity of human languages make effective language translation a humongous task for tool developers. Although this seems quite a task still its importance is many as there has been increased demand in providing digitized translated content. Few parts of the globe has the need to generate translation tools in so many different languages, as is required in the Indian subcontinent. The top six languages spoken in India are Hindi, Bengali, Telegu, Tamil, Marathi and Urdu.
@@ -54,6 +53,6 @@ Source Journal of Intelligent Systems | [Volume 28: Issue 3](https://www.degruyt
 
 If you want to read more about the challenges faced by developers in translation of English to Indian languages, you can refer to this [journal.](http://troindia.in/journal/ijcesr/vol3iss8/62-67.pdf)
 
-Scientists are constantly trying to improvise and recently we have seen since we have so many different languages clearly the researchers had to find a generalized approach that could be easily adapted from one language to another. It was in news recently that a multipart machine translation architecture, Sampark, is nearing its completion as the combined effort of 11 institutions led by the Language Technologies Research Center at the International Institute of Information Technology in Hyderabad (IIIT-H). Sampark combines both traditional rules- and dictionary-based algorithms with statistical machine learning, and will be rolled out to the public at [http://sampark.iiit.ac.in/](http://sampark.iiit.ac.in/ "http://sampark.iiit.ac.in/").
+Scientists are constantly trying to improvise and recently we have seen since we have so many different languages clearly the researchers had to find a generalized approach that could be easily adapted from one language to another. It was in news recently that a multipart machine translation architecture, Sampark, is nearing its completion as the combined effort of 11 institutions led by the Language Technologies Research Center at the International Institute of Information Technology in Hyderabad (IIIT-H). Sampark combines both traditional rules- and dictionary-based algorithms with statistical machine learning, and will be rolled out to the public at [http://sampark.iiit.ac.in/](http://sampark.iiit.ac.in/ 'http://sampark.iiit.ac.in/').
 
 Despite the improvement in machine learning, these examples show that machine learning cannot replace professional human interpreters when you plan global strategies.

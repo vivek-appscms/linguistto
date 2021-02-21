@@ -4,10 +4,11 @@ categories: []
 title: Plagiarism vs paraphrasing ?
 layout: post
 hero: ''
-image: ''
+image: '/uploads/ki.png'
+author: ankita
 comments: false
-
 ---
+
 **Plagiarism** is the act of using someone else’s work or ideas without crediting the original owner of the content and reproducing them as your own.
 
 **Paraphrasing** a text means re writing a sentence or words without changing the original meaning of the same. The rewritten content consists of no duplicacy and hence is not plagiarized.
@@ -65,32 +66,32 @@ Every time you use information that is not common knowledge , cite them appropri
 
 Common knowledge need not be cited. So what exactly is common knowledge?
 
-* The reader would already be aware of it.
-* It’s a widely accepted fact; for example, there are 60 seconds in a minute.
-* It’s accessible via common information sources.
-* It originates from folklore or a well-known story e.g. Ramayana, _Jataka_ tales.
-* It’s commonly acknowledged in your field and known by your audience
+- The reader would already be aware of it.
+- It’s a widely accepted fact; for example, there are 60 seconds in a minute.
+- It’s accessible via common information sources.
+- It originates from folklore or a well-known story e.g. Ramayana, _Jataka_ tales.
+- It’s commonly acknowledged in your field and known by your audience
 
 In order to avoid charges of plagiarism you must not only document your sources correctly using an appropriate style guide (eg Harvard or Vancouver) , but you must also handle direct quotations and citations correctly. In order to ensure that your content is free from plagiarized content, use free plagiarism checker tools available for free online. It takes time to develop the skills required to paraphrase content . Thinking of developing writing as a profession? Remember to paraphrase well and use plagiarism tools when necessary. We have created a handy tool list for you.
 
 **Checkers of Plagiarism**
 
-* [**Turnitin**](https://www.turnitin.com/)
-* [**Copyscape**](https://www.copyscape.com/)
-* [**Grammarly's Plagiarism Checker**](https://www.grammarly.com/plagiarism-checker)
-* [**Plagiarism Detector**](https://plagiarismdetector.net/)
-* [**DupliChecker**](https://www.duplichecker.com/)
+- [**Turnitin**](https://www.turnitin.com/)
+- [**Copyscape**](https://www.copyscape.com/)
+- [**Grammarly's Plagiarism Checker**](https://www.grammarly.com/plagiarism-checker)
+- [**Plagiarism Detector**](https://plagiarismdetector.net/)
+- [**DupliChecker**](https://www.duplichecker.com/)
 
 **Citation**
 
-* [**Zotero**](https://www.zotero.org/)
-* [**RefWorks**](https://www.refworks.com/)
-* [**Mendeley**](https://www.mendeley.com/?interaction_required=true)
-* [**EndNote**](https://endnote.com/)
+- [**Zotero**](https://www.zotero.org/)
+- [**RefWorks**](https://www.refworks.com/)
+- [**Mendeley**](https://www.mendeley.com/?interaction_required=true)
+- [**EndNote**](https://endnote.com/)
 
 **Tools for writing**
 
-* [**Grammarly**](https://www.grammarly.com/)
-* [**Hemingway**](http://www.hemingwayapp.com/)
-* [**Readable**](https://readable.com/)
-* [**Ginger**](https://www.gingersoftware.com/pt)
+- [**Grammarly**](https://www.grammarly.com/)
+- [**Hemingway**](http://www.hemingwayapp.com/)
+- [**Readable**](https://readable.com/)
+- [**Ginger**](https://www.gingersoftware.com/pt)

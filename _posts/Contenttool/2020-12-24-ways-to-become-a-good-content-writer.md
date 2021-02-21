@@ -4,7 +4,8 @@ categories: []
 title: Ways to become a good content writer
 layout: post
 hero: ''
-image: ''
+image: "/uploads/p.png"
+author: ankita
 comments: false
 
 ---
@@ -42,14 +43,14 @@ First drafts are rarely perfect. Therefore in order to have a polished content o
 
 **Now let’s understand the nitty gritty of how to become a good content writer.**
 
-* More or less everybody loves to write but very few of them take up professional writing and earn bread and butter from it. Many people are held back from utilizing their potential in creative writing as they suffer in self doubt. Therefore, we have enlisted some quick guiding tips that will enable you to work with improved proficiency.
-* The scope of content writing is immense. With content writing there is no right or wrong. There are so many different types of content formats that you can specialise in ⁠— blog writing, SEO content writing, website content writing, copywriting, podcast scriptwriting, video scriptwriting, academic writing and many more. Each one comes with its own challenges and nuances. So, in the initial days, it is always better to narrow down your focus and navigate your areas of strength
-* Huffington Post alone publishes nearly 2000 blog posts per day. So, irrespective of whether you are writing for a client or yourself, you need to make your content stand out. Here are a few tips to help you with this:
-* Use a content curation tool and try to understand the latest trends that are being written on.
-* Learn to do content gap analysis by using various SEO tools.
-* You could also use free headline generators to get ideas.
-* A content writer must do improved research in order to generate well written and summarized content. You could use tools like Evernote and EasyBib to write a drafted version of your content.
-* To be a successful content writer, you must understand the art of editing meticulously. A poorly drafted content with many errors will reduce your chances of retaining a client. Hence it is important you edit , proofread your content before publishing them.
+- More or less everybody loves to write but very few of them take up professional writing and earn bread and butter from it. Many people are held back from utilizing their potential in creative writing as they suffer in self doubt. Therefore, we have enlisted some quick guiding tips that will enable you to work with improved proficiency.
+- The scope of content writing is immense. With content writing there is no right or wrong. There are so many different types of content formats that you can specialise in ⁠— blog writing, SEO content writing, website content writing, copywriting, podcast scriptwriting, video scriptwriting, academic writing and many more. Each one comes with its own challenges and nuances. So, in the initial days, it is always better to narrow down your focus and navigate your areas of strength
+- Huffington Post alone publishes nearly 2000 blog posts per day. So, irrespective of whether you are writing for a client or yourself, you need to make your content stand out. Here are a few tips to help you with this:
+- Use a content curation tool and try to understand the latest trends that are being written on.
+- Learn to do content gap analysis by using various SEO tools.
+- You could also use free headline generators to get ideas.
+- A content writer must do improved research in order to generate well written and summarized content. You could use tools like Evernote and EasyBib to write a drafted version of your content.
+- To be a successful content writer, you must understand the art of editing meticulously. A poorly drafted content with many errors will reduce your chances of retaining a client. Hence it is important you edit , proofread your content before publishing them.
 
 An analytical mind and good grasp over language is a must to be a successful writer. **Let us look at some of the career options for you.**
 
@@ -59,6 +60,7 @@ An analytical mind and good grasp over language is a must to be a successful wri
 4. If you are looking for a professional addition to your career, you could possibly explore various certification courses in writing. From Search Engine Optimization to Content Management System, these certifications teach everything. Such courses improve your writing skills and also competence in the market. There are a number of courses available in India and abroad which are both online and offline-TBS The Brand Salon, Mumbai, Digital Academy 360, Bangalore or Udemy Content Writing Course (Online)
 
    **Tips for aspiring content writers**
+
    1. Read a lot
    2. Improve your networking
    3. Maintain a social media presence
