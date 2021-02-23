@@ -1,100 +1,34 @@
 ---
 layout: linguist
 ---
-{% assign keyName = page.fileName %} 
-{% assign conversion = 'translate_data' %} 
+{% assign keyName = page.fileName %}
+{% assign conversion = 'translate_data' %}
 {% assign test = site.data[conversion] %}
 {% assign dataArr = test[keyName] %}
 {% assign data = dataArr%}
 
-<head>
-    <title>{{data[2].title}}</title>
-    <link rel="stylesheet" href="../linguist.css">
-    <link rel="stylesheet" href="../css/file-upload.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"crossorigin="anonymous">
-    <script src="https://accounts.google.com/gsi/client" async defer></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="{{data[3].meta}}">
-
-    <!-- Favicon-->
-    <link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
-
-    <!-- meta character set -->
-    <meta charset="UTF-8">
-
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,600,700" rel="stylesheet">
-    <!-- ===========================================
-		CSS
-	============================================= -->
-    <link rel="stylesheet" href="{{ 'css/linearicons.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ 'css/font-awesome.min.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ 'css/bootstrap.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ 'css/magnific-popup.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ 'css/nice-select.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ 'css/animate.min.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ 'css/owl.carousel.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
-    <script src="https://accounts.google.com/gsi/client" async defer></script>
-    <script>
-        window.onload = function () {
-          google.accounts.id.initialize({
-            client_id: 'YOUR_GOOGLE_CLIENT_ID',
-            callback: handleOnetapResponse
-          });
-          google.accounts.id.prompt();
-        }
-      </script>
-    <script> 
-    var strOutput=[];
-        async function getapi(url) { 
-            const response = await fetch(url); 
-            let data=  await response.json(); 
-            if(data){
-                data && data[0].map(async(item)=>{
-                    item[0].length> 0 && await strOutput.push(item[0]);
-                })
-            }
-            strOutput = strOutput.toString();
-            return strOutput;
-        }
-        async function getInputValue(){
-            var inputString = document.getElementById("input-string").value;
-            var outputStr = await translateFunction(inputString,`{{page.from}}`,`{{page.to}}`);
-            console.log(outputStr);
-            document.getElementById("output-string").value = outputStr.replace(/['",]+/g, '');
-        }
-        async function translateFunction(string,sl,tl){ 
-            const api_url =`https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${tl}&dt=t&q='${string}'`; 
-             return await getapi(api_url); 
-        }
-   
-    </script>
-</head>
-<body>
-    <header id="header">
-        <div class="container-fluid">
-            <div class="row align-items-center justify-content-between">
-                <div id="logo">
-                    <a href="{{ '/' | relative_url }}">
-                        <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
-                    </a>
-                </div>
-                 {% include nav-menu.html %}
+<header id="header">
+    <div class="container-fluid">
+        <div class="row align-items-center justify-content-between">
+            <div id="logo">
+                <a href="{{ '/' | relative_url }}">
+                    <img class="logo-1" src="{{ 'img/logo.png' | relative_url }}" alt="" title="" />
+                </a>
             </div>
+            {% include nav-menu.html %}
         </div>
-    </header>
-    <div class="container">
-        <div class="main">
-            <h1 class="col-md-12 text"> {{data[0].h1}}</h1>
-            <!-- <h2 class="col-md-10 text">
-                {{data[1].h2}}
-            </h2> -->
-            <div class="hr">
-                <hr class="hr-css"/>
-            </div>
-            <div class="col-md-12 typing-main-div">
-                <div class="row">
-                    <!-- <div class="typing-btn">
+    </div>
+</header>
+<div class="container">
+    <div class="main">
+        <h1 class="col-md-12 text"> {{data[0].h1}}</h1>
+        <h2 class="col-md-10 text"> Best Online Sentence Translation </h2>
+        <div class="hr">
+            <hr class="hr-css" />
+        </div>
+        <div class="col-md-12 typing-main-div">
+            <div class="row">
+                <!-- <div class="typing-btn">
                     <button>Paste article duplication</button>
                     </div>
                     <div class="typing-btn">
@@ -106,111 +40,275 @@ layout: linguist
                     <div class="typing-btn">
                      <button>Done(Unique article)</button>
                     </div> -->
-                </div>
-                {% assign lang = data[0].h1 | split: ' ' %}
-                <div class="row col-md-12 d-flex justify-content-center">
+            </div>
+            {% assign lang = data[0].h1 | split: ' ' %}
+            <div class="row col-md-12 d-flex justify-content-center">
                 <div class="col-md-6">
-                <div>Enter sentence in {{lang[0] | downcase}} to be translated</div> 
-                <textarea id="input-string" value="" rows="10" cols="30"></textarea>
+                    <div>Enter sentence in {{lang[0] | downcase}} to be translated</div>
+                    <textarea id="input-string" value="" rows="10" cols="30"></textarea>
                 </div>
                 <div class="col-md-6">
-                <div>Output sentence in  {{lang[2] | downcase}}  will be shown here</div> 
-                <textarea id="output-string" value="" rows="10" cols="30"></textarea>
+                    <div>Output sentence in {{lang[2] | downcase}} will be shown here</div>
+                    <textarea id="output-string" value="" rows="10" cols="30"></textarea>
                 </div>
             </div>
             <div class="typing-btn d-flex justify-content-center">
                 <button onclick="getInputValue();">
-                Translate
+                    Translate
                 </button>
             </div>
-            </div>    
         </div>
-
-        <!-- {% if data[4] != blank %}
-        <div class="row col col-md-12">
-            <div class="col-md-4">
-                <i><img class="icon" src="img/file-upload/icon-1.svg.svg" alt="{{data[4].features_desc_heading_1}}"></i>
-                <span>{{data[4].features_desc_heading_1}}</span>
-                <p>{{data[5].features_desc_detail_1}}</p>
-            </div>
-            <div class="col-md-4">
-                <i><img class="icon" src="img/file-upload/security.svg.svg" alt="{{data[6].features_desc_heading_2}}"></i>
-                <span>{{data[6].features_desc_heading_2}}</span>
-                <p>{{data[7].features_desc_detail_2}}</p>
-            </div>
-            <div class="col-md-4 ">
-                <i><img class="icon" src="img/file-upload/cross-paltform.svg.svg" alt="{{site.data.jar_decompiler.features_desc_heading_3}}"></i>
-                <span>{{data[8].features_desc_heading_3}}</span>
-                <p>{{data[9].features_desc_detail_3}}</p>
-            </div>
-            <div class="col-md-4">
-                <i><img class="icon" src="img/file-upload/ease-use.svg.svg" alt="{{data.features_desc_heading_4}}"></i>
-                <span>{{data[10].features_desc_heading_4}}</span>
-                <p>{{data[11].features_desc_detail_4}}</p>
-            </div>
-            <div class="col-md-4 ">
-                <i><img class="icon" src="img/file-upload/multilingual.svg.svg"alt="{{data.features_desc_heading_5}}"></i>
-                <span>{{data[12].features_desc_heading_5}}</span>
-                <p>{{data[13].features_desc_detail_5}}</p>
-            </div>
-            <div class="col-md-4">
-                <i><img class="icon" src="img/file-upload/coudbased.svg.svg" alt="{{data.features_desc_heading_6}}"></i>
-                    <span>{{data[14].features_desc_heading_6}}</span>
-                    <p>{{data[15].features_desc_detail_6}}</p>
-            </div>
-        </div>
-        {% endif %} -->
-        <!-- <div class="faq col-md-12">
-            <div class="faq-container">
-                <h2 class="faq-h2">Frequently Asked Questions</h2>
-                <ul class="faq-list col-md-9">
-                    {{data[21]}}
-                    {% for faq in data[18].faqs %}
-                   
-                    <li>
-                        <h3 class="faq-h3" itemprop="name">{{faq.question}}<em style="transform: rotate(-135deg);">
-                            <i></i></em>
-                        </h3>
-                        <div style="display: block;">
-                            <p itemprop="text">{{faq.answer}}</p>
-                        </div>
-                    </li>
-                    <hr>
-                    {% endfor %}
-                </ul>
-            </div>
-
-        </div> -->
-
-
-
-        <div class="col-md-12">
-            <div>
-                <h2 class="sup-h2">Popular Sentence Translations</h2>
-                <ul class="sup-ul row col-md-12">
-                    {% for post in site.pages %}
-                    {% assign path = post.url | replace: "/","" %} 
-                    {% if post.url contains 'translation'%}
-                    <li class="col-md-3 conver-list">
-                        <a href="/{{path}}">
-                          {{ path | replace: "-"," " |capitalize}}
-                        </a>
-                    </li> 
-                    {% endif %}
-                    {% endfor %}
-                </ul>
-            </div>
-
-        </div>
-        <div>
-
-        </div>
-
     </div>
+
+    {% if data[4] != blank %}
+    <div class="row text-center col col-md-12">
+        <div class="col-md-4">
+            <i class="far fa-star"></i>
+            <span>Instant {{data[0].h1}}</span>
+            <p> this tool present you a complete database for Instantly understand {{lang[0] | downcase}} to
+                {{lang[2] | downcase}} sentance translation.
+                For quick and accurate result just type the sentance in sentance converter and get result at your
+                fingertips with correct grammatical structure.</p>
+        </div>
+        <div class="col-md-4">
+            <i class="far fa-star"></i>
+            <span>{{data[0].h1}} online</span>
+            <p>
+                Get your content translated online {{lang[0] | downcase}} to {{lang[2] | downcase}}.
+                Understand the foreign language text immediately with no time and effort.</p>
+        </div>
+        <div class="col-md-4 ">
+            <i class="far fa-star"></i>
+            <span>Sentence translator {{lang[0] | downcase}} to {{lang[2] | downcase}} in few steps </span>
+            <p>It's more easier than you thought. Just copy your pharagraph and get transalation in {{lang[0] |
+                downcase}} to {{lang[2] | downcase}} in few seconds. </p>
+        </div>
+        <div class="col-md-4">
+            <i class="far fa-star"></i>
+            <span>free online {{data[0].h1}}</span>
+            <p>
+                Free online translator to save your time and money to transalate {{lang[0] |
+                downcase}} to {{lang[2] | downcase}}.
+                we have focused that the meaning and emotions should not be lost while translating the text in another
+                language.</p>
+        </div>
+        <div class="col-md-4 ">
+            <i class="far fa-star"></i>
+            <span>Get quick and desired results {{lang[0] |
+                downcase}} to {{lang[2] | downcase}}</span>
+            <p>
+                Online transalator for {{lang[0] |
+                downcase}} to {{lang[2] | downcase}} to professionalize your article like a
+                native one. Sentence Translation has specifically designed to make the message understood in any
+                language</p>
+        </div>
+        <div class="col-md-4">
+            <i class="far fa-star"></i>
+            <span>This Tool is proficient in {{lang[0] |
+                downcase}} to {{lang[2] | downcase}} Sentence translators.</span>
+            <p>
+                Taking cultural and linguistic elements into account for sentence translation of {{lang[0] |
+                downcase}} to {{lang[2] | downcase}}. It not only translates sentence it further refine content to suit
+                different
+                audiences. </p>
+        </div>
+        <div class="col-md-4">
+            <i class="far fa-star"></i>
+            <span>Sentence Translation in {{lang[0] |
+                downcase}} to {{lang[2] | downcase}} to make your content professional</span>
+            <p>Multilingual sentence translation tool to translate sentences to any language it could be
+                {{lang[0] | downcase}} to {{lang[2] | downcase}}.
+                Simply type the sentence in sentence converter and get result at
+                your fingertips with correct grammatical structure. </p>
+        </div>
+        <div class="col-md-4">
+            <i class="far fa-star"></i>
+            <span>
+                This advanced Tool convert articles, stories and poems in {{lang[0] |
+                downcase}} to {{lang[2] | downcase}} without
+                loosing meaning and emotion while translating the text in another language.</span>
+            <p>
+
+                Either it is article or stories we translate {{lang[0] |
+                downcase}} to {{lang[2] | downcase}}. This tool does’t
+                translate word by word. With intelligent, decision making software it decides which words to use and
+                which ones to disregard. we have focused that the meaning and emotions should not be lost while
+                translating the text in another language. </p>
+        </div>
+        <div class="col-md-4">
+            <i class="far fa-star"></i>
+            <span>
+                We translate quotes {{lang[0] |
+                downcase}} to {{lang[2] | downcase}},
+                and vice versa, while keeping the meaning unchanged. </span>
+            <p>
+                Sometimes quotes change at the time of change in {{lang[0] |
+                downcase}} to {{lang[2] | downcase}}. The object of
+                Sentence Translation is specifically to keep the true meaning unchanged. With advanced AI it not only
+                translates sentence it further refine content to suit different audiences. </p>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+<div class="faq col-md-12">
+    <div class="faq-container">
+        <h2 class="faq-h2">Frequently Asked Questions</h2>
+        <ul class="faq-list col-md-9">
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    How to translate a sentence into {{lang[0] |
+                    downcase}} to {{lang[2] | downcase}} ?
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">You can easily translate {{lang[0] | downcase}} to {{lang[2] | downcase}}.Type or
+                        paste the sentence into the text you want to translate first.Then click the 'Translate'
+                        button. To make the job even easier, you can also simply hit 'Enter'. Your
+                        translated sentence will appear in the text box on the right within seconds.</p>
+                </div>
+            </li>
+            <hr>
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    Can we download sentance translation tool for {{lang[0] |
+                    downcase}} to {{lang[2] | downcase}} ?
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">
+                        No, We cannot download because it is online sentence translator. Our free online Sentence
+                        translator offers quick and accurate translations from {{lang[0] |
+                        downcase}} to {{lang[2] | downcase}}
+                        right at your fingertips.</p>
+                </div>
+            </li>
+            <hr>
+
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    Will this tool give the same meaning while sentence translaton from {{ lang[0] |
+                    downcase}} to {{lang[2] | downcase}} ?
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">
+
+                        With intelligent, decision making software it determines which words to use and which ones to
+                        neglect. We also stressed that when translating the text {{ lang[0] |
+                        downcase}} to {{lang[2] | downcase}},
+                        the meaning and feelings should not be lost. We have worked hard to simplify the things and with
+                        advanced AI this process takes no time.</p>
+                </div>
+            </li>
+            <hr>
+
+
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    How accurate is the result when we translate {{ lang[0] |
+                    downcase}} to {{lang[2] | downcase}}?
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">
+                        Sentence translator gives quick and accurate results. Simply type the sentence in
+                        {{ lang[0] | downcase}} and get result at your fingertips with correct grammatical structure in
+                        {{lang[2] | downcase}}. It's more easier than you thought even a child can easily use it.</p>
+                </div>
+            </li>
+            <hr>
+
+
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    Is this {{ lang[0] | downcase}} to {{lang[2] | downcase}} sentence translation
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">
+
+                        This {{ lang[0] | downcase}} to {{lang[2] | downcase}} Sentence Translation is absolutely
+                        free.This Sentance translation tool can be used for both personal and commercial purpose. We do
+                        not have any limitations. Get quick and accurate result with correct grammatical structure in no
+                        time.</p>
+                </div>
+            </li>
+            <hr>
+
+
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    How many words I can use in for sentence translator from {{ lang[0] | downcase}} to {{lang[2] |
+                    downcase}}?
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">
+                        It depends upon you.You can put whole article or small paragraph to translate fro
+                        {{ lang[0] | downcase}} to {{lang[2] |
+                        downcase}}. This tool do not have any limitations. Within second it
+                        will convert and gives you accurate result.</p>
+                </div>
+            </li>
+            <hr>
+
+
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    Is it able to convert {{ lang[0] | downcase}} to {{lang[2] |
+                    downcase}} and vice-versa?
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">
+
+                        Yes, It can be able to {{ lang[0] | downcase}} to {{lang[2] |
+                        downcase}} and vice-versa and other then this
+                        tool can translate more than 50+ languages. You can translate to any other language it could be
+                        {{ lang[0] | downcase}} , {{ lang[2] | downcase}} or other in the catagory available.</p>
+                </div>
+            </li>
+            <hr>
+
+
+            <li>
+                <h3 class="faq-h3" itemprop="name">
+                    Who can use this tool?
+                </h3>
+                <div style="display: block;">
+                    <p itemprop="text">
+
+                        This tool is substitute for a human translator. Any student, teacher, website owner, traveller,
+                        content writer or any proffesional who want {{ lang[0] | downcase}} to {{lang[2] |
+                        downcase}} sentence
+                        translation can use it.</p>
+                </div>
+            </li>
+            <hr>
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-md-12">
     <div>
+        <h2 class="sup-h2">Popular Sentence Translations</h2>
+        <ul class="sup-ul row col-md-12">
+            {% for post in site.pages %}
+            {% assign path = post.url | replace: "/","" %}
+            {% if post.url contains 'translation'%}
+            <li class="col-md-3 conver-list">
+                <a href="/{{path}}">
+                    {{ path | replace: "-"," " |capitalize}}
+                </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
     </div>
-</body>
 
-
-
-
+</div>
