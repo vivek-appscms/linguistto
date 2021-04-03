@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/\.netlify/functions*"
-  to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/:splat"
+  from = "https://contenttool.io/.netlify/functions/getWords"
+  to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/getWords"
   force = true
   status = 200
 
