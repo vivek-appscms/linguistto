@@ -15,6 +15,10 @@ comments: false
 
 The concluding sentence shows that you are carrying a conclusion to a passage. Composing a closing sentence may not come as effectively as you may suspect. Numerous journalists neglect to understand that it finishes off the last contemplations about the theme on which they are composing. This is the reason it is significant for you to have the option to compose powerful closing sentences. For each section, the readers ought to have the option to distinguish what your central issues depend on the closing sentence. Keep in mind, it ought to exclude any data that was not examined in the section.
 
+The conclusion paragraph must include all the key elements which you have added to your essay. It should match your written content. You should not add any new information which is different from your written text. It must contain all the main ideas from all the paragraphs written.
+
+Summarising or concluding your essay helps readers to find suitability in reading your text or to understand your thoughts & ideas that you want to convey to the readers.
+
 When showing students how to compose concluding sentences, you may have to give a couple of models they will have the option to use as a guide for their own composition. Instances of concluding sentence starters include:
 
 In conclusion
@@ -37,7 +41,6 @@ For this reason
 
 In general
 
-  
 **Characteristics of Effective Concluding Sentences**
 
 It is significant for your students to realize how to compose successful concluding sentences to commute home the last point. A few attributes include:
@@ -52,15 +55,15 @@ Try not to present groundbreaking thoughts or themes
 
 As the essayist, you should remember that concluding sentences may appear to be unique for different kinds of composing. Instances of these kinds of composing incorporate accounts, portrayals, investigate, and contention.
 
-The concluding sentence of a story passage ought to stress the ethical exercise to the crowd. With enlightening passages, the concluding sentence assists with tieing everything together by underscoring subtleties from the subject sentence, utilizing diverse phrasing and summarizing supporting realities. When composing a concluding sentence for the thoroughly analyze section, you will need to rehash the two themes by bringing up the different similitudes and contrasts that were talked about. The concluding sentence in the argument paragraph will summarize the argument being made.
+The concluding sentence of a story passage ought to stress the ethical exercise to the crowd. With enlightening passages, the concluding sentence assists with tieing everything together by underscoring subtleties from the subject sentence, utilizing diverse phrasing, and summarizing supporting realities. When composing a concluding sentence for the thoroughly analyze section, you will need to rehash the two themes by bringing up the different similitudes and contrasts that were talked about. The concluding sentence in the argument paragraph will summarize the argument being made.
 
-**How to write concluding sentence**
+**How to write a concluding sentence**
 
 In a conclusion paragraph, you sum up what you've expounded on in your paper. At the point when you're composing a decent end section, you need to consider the central matter that you need to get across and be certain it's incorporated. In the event that you've just composed a marvelous basic section, you can compose something comparative with various phrasing. Here are a few focuses to recall:
 
 Utilize your introductory paragraph as a guide. You may have begun by saying, "There are three classes at school that I totally can hardly wait to go to consistently." You can begin your decision by saying, "Exercise center, Math, and Art are the three classes I attempt to never miss."
 
-In the event that it's a more drawn out paper, a decent spot to begin is by seeing what each passage was about. For instance, in the event that you compose a paper about zoo creatures, each section would presumably be around one specific creature. In your decision, you ought to momentarily specify every creature once more. "Zoo creatures like polar bears, lions, and giraffes are stunning animals."
+In the event that it's a more drawn-out paper, a decent spot to begin is by seeing what each passage was about. For instance, in the event that you compose a paper about zoo creatures, each section would presumably be around one specific creature. In your decision, you ought to momentarily specify every creature once more. "Zoo creatures like polar bears, lions, and giraffes are stunning animals."
 
 Leave your readers with something to consider. Recommend that they learn more with a sentence like, "We have a long way to go about an unnatural weather change." You can also give them something to do after reading your paper. For example, “It’s easy to make your own popsicles. Grab some orange juice and give it a try!”
 
@@ -90,42 +93,32 @@ Essay Structure
 
 So, if we use shapes to demonstrate the essay’s content, it would look like this:
 
-  
 ![](/uploads/6.PNG)
 
 **What to include?**
 
-Your decision wraps up your paper in a clean bundle and brings it home for your readers
-
-Your point sentence ought, to sum up what you said in your postulation explanation
-
-This proposes to your readers that you have achieved what you set out to achieve
-
-Don't just repeat your theory articulation, as that would be excess
-
-Reword the theory articulation with the new and more profound agreement
-
-Your decision is no spot to raise novel thoughts
-
-Your supporting sentences ought, to sum up what you have just said in the body of your article
-
-In the event that a splendid thought attempts to sneak into the last section, you should cull it out and let it have its own passage in the body, or leave it out totally
-
-Your theme for each body section ought to be summed up in the end
-
-Wrap up the primary concerns
-
-Your end sentence should help the readers feel a feeling of conclusion
-
-Your end sentence is your final word regarding the matter; it is your "cherry on top"
-
-Show the significance of your thoughts
-
-Push your readers to another perspective regarding the matter
-
-Finish strong
-
-Your end sentence should make your readers happy they read your paper
+ 1. Your decision wraps up your paper in a clean bundle and brings it home for your readers
+ 2. Your point sentence ought, to sum up, what you said in your postulation explanation
+ 3. This proposes to your readers that you have achieved what you set out to achieve
+ 4. Don't just repeat your theory articulation, as that would be excess
+ 5. Reword the theory articulation with the new and more profound agreement
+ 6. Your decision is no spot to raise novel thoughts
+ 7. Your supporting sentences ought, to sum up, what you have just said in the body of your article
+ 8. In the event that a splendid thought attempts to sneak into the last section, you should cull it out and let it have its own passage in the body, or leave it out totally
+ 9. Your theme for each body section ought to be summed up in the end
+10. Wrap up the primary concerns
+11. Your end sentence should help the readers feel a feeling of conclusion
+12. Your end sentence is your final word regarding the matter; it is your "cherry on top"
+13. Show the significance of your thoughts
+14. Push your readers to another perspective regarding the matter
+15. Finish strong
+16. Your end sentence should make your readers happy they read your paper.
+17. To make your conclusion more interesting and readable, rephrase your content in a way that your readers will understand what you actually want to convey.
+18. Review, your main points that bring your idea together and show your content coherently whole.
+19. The aim should be to emphasize the significance of your content. Try to write strong, understand, and purposeful statements.
+20. Must be applied to different contexts, your content or conclusion must be applied to different contexts. So that raises questions for future study.
+21. You also need to show why your content matters. Write those phrases in your conclusion that convey the main idea behind writing the content.
+22. Focus on minor points in the essay as it is the easiest way to understand your idea.
 
 **Strategies for an effective conclusion**
 
@@ -185,13 +178,13 @@ Counting proof (citations, insights, and so forth) that ought to be in the body 
 
 Sentence #1: restate the thesis by making the same point with other words (paraphrase).
 
-\~ Example:“Dogs are better pets than cats.”
+\~ Example: “Dogs are better pets than cats.”
 
 Paraphrase: "Canines are preferred pets over felines."
 
 Sentence #2
 
-Example:“Dogs are cleaner, better at showing affection, and ultimately easier to train.”
+Example: “Dogs are cleaner, better at showing affection, and ultimately easier to train.”
 
 Paraphrase: "Canines are cleaner, better at demonstrating love, and eventually simpler to prepare."
 
@@ -209,9 +202,39 @@ Language can be powerful and sometimes even harmful, but censorship of language 
 
 Source: [Servicescape](https://www.servicescape.com/blog/in-summary-10-examples-of-essay-conclusions)
 
+**Let's take a few more examples of concluding the sentence for the essay.**
+
+**Example 1- Is competition really beneficial?**
+
+Competition is the word that brings motivation among the individual. It creates a sense of hard work or the value of something. When individuals compete they will become independent, hardworking, and inquisitive. Competition is of course beneficial even if you are losing it, you will definitely learn and acquire knowledge. If you are hardworking, the competition will bring up success at your door. It is quite interesting to know that no matter whether you are losing or winning. You will definitely learn something that may help you throughout your life.
+
+**Example 2- Recycling should be Compulsory.**
+
+The population is increasing day by day, recycling the material can be beneficial as it has several benefits like, it conserves fuels, water, & minerals. Protects ecosystems and wildlife saves energy and reduces demand for raw material. Recycling should be compulsory as it has multiple benefits and it is a great idea of generating lots of valuable products.
+
+**Example 4- The benefits of art for individuals and society.**
+
+Art and culture bring positivity to our surroundings. Art encourages creative thinking which helps to develop our society. There are multiple benefits of art that stimulate the possibility of creating something new. It provides self-esteem, a sense of accomplishment, promotes creativity, builds motor-skills, and develops problem-solving abilities.
+
+**Example 5- Protection of Endangered Species.**
+
+In the near future, all the species are likely to become extinct. Due to habitat loss, poaching, and for many reasons they are at risk. Protection of endangered species has really become crucial to balance an ecosystem.
+
+**Example 5- Contribution Of Technology In Education**
+
+Education plays a crucial role in gaining knowledge so technology does. With the usage of technology, anyone can learn anytime. It provides learning sessions, gadgets that can be used to interact, & e-books, etc. Sometimes it affects the negativity but during this pandemic, most of the work is done by using technology. It is the one that makes students study without going to school and allows employers to work from home. It not only makes your education easier but also maximizes the level of education.
+
+**Example 6- Time and Tide Wait For None**
+
+The world is moving so fast and hourly is going like seconds, the time never stops for anyone or you cannot regain it again. Whatever, you want to just do it now because no one knows what will be the situation tomorrow. Once the time is lost you can never be able to gain it. Your success also depends on how much you gave every moment. You cannot stop any moment, whatever you want to do, perform it now because time 7 tide waits for none.
+
+**Example 7- Selling Tobacco Should Be Banned**
+
+Unfortunately, there is a huge crowd who sell and use Tobacco. Cancer, the terrific disease that tobacco products bring is the reason for the death of many people around the world. High-Blood pressure, Premature-heart attacks, COPD (Chronic Obstructive Pulmonary Disease) are the disease that people suffer from by having tobacco. Selling tobacco must be banned as if it will not sell, how people will get it. Tobacco only Brings harm to your life so stop selling or using Tobacco and save your life.
+
 **Argumentative Essay Conclusion Example**
 
-“The epic TV series known as “Hercules: The Legendary Journeys,” is the best start in the process of learning Roman and Greek mythology. It has many differences from the original legend but is understandable for students. Students must keep in mind 3 major differences. Hercules was not accompanied by Atlanta or Daedalus, the authors did not mention Perseus who played a significant role in the destiny of Hercules, and there is also no love story between the hero and Psyche in the myth. The rest of the plot reflects the myth better than other related shows. The image of Hercules remains the same popular and recognized through centuries, and it never changes.”
+“The epic TV series is known as “Hercules: The Legendary Journeys,” is the best start in the process of learning Roman and Greek mythology. It has many differences from the original legend but is understandable for students. Students must keep in mind 3 major differences. Hercules was not accompanied by Atlanta or Daedalus, the authors did not mention Perseus who played a significant role in the destiny of Hercules, and there is also no love story between the hero and Psyche in the myth. The rest of the plot reflects the myth better than other related shows. The image of Hercules remains the same popular and recognized through centuries, and it never changes.”
 
 **Persuasive Essay Conclusion Examples**
 
@@ -225,22 +248,20 @@ Source: [Pro Essay Writer](https://pro-essay-writer.com/blog/essay-conclusion-ex
 
 **Conclusion**
 
-Point sentence
+* Point sentence
+* Crisp rewording of theory explanation
+* Supporting sentences
+* Sum up or wrap up the central matters in the body of the paper
+* Clarify how thoughts fit together
+* Shutting sentence
+* Last words
+* Associates back to the presentation
+* Gives a feeling of conclusion.
 
-Crisp rewording of theory explanation
+  A Conclusion provides a summary of your essay that helps readers to understand your point of view. It is not that you need to introduce new ideas, but also make the closure of your essay.
 
-Supporting sentences
+  You need to remember a few key aspects while writing the conclusion of your essay like your thoughts and idea about which you wrote, avoid rewriting your thesis.
 
-Sum up or wrap up the central matters in the body of the paper
+  You can write easily but how to summarize your statements that can impress readers is quite challenging. Above are some examples that show you how you should write a conclusion that not only tells about your content but also conveys the authors’ idea behind it.
 
-Clarify how thoughts fit together
-
-Shutting sentence
-
-Last words
-
-Associates back to the presentation
-
-Gives a feeling of conclusion
-
-## 
+  ## 
