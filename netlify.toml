@@ -1,4 +1,10 @@
 [[redirects]]
+  from = "/.netlify/functions/"
+  to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
   from = "/random-word-generator"
   to = "https://contenttool-newtools-main.netlify.app/random-word-generator"
   force = true
