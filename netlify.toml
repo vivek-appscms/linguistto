@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://contenttool.io/.netlify/functions/getWords"
+  from = "/newtoolsapi/getWords"
   to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/getWords"
   force = true
   status = 200
