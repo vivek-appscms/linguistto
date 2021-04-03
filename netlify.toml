@@ -1,0 +1,32 @@
+[[redirects]]
+  from = "/random-word-generator"
+  to = "https://contenttool-newtools-main.netlify.app/random-word-generator"
+  force = true
+  status = 200
+  
+  [[redirects]]
+  from = "/random-adjective-generator"
+  to = "https://contenttool-newtools-main.netlify.app/random-adjective-generator"
+  force = true
+  status = 200
+  
+  
+  [[redirects]]
+  from = "/random-sentence-generator"
+  to = "https://contenttool-newtools-main.netlify.app/random-sentence-generator"
+  force = true
+  status = 200
+  
+  
+  [[redirects]]
+  from = "/random-noun-generator"
+  to = "https://contenttool-newtools-main.netlify.app/random-noun-generator"
+  force = true
+  status = 200
+  
+  
+  [[redirects]]
+  from = "/random-paragraph-generator"
+  to = "https://contenttool-newtools-main.netlify.app/random-paragraph-generator"
+  force = true
+  status = 200
