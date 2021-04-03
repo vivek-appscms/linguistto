@@ -36,3 +36,9 @@
   to = "https://contenttool-newtools-main.netlify.app/random-paragraph-generator"
   force = true
   status = 200
+  
+[[redirects]]
+  from = "/random-letter-generator"
+  to = "https://contenttool-newtools-main.netlify.app/random-letter-generator"
+  force = true
+  status = 200
