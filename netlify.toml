@@ -42,3 +42,27 @@
   to = "https://contenttool-newtools-main.netlify.app/random-letter-generator"
   force = true
   status = 200
+  
+  [[redirects]]
+  from = "/meta-and-title-checker"
+  to = "https://contenttool-newtools-main.netlify.app/meta-and-title-checker"
+  force = true
+  status = 200
+  
+  [[redirects]]
+  from = "/random-letter-generator"
+  to = "https://contenttool-newtools-main.netlify.app/website-word-count"
+  force = true
+  status = 200
+  
+  [[redirects]]
+  from = "/random-letter-generator"
+  to = "https://contenttool-newtools-main.netlify.app/serp-simulator"
+  force = true
+  status = 200
+  
+  [[redirects]]
+  from = "/tools/sitemap.xml"
+  to = "https://contenttool-newtools-main.netlify.app/sitemap.xml"
+  force = true
+  status = 200
