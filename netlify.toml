@@ -61,6 +61,12 @@
   force = true
   status = 200
   
+[[redirects]]
+  from = "/text-difference-checker"
+  to = "https://contenttool-newtools-main.netlify.app/text-difference-checker"
+  force = true
+  status = 200
+  
   [[redirects]]
   from = "/tools/sitemap.xml"
   to = "https://contenttool-newtools-main.netlify.app/sitemap.xml"
