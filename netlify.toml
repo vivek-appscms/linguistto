@@ -50,13 +50,13 @@
   status = 200
   
   [[redirects]]
-  from = "/random-letter-generator"
+  from = "/website-word-count"
   to = "https://contenttool-newtools-main.netlify.app/website-word-count"
   force = true
   status = 200
   
   [[redirects]]
-  from = "/random-letter-generator"
+  from = "/serp-simulator"
   to = "https://contenttool-newtools-main.netlify.app/serp-simulator"
   force = true
   status = 200
