@@ -35,8 +35,8 @@
     <link rel="stylesheet" href="{{ 'css/animate.min.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'css/owl.carousel.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
-    <script src="https://accounts.google.com/gsi/client" async defer></script>
-    <script>
+    <!-- <script src="https://accounts.google.com/gsi/client" async defer></script> -->
+    <!-- <script>
         window.onload = function () {
             google.accounts.id.initialize({
                 client_id: 'YOUR_GOOGLE_CLIENT_ID',
@@ -44,32 +44,7 @@
             });
             google.accounts.id.prompt();
         }
-    </script>
-    <script>
-        var strOutput = [];
-        async function getapi(url) {
-            const response = await fetch(url);
-            let data = await response.json();
-            if (data) {
-                data && data[0].map(async (item) => {
-                    item[0].length > 0 && await strOutput.push(item[0]);
-                })
-            }
-            strOutput = strOutput.toString();
-            return strOutput;
-        }
-        async function getInputValue() {
-            var inputString = document.getElementById("input-string").value;
-            var outputStr = await translateFunction(inputString, `{{page.from}}`, `{{page.to}}`);
-            console.log(outputStr);
-            document.getElementById("output-string").value = outputStr.replace(/['",]+/g, '');
-        }
-        async function translateFunction(string, sl, tl) {
-            const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${tl}&dt=t&q='${string}'`;
-            return await getapi(api_url);
-        }
-
-    </script>
+    </script> -->
 </head>
 
 
@@ -84,6 +59,49 @@
 
 
     {% include scripts.html %}
+
+    <script>
+
+        var strOutput = [];
+        async function getapi(url) {
+            document.querySelector(".buttonClass").innerText = "Please wait.."
+            const response = await fetch(url);
+            let data = await response.json();
+
+            document.querySelector(".buttonClass").innerText = "Translate"
+
+
+            if (data) {
+                data && data[0].map((item) => {
+                    item[0].length > 0 && strOutput.push(item[0]);
+                })
+            }
+
+            strOutput = strOutput.toString();
+            return strOutput;
+
+        }
+        async function getInputValue() {
+            strOutput = []
+            var inputString = document.getElementById("input-string").value;
+            if (inputString) {
+                var outputStr = await translateFunction(inputString, `{{page.from}}`, `{{page.to}}`);
+                document.getElementById("output-string").value = outputStr.replace(/['",]+/g, '');
+            } else {
+                console.clear()
+            }
+        }
+        // reset input fiels
+        function resetInputValue() {
+            document.getElementById("input-string").value = ''
+            document.getElementById("output-string").value = ''
+        }
+        async function translateFunction(string, sl, tl) {
+            const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${tl}&dt=t&q='${string}'`;
+            return await getapi(api_url);
+        }
+
+    </script>
 </body>
 
 </html>

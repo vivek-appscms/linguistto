@@ -1,315 +1,320 @@
 * {
-    box-sizing: border-box;
-  }
-  body {
-    background-image: url('img/hero-bg.png');
-    color: #50668f !important;
-    font-family: Montserrat, sans-serif !important;
-    font-size: 16px !important;
-    font-weight: 400 !important;
-    line-height: 30px !important;
-  }
-  
-  .header {
-    min-height: 80px;
-  }
-  .heading {
-    text-align: center;
-    margin-top: 90px;
-  }
-  .heading-h1 {
-    font-size: 60px;
-    font-weight: 800;
-    line-height: 1.33;
-    color: #11304e;
-    margin: 70px 0 12px;
-  }
-  .heading-h2 {
-    font-size: 20px;
-    font-weight: 500;
-    opacity: 70%;
-    color: #11304e;
-  }
-  .textual-content {
-    margin-top: 90px;
-  }
-  .textual-content-box {
-    margin-top: 90px;
-    background-color: rgba(17, 48, 78, 0.18);
-    display: flex;
-    flex-direction: row;
-  }
-  .supported {
-    margin-top: 90px;
-  }
-  
-  .row {
-    /* flex: 1 1 0px; */
-    /* position: relative; */
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-    height: auto;
-    /* text-align: center; */
-    margin-bottom: 30px;
-  }
-  i {
-    display: block;
-    margin-bottom: 18px;
-  }
-  span {
-    display: block;
-    font-size: 20px;
-    font-weight: bold;
-    line-height: 1.21;
-    /* margin-bottom: 15px; */
-    color: rgb(17, 48, 78);
-  }
-  /* p {
+  box-sizing: border-box;
+}
+body {
+  background-image: url('img/hero-bg.png');
+  color: #50668f !important;
+  font-family: Montserrat, sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 30px !important;
+}
+
+.header {
+  min-height: 80px;
+}
+.heading {
+  text-align: center;
+  margin-top: 90px;
+}
+.heading-h1 {
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 1.33;
+  color: #11304e;
+  margin: 70px 0 12px;
+}
+.heading-h2 {
+  font-size: 20px;
+  font-weight: 500;
+  opacity: 70%;
+  color: #11304e;
+}
+.textual-content {
+  margin-top: 90px;
+}
+.textual-content-box {
+  margin-top: 90px;
+  background-color: rgba(17, 48, 78, 0.18);
+  display: flex;
+  flex-direction: row;
+}
+.supported {
+  margin-top: 90px;
+}
+
+.row {
+  /* flex: 1 1 0px; */
+  /* position: relative; */
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  height: auto;
+  /* text-align: center; */
+  margin-bottom: 30px;
+}
+i {
+  display: block;
+  margin-bottom: 18px;
+}
+span {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.21;
+  /* margin-bottom: 15px; */
+  color: rgb(17, 48, 78);
+}
+/* p {
     font-size: 15px;
     line-height: 1.41;
     color: rgb(17, 48, 78);
   } */
-  .how-to {
-    margin-right: -15px;
-    margin-left: -15px;
-  }
-  .how-to-text {
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin: auto;
-    width: 74%;
-    padding: 10px;
-  }
-  .how-to-h2 {
-    font-size: 40px;
-    font-weight: 800;
-    line-height: 1.16;
-    text-align: left;
-    color: rgb(17, 48, 78);
-    /* margin: 0px 0px 40px; */
-    width: 100%;
-    margin-top: 70px;
-  }
-  .steps {
-    padding-left: 29px;
-  }
-  img {
-    outline: none;
-    border: none;
-    max-width: 100%;
-    height: auto;
-  }
-  .rating-div {
-    background-color: red;
-  }
-  .rating-container {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-  }
-  .rating-row {
-    margin-right: -15px;
-    margin-left: -15px;
-  }
-  
-  a {
-    text-decoration: unset;
-    color: unset;
-  }
-  .sup-i {
-    display: inline-block;
-    margin-right: 10px;
-    width: 19px;
-    vertical-align: middle;
-  }
-  .sup-span {
-    display: inline-block;
-    width: 20px;
-    margin-right: 20px;
-    position: unset !important;
-    top: 0px;
-    left: 0px;
-  }
-  .clear {
-    clear: both;
-  }
-  .leftbox {
-    float: left;
-    width: 30%;
-    height: 280px;
-    margin: 0px 28px;
-    text-align: center;
-    margin-bottom: 30px;
-  }
-  .middlebox {
-    float: left;
-    width: 30%;
-    height: 280px;
-    text-align: center;
-    margin-bottom: 30px;
-  }
-  .rightbox {
-    text-align: center;
-    float: right;
-    width: 30%;
-    height: 280px;
-    margin-bottom: 30px;
-  }
-  .textual-lists {
-    /* position: relative; */
-    /* min-height: 1px;
+.how-to {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.how-to-text {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: auto;
+  width: 74%;
+  padding: 10px;
+}
+.how-to-h2 {
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 1.16;
+  text-align: left;
+  color: rgb(17, 48, 78);
+  /* margin: 0px 0px 40px; */
+  width: 100%;
+  margin-top: 70px;
+}
+.steps {
+  padding-left: 29px;
+}
+img {
+  outline: none;
+  border: none;
+  max-width: 100%;
+  height: auto;
+}
+.rating-div {
+  background-color: red;
+}
+.rating-container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.rating-row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+a {
+  text-decoration: unset;
+  color: unset;
+}
+.sup-i {
+  display: inline-block;
+  margin-right: 10px;
+  width: 19px;
+  vertical-align: middle;
+}
+.sup-span {
+  display: inline-block;
+  width: 20px;
+  margin-right: 20px;
+  position: unset !important;
+  top: 0px;
+  left: 0px;
+}
+.clear {
+  clear: both;
+}
+.leftbox {
+  float: left;
+  width: 30%;
+  height: 280px;
+  margin: 0px 28px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.middlebox {
+  float: left;
+  width: 30%;
+  height: 280px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.rightbox {
+  text-align: center;
+  float: right;
+  width: 30%;
+  height: 280px;
+  margin-bottom: 30px;
+}
+.textual-lists {
+  /* position: relative; */
+  /* min-height: 1px;
       padding-right: 15px;
       padding-left: 15px; */
-    margin: auto;
-    width: 50%;
-    /* padding: 10px; */
-  }
-  .rows {
-    padding: 10px;
-    margin: auto;
-    width: 50%;
-    margin-top: 70px;
-    display: inline;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-  }
-  .rows-2 {
-    margin-top: 50px;
-  }
-  
-  .header {
-    overflow: hidden;
-    /* background-color: #f1f1f1; */
-    padding: 20px 10px;
-  }
-  
-  .header a {
-    padding: 0 20px 0 8px;
-    text-decoration: none;
-    color: #1e283c;
-    font-weight: 600;
-    font-size: 12px;
-    text-transform: uppercase;
-    outline: 0;
-  }
-  
-  .header a.logo {
-    font-size: 25px;
-    font-weight: bold;
-    margin: 0px 101px;
-  }
-  
-  .header a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  .header a.active {
-    background-color: #eee;
-    color: black;
-  }
-  
-  .header-right {
-    float: right;
-    padding-right: 124px;
-  }
-  
-  
-  /* UX/Ui Design for WORD-COUNTER */
-  .word-count-main {
-    width: 100%;
-  }
-  .word-count-main .word-count {
-    margin: 20px auto;
-    background: #fdfdfd;
-    border: 1px solid #eaeaea;
-    padding: 0 5%;
-  }
-  .count-top-bar {
-    margin: 0;
-    padding: 25px 0;
-    list-style: none;
-    display: flex;
-  }
-  .count-top-bar li{
-    padding: 0 40px;
-  }
-  .count-top-bar li:nth-child(1), li:nth-child(2),li:nth-child(3){
-    border-right: 1px solid #d9d9d9;
-  }
-  .count-top-bar li p {
-    text-transform: uppercase;
-    letter-spacing: 0;
-    font-style: normal;
-    font-weight: 400;
-    color: #222;
-    font-size: 18px;
-  }
-  .count-top-bar li span {
-    color: #9B5CF5;
-    font-size: 25px;
-    font-weight: 700;
-  }
-  .counter-input {
-    width: 100%;
-    height: 410px;
-    background: 0 0;
-    border: none;
-    border-top: 1px solid #d9d9d9;
-    border-bottom: 1px solid #d9d9d9;
-    padding: 15px 15px;
-    outline: none;
-    border-radius: 0;
+  margin: auto;
+  width: 50%;
+  /* padding: 10px; */
 }
-@media (max-width: 767.98px){
+.rows {
+  padding: 10px;
+  margin: auto;
+  width: 50%;
+  margin-top: 70px;
+  display: inline;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.rows-2 {
+  margin-top: 50px;
+}
+
+.header {
+  overflow: hidden;
+  /* background-color: #f1f1f1; */
+  padding: 20px 10px;
+}
+
+.header a {
+  padding: 0 20px 0 8px;
+  text-decoration: none;
+  color: #1e283c;
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  outline: 0;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0px 101px;
+}
+
+.header a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.header a.active {
+  background-color: #eee;
+  color: black;
+}
+
+.header-right {
+  float: right;
+  padding-right: 124px;
+}
+.main-heading > h1 {
+  border: 0;
+  border-bottom: 7px solid rgba(0, 0, 0, 0.1);
+  padding: 0;
+}
+/* UX/Ui Design for WORD-COUNTER */
+.word-count-main {
+  width: 100%;
+}
+.word-count-main .word-count {
+  margin: 20px auto;
+  background: #fdfdfd;
+  box-shadow: 0 7px 18px rgb(53 67 97 / 15%);
+  padding: 0 5%;
+  border-radius: 5px;
+}
 .count-top-bar {
-    flex-wrap: wrap;
+  margin: 0;
+  padding: 25px 0;
+  list-style: none;
+  display: flex;
 }
-.count-top-bar li:nth-child(1), li:nth-child(2),li:nth-child(3){
+.count-top-bar li {
+  padding: 0 40px;
+}
+.count-top-bar li:nth-child(1),
+li:nth-child(2),
+li:nth-child(3) {
+  border-right: 1px solid #d9d9d9;
+}
+.count-top-bar li p {
+  text-transform: uppercase;
+  letter-spacing: 0;
+  font-style: normal;
+  font-weight: 400;
+  color: #222;
+  font-size: 18px;
+}
+.count-top-bar li span {
+  color: #9b5cf5;
+  font-size: 25px;
+  font-weight: 700;
+}
+.counter-input {
+  width: 100%;
+  height: 410px;
+  background: 0 0;
+  border: none;
+  box-shadow: 0 7px 18px rgb(53 67 97 / 15%);
+  padding: 15px 15px;
+  outline: none;
+  border-radius: 5px;
+}
+@media (max-width: 767.98px) {
+  .count-top-bar {
+    flex-wrap: wrap;
+  }
+  .count-top-bar li:nth-child(1),
+  li:nth-child(2),
+  li:nth-child(3) {
     border-right: none;
   }
 
-.count-top-bar li {
+  .count-top-bar li {
     flex-basis: 100%;
     padding: 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-}
-
-@media (max-width:1125px) {
-    .count-top-bar li p {
-        font-size: 12px;
-    }
-    
+  }
 }
 
-  /* close */
-  
-  .how-to-p {
-    margin-top: 35px;
+@media (max-width: 1125px) {
+  .count-top-bar li p {
+    font-size: 12px;
   }
-  .footer {
-    background-image: -webkit-linear-gradient(110deg, #7b10ff 0, #974fff 100%);
-    color: white;
-    padding: 100px 0px;
-    display: block;
-  }
-  
-  .footer .single-footer-widget p {
-    color: #fff;
-  }
-  .footer .single-footer-widget .menu-list li a {
-    color: #fff;
-    transition: all 0.3s ease 0s;
-  }
-  .footer .footer-bottom p {
-    color: #fff;
-  }
-  
+}
+
+/* close */
+
+.how-to-p {
+  margin-top: 35px;
+}
+.footer {
+  background-image: -webkit-linear-gradient(110deg, #7b10ff 0, #974fff 100%);
+  color: white;
+  padding: 100px 0px;
+  display: block;
+}
+
+.footer .single-footer-widget p {
+  color: #fff;
+}
+.footer .single-footer-widget .menu-list li a {
+  color: #fff;
+  transition: all 0.3s ease 0s;
+}
+.footer .footer-bottom p {
+  color: #fff;
+}
