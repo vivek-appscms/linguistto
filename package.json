@@ -1,10 +1,11 @@
 {
   "name": "Appscms",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "CMS for Mobile APPs",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lambda-serve": "netlify-lambda serve functions",
+    "lambda-build": "netlify-lambda build functions"
   },
   "author": "Harshit Raghav",
   "license": "-",
@@ -20,5 +21,9 @@
     "sass",
     "browsersync"
   ],
-  "homepage": "https://appscms.com"
+  "homepage": "https://appscms.com",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "netlify-lambda": "^2.0.9"
+  }
 }

@@ -232,6 +232,13 @@ h5 {
   width: 19px;
   vertical-align: middle;
 }
+span {
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #11304e;
+}
 .sup-span {
   display: inline-block;
   width: 20px;
