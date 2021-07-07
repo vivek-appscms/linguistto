@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: swahili_to_english
 from: sw
-to: en 
+to: en
 permalink: swahili-to-english-sentence-translation
+tool: swahili-to-english-sentence-translation
 ---

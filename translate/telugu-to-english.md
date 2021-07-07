@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: telugu_to_english
 from: te
-to: en 
+to: en
 permalink: telugu-to-english-sentence-translation
+tool: telugu-to-english-sentence-translation
 ---

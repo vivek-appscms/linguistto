@@ -1,0 +1,74 @@
+{
+    "tools": [
+        {
+            "name": "filipino-to-english-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "english-to-irish-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "english-to-vietnamese-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "english-to-bengali-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "italian-to-english-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "amharic-to-english-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "marathi-to-english-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "english-to-tagalog-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "english-to-hindi-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "irish-to-english-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "english-to-marathi-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "english-to-amharic-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "hindi-to-english-sentence-translation",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "paraphrasing-tool",
+            "rating": "5.00",
+            "votes": 1
+        }
+    ]
+}

@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: hindi_to_english
 from: hi
-to: en 
+to: en
 permalink: hindi-to-english-sentence-translation
+tool: hindi-to-english-sentence-translation
 ---

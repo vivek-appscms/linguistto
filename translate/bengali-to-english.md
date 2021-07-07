@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: bengali_to_english 
+---
+layout: translate
+fileName: bengali_to_english
 from: bn
-to: en 
+to: en
 permalink: bengali-to-english-sentence-translation
+tool: bengali-to-english-sentence-translation
 ---

@@ -57,7 +57,7 @@ i {
   display: block;
   margin-bottom: 18px;
 }
-span {
+.newSpan {
   display: block;
   font-size: 20px;
   font-weight: bold;
@@ -271,6 +271,47 @@ a {
   outline: none;
   border-radius: 5px;
 }
+#rating-img {
+  height: 1px;
+  width: 1px;
+  filter: brightness();
+  filter: brightness(100);
+}
+.rating-tool {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px 20px 0px;
+  border-top: 1px solid rgb(221, 221, 221);
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+.rating-text {
+  font-size: 17px;
+  font-weight: 700;
+  color: rgb(33, 33, 33);
+  padding: 6px;
+}
+.rating-stars {
+  color: #9d9d9d !important;
+  padding-top: 17px;
+  display: flex;
+  align-items: center;
+}
+.rating-stars i {
+  padding: 5px;
+  font-size: 17px;
+}
+.rating-value {
+  line-height: 24px;
+  font-size: 16px;
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  color: rgb(33, 33, 33);
+  padding: 6px;
+}
+
 @media (max-width: 767.98px) {
   .count-top-bar {
     flex-wrap: wrap;

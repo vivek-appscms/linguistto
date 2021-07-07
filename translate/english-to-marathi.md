@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: english_to_marathi 
+---
+layout: translate
+fileName: english_to_marathi
 from: en
-to: mr 
+to: mr
 permalink: english-to-marathi-sentence-translation
+tool: english-to-marathi-sentence-translation
 ---

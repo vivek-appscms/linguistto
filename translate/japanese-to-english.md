@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: japanese-to-english 
+---
+layout: translate
+fileName: japanese-to-english
 from: ja
-to: en 
+to: en
 permalink: japanese-to-english-sentence-translation
+tool: japanese-to-english-sentence-translation
 ---

@@ -42,9 +42,13 @@
             google.accounts.id.prompt();
         }
     </script>
+    {%- if page.tool -%}
+    {%- include Rating/structureddata.html -%}
+    {%- endif -%}
 </head>
 
 <body class="{{ body_class }}">
+
     {{ content }}
 
     <!-- {% include base/right-sidebar-2.html %} -->
@@ -54,7 +58,7 @@
     <script>
         var strOutput = []
         async function getapi(url) {
-            console.log(url)
+
             document.querySelector('.buttonClass').innerText = 'Please wait..'
             const response = await fetch(url)
             let data = await response.json()
@@ -99,7 +103,7 @@
                 return await getapi(api_url)
             } catch (error) {
                 try {
-                    const api_url = `/.netlify/functions/translation?baselocalecode=${sl}&datalanguagecode=${tl}&value=${string}`
+                    const api_url = `/.netlify/funcions/translation?baselocalecode=${sl}&datalanguagecode=${tl}&value=${string}`
                     return await getapi(api_url)
                 } catch (error) {
                     console.log(error)
