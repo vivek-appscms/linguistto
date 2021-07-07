@@ -103,7 +103,7 @@
                 return await getapi(api_url)
             } catch (error) {
                 try {
-                    const api_url = `/.netlify/functions/translation?baselocalecode=${sl}&datalanguagecode=${tl}&value=${string}`
+                    const api_url = `/.netlify/functions?baselocalecode=${sl}&datalanguagecode=${tl}&value=${string}`
                     return await getapi(api_url)
                 } catch (error) {
                     console.log(error)
