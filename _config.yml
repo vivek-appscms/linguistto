@@ -9,7 +9,7 @@ description: Contenttools.io provides smartest tools for day to day usage by con
 baseurl: ''
 siteurl: https://contenttool.io
 alternateName: contenttool
-logo: /img/favicon.png
+logo: /img/favicon.png
 permalink: /blog/:categories/:title
 theme: appscms-tools-theme
 url: https://Contenttool.io
