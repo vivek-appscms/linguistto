@@ -1,3 +1,6 @@
+[build]
+  functions = "lambda" 
+  
 [[redirects]]
   from = "/newtoolsapi/*"
   to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/:splat"

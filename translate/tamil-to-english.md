@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: tamil_to_english
 from: ta
-to: en 
+to: en
 permalink: tamil-to-english-sentence-translation
+tool: tamil-to-english-sentence-translation
 ---

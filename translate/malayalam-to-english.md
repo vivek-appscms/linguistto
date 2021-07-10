@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: malayalam_to_english
 from: ml
-to: en 
+to: en
 permalink: malayalam-to-english-sentence-translation
+tool: malayalam-to-english-sentence-translation
 ---
