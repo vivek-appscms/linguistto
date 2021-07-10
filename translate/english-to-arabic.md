@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: english_to_arabic 
+---
+layout: translate
+fileName: english_to_arabic
 from: en
-to: ar 
+to: ar
 permalink: english-to-arabic-sentence-translation
+tool: english-to-arabic-sentence-translation
 ---

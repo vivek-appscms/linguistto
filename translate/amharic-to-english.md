@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: amharic_to_english 
+---
+layout: translate
+fileName: amharic_to_english
 from: am
-to: en 
+to: en
 permalink: amharic-to-english-sentence-translation
+tool: amharic-to-english-sentence-translation
 ---

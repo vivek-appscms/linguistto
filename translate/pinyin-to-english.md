@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: pinyin_to_english
 from: en
-to: hi 
+to: hi
 permalink: pinyin-to-english-sentence-translation
+tool: pinyin-to-english-sentence-translation
 ---

@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: punjabi_to_english
 from: pa
-to: en 
+to: en
 permalink: punjabi-to-english-sentence-translation
+tool: punjabi-to-english-sentence-translation
 ---

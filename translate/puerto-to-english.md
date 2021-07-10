@@ -1,7 +1,8 @@
---- 
-layout: translate 
+---
+layout: translate
 fileName: puerto_to_english
 from: en
-to: hi 
+to: hi
 permalink: puerto-to-english-sentence-translation
+tool: puerto-to-english-sentence-translation
 ---

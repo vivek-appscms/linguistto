@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: english_to_farsi 
+---
+layout: translate
+fileName: english_to_farsi
 from: en
-to: hi 
+to: hi
 permalink: english-to-farsi-sentence-translation
+tool: english-to-farsi-sentence-translation
 ---

@@ -20,4 +20,10 @@
     <link rel="stylesheet" href="{{ 'css/owl.carousel.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
     {% include seo.html %}
+
+    {%- if page.tool -%}
+    {%- include Rating/structureddata.html -%}
+    {%- endif -%}
+
+
 </head>

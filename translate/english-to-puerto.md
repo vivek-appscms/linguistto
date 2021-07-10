@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: english_to_puerto 
+---
+layout: translate
+fileName: english_to_puerto
 from: en
-to: hi 
+to: hi
 permalink: english-to-puerto-sentence-translation
+tool: english-to-puerto-sentence-translation
 ---

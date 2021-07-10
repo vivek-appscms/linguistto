@@ -1,7 +1,8 @@
---- 
-layout: translate 
-fileName: english_to_vietnamese 
+---
+layout: translate
+fileName: english_to_vietnamese
 from: en
-to: vi 
+to: vi
 permalink: english-to-vietnamese-sentence-translation
+tool: english-to-vietnamese-sentence-translation
 ---
