@@ -26,7 +26,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
-google_analytics: 'G-J9G88RTDTR'
+production_google_analytics: 'UA-179965937-6'
+development_google_analytics: ''
 disqus:
   shortname: contenttool-io
 hero: product_fixed_image
