@@ -323,3 +323,16 @@ a {
   text-decoration: unset;
   color: black;
 }
+.counter-input, .transliteration-input {
+  height: 400px;
+}
+.sup-h2 {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 1.21;
+  text-align: center;
+  margin-bottom: 16px;
+}
+li.col-md-3.conver-list a {
+  color: #007bff;
+}

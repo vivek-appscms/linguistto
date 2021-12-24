@@ -342,20 +342,3 @@ a {
 .how-to-p {
   margin-top: 35px;
 }
-.footer {
-  background-image: -webkit-linear-gradient(110deg, #7b10ff 0, #974fff 100%);
-  color: white;
-  padding: 100px 0px;
-  display: block;
-}
-
-.footer .single-footer-widget p {
-  color: #fff;
-}
-.footer .single-footer-widget .menu-list li a {
-  color: #fff;
-  transition: all 0.3s ease 0s;
-}
-.footer .footer-bottom p {
-  color: #fff;
-}

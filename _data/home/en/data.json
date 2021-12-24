@@ -1,6 +1,49 @@
 {
-  "h1": "Online pdftojpgs",
-  "h2": "Work with your PDF online for free",
-  "TITLE": "pdftojpgs-Complete PDF tools for free online",
-  "META": "Our PDF tools are absolutely free and is easy to use. We make sure all your data is safe while you edit your PDF."
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Smartest tools for Content writers",
+  "h2": "Multilingual tools for paraphrasing content, sentence translation and transliteration based typing tools.",
+  "TITLE": "Contenttool - Smartest tools for content professionals",
+  "META": "Contenttools.io provides smartest tools for day to day usage by content professionals.",
+  "keywords": "key1,key2,key3,key4",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "features": [
+    {
+      "name": "Paraphrasing tool",
+      "description": "",
+      "color": "#8080ff",
+      "icon": "/assets/star.svg",
+      "url": "/paraphrasing-tool"
+    },
+    {
+      "name": "German Paraphrase tool",
+      "description": "",
+      "color": "#a7a7cd",
+      "icon": "/assets/star.svg",
+      "url": "/german-paraphrase-tool"
+    },
+    {
+      "name": "Hindi Paraphrase tool",
+      "description": "",
+      "color": "#2c3774",
+      "icon": "/assets/star.svg",
+      "url": "/hindi-paraphrase-tool"
+    },
+    {
+      "name": "Russian Paraphrase tool",
+      "description": "",
+      "color": "#33cccc",
+      "icon": "/assets/star.svg",
+      "url": "/russian-paraphrase-tool"
+    },
+    {
+      "name": "Word count tool",
+      "description": "",
+      "color": "#4373fc",
+      "icon": "/assets/star.svg",
+      "url": "/word-count-tool"
+    }
+  ]
 }
