@@ -103,6 +103,9 @@
         "answer": "This tool is substitute for a human translator. Any student, teacher, website owner, traveller, content writer or any proffesional who want english  to amharic sentence translation can use it."
       }
     ],
+    "jscdns":[
+      "<script src=\"/js/translation.js\"></script>"
+    ],
     "csscdns":[
       "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
     ]

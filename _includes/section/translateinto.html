@@ -1,13 +1,17 @@
-
 {% assign keyName = page.translatein %}
+{% assign 1Name = page.from %}
+{% assign 2keyName = page.to %}
 {% assign conversion = 'translate_data' %}
 {% assign test = site.data[conversion] %}
 {% assign dataArr = test[keyName] %}
-{% assign data = dataArr%}
+{% assign data = dataArr %}
+<script src="https://accounts.google.com/gsi/client" async defer></script>
 
 <div class="container">
     <div class="main">
         <!-- <h1 class="col-md-12 text"> {{keyName}}</h1> -->
+        <p>{{1Name}}</p>
+        <p>{{2keyName}}</p>
         <!-- <h2 class="col-md-10 text2 text-center"> Best Online Sentence Translation </h2> -->
         <div class="hr">
             <hr class="hr-css" />
