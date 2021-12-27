@@ -5,6 +5,9 @@
 .img-uploader {
   margin-top: 45px;
 }
+button.navbar-toggler {
+  color: black;
+}
 .uploader {
   background-color: #974fff;
   border-radius: 25px;
@@ -335,4 +338,13 @@ a {
 }
 li.col-md-3.conver-list a {
   color: #007bff;
+}
+@media (max-width: 767.98px){
+.count-top-bar li {
+    flex-basis: 100%;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 }

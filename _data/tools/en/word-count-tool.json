@@ -112,7 +112,7 @@
       }
     ],
     "csscdns":[
-      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
       "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+      
     ]
   }

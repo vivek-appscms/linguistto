@@ -342,3 +342,12 @@ a {
 .how-to-p {
   margin-top: 35px;
 }
+@media (max-width: 767.98px){
+  .count-top-bar li {
+      flex-basis: 100%;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: end;
+  }
+  }
