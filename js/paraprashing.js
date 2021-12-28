@@ -1,6 +1,7 @@
-console.log("hwgsvdhsg")
-
 //get input
+const getScripts = document.currentScript;
+const initaillanguage = getScripts.dataset.language;
+console.log(initaillanguage)
 async function getInputValue() {
     let languageList = ["sq", "am", "ar", "zh", "da", "gu", "hy", "id", "it", "ja", "ko", "la", "ms", "ne", "pa", "sq", "ta", "te", "zh", "ur",]
     let inputString = document.getElementById("input-string").value;
@@ -12,10 +13,10 @@ async function getInputValue() {
         languageList[randomNum] = temp
     }
 
-    languageList[0] = `{{initialLanguage}}`
-    languageList[5] = `{{initialLanguage}}`
-    languageList[10] = `{{initialLanguage}}`
-    languageList[15] = `{{initialLanguage}}`
+    languageList[0] = initaillanguage
+    languageList[5] = initaillanguage
+    languageList[10] = initaillanguage
+    languageList[15] = initaillanguage
     paraphraseControler(inputString, languageList)
 }
 

@@ -1,17 +1,14 @@
 {% assign keyName = page.translatein %}
-{% assign 1Name = page.from %}
-{% assign 2keyName = page.to %}
 {% assign conversion = 'translate_data' %}
 {% assign test = site.data[conversion] %}
 {% assign dataArr = test[keyName] %}
 {% assign data = dataArr %}
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 
+<script data-from="{{page.from}}"  data-to="{{page.to}}" src="/js/translation.js" ></script>
 <div class="container">
     <div class="main">
         <!-- <h1 class="col-md-12 text"> {{keyName}}</h1> -->
-        <p>{{1Name}}</p>
-        <p>{{2keyName}}</p>
         <!-- <h2 class="col-md-10 text2 text-center"> Best Online Sentence Translation </h2> -->
         <div class="hr">
             <hr class="hr-css" />
@@ -34,7 +31,7 @@
                 </div>
             </div>
             <div class="typing-btn d-flex justify-content-center">
-                <button onclick="getInputValue();" class="buttonClass">
+                <button onclick="getInputValue();" class="buttonClass ml-2">
                     Translate
                 </button>
                 <button onclick="resetInputValue();" class="buttonClass ml-2">

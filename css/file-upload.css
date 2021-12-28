@@ -1,7 +1,27 @@
 * {
   box-sizing: border-box;
 }
-
+body {
+  color: #50668f!important;
+  font-family: Montserrat,sans-serif!important;
+  font-size: 16px!important;
+  font-weight: 400!important;
+  line-height: 30px!important;
+}
+.col-md-12.mb-3.pl-5 {
+  text-align: start;
+}
+p{
+  color: #50668f!important;
+  font-size: 16px!important;
+  font-weight: 400!important;
+  line-height: 30px!important;
+}
+h1 {
+  font-size: 48px!important;
+  font-weight: 700!important;
+  color: black;
+}
 .img-uploader {
   margin-top: 45px;
 }
@@ -49,6 +69,10 @@ button.navbar-toggler {
 }
 .textual-content {
   margin-top: 90px;
+}
+button.buttonClass.ml-2 {
+  border: none;
+  outline: 0;
 }
 .textual-content-box {
   margin-top: 90px;
@@ -181,6 +205,13 @@ a {
   text-align: center;
   margin-bottom: 30px;
 }
+
+.pb-5, .py-5 {
+  padding-bottom: 0.5rem!important;
+}
+button.ml-2 {
+  border: none;
+}
 .middlebox {
   float: left;
   width: 30%;
@@ -295,12 +326,20 @@ button {
   background: #7b10ff;
   color: #fff;
 }
+h1.home-top-h1 {
+  text-align: center;
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
 .copy-btn {
   background: #64a564;
-  color: #fff;
+  color: #fff !important;
   border-radius: 30px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 14px !important;
 }
 .paraphrase-output {
   min-height: 150px;
@@ -338,13 +377,4 @@ a {
 }
 li.col-md-3.conver-list a {
   color: #007bff;
-}
-@media (max-width: 767.98px){
-.count-top-bar li {
-    flex-basis: 100%;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
 }

@@ -9,4 +9,4 @@ to: am
 permalink: english-to-amharic-sentence-translation
 tool: english-to-amharic-sentence-translation
 ---
-{% include section/translateinto.html %}
+{% include section/translateinto.html %}    

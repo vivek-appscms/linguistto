@@ -1,4 +1,8 @@
 var strOutput = []
+const getScript = document.currentScript;
+const from = getScript.dataset.from;
+const to = getScript.dataset.to;
+console.log(from,to)
 async function getapi(url) {
 
     document.querySelector('.buttonClass').innerText = 'Please wait..'
@@ -23,14 +27,13 @@ async function getInputValue() {
     if (inputString) {
         var outputStr = await translateFunction(
             inputString,
-            `{{page.from}}`,
-            `{{page.to}}`
+            from,
+            to
         )
         document.getElementById('output-string').value = outputStr.replace(
             /['",]+/g,
             ''
         )
-        console.log(outputStr)
     } else {
         console.clear()
     }
