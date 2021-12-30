@@ -1,27 +1,11 @@
 * {
   box-sizing: border-box;
 }
-body {
-  color: #50668f!important;
-  font-family: Montserrat,sans-serif!important;
-  font-size: 16px!important;
-  font-weight: 400!important;
-  line-height: 30px!important;
-}
+
 .col-md-12.mb-3.pl-5 {
   text-align: start;
 }
-p{
-  color: #50668f!important;
-  font-size: 16px!important;
-  font-weight: 400!important;
-  line-height: 30px!important;
-}
-h1 {
-  font-size: 48px!important;
-  font-weight: 700!important;
-  color: black;
-}
+
 .img-uploader {
   margin-top: 45px;
 }
@@ -326,14 +310,7 @@ button {
   background: #7b10ff;
   color: #fff;
 }
-h1.home-top-h1 {
-  text-align: center;
-  position: relative;
-  width: 100%;
-  min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
-}
+
 .copy-btn {
   background: #64a564;
   color: #fff !important;
