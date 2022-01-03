@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    appscms-tools-theme (1.6.2)
+    appscms-tools-theme (1.7.4)
       jekyll (~> 3.9)
     backports (3.21.0)
     colorator (1.1.0)
@@ -94,13 +94,14 @@ GEM
     tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
     wdm (0.1.1)
+    webrick (1.7.0)
 
 PLATFORMS
   x64-mingw32
   x86_64-linux
 
 DEPENDENCIES
-  appscms-tools-theme (~> 1.6.2)
+  appscms-tools-theme (~> 1.7.3)
   jekyll (~> 3.9.0)
   jekyll-admin
   jekyll-feed
@@ -111,6 +112,7 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.20
+   2.2.28
