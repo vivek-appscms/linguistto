@@ -8,33 +8,51 @@
        "categoryName":"paraphrasing tool",
        "links": [
         {
-          "iconSrc": "/assets/download.png",
+          "iconSrc": "/assets/img/germanblack.svg",
           "name": "Hindi Paraphrase tool",
           "url":"/hindi-paraphrase-tool",
           "hover": "blue"
         },
         {
-          "iconSrc": "/assets/download.png",
+          "iconSrc": "/assets/img/germanblack.svg",
           "name": "Russian Paraphrase tool",
           "url":"/russian-paraphrase-tool",
           "hover": "blue"
         },
         {
-          "iconSrc": "/assets/download.png",
+          "iconSrc": "/assets/img/germanblack.svg",
           "name": "Spanish Paraphrase tool",
           "url":"/spanish-paraphrase-tool",
           "hover": "blue"
         },
         {
-          "iconSrc": "/assets/download.png",
-          "name": "Transliteration tool",
+          "iconSrc": "/assets/img/germanblack.svg",
+          "name": "English to hindi Typing",
           "url":"/english-to-hindi-typing",
           "hover": "blue"
         },
         {
-          "iconSrc": "/assets/download.png",
+          "iconSrc": "/assets/img/germanblack.svg",
+          "name": "English to bangla Typing",
+          "url":"bangla-transliteration-tool",
+          "hover": "blue"
+        },
+        {
+          "iconSrc": "/assets/img/germanblack.svg",
+          "name": "German Paraphrase tool",
+          "url":"/german-paraphrase-tool",
+          "hover": "blue"
+        },
+        {
+          "iconSrc": "/assets/img/germanblack.svg",
           "name": "Word count tool",
           "url":"/word-count-tool",
+          "hover": "blue"
+        },
+        {
+          "iconSrc": "/assets/img/germanblack.svg",
+          "name": "Character count tool",
+          "url":"/character-count-tool",
           "hover": "blue"
         }
       ]
@@ -43,31 +61,25 @@
         "categoryName": "Other Tools",
         "links": [
           {
-            "iconSrc": "/assets/download.png",
-            "name": "Character count tool",
-            "url":"/character-count-tool",
-            "hover": "blue"
-          },
-          {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Sentence translation",
             "url":"/sentence-translation",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Meta and title checker",
             "url":"/meta-and-title-checker",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random adjective generator",
             "url":"/random-adjective-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Text difference checker",
             "url":"/text-difference-checker",
             "hover": "blue"
@@ -78,43 +90,43 @@
         "categoryName": "Other Tools",
         "links": [
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random noun generator",
             "url":"/random-noun-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random paragraph generator",
             "url":"/random-paragraph-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random letter generator",
             "url":"/random-letter-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random sentence generator",
             "url":"/random-sentence-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Serp simulator",
             "url":"/serp-simulator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Website word count",
             "url":"/website-word-count",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random word generator",
             "url":"/random-word-generator",
             "hover": "blue"
