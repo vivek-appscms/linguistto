@@ -4,8 +4,9 @@ fileName: amharic-to-english
 translatein: amharic_to_english
 from: am
 to: en
-folderName : translate
+folderName: translate
 lang: en
+x: amharic
 permalink: amharic-to-english-sentence-translation
 tool: amharic-to-english-sentence-translation
 ---
