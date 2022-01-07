@@ -99,6 +99,14 @@
     {
       "name": "Random word generator",
       "url": "/random-word-generator"
+    },
+    {
+      "name": "Paragraph Rewriter",
+      "url": "/paragraph-rewriter"
+    },
+    {
+      "name": "Text Rewriter",
+      "url": "/text-rewriter"
     }
   ],
   "networkSites": [],

@@ -49,6 +49,7 @@ mailchimp:
   list-id:
 copyright_text: Copyright © 2020 All rights reserved to
 company_url: https://contenttool.io
+internationalizationall: true
 google_site_verification:
 bing_site_verification:
 yandex_site_verification:
@@ -58,6 +59,7 @@ twitter:
 facebook:
   username:
   app_id:
+
   publisher:
 og_image:
 social:

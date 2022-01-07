@@ -54,6 +54,18 @@
           "name": "Character count tool",
           "url":"/character-count-tool",
           "hover": "blue"
+        },
+        {
+          "iconSrc": "/assets/img/germanblack.svg",
+          "name": "Paragraph Rewriter",
+          "url":"/paragraph-rewriter",
+          "hover": "blue"
+        },
+        {
+          "iconSrc": "/assets/img/germanblack.svg",
+          "name": "Text Rewriter",
+          "url":"/text-rewriter",
+          "hover": "blue"
         }
       ]
       },
