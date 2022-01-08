@@ -1,0 +1,118 @@
+{
+    "Languageselect": "английский",
+    "htmlLangAttselect": "en",
+    "h1": "Инструмент подсчета символов",
+    "h2": "",
+    "TITLE": "Бесплатный инструмент подсчета символов, без ограничений использования - Contenttool - самые умные инструменты для профессионалов в области контента",
+    "META": "Считайте символы в скопированном тексте или в качестве текста. Получайте мгновенные и точные результаты.",
+    "keycharacters": "клавиша 1, клавиша 2, клавиша 3, клавиша 4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Легко узнать о количестве символов в вашей статье онлайн",
+            "content": "Скопируйте статью из документа и мгновенно получите результат."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Особенность нашего количества персонажей?",
+            "content": "Метод подсчета символов довольно прост в использовании. Вы можете ввести текст непосредственно в поле. Или, если вы используете для написания текста текстовый процессор или онлайн-приложение, такое как Google Documents, вы можете легко скопировать и вставить его в текстовое поле."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Когда перевода недостаточно для вашей статьи, она ищет точный символ",
+            "content": "вы можете перейти к счетчику символов, где вы можете узнать о длине вашей статьи со 100% точностью подсчета символов"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Бесплатный подсчет символов онлайн за несколько шагов",
+            "content": "Скопируйте предложение в количестве символов и получите результат."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Это упрощает определение границ в количестве символов в Интернете",
+            "content": "обычно существуют ограничения или минимумы для выполнения домашних заданий. То же самое часто справедливо для заявлений в колледжи. Соблюдение этих требований может оказать серьезное влияние на то, как эта статья оценивается и проверяется, сможете ли вы следовать основным указаниям. Счетчик символов может гарантировать, что вы случайно не превысите лимиты или не уложитесь в минимумы, которые могут нанести ущерб этим заданиям."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Бесплатная точность подсчета символов и быстрый результат всего за несколько шагов",
+            "content": "Мы даем 100% точность с быстрым результатом, просто скопируйте текст и получите мгновенный результат в количестве символов"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Проверьте свое резюме, что в нем есть релевантное количество символов",
+            "content": "Знание количества символов в вашем резюме может потребоваться соискателям, чтобы получить все нужные сведения на одной странице."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Когда подпись к твиту ищет точный символ, вы попали в нужное место.",
+            "content": "Ограничение на количество символов в Твиттере — это задержка с первых дней работы приложения, в то время как твиты отправлялись в виде текстовых сообщений, длина которых была ограничена сотней шестьюдесятью символами. Он подумал о реальности, которая становится одной из определяющих характеристик продукта."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "введение в подсчет символов",
+            "content": "Character Counter - это бесплатный онлайн-калькулятор подсчета символов, который прост в использовании. Часто люди выбирают удобство для всех подробностей написания, которые предоставляет Word Counter, и это именно то, что дает этот инструмент. Он указывает количество символов и количество предложений, что всегда является единственной деталью, которую человек хочет знать о своем письме. Лучше всего то, что вы получите необходимые знания."
+        }
+    ],
+    "FAQ": [
+        {
+          "question": "How do I reduce my character count?",
+          "answer": "Using active voice instead of passive voice in your sentences, removing redundant words is an easy way to reduce your word count."
+        },
+        {
+          "question": "How can i count character in an essay?",
+          "answer": "Only copy and paste your essay into our characer counter , and you'll get the word count for your essay."
+        },
+        {
+          "question": "Why do we need character count ?",
+          "answer": "It has no limit to upload character count. User can upload to check character as much as they want"
+        },
+        {
+          "question": "What is the limit to put character in character count?",
+          "answer": "Character limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "Where all we use character counter?",
+          "answer": "Character limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "What is the advantages of character count?",
+          "answer": "The service is very scalable and avoids the form of source. Finally, our character counter also lets the user write, keep an eye on the number of characters and words during the typing process, and calculate all statistics on the fly. Editors or responsible persons may tune the text to the desired format and shape, send an examination report and finally save the typed material in a specified format."
+        },
+        {
+          "question": "What is different in this character counts",
+          "answer": "It gives not only accuracy but it makes your content with proper security"
+        },
+        {
+          "question": "Is character count is compatible with all browsers and devices?",
+          "answer": "This character counter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera... It suits to count characters in twitter, blog, books, word document, excel document, pdf document, essays, novel..."
+        },
+        {
+          "question": "Is character counter is compatible for english only or can this tool detect other languages?",
+          "answer": "character Counter is not solely for English. The tool can be useful for writing in non-English languages where character count is significant. This may be the case in Japanese, Korean, Chinese and many other languages, where characters are the base of the written language. Even for those who don't write in English, learning the character count of writing is also helpful to writing."
+        },
+        {
+          "question": "Does character Count Include Spaces?",
+          "answer": "Yes ,character count include as a space?"
+        },
+        {
+          "question": "What Does character Counter Do?",
+          "answer": "Character Counter is word count and character recall tool. character counter automatically count character (with and without area), words, sentences, paragraph (with an alternative) and commonplace sentence length character counter robotically shows you the top keyword density of the item you are writing. You may additionally replica and paste a document you have already written into the word counter field and it is going to show the Word keep in mind and character numbers for that piece of writing. characterCounter offer seek container to appearance specific word or character in the record. character Counter allows trading character case like upper case, lower case, right case (every first character of Word in capital letter) and also vice-versa."
+        }
+      ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/character-counter.css\" />"
+    ]
+}

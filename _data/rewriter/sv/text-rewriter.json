@@ -1,0 +1,58 @@
+{
+    "Languageselect": "Engelska",
+    "htmlLangAttselect": "sv",
+    "h1": "Utmärkt verktyg för textrewriter",
+    "h2": "Generera högkvalitativt, plagiarismfritt unikt innehåll med textrewriter",
+    "TITLE": "Text rewriter- Perfekt text rewriter för att skriva om något innehåll på ett nytt sätt.",
+    "META": "Bästa textrewriter för att göra ditt innehåll unikt med bara ett klick. Spara tid genom att använda det mest betrodda textrewriter-verktyget och förmedla information på bästa sätt.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

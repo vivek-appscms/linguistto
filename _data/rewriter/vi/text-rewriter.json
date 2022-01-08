@@ -1,0 +1,58 @@
+{
+    "Languageselect": "Anh",
+    "htmlLangAttselect": "vi",
+    "h1": "Công cụ viết lại văn bản tuyệt vời",
+    "h2": "Tạo nội dung độc đáo chất lượng cao, không có đạo văn với người viết lại văn bản",
+    "TITLE": "Viết lại văn bản- Viết lại văn bản hoàn hảo để viết lại bất kỳ nội dung nào theo cách mới mẻ.",
+    "META": "Viết lại văn bản tốt nhất để làm cho nội dung của bạn độc đáo chỉ trong một cú nhấp chuột. Tiết kiệm thời gian của bạn bằng cách sử dụng công cụ viết lại văn bản đáng tin cậy nhất và truyền tải thông tin theo cách tốt nhất.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Languageselect": "İngilizce",
+    "htmlLangAttselect": "tr",
+    "h1": "Çeviriler Listesi",
+    "h2": "",
+    "TITLE": "Contenttool - İçerik uzmanları için en akıllı araçlar",
+    "META": "Kopyalanan metninizdeki sözcükleri veya türünüz olarak sayın. Anında ve doğru sonuçlar alın",
+    "keywords": "tuş1, anahtar2, tuş3, anahtar4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

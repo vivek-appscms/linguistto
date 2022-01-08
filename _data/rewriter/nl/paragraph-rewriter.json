@@ -1,0 +1,58 @@
+{
+    "Languageselect": "Engels",
+    "htmlLangAttselect": "nl",
+    "h1": "Gebruik gratis online alinea-herschrijver voor inhoud van hoge kwaliteit.",
+    "h2": "Ultieme oplossing voor uw schrijfproblemen",
+    "TITLE": "Alinea-herschrijver- Beste tool om een onbeperkt aantal documenten te herschrijven. ",
+    "META": "Geavanceerde webgebaseerde alinea-herschrijver is een perfecte plek om de artikelen te herschrijven of te parafraseren. Onze tool levert de ware essentie van het onderwerp. Het meest effectieve hulpmiddel om alle risico's van plagiaat en grammaticale fouten te minimaliseren.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

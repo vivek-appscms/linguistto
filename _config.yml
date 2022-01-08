@@ -73,3 +73,25 @@ analytics:
     anonymize_ip:
 timezone:
 after: ruby hello.rb
+noFaqsList:
+  - hi
+  - id
+  - da
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - pl
+  - pt
+  - sv
+  - vi
+  - tr
+  - ru
+  - uk
+  - ar
+  - th
+  - ko
+  - ja
+  - zh
+  - zh-tw

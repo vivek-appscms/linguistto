@@ -1,0 +1,117 @@
+{
+    "Languageselect": "Inglês",
+    "htmlLangAttselect": "pt",
+    "h1": "Ferramenta de contagem de palavras",
+    "h2": "",
+    "TITLE": "Ferramenta gratuita de contagem de palavras, sem limites de uso - Contenttool - Ferramentas mais inteligentes para profissionais de conteúdo",
+    "META": "Conte palavras em seu texto copiado ou como seu tipo. Obtenha resultados instantâneos e precisos.",
+    "keywords": "chave 1, chave 2, chave 3, chave 4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Fácil de saber sobre a contagem de palavras do seu artigo on-line",
+            "content": "Copie seu artigo do documento e obtenha o resultado instantaneamente a contagem de palavras."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Característica da nossa contagem de palavras?",
+            "content": "O método de contagem de palavras é muito fácil de usar. Você pode digitar seu texto diretamente na caixa. Ou, se você usar um processador de texto ou um aplicativo on-line, como o Google Documents, para escrever sua peça, poderá copiá-la e colá-la facilmente em uma caixa de texto."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Quando a tradução não é suficiente para o seu artigo, ele está procurando a palavra exata",
+            "content": "você pode ir para o contador de palavras, onde você pode saber sobre a duração do seu artigo com 100% de precisão na contagem de palavras"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Contagem gratuita de palavras on-line em algumas etapas",
+            "content": "Copie sua frase na contagem de palavras e obtenha o resultado."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Torna mais fácil conhecer seus limites na contagem de palavras on-line",
+            "content": "geralmente há limites ou mínimos para tarefas de casa. O mesmo costuma ser verdade para inscrições para faculdades. Cumprir isso pode ter um grande impacto em como essa redação é avaliada e revisada, e mostra se você é capaz ou não de seguir as instruções básicas. contador de palavras pode garantir que você não ultrapasse acidentalmente os limites ou não atingisse os mínimos que podem ser prejudiciais a essas tarefas."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Precisão de contagem de palavras grátis e resultado rápido em apenas algumas etapas",
+            "content": "Damos 100% de precisão com resultados rápidos, basta copiar seu texto e obter o resultado instantâneo na contagem de palavras"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Verifique seu currículo se ele tem uma contagem de palavras relevante",
+            "content": "Saber o número de palavras em seu currículo pode ser necessário para que os candidatos a emprego obtenham todos os detalhes desejados em uma única página."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Quando a legenda do seu tweet está procurando a palavra exata, você está no lugar certo.",
+            "content": "A restrição de caracteres do Twitter é um remanescente dos primeiros dias do aplicativo, enquanto os tweets foram enviados como textos, que foram limitados a cento e sessenta caracteres. Ele pensou na realidade que surge como uma das características definidoras do produto."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "introdução de contagem de palavras",
+            "content": "A restrição de caracteres do Twitter é um remanescente dos primeiros dias do aplicativo, enquanto os tweets foram enviados como textos, que foram limitados a cento e sessenta caracteres. Ele pensou na realidade que surge como uma das características definidoras do produto."
+        }
+    ],
+    "FAQ": [
+        {
+          "question": "How do I reduce myword count?",
+          "answer": "Using active voice instead of passive voice in your sentences, removing redundant words is an easy way to reduce your word count."
+        },
+        {
+          "question": "How can i count words in an essay?",
+          "answer": "Only copy and paste your essay into our word counter , and you'll get the word count for your essay."
+        },
+        {
+          "question": "Why do we need word ?",
+          "answer": "When requirement of your content is exactly word count then. It becomes necessary for your content to have a specific length. Here you can copy your content and get to know exact word online."
+        },
+        {
+          "question": "What is the limit to put character in word count?",
+          "answer": "It has no limit to upload word count. User can upload to check word as much as they want"
+        },
+        {
+          "question": "Where all we use word counter?",
+          "answer": "word limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "What is the advantages of word count?",
+          "answer": "The service is very scalable and avoids the form of source. Finally, our word counter also lets the user write, keep an eye on the number of characters and words during the typing process, and calculate all statistics on the fly. Editors or responsible persons may tune the text to the desired format and shape, send an examination report and finally save the typed material in a specified format."
+        },
+        {
+          "question": "What is different in this wordcounts",
+          "answer": "It gives not only accuracy but it makes your content with proper security."
+        },
+        {
+          "question": "Is word count is compatible with all browsers and devices?",
+          "answer": "Thiswordcounter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera... It suits to count characters in twitter, blog, books, word document, excel document, pdf document, essays, novel..."
+        },
+        {
+          "question": "Is word counter is compatible for english only or can this tool detect other languages?",
+          "answer": "word Counter is not solely for English. The tool can be useful for writing in non-English languages where character count is significant. This may be the case in Japanese, Korean, Chinese and many other languages, where characters are the base of the written language. Even for those who don't write in English, learning the character count of writing is also helpful to writing."
+        },
+        {
+          "question": "Does word Count Include Spaces?",
+          "answer": "Yes ,word count include as a space?"
+        },
+        {
+          "question": "What Does Word Counter Do?",
+          "answer": "Word Counter is word count and character recall tool. Word counter automatically count character (with and without area), words, sentences, paragraph (with an alternative) and commonplace sentence length Word counter robotically shows you the top keyword density of the item you are writing. You may additionally replica and paste a document you have already written into the word counter field and it is going to show the Word keep in mind and character numbers for that piece of writing. Word Counter offer seek container to appearance specific word or character in the record. Word Counter allows trading character case like upper case, lower case, right case (every first character of Word in capital letter) and also vice-versa."
+        }
+      ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}
