@@ -1,0 +1,58 @@
+{
+    "Languageselect": "English",
+    "htmlLangAttselect": "en",
+    "h1": "Excellent text rewriter tool",
+    "h2": "Generate high-quality, plagiarism-free unique content with text rewriter",
+    "TITLE": "Text rewriter- Perfect text rewriter to rewrite any content in a fresh way.",
+    "META": "Best text rewriter for making your content unique in just one click. Save your time by using the most trusted text rewriter tool and convey information in the best way.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+      {
+        "priority": 1,
+        "logoUrl": "/assets/bulb.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/guaranty.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/support.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/protect.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/easy.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/cloud.svg",
+        "header": "",
+        "content": ""
+      }
+    ],
+    "FAQ": [
+      {
+        "question": "",
+        "answer": ""
+      }
+    ],
+    "csscdns":[
+      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+  }

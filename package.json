@@ -10,10 +10,10 @@
   "author": "Harshit Raghav",
   "license": "-",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0",
     "browser-sync": "^2.23.5",
-    "gulp-autoprefixer": "^4.1.0"
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-sass": "^3.1.0"
   },
   "keywords": [
     "jekyll",
@@ -23,7 +23,8 @@
   ],
   "homepage": "https://appscms.com",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.4",
+    "front-matter": "^4.0.2",
     "netlify-lambda": "^2.0.9"
   }
 }

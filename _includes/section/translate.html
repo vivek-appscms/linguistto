@@ -4,6 +4,7 @@
 {% for post in site.pages %}
 {% assign path = post.url | replace: "/","" %} 
 {% if post.url contains 'translation'%}
+<p>{{site.pages}}</p>
 <h2 class="col-md-4" style="font-size:16px;margin-left: 0px; margin-right: 0px; text-align: center;padding: 6px;">
     <a href="/{{path}}">
       {{ path | replace: "-"," " |capitalize}}

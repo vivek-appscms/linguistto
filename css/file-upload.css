@@ -12,6 +12,9 @@
 button.navbar-toggler {
   color: black;
 }
+h2 a {
+  color: #007bff;
+}
 .uploader {
   background-color: #974fff;
   border-radius: 25px;

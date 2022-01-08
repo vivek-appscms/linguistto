@@ -1,0 +1,58 @@
+{
+    "Languageselect": "Engelska",
+    "htmlLangAttselect": "sv",
+    "h1": "Använd gratis online paragraf rewriter för kvalitetsinnehåll.",
+    "h2": "Ultimate lösning på dina skrivproblem",
+    "TITLE": "Styckeomskrivning- Bästa verktyget för att skriva om obegränsat antal dokument. ",
+    "META": "Avancerad webbaserad styckeomskrivning är en perfekt plats för dig att skriva om eller parafrasera artiklarna. Vårt verktyg levererar den sanna kärnan i ämnet. Det mest effektiva verktyget för att minimera alla risker för plagiat och grammatiska fel.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

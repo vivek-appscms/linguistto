@@ -45,6 +45,10 @@
       "url": "/english-to-hindi-typing "
     },
     {
+      "name": "English to bangla Typing",
+      "url":"bangla-transliteration-tool"
+    },
+    {
       "name": "Word count tool",
       "url": "/word-count-tool"
     },
@@ -95,6 +99,14 @@
     {
       "name": "Random word generator",
       "url": "/random-word-generator"
+    },
+    {
+      "name": "Paragraph Rewriter",
+      "url": "/paragraph-rewriter"
+    },
+    {
+      "name": "Text Rewriter",
+      "url": "/text-rewriter"
     }
   ],
   "networkSites": [],

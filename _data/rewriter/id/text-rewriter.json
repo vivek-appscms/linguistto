@@ -1,0 +1,58 @@
+{
+    "Languageselect": "Inggris",
+    "htmlLangAttselect": "id",
+    "h1": "Alat rewriter teks yang sangat baik",
+    "h2": "Menghasilkan konten unik berkualitas tinggi dan bebas plagiarisme dengan rewriter teks",
+    "TITLE": "Rewriter teks- Sempurna rewriter teks untuk menulis ulang konten apa pun dengan cara yang segar.",
+    "META": "Rewriter teks terbaik untuk membuat konten Anda unik hanya dalam satu klik. Hemat waktu Anda dengan menggunakan alat rewriter teks yang paling tepercaya dan sampaikan informasi dengan cara terbaik.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

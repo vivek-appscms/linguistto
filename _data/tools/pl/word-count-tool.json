@@ -1,0 +1,117 @@
+{
+    "Languageselect": "Anglik",
+    "htmlLangAttselect": "pl",
+    "h1": "Narzędzie liczenia wyrazów",
+    "h2": "",
+    "TITLE": "Darmowe narzędzie do liczenia słów, bez ograniczeń użytkowania - Contenttool - Najmądrzejsze narzędzia dla profesjonalistów",
+    "META": "Policz słowa w skopiowanym tekście lub jako typ. Uzyskaj natychmiastowe i dokładne wyniki.",
+    "keywords": "key1, key2, key3, key4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Łatwo wiedzieć o swoim artykule liczba słów online",
+            "content": "Skopiuj swój artykuł z dokumentu i uzyskaj wynik natychmiast liczbę słów."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Cecha naszej liczby słów?",
+            "content": "Metoda liczenia słów jest dość łatwa w użyciu. Tekst można wpisać bezpośrednio w polu. Lub jeśli używasz edytora tekstu lub aplikacji online, takiej jak Dokumenty Google, aby napisać swój kawałek, możesz łatwo skopiować i wkleić go do pola tekstowego."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Kiedy transalacja nie wystarczy dla artykułu, To szuka dokładnego słowa",
+            "content": "możesz przejść do licznika słów, gdzie możesz wiedzieć o długości artykułu ze 100% dokładnością liczby słów"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Liczba wolnych słów online w kilku krokach",
+            "content": "Skopiuj zdanie w liczniku słów i uzyskaj wynik."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "To sprawia, że łatwiej poznać swoje granice w liczbie słów w Internecie",
+            "content": "zwykle istnieją ograniczenia lub minima dla zadań domowych. To samo jest często prawdziwe w przypadku aplikacji na studia. Przestrzeganie tych może mieć znaczący wpływ na to, jak to pisanie jest oceniane i sprawdzane, i pokazuje, czy jesteś w stanie wykonać podstawowe kierunki. Licznik słów może upewnić się, że przypadkowo nie przejść przez limity lub nie spełniają minimów, które mogą być szkodliwe dla tych zadań."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bezpłatna dokładność liczenia słów i szybki wynik w zaledwie kilku krokach",
+            "content": "Dajemy 100% dokładności z szybkim wynikiem wystarczy skopiować tekst i uzyskać natychmiastowy wynik w liczniku słów"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Sprawdź swoje CV, czy ma odpowiednią liczbę słów",
+            "content": "Znajomość liczby słów w CV może być konieczne dla osób poszukujących pracy, aby uzyskać wszystkie szczegóły, które chcesz na jednej stronie."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Kiedy twój napis tweeta szuka dokładnego słowa jesteś we właściwym miejscu",
+            "content": "Ograniczenie postaci Twittera jest uchwytem z pierwszych dni aplikacji, podczas gdy tweety zostały wysłane jako teksty, które zostały ograniczone do stu sześćdziesięciu znaków. Myślał o rzeczywistości, która wyłania się jako jedna z cech definiujących produktu."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "wprowadzenie do liczenia słów",
+            "content": "Ograniczenie postaci Twittera jest uchwytem z pierwszych dni aplikacji, podczas gdy tweety zostały wysłane jako teksty, które zostały ograniczone do stu sześćdziesięciu znaków. Myślał o rzeczywistości, która wyłania się jako jedna z cech definiujących produktu."
+        }
+    ],
+    "FAQ": [
+        {
+          "question": "How do I reduce myword count?",
+          "answer": "Using active voice instead of passive voice in your sentences, removing redundant words is an easy way to reduce your word count."
+        },
+        {
+          "question": "How can i count words in an essay?",
+          "answer": "Only copy and paste your essay into our word counter , and you'll get the word count for your essay."
+        },
+        {
+          "question": "Why do we need word ?",
+          "answer": "When requirement of your content is exactly word count then. It becomes necessary for your content to have a specific length. Here you can copy your content and get to know exact word online."
+        },
+        {
+          "question": "What is the limit to put character in word count?",
+          "answer": "It has no limit to upload word count. User can upload to check word as much as they want"
+        },
+        {
+          "question": "Where all we use word counter?",
+          "answer": "word limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "What is the advantages of word count?",
+          "answer": "The service is very scalable and avoids the form of source. Finally, our word counter also lets the user write, keep an eye on the number of characters and words during the typing process, and calculate all statistics on the fly. Editors or responsible persons may tune the text to the desired format and shape, send an examination report and finally save the typed material in a specified format."
+        },
+        {
+          "question": "What is different in this wordcounts",
+          "answer": "It gives not only accuracy but it makes your content with proper security."
+        },
+        {
+          "question": "Is word count is compatible with all browsers and devices?",
+          "answer": "Thiswordcounter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera... It suits to count characters in twitter, blog, books, word document, excel document, pdf document, essays, novel..."
+        },
+        {
+          "question": "Is word counter is compatible for english only or can this tool detect other languages?",
+          "answer": "word Counter is not solely for English. The tool can be useful for writing in non-English languages where character count is significant. This may be the case in Japanese, Korean, Chinese and many other languages, where characters are the base of the written language. Even for those who don't write in English, learning the character count of writing is also helpful to writing."
+        },
+        {
+          "question": "Does word Count Include Spaces?",
+          "answer": "Yes ,word count include as a space?"
+        },
+        {
+          "question": "What Does Word Counter Do?",
+          "answer": "Word Counter is word count and character recall tool. Word counter automatically count character (with and without area), words, sentences, paragraph (with an alternative) and commonplace sentence length Word counter robotically shows you the top keyword density of the item you are writing. You may additionally replica and paste a document you have already written into the word counter field and it is going to show the Word keep in mind and character numbers for that piece of writing. Word Counter offer seek container to appearance specific word or character in the record. Word Counter allows trading character case like upper case, lower case, right case (every first character of Word in capital letter) and also vice-versa."
+        }
+      ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

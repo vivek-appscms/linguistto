@@ -1,0 +1,117 @@
+{
+    "Languageselect": "อังกฤษ",
+    "htmlLangAttselect": "th",
+    "h1": "เครื่องมือนับคำ",
+    "h2": "",
+    "TITLE": "เครื่องมือนับจำนวนคำฟรี ไม่มีขีดจำกัดการใช้งาน - Contenttool - เครื่องมือที่ชาญฉลาดที่สุดสำหรับผู้เชี่ยวชาญด้านเนื้อหา",
+    "META": "นับคำในข้อความที่คัดลอกหรือเป็นประเภทของคุณรับผลลัพธ์ที่แม่นยำและทันท่วงที",
+    "keywords": "คีย์1, คีย์ 2, คีย์ 3, คีย์4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "ง่ายต่อการรู้เกี่ยวกับบทความของคุณนับคำออนไลน์",
+            "content": "คัดลอกบทความของคุณจากเอกสารของคุณและได้รับผลลัพธ์ของคุณทันทีนับคำ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "คุณลักษณะของการนับคำของเรา?",
+            "content": "วิธีการนับคำค่อนข้างง่ายที่จะใช้คุณสามารถพิมพ์ข้อความลงในกล่องได้โดยตรงหรือถ้าคุณใช้โปรแกรมประมวลผลคำหรือแอปพลิเคชันออนไลน์เช่น Google Documents เพื่อเขียนชิ้นงานของคุณคุณสามารถคัดลอกและวางลงในกล่องข้อความได้อย่างง่ายดาย"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "เมื่อ Transalation ไม่เพียงพอสำหรับบทความของคุณ, มันกำลังมองหาคำที่แน่นอน",
+            "content": "คุณสามารถไปที่เคาน์เตอร์คำที่คุณสามารถรู้เกี่ยวกับความยาวของบทความของคุณด้วยความถูกต้อง 100% ของการนับคำ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "จำนวนคำฟรีออนไลน์ในไม่กี่ขั้นตอน",
+            "content": "คัดลอกประโยคของคุณในการนับคำและได้รับผลของคุณ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "มันทำให้ง่ายต่อการทราบขอบเขตของคุณในการนับคำในออนไลน์",
+            "content": "มักจะมีข้อ จำกัด หรือขั้นต่ำสำหรับการบ้านเดียวกันมักจะเป็นจริงสำหรับการใช้งานในวิทยาลัย.ปฏิบัติตามเหล่านี้สามารถมีผลกระทบที่สำคัญเกี่ยวกับวิธีการเขียนนี้มีการให้คะแนนและการตรวจสอบ, และมันแสดงให้เห็นหรือไม่คุณสามารถที่จะทำตามทิศทางพื้นฐาน. ตัวนับคำสามารถให้แน่ใจว่าคุณไม่ได้ตั้งใจไปเกินขีด จำกัด หรือล้มเหลวในการตอบสนองขั้นต่ำที่อาจเป็นอันตรายต่องานเหล่านี้."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "ความแม่นยำในการนับคำฟรีและผลลัพธ์ที่รวดเร็วเพียงไม่กี่ขั้นตอน",
+            "content": "เราให้ความแม่นยำ 100% พร้อมผลลัพธ์ที่รวดเร็วเพียงคัดลอกข้อความของคุณและได้รับผลลัพธ์ทันทีในการนับคำ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "ตรวจสอบเรซูเม่ของคุณว่ามีจำนวนคำที่เกี่ยวข้อง",
+            "content": "การรู้จำนวนคำในเรซูเม่ของคุณอาจจำเป็นสำหรับผู้หางานเพื่อให้ได้รายละเอียดทั้งหมดที่คุณต้องการในหน้าเดียว"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "เมื่อคำบรรยายในทวีตของคุณกำลังมองหาคำที่แน่นอนคุณอยู่ในสถานที่ที่เหมาะสม",
+            "content": "ข้อ จำกัด ของตัวละครทวิตเตอร์เป็น holdover จากวันแรกของแอปในขณะที่ทวีตได้รับการส่งเป็นตำราซึ่งได้รับการ จำกัด ให้เป็นหนึ่งร้อยหกสิบตัวอักษรมันมีความคิดเกี่ยวกับความเป็นจริงที่โผล่ออกมาเป็นหนึ่งในลักษณะการกำหนดของผลิตภัณฑ์"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "การนับคำ บทนำ",
+            "content": "ข้อ จำกัด ของตัวละครทวิตเตอร์เป็น holdover จากวันแรกของแอปในขณะที่ทวีตได้รับการส่งเป็นตำราซึ่งได้รับการ จำกัด ให้เป็นหนึ่งร้อยหกสิบตัวอักษรมันมีความคิดเกี่ยวกับความเป็นจริงที่โผล่ออกมาเป็นหนึ่งในลักษณะการกำหนดของผลิตภัณฑ์"
+        }
+    ],
+    "FAQ": [
+        {
+          "question": "How do I reduce myword count?",
+          "answer": "Using active voice instead of passive voice in your sentences, removing redundant words is an easy way to reduce your word count."
+        },
+        {
+          "question": "How can i count words in an essay?",
+          "answer": "Only copy and paste your essay into our word counter , and you'll get the word count for your essay."
+        },
+        {
+          "question": "Why do we need word ?",
+          "answer": "When requirement of your content is exactly word count then. It becomes necessary for your content to have a specific length. Here you can copy your content and get to know exact word online."
+        },
+        {
+          "question": "What is the limit to put character in word count?",
+          "answer": "It has no limit to upload word count. User can upload to check word as much as they want"
+        },
+        {
+          "question": "Where all we use word counter?",
+          "answer": "word limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "What is the advantages of word count?",
+          "answer": "The service is very scalable and avoids the form of source. Finally, our word counter also lets the user write, keep an eye on the number of characters and words during the typing process, and calculate all statistics on the fly. Editors or responsible persons may tune the text to the desired format and shape, send an examination report and finally save the typed material in a specified format."
+        },
+        {
+          "question": "What is different in this wordcounts",
+          "answer": "It gives not only accuracy but it makes your content with proper security."
+        },
+        {
+          "question": "Is word count is compatible with all browsers and devices?",
+          "answer": "Thiswordcounter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera... It suits to count characters in twitter, blog, books, word document, excel document, pdf document, essays, novel..."
+        },
+        {
+          "question": "Is word counter is compatible for english only or can this tool detect other languages?",
+          "answer": "word Counter is not solely for English. The tool can be useful for writing in non-English languages where character count is significant. This may be the case in Japanese, Korean, Chinese and many other languages, where characters are the base of the written language. Even for those who don't write in English, learning the character count of writing is also helpful to writing."
+        },
+        {
+          "question": "Does word Count Include Spaces?",
+          "answer": "Yes ,word count include as a space?"
+        },
+        {
+          "question": "What Does Word Counter Do?",
+          "answer": "Word Counter is word count and character recall tool. Word counter automatically count character (with and without area), words, sentences, paragraph (with an alternative) and commonplace sentence length Word counter robotically shows you the top keyword density of the item you are writing. You may additionally replica and paste a document you have already written into the word counter field and it is going to show the Word keep in mind and character numbers for that piece of writing. Word Counter offer seek container to appearance specific word or character in the record. Word Counter allows trading character case like upper case, lower case, right case (every first character of Word in capital letter) and also vice-versa."
+        }
+      ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

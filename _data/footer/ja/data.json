@@ -1,0 +1,155 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "バージョン情報",
+            "url": "/about"
+        },
+        {
+            "name": "利用規約",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ヘルプ",
+            "url": "/help"
+        },
+        {
+            "name": "ブログ",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "パラフレーズツール",
+            "url": "/ja/paraphrasing-tool"
+        },
+        {
+            "name": "ドイツ語言い換えツール",
+            "url": "/ja/german-paraphrase-tool"
+        },
+        {
+            "name": "ヒンディー語言い換えツール",
+            "url": "/ja/hindi-paraphrase-tool"
+        },
+        {
+            "name": "ロシア語の言い換えツール",
+            "url": "/ja/russian-paraphrase-tool"
+        },
+        {
+            "name": "スペイン語の言い換えツール",
+            "url": "/ja/spanish-paraphrase-tool"
+        },
+        {
+            "name": "音訳ツール",
+            "url": "/ja/english-to-hindi-typing "
+        },
+        {
+            "name": "英語からベンガル語タイピング",
+            "url": "/ja/bangla-transliteration-tool"
+        },
+        {
+            "name": "ワードカウントツール",
+            "url": "/ja/word-count-tool"
+        },
+        {
+            "name": "文字数カウントツール",
+            "url": "/ja/character-count-tool"
+        },
+        {
+            "name": "センテンス翻訳",
+            "url": "/ja/sentence-translation"
+        },
+        {
+            "name": "メタチェッカーとタイトルチェッカー",
+            "url": "/ja/meta-and-title-checker"
+        },
+        {
+            "name": "ランダム形容詞ジェネレーター",
+            "url": "/ja/random-adjective-generator"
+        },
+        {
+            "name": "テキスト差分チェッカー",
+            "url": "/ja/text-difference-checker"
+        },
+        {
+            "name": "ランダム名詞ジェネレーター",
+            "url": "/ja/random-noun-generator"
+        },
+        {
+            "name": "ランダム段落ジェネレータ",
+            "url": "/ja/random-paragraph-generator"
+        },
+        {
+            "name": "ランダムレタージェネレーター",
+            "url": "/ja/random-letter-generator"
+        },
+        {
+            "name": "乱数文ジェネレータ",
+            "url": "/ja/random-sentence-generator"
+        },
+        {
+            "name": "Serp シミュレータ",
+            "url": "/ja/serp-simulator"
+        },
+        {
+            "name": "ウェブサイトのワードカウント",
+            "url": "/ja/website-word-count"
+        },
+        {
+            "name": "ランダムワードジェネレータ",
+            "url": "/ja/random-word-generator"
+        },
+        {
+            "name": "パラグラフリライタ",
+            "url": "/ja/paragraph-rewriter"
+        },
+        {
+            "name": "テキストリライター",
+            "url": "/ja/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "利用規約",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "プライバシーポリシー",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "お問合せ",
+            "url": "/contact"
+        }
+    ]
+}
