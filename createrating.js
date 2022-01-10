@@ -1,5 +1,5 @@
-import fs from 'fs'
-import axios from 'axios'
+const fs = require('fs')
+const axios = require('axios')
 const data = fs.readFileSync('./_data/rating/rating.json', {
   encoding: 'utf8',
   flag: 'r',
