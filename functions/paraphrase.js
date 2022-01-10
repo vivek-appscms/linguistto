@@ -9,7 +9,6 @@ exports.handler = async function (event, context) {
   const url = encodeURI(urlValue)
   try {
     response = await axios.get(url)
-    console.log(response.data)
   } catch (error) {
     console.log(error)
   }
