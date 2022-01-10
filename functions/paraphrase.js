@@ -1,4 +1,4 @@
-const axios = require('axios')
+import axios from 'axios'
 exports.handler = async function (event, context) {
   let requestParams = event['queryStringParameters']
   let value = requestParams['value']

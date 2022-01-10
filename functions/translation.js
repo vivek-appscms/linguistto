@@ -1,4 +1,4 @@
-const axios = require('axios')
+import axios from 'axios'
 exports.handler = async function (event, context) {
   let requestParams = event['queryStringParameters']
   let value = requestParams['value']
@@ -9,7 +9,6 @@ exports.handler = async function (event, context) {
   const url = encodeURI(urlValue)
   try {
     response = await axios.get(url)
-    console.log(response.data)
   } catch (error) {
     console.log(error)
   }

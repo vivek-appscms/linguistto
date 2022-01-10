@@ -60,18 +60,14 @@ async function paraphraseControler(string, lang) {
           try {
             const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${lang[i]}&tl=${lang[i + 1]}&dt=t&q=${paraphrase}`;
             return await getapi(api_url)
-        } catch (error) {
-            try {
-              const api_url = `http://127.0.0.1:9000/paraphrase/?baselocalecode=${lang[i]}&datalanguagecode=${
-                lang[i + 1]
-              }&value=${paraphrase}`;
-                return await getapi(api_url)
-            } catch (error) {
-                console.log(error)
-            }
-        }
-          
-        
+          } catch (error) {
+              try {
+                  const api_url = `/.netlify/functions/translation/?baselocalecode=${lang[i]}&datalanguagecode=${lang[i + 1]}&value=${paraphrase}`
+                  return await getapi(api_url)
+              } catch (error) {
+                  console.log(error)
+              }
+          }
         }
     }
 }
