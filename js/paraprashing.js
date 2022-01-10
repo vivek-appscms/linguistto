@@ -59,7 +59,6 @@ async function paraphraseControler(string, lang) {
         }
       } catch (error) {
         try {
-          debugger
           const api_url = ` /.netlify/functions/paraphrase/functions/paraphrase/?baselocalecode=${lang[i]}&datalanguagecode=${lang[i + 1]}&value=${paraphrase}`
           const response = await fetch(api_url);
           let data = await response.json();
