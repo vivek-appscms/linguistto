@@ -1,0 +1,16 @@
+{
+    "Languageselect": "Engels",
+    "htmlLangAttselect": "nl",
+    "h1": "Lijst met vertalingen",
+    "h2": "",
+    "TITLE": "Contenttool - Slimste tools voor contentprofessionals",
+    "META": "Tel woorden in je gekopieerde tekst of als je type. Ontvang direct en nauwkeurige resultaten",
+    "keywords": "sleutel 1, sleutel2, sleutel3, sleutel4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

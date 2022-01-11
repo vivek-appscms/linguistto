@@ -1,0 +1,58 @@
+{
+    "Languageselect": "영어",
+    "htmlLangAttselect": "en",
+    "h1": "양질의 콘텐츠를 얻으려면 무료 온라인 단락 리라이터를 사용하십시오.",
+    "h2": "필기 문제에 대한 궁극적 인 해결책",
+    "TITLE": "단락 재 작성기-무제한의 문서를 다시 작성하는 가장 좋은 도구입니다. ",
+    "META": "고급 웹 기반 단락 다시 작성기는 기사를 다시 작성하거나 의역 할 수있는 완벽한 장소입니다.우리의 도구는 주제의 진정한 본질을 제공합니다.표절 및 문법 오류의 모든 위험을 최소화하는 가장 효과적인 도구입니다.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

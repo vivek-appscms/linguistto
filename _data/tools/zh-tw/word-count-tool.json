@@ -1,0 +1,117 @@
+{
+    "Languageselect": "英語",
+    "htmlLangAttselect": "恩",
+    "h1": "字數計數工具",
+    "h2": "",
+    "TITLE": "免費的字數計數工具，沒有使用限制-Content Tool-面向內容專業人士的最聰明的工具",
+    "META": "計算複製文本中的單詞或作為您的類型。獲得即時準確的結果。",
+    "keywords": "鍵 1, 鍵 2, 鍵 3, 鍵 4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "易於瞭解您的文章在線字數",
+            "content": "從文檔中複製您的文章，並立即獲得結果字數。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "我們的字數計數的特點？",
+            "content": "字數計數方法非常容易使用。您可以直接在框中鍵入文本。或者，如果您使用文字處理器或在線應用程序（如 Google 文檔）來編寫作品，則可以輕鬆地將其複製並粘貼到文本框中。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "當交易是不夠的你的文章, 它正在尋找確切的單詞",
+            "content": "你可以去單詞計數器，你可以知道你的文章的長度，100％ 準確的字數"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "只需幾步即可在線免費字數",
+            "content": "複製你的句子在字數計數中，並得到你的結果。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "它可以更容易地知道你的邊界在線字數",
+            "content": "家庭作業通常有限制或最低限度.大學申請的情況通常也是如此。遵守這些可能會對這篇文章的評級和審查產生重大影響，並顯示你是否能夠遵循基本的方向。單詞計數器可以確保你不會意外超過限制或未能達到可能對這些作業有害的最低限度。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "只需幾步即可獲得免費的字數計數準確性和快速結果",
+            "content": "我們提供 100％ 的準確性，快速結果只需複製您的文本，即可獲得您的字數計數"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "檢查您的簡歷是否有相關的字數",
+            "content": "瞭解簡歷中的字數可能是求職者在一個頁面上獲得您想要的所有詳細信息的必要條件。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "當您的推文標題正在尋找確切的單詞時，您位於正確的位置",
+            "content": "Twitter 的字符限制是應用程序早期的暫停，而推文已經作為文本發送，這已被限製為一百六十個字符。它已經思考了作為產品的定義特徵之一出現的現實。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "字數簡介",
+            "content": "Twitter 的字符限制是應用程序早期的暫停，而推文已經作為文本發送，這已被限製為一百六十個字符。它已經思考了作為產品的定義特徵之一出現的現實。"
+        }
+    ],
+    "FAQ": [
+        {
+          "question": "How do I reduce myword count?",
+          "answer": "Using active voice instead of passive voice in your sentences, removing redundant words is an easy way to reduce your word count."
+        },
+        {
+          "question": "How can i count words in an essay?",
+          "answer": "Only copy and paste your essay into our word counter , and you'll get the word count for your essay."
+        },
+        {
+          "question": "Why do we need word ?",
+          "answer": "When requirement of your content is exactly word count then. It becomes necessary for your content to have a specific length. Here you can copy your content and get to know exact word online."
+        },
+        {
+          "question": "What is the limit to put character in word count?",
+          "answer": "It has no limit to upload word count. User can upload to check word as much as they want"
+        },
+        {
+          "question": "Where all we use word counter?",
+          "answer": "word limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "What is the advantages of word count?",
+          "answer": "The service is very scalable and avoids the form of source. Finally, our word counter also lets the user write, keep an eye on the number of characters and words during the typing process, and calculate all statistics on the fly. Editors or responsible persons may tune the text to the desired format and shape, send an examination report and finally save the typed material in a specified format."
+        },
+        {
+          "question": "What is different in this wordcounts",
+          "answer": "It gives not only accuracy but it makes your content with proper security."
+        },
+        {
+          "question": "Is word count is compatible with all browsers and devices?",
+          "answer": "Thiswordcounter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera... It suits to count characters in twitter, blog, books, word document, excel document, pdf document, essays, novel..."
+        },
+        {
+          "question": "Is word counter is compatible for english only or can this tool detect other languages?",
+          "answer": "word Counter is not solely for English. The tool can be useful for writing in non-English languages where character count is significant. This may be the case in Japanese, Korean, Chinese and many other languages, where characters are the base of the written language. Even for those who don't write in English, learning the character count of writing is also helpful to writing."
+        },
+        {
+          "question": "Does word Count Include Spaces?",
+          "answer": "Yes ,word count include as a space?"
+        },
+        {
+          "question": "What Does Word Counter Do?",
+          "answer": "Word Counter is word count and character recall tool. Word counter automatically count character (with and without area), words, sentences, paragraph (with an alternative) and commonplace sentence length Word counter robotically shows you the top keyword density of the item you are writing. You may additionally replica and paste a document you have already written into the word counter field and it is going to show the Word keep in mind and character numbers for that piece of writing. Word Counter offer seek container to appearance specific word or character in the record. Word Counter allows trading character case like upper case, lower case, right case (every first character of Word in capital letter) and also vice-versa."
+        }
+      ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

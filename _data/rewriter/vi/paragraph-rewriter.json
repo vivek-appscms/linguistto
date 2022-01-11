@@ -1,0 +1,58 @@
+{
+    "Languageselect": "Anh",
+    "htmlLangAttselect": "vi",
+    "h1": "Sử dụng trình viết lại đoạn văn trực tuyến miễn phí cho nội dung chất lượng.",
+    "h2": "Giải pháp cuối cùng cho các vấn đề viết của bạn",
+    "TITLE": "Đoạn viết lại- Công cụ tốt nhất để viết lại số lượng tài liệu không giới hạn. ",
+    "META": "Nâng cao web dựa trên đoạn văn viết lại là một nơi hoàn hảo để bạn có thể viết lại hoặc diễn giải các bài viết. Công cụ của chúng tôi cung cấp bản chất thực sự của chủ đề. Công cụ hiệu quả nhất để giảm thiểu tất cả các rủi ro của đạo văn và lỗi ngữ pháp.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

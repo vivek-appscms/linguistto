@@ -1,0 +1,16 @@
+{
+    "Languageselect": "Englisch",
+    "htmlLangAttselect": "de",
+    "h1": "Liste der Übersetzungen",
+    "h2": "",
+    "TITLE": "Contenttool - Intelligenteste Tools für Content-Profis",
+    "META": "Zählen Sie Wörter in Ihrem kopierten Text oder als Ihren Typ. Sofortige und genaue Ergebnisse",
+    "keywords": "Taste 1, Taste 2, Taste 3, Schlüssel 4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

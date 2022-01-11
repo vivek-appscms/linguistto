@@ -1,0 +1,59 @@
+{
+    "Language": "Англійська мова",
+    "htmlLangAtt": "en",
+    "h1": "англійська —> хінді Набір тексту",
+    "h2": "",
+    "TITLE": "Англійська на хінді набравши онлайн - Найпростіший спосіб для гінді набору тексту - Contenttool - Розумні інструменти для професіоналів контенту",
+    "META": "हिन्दी में टाइप करें - Use official contenttool's english to hindi typing software to type in Hindi online",
+    "keywords": "ключ1, ключ2, ключ3, ключ4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

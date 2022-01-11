@@ -1,0 +1,155 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "Про",
+            "url": "/about"
+        },
+        {
+            "name": "Правила та умови",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Допомога",
+            "url": "/help"
+        },
+        {
+            "name": "Блог",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Інструмент для перефразування",
+            "url": "/uk/paraphrasing-tool"
+        },
+        {
+            "name": "Німецький інструмент парафраз",
+            "url": "/uk/german-paraphrase-tool"
+        },
+        {
+            "name": "Інструмент «Парафраз з хінді»",
+            "url": "/uk/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Інструмент «Перефраза Російська»",
+            "url": "/uk/russian-paraphrase-tool"
+        },
+        {
+            "name": "Іспанський інструмент парафраз",
+            "url": "/uk/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Інструмент транслітерації",
+            "url": "/uk/english-to-hindi-typing "
+        },
+        {
+            "name": "англійська —> бангла Набір тексту",
+            "url": "/uk/bangla-transliteration-tool"
+        },
+        {
+            "name": "Інструмент підрахунку слів",
+            "url": "/uk/word-count-tool"
+        },
+        {
+            "name": "Інструмент «Кількість символів»",
+            "url": "/uk/character-count-tool"
+        },
+        {
+            "name": "Переклад речення",
+            "url": "/uk/sentence-translation"
+        },
+        {
+            "name": "Мета і перевірка заголовків",
+            "url": "/uk/meta-and-title-checker"
+        },
+        {
+            "name": "Генератор випадкових прикметників",
+            "url": "/uk/random-adjective-generator"
+        },
+        {
+            "name": "Перевірка різниці тексту",
+            "url": "/uk/text-difference-checker"
+        },
+        {
+            "name": "Генератор випадкових іменників",
+            "url": "/uk/random-noun-generator"
+        },
+        {
+            "name": "Генератор випадкових пунктів",
+            "url": "/uk/random-paragraph-generator"
+        },
+        {
+            "name": "Генератор випадкових листів",
+            "url": "/uk/random-letter-generator"
+        },
+        {
+            "name": "Генератор випадкових речень",
+            "url": "/uk/random-sentence-generator"
+        },
+        {
+            "name": "Serp симулятор",
+            "url": "/uk/serp-simulator"
+        },
+        {
+            "name": "Кількість слів сайту",
+            "url": "/uk/website-word-count"
+        },
+        {
+            "name": "Генератор випадкових слів",
+            "url": "/uk/random-word-generator"
+        },
+        {
+            "name": "Переавтор абзацу",
+            "url": "/uk/paragraph-rewriter"
+        },
+        {
+            "name": "Текст Рерайтер",
+            "url": "/uk/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Правила та умови",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Політика конфіденційності",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "зв'яжіться з нами",
+            "url": "/contact"
+        }
+    ]
+}

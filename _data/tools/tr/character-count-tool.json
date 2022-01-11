@@ -1,0 +1,118 @@
+{
+    "Languageselect": "İngilizce",
+    "htmlLangAttselect": "tr",
+    "h1": "Karakter Sayımı Aracı",
+    "h2": "",
+    "TITLE": "Ücretsiz karakter sayısı aracı, kullanım sınırı yok - Contenttool - İçerik uzmanları için en akıllı araçlar",
+    "META": "Kopyalanan metninizdeki karakterleri veya türünüz olarak sayın. Anında ve doğru sonuçlar alın.",
+    "keycharacters": "tuş1, anahtar2, tuş3, anahtar4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Makalenizin karakter sayısı hakkında bilmek kolay çevrimiçi",
+            "content": "Makalenizi belgenizden kopyalayın ve sonuç anında karakter sayısını alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Karakter sayımımızın özelliği mi?",
+            "content": "Karakter sayımı yönteminin kullanımı oldukça kolaydır. Metninizi doğrudan kutuya yazabilirsiniz. Veya parçanızı yazmak için bir karakter işlemcisi veya Google Belgeleri gibi çevrimiçi bir uygulama kullanıyorsanız, kolayca kopyalayıp bir metin kutusuna yapıştırabilirsiniz."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Ne zaman çeviri makaleniz için yeterli değildir, Tam karakter arıyor",
+            "content": "karakter sayımının% 100 doğruluğu ile makalenizin uzunluğunu bilebileceğiniz karakter sayacı için gidebilirsiniz"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Birkaç adımda ücretsiz karakter sayısı",
+            "content": "Cümlenizi karakter sayısında kopyalayın ve sonucunuzu alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Çevrimiçi karakter sayımındaki sınırlarınızı bilmek daha kolay hale getirir",
+            "content": "ödev ödevleri için genellikle sınırlar veya minimumlar vardır. Aynı şey genellikle üniversite başvuruları için de geçerlidir. Bunlara uymak, bu yazının sınıflandırıldığı ve gözden geçirildiği üzerinde büyük bir etkisi olabilir ve temel yönleri takip edip edemeyeceğinizi gösterir. karakter sayacı yanlışlıkla sınırları aşmadığınızdan veya bu atamalar için zararlı olabilecek asgari değerleri karşılamadığınızdan emin olabilirsiniz."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Sadece birkaç adımda ücretsiz karakter sayısı doğruluğu ve hızlı sonuç",
+            "content": "Hızlı sonuç ile% 100 doğruluk veriyoruz sadece metninizi kopyalayın ve karakter sayısında anında sonuç alın"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "İlgili karakter sayısına sahip Özgeçmişinizi kontrol edin",
+            "content": "Özgeçmişinizdeki karakter sayısını bilmek, iş arayanların tek bir sayfada istediğiniz tüm ayrıntıları alabilmeleri için gerekli olabilir."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tweet başlığınız tam karakteri ararken doğru yerdesiniz",
+            "content": "Twitter'ın karakter kısıtlaması, tweetler yüz altmış karakterle kısıtlanmış olan metinler olarak gönderildi iken uygulamanın ilk günlerinden kalma bir tutucudur. Ürünün tanımlayıcı özelliklerinden biri olarak ortaya çıkan gerçekliği düşünmüştür."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "karakter sayısı giriş",
+            "content": "Karakter Sayacı, kullanımı kolay% 100 ücretsiz çevrimiçi karakter sayısı hesap makinesidir. Genellikle insanlar Word Counter'ın sağladığı tüm kapsamlı yazma ayrıntılarına kolaylık seçerler ve bu sadece bu aracın verdiği şeydir. Karakterlerin sayısını ve cümlelerin sayısını gösterir, ki bu da bir kişinin yazıları hakkında bilmek istediği tek detay her zaman budur. Hepsinden iyisi, ihtiyacınız olan bilgiye sahip olacaksınız."
+        }
+    ],
+    "FAQ": [
+        {
+          "question": "How do I reduce my character count?",
+          "answer": "Using active voice instead of passive voice in your sentences, removing redundant words is an easy way to reduce your word count."
+        },
+        {
+          "question": "How can i count character in an essay?",
+          "answer": "Only copy and paste your essay into our characer counter , and you'll get the word count for your essay."
+        },
+        {
+          "question": "Why do we need character count ?",
+          "answer": "It has no limit to upload character count. User can upload to check character as much as they want"
+        },
+        {
+          "question": "What is the limit to put character in character count?",
+          "answer": "Character limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "Where all we use character counter?",
+          "answer": "Character limits are very popular on the Internet these days. The one that most people are likely to be aware of is the 140 character limit for tweets on Twitter, but character limits are not exclusive to Twitter. There are limitations on text messaging (SMS), Yelp ratings, Facebook updates, Pinterest pins, Reddit titles and articles, eBay titles and details as well as many more. Knowing these boundaries, as well as being able to see you approach them, will make it easier for you to articulate yourself within the limits imposed"
+        },
+        {
+          "question": "What is the advantages of character count?",
+          "answer": "The service is very scalable and avoids the form of source. Finally, our character counter also lets the user write, keep an eye on the number of characters and words during the typing process, and calculate all statistics on the fly. Editors or responsible persons may tune the text to the desired format and shape, send an examination report and finally save the typed material in a specified format."
+        },
+        {
+          "question": "What is different in this character counts",
+          "answer": "It gives not only accuracy but it makes your content with proper security"
+        },
+        {
+          "question": "Is character count is compatible with all browsers and devices?",
+          "answer": "This character counter software works in any web browsers such as Chrome, Firefox, Internet Explorer, Safari, Opera... It suits to count characters in twitter, blog, books, word document, excel document, pdf document, essays, novel..."
+        },
+        {
+          "question": "Is character counter is compatible for english only or can this tool detect other languages?",
+          "answer": "character Counter is not solely for English. The tool can be useful for writing in non-English languages where character count is significant. This may be the case in Japanese, Korean, Chinese and many other languages, where characters are the base of the written language. Even for those who don't write in English, learning the character count of writing is also helpful to writing."
+        },
+        {
+          "question": "Does character Count Include Spaces?",
+          "answer": "Yes ,character count include as a space?"
+        },
+        {
+          "question": "What Does character Counter Do?",
+          "answer": "Character Counter is word count and character recall tool. character counter automatically count character (with and without area), words, sentences, paragraph (with an alternative) and commonplace sentence length character counter robotically shows you the top keyword density of the item you are writing. You may additionally replica and paste a document you have already written into the word counter field and it is going to show the Word keep in mind and character numbers for that piece of writing. characterCounter offer seek container to appearance specific word or character in the record. character Counter allows trading character case like upper case, lower case, right case (every first character of Word in capital letter) and also vice-versa."
+        }
+      ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/character-counter.css\" />"
+    ]
+}

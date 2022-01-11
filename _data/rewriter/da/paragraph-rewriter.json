@@ -1,0 +1,58 @@
+{
+    "Languageselect": "engelsk",
+    "htmlLangAttselect": "da",
+    "h1": "Brug gratis online afsnit brænder for kvalitetsindhold.",
+    "h2": "Ultimativ løsning på dine skriveproblemer",
+    "TITLE": "Afsnit brænder- Bedste værktøj til at omskrive ubegrænset antal dokumenter. ",
+    "META": "Avanceret webbaseret afsnit brænder er et perfekt sted for dig at omskrive eller omskrive artiklerne. Vores værktøj leverer den sande essens af emnet. Det mest effektive værktøj til at minimere alle risici for plagiering og grammatiske fejl.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}
