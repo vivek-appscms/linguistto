@@ -23,8 +23,8 @@
   ],
   "homepage": "https://appscms.com",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^0.21.1",
     "front-matter": "^4.0.2",
-    "netlify-lambda": "^2.0.9"
+    "netlify-lambda": "^2.0.15"
   }
 }

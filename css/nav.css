@@ -2,4 +2,8 @@
     .catPad {
         padding: 0px !important;
     }
-}
+} 
+.dropdown-menu {
+    overflow-y: scroll !important;
+    height: 70vh !important;
+  }

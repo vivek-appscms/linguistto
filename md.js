@@ -4,7 +4,7 @@ let home = {
   path: './index.html',
 }
 let features = {
-  dir: './translate/',
+  dir: './paraphrase/',
 }
 let fl = fs.readdirSync(features.dir + 'en')
 if (!fs.existsSync('home')) {

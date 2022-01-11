@@ -1,11 +1,11 @@
 {
-    "Languageselect" : "English",
-"htmlLangAttselect": "en",
+    "Language" : "English",
+"htmlLangAtt": "en",
     "h1": "Marathi to English sentence translation",
     "h2": "Best Online Sentence Translation",
     "TITLE": "Marathi to English sentence translation | Translate your sentences online free",
     "META": "Translate your sentences from marathi to English instantly for free. We have no usage limits. Try out for free !",
-    "keywords": "key1,key2,key3,key4",
+   
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
