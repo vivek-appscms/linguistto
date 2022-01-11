@@ -73,13 +73,6 @@
       "url": "/character-count-tool"
     },
     {
-      "name": "Sentence translation",
-      "description": "Online X to Y sentence translation",
-      "color": "#2c3774",
-      "icon": "/assets/img/german.svg",
-      "url": "/sentence-translation"
-    },
-    {
       "name": "Paragraph Rewriter",
       "description": "online paragraph rewriter for quality content",
       "color": "#8080ff",
