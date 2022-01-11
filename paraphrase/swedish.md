@@ -1,7 +1,7 @@
 ---
 layout: home
 fileName: swedish-paraphrase-tool
-language: sv
+language: sv    
 folderName : features
 lang: en
 permalink: swedish-paraphrase-tool
