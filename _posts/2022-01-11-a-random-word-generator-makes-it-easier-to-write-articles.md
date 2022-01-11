@@ -4,11 +4,10 @@ categories: []
 title: A random word generator makes it easier to write articles
 layout: post
 hero: Nikita
-image: ''
+image: "/uploads/output-13.png"
 comments: false
 
 ---
-
 The English language is the international language. There are more English speakers who learned the language as a second language than native speakers. It's fascinating!
 
 Every day, new terms are added to the English vocabulary, increasing the possibility of greater word originality when producing an essay. There are numerous words to choose from. New words, nouns, words that have meaning but sound unusual to the ear, words that aren't very popular but are very hip, and a variety of other words are all used to clarify our message and start an engaging discourse.
