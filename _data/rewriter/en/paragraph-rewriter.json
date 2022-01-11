@@ -1,0 +1,58 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "h1": "Use free online paragraph rewriter for quality content.",
+    "h2": "Ultimate solution to your writing problems",
+    "TITLE": "Paragraph rewriter- Best tool to rewrite unlimited number of documents. ",
+    "META": "Advanced web based paragraph rewriter is a perfect place for you to rewrite or paraphrase the articles. Our tool delivers the true essence of the topic. The most effective tool for minimizing all the risks of plagiarism and grammatical errors.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+      {
+        "priority": 1,
+        "logoUrl": "/assets/bulb.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/guaranty.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/support.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/protect.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/easy.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/cloud.svg",
+        "header": "",
+        "content": ""
+      }
+    ],
+    "FAQ": [
+      {
+        "question": "",
+        "answer": ""
+      }
+    ],
+    "csscdns":[
+      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+  }

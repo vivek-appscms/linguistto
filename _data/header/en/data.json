@@ -1,75 +1,189 @@
-{   "navbarBrandText":"",
-    "navbarBrandLogo": "/img/logo.png",
-    
-    "megaMenu": {
-      "nav-link-name": "Tools",
-      "dropdown": [
-        {
-       "categoryName":"paraphrasing tool",
-       "links": [
-        {
-          "iconSrc": "/assets/download.png",
-          "name": "Hindi Paraphrase tool",
-          "url":"/hindi-paraphrase-tool",
-          "hover": "blue"
-        },
-        {
-          "iconSrc": "/assets/download.png",
-          "name": "Russian Paraphrase tool",
-          "url":"/russian-paraphrase-tool",
-          "hover": "blue"
-        },
-        {
-          "iconSrc": "/assets/download.png",
-          "name": "Spanish Paraphrase tool",
-          "url":"/spanish-paraphrase-tool",
-          "hover": "blue"
-        },
-        {
-          "iconSrc": "/assets/download.png",
-          "name": "Transliteration tool",
-          "url":"/english-to-hindi-typing",
-          "hover": "blue"
-        },
-        {
-          "iconSrc": "/assets/download.png",
-          "name": "Word count tool",
-          "url":"/word-count-tool",
-          "hover": "blue"
-        }
-      ]
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "/img/logo.png",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "paraphrasing tool",
+        "links": [
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Hindi Paraphrase tool",
+            "url": "/hindi-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Russian Paraphrase tool",
+            "url": "/russian-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Spanish Paraphrase tool",
+            "url": "/spanish-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "English to hindi Typing",
+            "url": "/english-to-hindi-typing",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "English to bangla Typing",
+            "url": "bangla-transliteration-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "German Paraphrase tool",
+            "url": "/german-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Korean Paraphrase tool",
+            "url": "/korean-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Danish Paraphrase tool",
+            "url": "/danish-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Italian Paraphrase tool",
+            "url": "/italian-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Polish Paraphrase tool",
+            "url": "/polish-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Swedish Paraphrase tool",
+            "url": "/swedish-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Thai-paraphrase-tool",
+            "url": "/thai-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Japanese-paraphrase-tool",
+            "url": "/japanese-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "arabic-paraphrase-tool",
+            "url": "/arabic-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Ukranian-paraphrase-tool",
+            "url": "/ukranian-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Chinese-paraphrase-tool",
+            "url": "/chinese-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Indonesian-paraphrase-tool",
+            "url": "/indonesian-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "vietnamese-paraphrase-tool",
+            "url": "/vietnamese-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "French-paraphrase-tool",
+            "url": "/french-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Dutch-paraphrase-tool",
+            "url": "/dutch-paraphrase-tool"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "name": "Portuguese-paraphrase-tool",
+            "url": "/portuguese-paraphrase-tool"
+          }
+        ]
       },
       {
         "categoryName": "Other Tools",
         "links": [
           {
-            "iconSrc": "/assets/download.png",
-            "name": "Character count tool",
-            "url":"/character-count-tool",
-            "hover": "blue"
-          },
-          {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Sentence translation",
-            "url":"/sentence-translation",
+            "url": "/sentence-translation",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Meta and title checker",
-            "url":"/meta-and-title-checker",
+            "url": "/meta-and-title-checker",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random adjective generator",
-            "url":"/random-adjective-generator",
+            "url": "/random-adjective-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Text difference checker",
-            "url":"/text-difference-checker",
+            "url": "/text-difference-checker",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Word count tool",
+            "url": "/word-count-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Character count tool",
+            "url": "/character-count-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Paragraph Rewriter",
+            "url": "/paragraph-rewriter",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Text Rewriter",
+            "url": "/text-rewriter",
             "hover": "blue"
           }
         ]
@@ -78,54 +192,55 @@
         "categoryName": "Other Tools",
         "links": [
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random noun generator",
-            "url":"/random-noun-generator",
+            "url": "/random-noun-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random paragraph generator",
-            "url":"/random-paragraph-generator",
+            "url": "/random-paragraph-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random letter generator",
-            "url":"/random-letter-generator",
+            "url": "/random-letter-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random sentence generator",
-            "url":"/random-sentence-generator",
+            "url": "/random-sentence-generator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Serp simulator",
-            "url":"/serp-simulator",
+            "url": "/serp-simulator",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Website word count",
-            "url":"/website-word-count",
+            "url": "/website-word-count",
             "hover": "blue"
           },
           {
-            "iconSrc": "/assets/download.png",
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random word generator",
-            "url":"/random-word-generator",
+            "url": "/random-word-generator",
             "hover": "blue"
           }
         ]
-      }
-      ]},
-    "navItems": [
-      {
-        "name": "Blog",
-        "url": "/blog"
       }
     ]
+  },
+  "navItems": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ]
 }

@@ -39,10 +39,73 @@
     {
       "name": "Spanish Paraphrase tool",
       "url": "/spanish-paraphrase-tool"
+    },{
+      "name": "Korean Paraphrase tool",
+      "url": "/korean-paraphrase-tool"
+    },
+    {
+      "name": "Danish Paraphrase tool",
+      "url": "/danish-paraphrase-tool"
+    },
+    {
+      "name": "Italian Paraphrase tool",
+      "url": "/italian-paraphrase-tool"
+    },
+    {
+      "name": "Polish Paraphrase tool",
+      "url": "/polish-paraphrase-tool"
+    },
+    {
+      "name": "Swedish Paraphrase tool",
+      "url": "/swedish-paraphrase-tool"
+    },
+    {
+      "name": "Thai-paraphrase-tool",
+      "url": "/thai-paraphrase-tool"
+    },
+    {
+      "name": "Japanese-paraphrase-tool",
+      "url": "/japanese-paraphrase-tool"
+    },
+    {
+      "name": "arabic-paraphrase-tool",
+      "url": "/arabic-paraphrase-tool"
+    },
+    {
+      "name": "Ukranian-paraphrase-tool",
+      "url": "/ukranian-paraphrase-tool"
+    },
+    {
+      "name": "Chinese-paraphrase-tool",
+      "url": "/chinese-paraphrase-tool"
+    },
+    {
+      "name": "Indonesian-paraphrase-tool",
+      "url": "/indonesian-paraphrase-tool"
+    },
+    {
+      "name": "vietnamese-paraphrase-tool",
+      "url": "/vietnamese-paraphrase-tool"
+    },
+    {
+      "name": "French-paraphrase-tool",
+      "url": "/french-paraphrase-tool"
+    },
+    {
+      "name": "Dutch-paraphrase-tool",
+      "url": "/dutch-paraphrase-tool"
+    },
+    {
+      "name": "Portuguese-paraphrase-tool",
+      "url": "/portuguese-paraphrase-tool"
     },
     {
       "name": "Transliteration tool",
       "url": "/english-to-hindi-typing "
+    },
+    {
+      "name": "English to bangla Typing",
+      "url":"bangla-transliteration-tool"
     },
     {
       "name": "Word count tool",
@@ -95,6 +158,14 @@
     {
       "name": "Random word generator",
       "url": "/random-word-generator"
+    },
+    {
+      "name": "Paragraph Rewriter",
+      "url": "/paragraph-rewriter"
+    },
+    {
+      "name": "Text Rewriter",
+      "url": "/text-rewriter"
     }
   ],
   "networkSites": [],

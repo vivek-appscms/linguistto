@@ -1,11 +1,10 @@
 {
-    "Language": "English",
-    "htmlLangAtt": "en",
+    "Languageselect" : "English",
+"htmlLangAttselect": "en",
     "h1": "Paraphrasing tool for professionals",
     "h2": "",
     "TITLE": "Paraphrasing tool for professionals.- Rewrite content online for free.",
     "META": " Get multiple paraphrased variants of your content and pick the best variant for your use case. Only tool which provides this feature. Try it out now !",
-    "keywords": "key1,key2,key3,key4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
