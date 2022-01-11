@@ -30,6 +30,7 @@ async function paraphraseControler(string, lang) {
     // showParaphrase(10, 15, 3)
 
     async function showParaphrase(start, end, option) {
+    document.getElementById(`paraphrase-output-${option}`).innerHTML="translation in progress..."
         try {
           for (let i = start; i < end; i++) {
             const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${lang[i]}&tl=${lang[i + 1]}&dt=t&q=${paraphrase}`;
@@ -89,6 +90,7 @@ async function paraphraseControler(string, lang) {
           }
           } catch (error) {
               console.log(error)
+              document.getElementById(`paraphrase-output-${option}`).innerHTML="We are facing some issues at this time. Please try again after 20 minutes"
           }
       }
     }

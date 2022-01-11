@@ -32,18 +32,18 @@
       "url": "/hindi-paraphrase-tool"
     },
     {
-      "name": "Russian Paraphrase tool",
-      "description": "Russian Paraphrasing tool for professionals",
-      "color": "#33cccc",
-      "icon": "/assets/img/rishain.svg",
-      "url": "/russian-paraphrase-tool"
-    },
-    {
       "name": "spanish-paraphrase-tool",
       "description": "Spanish Paraphrasing tool for professionals",
       "color": "#0e6d6d",
       "icon": "/assets/img/spanish.svg",
       "url": "/spanish-paraphrase-tool"
+    },
+    {
+      "name": "Russian Paraphrase tool",
+      "description": "Russian Paraphrasing tool for professionals",
+      "color": "#33cccc",
+      "icon": "/assets/img/rishain.svg",
+      "url": "/russian-paraphrase-tool"
     },
     {
       "name": "Transliteration tool",
@@ -63,7 +63,7 @@
       "name": "Word count tool",
       "description": "Online Word Count Tool",
       "color": "#4373fc",
-      "icon": "/assets/img/paraprashing.svg",
+      "icon": "/assets/img/paraprashing.svg ",
       "url": "/word-count-tool"
     },
     {
