@@ -4,7 +4,7 @@ categories: []
 title: 10 amazing free tools to translate English to Urdu sentences easily
 layout: post
 hero: Nikita
-image: ''
+image: "/uploads/qjdnd.png"
 comments: false
 
 ---
