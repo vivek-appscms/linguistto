@@ -4,7 +4,7 @@ categories: []
 title: Write creative sentence with random noun generator for free
 layout: post
 hero: Nikita
-image: ''
+image: "/uploads/ewd.png"
 comments: false
 
 ---
