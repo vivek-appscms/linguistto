@@ -4,7 +4,7 @@ categories: []
 title: Ideal qualities your English to Amharic translator should have
 layout: post
 hero: Nikita
-image: ''
+image: "/uploads/wfow.png"
 comments: false
 
 ---
