@@ -4,10 +4,11 @@ categories: []
 title: Tips & tricks to translate English document in Amharic language with Google
 layout: post
 hero: Nikita
-image: ''
+image: "/uploads/qnd.png"
 comments: false
 
 ---
+There are dozens of languages spoken in Africa. Indigenous languages, pidgins, and creoles are among them. There are also a few daughter languages from the colonial period that are still spoken in the area. People in every country speak more than one vernacular due to ethnic and linguistic variety. Ethiopia's situation is no different. Amharic is the country's official language and lingua franca. However, Oromo, Somali, and Harari are spoken by a substantial number of people. The vernaculars have affected Amharic since they are frequently in contact with each other.
 
 What is the easiest approach to convert an English document to Amharic for free?
 
