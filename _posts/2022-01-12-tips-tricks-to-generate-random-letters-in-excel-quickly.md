@@ -4,11 +4,10 @@ categories: []
 title: Tips & tricks to generate random letters in excel quickly
 layout: post
 hero: Nikita
-image: ''
+image: "/uploads/doqd.png"
 comments: false
 
 ---
-
 Have you ever been in a position where you needed to generate a random set of letters? You do, after all, need to generate some random alphabets now and then.
 
 Right?
