@@ -23,46 +23,20 @@
                     </button>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div style="margin-bottom: 25px">
-                    <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 copy-btn"
-                        onclick="clipboardHandler('paraphrase-output-1')">copy</p>
-                    <p style="font-size:14px" class="float-left m-0 p-0 pl-3 ">Option 1</p>
-                    <p class="float-right m-0 p-0 pr-3" id="tooltip-1" data-toggle="tooltip" data-placement="top"
-                        title="x out of y words are different from input">
-                        <small id="total-different-1">0</small> / <small id="total-input-words-1">0</small>
-                    </p>
-
+            <!-- <div class="col-md-4 main-div">
+                <button aria-label="Swap currencies" type="button" class="kDuZbJ"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 17" aria-hidden="true" class="miscellany___StyledIconSwap-sc-1r08bla-1 fZJuOo"><path fill="currentColor" fill-rule="evenodd" d="M11.726 1.273l2.387 2.394H.667V5h13.446l-2.386 2.393.94.94 4-4-4-4-.94.94zM.666 12.333l4 4 .94-.94L3.22 13h13.447v-1.333H3.22l2.386-2.394-.94-.94-4 4z" clip-rule="evenodd"></path></svg></button>
+            </div> -->
+            <div class="col-md-6 mb-3">
+                <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 copy-btn"
+                onclick="clipboardHandler('paraphrase-output-1')">copy</p>
+            <p style="font-size:14px" class="float-left m-0 p-0 pl-3 ">Option 1</p>
+            <p class="float-right m-0 p-0 pr-3" id="tooltip-1" data-toggle="tooltip" data-placement="top"
+                title="x out of y words are different from input">
+                <small id="total-different-1">0</small> / <small id="total-input-words-1">0</small>
+            </p>
+                <textarea class="paraphrase-output" id="paraphrase-output-1" value=""></textarea>
+                <div class=" d-flex justify-content-left">
                 </div>
-                <textarea id="paraphrase-output-1" class="paraphrase-output"></textarea>
-
-                <div>
-                    <div style="margin-bottom: 25px">
-                        <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 copy-btn"
-                            onclick="clipboardHandler('paraphrase-output-2')">copy</p>
-                        <p style="font-size:14px" class="float-left m-0 p-0 pl-3 ">Option 2</p>
-                        <p class="float-right m-0 p-0 pr-3" id="tooltip-2" data-toggle="tooltip"
-                            data-placement="top" title="x out of y words are different from input">
-                            <small id="total-different-2">0</small> / <small id="total-input-words-2">0</small>
-
-                        </p>
-                    </div>
-                    <textarea id="paraphrase-output-2" class="paraphrase-output"></textarea>
-                </div>
-
-                <!-- <div>
-                        <div style="margin-bottom: 25px">
-                            <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 copy-btn"
-                                onclick="clipboardHandler('paraphrase-output-3')">copy</p>
-                            <p style="font-size:14px" class="float-left m-0 p-0 pl-3 ">Option 3</p>
-                            <p class="float-right m-0 p-0 pr-3" id="tooltip-3" data-toggle="tooltip"
-                                data-placement="top" title="x out of y words are different from input">
-                                <small id="total-different-3">0</small> / <small id="total-input-words-3">0</small>
-
-                            </p>
-                        </div>
-                        <textarea id="paraphrase-output-3" class="paraphrase-output"></textarea>
-                    </div> -->
             </div>
         </div>
     </div>

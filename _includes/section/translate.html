@@ -1,15 +1,10 @@
-<!-- <h1 style="text-align: center;margin-top:80px">List of translations</h1> -->
-
-<div class="row" style="margin-top:20px">
-  {% for post in site.pages %}
-  {% assign path = post.url | replace: "/","" %}
-  {% if post.url contains 'translation'%}
-  <!-- <p>{{site.pages}}</p> -->
-  <h2 class="col-md-4" style="font-size:16px;margin-left: 0px; margin-right: 0px; text-align: center;padding: 6px;">
-    <a href="/{{path}}">
-      {{ path | replace: "-"," " |capitalize}}
-    </a>
-  </h2>
-  {% endif %}
+{% assign boxColor = site.data.allpages.[page.lang].all-tranlation-pages%}
+<ul class="sup-ul row col-md-12">
+  {% for object in boxColor %}
+  <li class="col-md-3 conver-list">
+      <a href="{{object.url}}">
+        {{ object.name }}
+      </a>
+  </li>
   {% endfor %}
-</div>
+</ul>
