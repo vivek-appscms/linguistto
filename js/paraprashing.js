@@ -87,7 +87,7 @@ async function paraphraseControler(string, lang) {
           }
           } catch (error) {
               console.log(error)
-              document.getElementById(`paraphrase-output-${option}`).innerHTML="<p style='color:red;'>We are facing some issues at this time. Please try again after 20 minutes</p>"
+              document.getElementById(`paraphrase-output-${option}`).innerHTML="We are facing some issues at this time. Please try again after 20 minutes";
           }
       }
     }
