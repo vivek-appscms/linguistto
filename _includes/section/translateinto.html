@@ -1,9 +1,9 @@
+{% assign boxColor = site.data.allpages.[page.lang].all-tranlation-pages%}
 {% assign keyName = page.translatein %}
 {% assign conversion = 'translate_data' %}
 {% assign test = site.data[conversion] %}
 {% assign dataArr = test[keyName] %}
 {% assign data = dataArr %}
-
 <div class="container">
     <div class="main">
         <!-- <h1 class="col-md-12 text"> {{keyName}}</h1> -->
@@ -44,16 +44,13 @@
     <div>
         <h2 class="sup-h2">Popular Sentence Translations</h2>
         <ul class="sup-ul row col-md-12">
-            {% for post in site.pages %}
-            {% assign path = post.url | replace: "/","" %}
-            {% if post.url contains 'translation'%}
-            <li class="col-md-3 conver-list">
-                <a href="/{{path}}">
-                    {{ path | replace: "-"," " |capitalize}}
-                </a>
-            </li>
-            {% endif %}
-            {% endfor %}
+        {% for object in boxColor %}
+        <li class="col-md-3 conver-list">
+            <a href="{{object.url}}">
+                {{ object.name }}
+            </a>
+        </li>
+        {% endfor %}
         </ul>
     </div>
 </div>
