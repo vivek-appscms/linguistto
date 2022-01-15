@@ -1,0 +1,156 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Paraphrasing aracı",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Hintçe Paraphrase aracı",
+                        "url": "/tr/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rusça Paraphrase aracı",
+                        "url": "/tr/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "İspanyolca Parafrase aracı",
+                        "url": "/tr/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Turkish to hindi Typing",
+                        "url": "/tr/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Turkish to bangla Typing",
+                        "url": "/tr/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Almanca Paraphrase aracı",
+                        "url": "/tr/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Kelime sayımı aracı",
+                        "url": "/tr/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Karakter sayımı aracı",
+                        "url": "/tr/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Paragraf Yeniden Yazıcısı",
+                        "url": "/tr/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Metin Yeniden Yazıcı",
+                        "url": "/tr/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Diğer Araçlar",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Cümle çeviri",
+                        "url": "/tr/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Meta ve başlık denetleyicisi",
+                        "url": "/tr/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rastgele sıfat jeneratörü",
+                        "url": "/tr/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Metin farkı denetleyicisi",
+                        "url": "/tr/text-difference-checker",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Diğer Araçlar",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rastgele isim jeneratörü",
+                        "url": "/tr/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rastgele paragraf üreteci",
+                        "url": "/tr/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rastgele harf üreteci",
+                        "url": "/tr/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rastgele cümle üreteci",
+                        "url": "/tr/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Serp simülatörü",
+                        "url": "/tr/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Web sitesi sözcük sayısı",
+                        "url": "/tr/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rastgele kelime üreteci",
+                        "url": "/tr/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

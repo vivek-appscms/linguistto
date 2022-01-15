@@ -18,6 +18,7 @@ github_username: Contenttool
 favicon: img/favicon.png
 paginate: '12'
 paginate_path: '/blog/page:num/'
+internationalizationall: true
 sass:
   sass_dir: _sass
   style: compressed

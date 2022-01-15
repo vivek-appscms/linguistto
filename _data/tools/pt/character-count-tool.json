@@ -1,0 +1,70 @@
+{
+    "Language": "Inglês",
+    "htmlLangAtt": "pt",
+    "h1": "Ferramenta de contagem de caracteres",
+    "h2": "",
+    "TITLE": "Ferramenta gratuita de contagem de caracteres, sem limites de uso - Contenttool - Ferramentas mais inteligentes para profissionais de conteúdo",
+    "META": "Conte caracteres no texto copiado ou como seu tipo. Obtenha resultados instantâneos e precisos.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Fácil de saber sobre a contagem de caracteres do seu artigo on-line",
+            "content": "Copie seu artigo do documento e obtenha o resultado instantaneamente a contagem de caracteres."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Característica da nossa contagem de caracteres?",
+            "content": "O método de contagem de caracteres é muito fácil de usar. Você pode digitar seu texto diretamente na caixa. Ou, se você usar um processador de caracteres ou um aplicativo online, como o Google Documents, para escrever sua peça, poderá copiá-la e colá-la facilmente em uma caixa de texto."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Quando a tradução não é suficiente para o seu artigo, ele está procurando o caráter exato",
+            "content": "você pode ir para o contador de caracteres, onde você pode saber sobre o tamanho do seu artigo com 100% de precisão na contagem de caracteres"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Contagem gratuita de caracteres online em algumas etapas",
+            "content": "Copie sua frase na contagem de caracteres e obtenha o resultado."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Torna mais fácil conhecer seus limites na contagem de caracteres on-line",
+            "content": "geralmente há limites ou mínimos para tarefas de casa. O mesmo costuma ser verdade para inscrições para faculdades. Cumprir isso pode ter um grande impacto em como essa redação é avaliada e revisada, e mostra se você é capaz ou não de seguir as instruções básicas. contador de caracteres pode garantir que você não ultrapasse acidentalmente os limites ou falhe em cumprir os mínimos que podem ser prejudiciais a essas atribuições."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Precisão de contagem de caracteres gratuita e resultado rápido em apenas algumas etapas",
+            "content": "Damos 100% de precisão com resultados rápidos, basta copiar seu texto e obter seu resultado instantâneo na contagem de caracteres"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Verifique seu currículo se ele tem uma contagem de caracteres relevante",
+            "content": "Saber o número de caracteres em seu currículo pode ser necessário para que os candidatos a emprego obtenham todos os detalhes desejados em uma única página."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Quando a legenda do seu tweet está procurando o personagem exato, você está no lugar certo.",
+            "content": "A restrição de caracteres do Twitter é um remanescente dos primeiros dias do aplicativo, enquanto os tweets foram enviados como textos, que foram limitados a cento e sessenta caracteres. Ele pensou na realidade que surge como uma das características definidoras do produto."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "introdução de contagem de caracteres",
+            "content": "O Character Counter é uma calculadora de contagem de caracteres online 100% gratuita e fácil de usar. Muitas vezes, as pessoas escolhem a conveniência de todos os detalhes de escrita abrangentes que o Word Counter fornece, e é exatamente isso que essa ferramenta oferece. Indica o número de caracteres e o número de frases, que é sempre o único detalhe que uma pessoa deseja saber sobre sua escrita. O melhor de tudo é que você obterá o conhecimento de que precisa."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Language": "Inglese",
+    "htmlLangAtt": "it",
+    "h1": "Ottimo strumento di riscrittura del testo",
+    "h2": "Genera contenuti unici di alta qualità e senza plagio con Text Rewriter",
+    "TITLE": "Text rewriter- Rewriter di testi perfetto per riscrivere qualsiasi contenuto in un modo nuovo.",
+    "META": "Il miglior rewriter di testi per rendere unici i tuoi contenuti in un solo clic. Risparmia tempo utilizzando lo strumento di riscrittura del testo più affidabile e trasmetti le informazioni nel modo migliore.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

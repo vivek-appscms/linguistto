@@ -1,0 +1,71 @@
+{
+    "Language": "Anh",
+    "htmlLangAtt": "vi",
+    "h1": "Word Count Công cụ",
+    "h2": "",
+    "TITLE": "Công cụ đếm từ miễn phí, không giới hạn sử dụng - Contenttool - Công cụ thông minh nhất cho các chuyên gia nội dung",
+    "META": "Đếm các từ trong văn bản đã sao chép của bạn hoặc là loại của bạn. Nhận kết quả ngay lập tức và chính xác.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Dễ dàng để biết về bài viết của bạn từ đếm trực tuyến",
+            "content": "Sao chép bài viết của bạn từ tài liệu của bạn và nhận được kết quả của bạn ngay lập tức đếm từ."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Tính năng của số từ của chúng tôi?",
+            "content": "Phương pháp đếm từ khá dễ sử dụng. Bạn có thể nhập văn bản của bạn vào hộp trực tiếp. Hoặc nếu bạn sử dụng trình xử lý văn bản hoặc ứng dụng trực tuyến, chẳng hạn như Google Documents, để viết tác phẩm của mình, bạn có thể dễ dàng sao chép và dán nó vào hộp văn bản."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Khi transalation là không đủ cho bài viết của bạn, Nó đang tìm kiếm từ chính xác",
+            "content": "bạn có thể đi cho bộ đếm từ nơi bạn có thể biết về độ dài của bài viết của bạn với độ chính xác 100% của số từ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Đếm từ miễn phí trực tuyến trong vài bước",
+            "content": "Sao chép câu của bạn trong số từ và nhận kết quả của bạn."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Nó làm cho dễ dàng hơn để biết ranh giới của bạn trong số từ trong trực tuyến",
+            "content": "thường có giới hạn hoặc tối thiểu cho bài tập về nhà. Điều tương tự thường đúng đối với các ứng dụng đại học. Tuân thủ những điều này có thể có tác động lớn đến cách viết này được phân loại và xem xét, và nó cho thấy liệu bạn có thể làm theo các hướng cơ bản. bộ đếm từ có thể đảm bảo rằng bạn không vô tình vượt qua giới hạn hoặc không đáp ứng mức tối thiểu có thể gây bất lợi cho các bài tập này."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tính chính xác đếm từ miễn phí và kết quả nhanh chóng chỉ trong vài bước",
+            "content": "Chúng tôi cung cấp độ chính xác 100% với kết quả nhanh chóng chỉ cần sao chép văn bản của bạn và nhận được kết quả ngay lập tức của bạn trong số từ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Kiểm tra Resume của bạn rằng nó có số từ liên quan",
+            "content": "Biết số lượng từ trong sơ yếu lý lịch của bạn có thể là cần thiết cho người tìm việc để có được tất cả các chi tiết bạn muốn trên một trang duy nhất."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Khi chú thích tweet của bạn đang tìm kiếm từ chính xác, bạn đang ở đúng nơi",
+            "content": "Hạn chế nhân vật của Twitter là một sự nắm giữ từ những ngày đầu của ứng dụng trong khi các tweet đã được gửi dưới dạng văn bản, đã bị hạn chế đến một trăm sáu mươi ký tự. Nó đã nghĩ về thực tế nổi lên như một trong những đặc điểm xác định của sản phẩm."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "giới thiệu số từ",
+            "content": "Hạn chế nhân vật của Twitter là một sự nắm giữ từ những ngày đầu của ứng dụng trong khi các tweet đã được gửi dưới dạng văn bản, đã bị hạn chế đến một trăm sáu mươi ký tự. Nó đã nghĩ về thực tế nổi lên như một trong những đặc điểm xác định của sản phẩm."
+        }
+    ],
+   
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

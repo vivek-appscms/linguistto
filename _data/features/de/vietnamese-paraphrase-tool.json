@@ -1,0 +1,53 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "h1": "Kostenloses Online-Tool zur vietnamesischen Paraphrasierung",
+    "h2": "Schreiben Sie Ihre vietnamesischen Inhalte mit unserem besten Online-Tool neu.",
+    "TITLE": "Vietnamesisches Paraphrasierungstool für jedermann - Kostenloses Online-Tool zum Umschreiben von Inhalten",
+    "META": "Paraphrasieren Sie Ihren Text sofort auf Vietnamesisch. Verwenden Sie dieses kostenlose vietnamesische Paraphrasierungstool, um mehrere umschriebene Varianten Ihres Inhalts zu erhalten.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Einfach zu benutzen",
+            "content": "Dieses vietnamesische Paraphrasierungstool ist sehr einfach zu bedienen. Zu Beginn ist die Benutzeroberfläche einfach und unkompliziert. Da sich alles an einem Ort befindet, müssen Sie sich nicht fragen, wo Sie anfangen sollen. Darüber hinaus ist unser vietnamesisches Paraphrasierungstool werbefrei und bietet dem Endbenutzer eine angenehmere Benutzererfahrung."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Frei von Kosten",
+            "content": "Unser vietnamesisches Paraphrasetool ist völlig kostenlos. Für die Verwendung unseres vietnamesischen Umschreibungswerkzeugs ist keine Zahlung erforderlich. Um unseren Service nutzen zu können, müssen Sie sich nicht registrieren oder anmelden. An einem einzigen Tag können Sie eine unbegrenzte Anzahl von Artikeln paraphrasieren. Auch das kennt keine Grenzen. Sie haben die Möglichkeit, Ihre Inhalte so oft Sie möchten zu aktualisieren. Sie können mehrere Absätze in einer Sitzung umschreiben. Das einzige, was Sie bemerken werden, ist die Zeit, die benötigt wird, um den Absatz zu paraphrasieren."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% sicher",
+            "content": "Die Datenbanken des vietnamesischen Paraphrasierungsprogramms speichern oder übertragen Ihre Daten nicht an eine andere Quelle, wenn Sie sie verwenden. Ein weiterer Vorteil der Verwendung dieses Tools besteht darin, dass Ihre Daten geheim bleiben und die Qualität Ihrer Arbeit nicht beeinträchtigt wird. Sobald Ihr Artikel paraphrasiert wurde, löscht das Tool Ihre Daten sicher vor Ort. Auf diese Weise können wir allen unseren Kunden vollständige Sicherheit bieten und unser vietnamesisches Paraphrasierungstool in jeder Situation zuverlässig und risikofrei machen."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Keine Probleme mit der Kompatibilität",
+            "content": "Benutzer haben keine Kompatibilitätsprobleme, wenn sie dieses vietnamesische Paraphrasierungstool verwenden. Das vietnamesische Paraphrasierungstool dieses Webportals ist ein Onlinedienst, auf den von jedem Gerät aus zugegriffen werden kann. Es funktioniert mit einer Vielzahl gängiger Browser, darunter Chrome, Safari, Firefox, Microsoft Edge und andere. Wenn Sie das vietnamesische Paraphrasierungstool verwenden, passt es sich automatisch an jede Bildschirmgröße an, sodass Sie es je nach Ihren Vorlieben auf Ihrem Desktop-Computer, Tablet-Computer oder Mobiltelefon verwenden können. Sie müssen kein bestimmtes Gerät kaufen oder Plugins installieren, um Ihre Artikel mit diesem Onlinedienst zu paraphrasieren."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Verbesserte Satzstruktur",
+            "content": "Manuelles Paraphrasieren kann sich aufgrund der Komplexität negativ auf die Lesbarkeit Ihres Textes auswirken. Das vietnamesische Paraphrasierungstool hingegen kann Sätze erzeugen, die die Gesamtstruktur Ihres Materials nicht durchbrechen. Dieses vietnamesische Paraphrasierungstool hält den Leser auf Trab und hilft Ihnen, die gewünschten Ergebnisse zu erzielen."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Drei Möglichkeiten, um Ihr Pharaphrasierungsergebnis zu erzielen",
+            "content": "Eine der großartigen Funktionen dieses vietnamesischen Paraphrasierungs-Tools ist, dass Sie Ihre Ergebnisse auf drei verschiedene Arten erhalten können, was es von anderen Paraphrasierungswerkzeugen dadurch unterscheidet, dass Sie nicht ein Ergebnis erzielen. Sie können Ihre Inhalte auf drei verschiedene Arten umschreiben und eine davon auswählen, um sie fantastisch zu gestalten."
+        }
+    ],
+   
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

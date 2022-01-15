@@ -1,0 +1,72 @@
+{
+    "Language": "英语",
+    "htmlLangAtt": "en",
+    "h1": "英语到印地语句子翻译",
+    "h2": "最佳在线句子翻译",
+    "TITLE": "英语到印地语句子翻译 | 免费在线翻译你的句子",
+    "META": "立即免费将你的句子从英语翻译成印地语。我们没有使用限制。免费试用！",
+    "keywords": "key1、key2、key3、key4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "即时英语到印地语句子翻译",
+            "content": "这个工具为你提供了一个完整的数据库，用于即时理解英语到印地语的句子翻译。要获得快速准确的结果，只需在 sentance converter 中键入句子，然后使用正确的语法结构获得触手可及的结果。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "英语到印地文句子在线翻译",
+            "content": "将您的内容在线翻译成英文印地文。立即理解外语文本，无需花费时间和精力。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "只需几步即可将句子翻译成英语到印地语",
+            "content": "这比你想象的要容易得多。只需复制你的段落，然后在几秒钟内用英语翻译成印地语。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "免费在线英语到印地文句子翻译",
+            "content": "免费的在线翻译器可节省您的时间和金钱，将英语翻译成印地语。我们着重指出，在用另一种语言翻译文本时，不应丢失含义和情感。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "快速获得理想的结果英语到印地语",
+            "content": "英语到印地语的在线翻译器，像母语一样专业化您的文章。句子翻译专门设计用于使信息可以用任何语言理解"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "这个工具精通英语到印地文句子翻译。",
+            "content": "将英语翻译成印地语的句子时要考虑文化和语言元素。它不仅可以翻译句子，还可以进一步优化内容以适应不同的受众。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "用英语翻译成印地语的句子使您的内容更专业",
+            "content": "多语言句子翻译工具，可将句子翻译成任何语言，可以是英语到印地语。只需在句子转换器中输入句子，即可获得正确的语法结构触手可及的结果。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "这个先进的工具可以将英文的文章、故事和诗歌转换为印地文，而不会失去意义和情感，同时用另一种语言翻译文本。",
+            "content": "无论是文章还是故事，我们都将英语翻译成印地文.此工具不会逐字翻译。借助智能的决策软件，它可以决定使用哪些单词和忽略哪些单词。我们关注的是，在用另一种语言翻译文本时，不应丢失含义和情感。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "我们将引号英语翻译成印地文，反之亦然，同时保持含义不变。",
+            "content": "有时，英文改成印地文时报价会发生变化。句子翻译的目的是保持真实含义不变。借助先进的人工智能，它不仅可以翻译句子，还可以进一步优化内容以适应不同的受众。"
+        }
+    ],
+  
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

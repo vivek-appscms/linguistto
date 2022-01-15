@@ -1,0 +1,15 @@
+{
+    "Language": "英語",
+    "htmlLangAtt": "en",
+    "h1": "翻訳リスト",
+    "h2": "",
+    "TITLE": "Contenttool-コンテンツプロフェッショナル向けの最もスマートなツール",
+    "META": "コピーしたテキストまたはタイプとして単語を数えます。瞬時に正確な結果を得る",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

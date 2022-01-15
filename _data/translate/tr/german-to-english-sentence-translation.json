@@ -1,0 +1,72 @@
+{
+    "Language": "İngilizce",
+    "htmlLangAtt": "tr",
+    "h1": "Almanca'dan İngilizce'ye cümle çeviri",
+    "h2": "En İyi Online Kelime Çevirisi",
+    "TITLE": "Almanca'dan İngilizce'ye cümle çevirisi | Cümlelerinizi online ücretsiz çevirin",
+    "META": "Cümlelerinizi Almanca'dan İngilizce'ye anında ücretsiz çevirin. Kullanım limitlerimiz yok. Bedava deneyin!",
+    "keywords": "tuş1, anahtar2, tuş3, anahtar4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Anında Almanca-İngilizce cümle çevirisi",
+            "content": "Bu araç size Anında İngilizce duyu çevirisi için almanca anlamak için tam bir veritabanı sunmak. Hızlı ve doğru sonuç için, duyarlılık dönüştürücüsüne duyarlılığı yazın ve doğru gramer yapısı ile parmak uçlarınızda sonuç alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Almanca-İngilizce cümle çevirisi online",
+            "content": "İçeriğinizi çevrimiçi almanca İngilizce'ye çevirin. Yabancı dil metnini zaman ve çaba harcamadan hemen anlayın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Cümle çevirmen almanca birkaç adımda ingilizce",
+            "content": "Düşündüğünden daha kolay. Sadece faragrafınızı kopyalayın ve birkaç saniye içinde İngilizce'ye almanca çeviri yapın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "ücretsiz online Almanca-İngilizce cümle çevirisi",
+            "content": "Almanca'yı İngilizce'ye çevirmek için zaman ve paradan tasarruf etmek için ücretsiz online çevirmen. metni başka bir dilde çevirirken anlam ve duyguların kaybolmaması gerektiğine odaklandık."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "İngilizce'ye hızlı ve istenen sonuçları almanca alın",
+            "content": "Almanca için çevrimiçi çevirici, makalenizi yerli gibi profesyonelleştirmek için ingilizce. Cümle Çevirisi, mesajın herhangi bir dilde anlaşılması için özel olarak tasarlanmıştır"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bu araç Almanca İngilizce Cümle çevirmenleri konusunda uzmandır.",
+            "content": "Almanca'nın İngilizce'ye cümle çevirisi için kültürel ve dilsel unsurların dikkate alınması Sadece cümleyi çevirmekle kalmaz, içeriği farklı kitlelere uyacak şekilde daha da rafine eder."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "İçeriğinizi profesyonel hale getirmek için İngilizce'ye Almanca cümle çevirisi",
+            "content": "Çok dilli cümle çeviri aracı herhangi bir dile cümle çevirmek için almanca ingilizce olabilir. Sadece cümleyi cümle dönüştürücüsünde yazın ve doğru dilbilgisi yapısı ile parmak uçlarınızda sonuç alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bu gelişmiş Aracı, metni başka bir dilde çevirirken anlam ve duygu kaybetmeden İngilizce İngilizce makaleleri, hikayeleri ve şiirleri dönüştürmek.",
+            "content": "Almancayı İngilizceye tercüme ettiğimiz makale ya da hikayeler. Bu araç kelimeyi kelimeye çevirmez. Akıllı, karar verme yazılımı ile hangi kelimeleri kullanacağına ve hangilerinin gözardı edileceğine karar verir. Metni başka bir dilde çevirirken anlam ve duyguların kaybolmaması gerektiğine odaklandık."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Anlamı değişmeden tutarken, almanca sözleri İngilizce'ye çeviririz ve tersi de geçerlidir.",
+            "content": "Bazen almanca değişim sırasında tırnak işaretleri ingilizce olarak değişir. Cümle Çevirisinin amacı, özellikle gerçek anlamın değişmeden kalmasını sağlamaktır. Gelişmiş Yapay Zeka ile sadece cümleyi çevirmekle kalmaz, içeriği farklı kitlelere uyacak şekilde daha da rafine eder."
+        }
+    ],
+
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

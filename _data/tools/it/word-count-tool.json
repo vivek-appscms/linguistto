@@ -1,0 +1,71 @@
+{
+    "Language": "Inglese",
+    "htmlLangAtt": "it",
+    "h1": "Strumento di conteggio delle parole",
+    "h2": "",
+    "TITLE": "Strumento gratuito per il conteggio delle parole, senza limiti di utilizzo - Contenttool - Gli strumenti più intelligenti per i professionisti dei contenuti",
+    "META": "Conta le parole nel testo copiato o come tipo. Ottieni risultati immediati e accurati.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Facile conoscere il conteggio delle parole del tuo articolo online",
+            "content": "Copia il tuo articolo dal tuo documento e ottieni il risultato immediatamente il conteggio delle parole."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Caratteristica del nostro conteggio delle parole?",
+            "content": "Il metodo di conteggio delle parole è abbastanza facile da usare. Puoi digitare il testo direttamente nella casella. Oppure, se utilizzi un elaboratore di testi o un'applicazione online, come Google Documents, per scrivere il tuo pezzo, puoi facilmente copiarlo e incollarlo in una casella di testo."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Quando la traduzione non è sufficiente per il tuo articolo, è alla ricerca della parola esatta",
+            "content": "puoi andare per il contatore di parole dove puoi conoscere la lunghezza del tuo articolo con una precisione del 100% del conteggio delle parole"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Conteggio parole online gratuito in pochi passaggi",
+            "content": "Copia la tua frase nel conteggio delle parole e ottieni il tuo risultato."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Rende più facile conoscere i tuoi limiti nel conteggio delle parole online",
+            "content": "di solito ci sono limiti o minimi per i compiti a casa. Lo stesso vale spesso per le domande universitarie. Rispettare questi può avere un impatto importante sul modo in cui questa scrittura viene valutata e rivista e mostra se sei in grado di seguire le indicazioni di base. il contatore di parole può assicurarti di non superare accidentalmente i limiti o di non riuscire a soddisfare i minimi che possono essere dannosi per questi incarichi."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Accuratezza gratuita del conteggio delle parole e risultati rapidi in pochi passaggi",
+            "content": "Diamo una precisione del 100% con risultati rapidi, basta copiare il testo e ottenere immediatamente il risultato nel conteggio delle parole"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Controlla che il tuo curriculum abbia un numero di parole pertinente",
+            "content": "Conoscere il numero di parole nel tuo curriculum può essere necessario per chi cerca lavoro per ottenere tutti i dettagli desiderati su una singola pagina."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Quando la didascalia del tuo tweet è alla ricerca della parola esatta, sei nel posto giusto",
+            "content": "La restrizione dei caratteri di Twitter è un ritardo rispetto ai primi giorni dell'app, mentre i tweet sono stati inviati come messaggi, che erano stati limitati a centosessanta caratteri. Ha pensato alla realtà che emerge come una delle caratteristiche distintive del prodotto."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "introduzione al conteggio delle parole",
+            "content": "La restrizione dei caratteri di Twitter è un ritardo rispetto ai primi giorni dell'app, mentre i tweet sono stati inviati come messaggi, che erano stati limitati a centosessanta caratteri. Ha pensato alla realtà che emerge come una delle caratteristiche distintive del prodotto."
+        }
+    ],
+  
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

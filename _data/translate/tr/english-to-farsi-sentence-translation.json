@@ -1,0 +1,72 @@
+{
+    "Language": "İngilizce",
+    "htmlLangAtt": "tr",
+    "h1": "İngilizce-Farsça cümle çeviri",
+    "h2": "En İyi Online Kelime Çevirisi",
+    "TITLE": "İngilizce'den Farsça cümle çevirisi | Cümlelerinizi online ücretsiz çevirin",
+    "META": "Cümlelerinizi İngilizce'den farsçaya anında ücretsiz çevirin. Kullanım limitlerimiz yok. Bedava deneyin!",
+    "keywords": "tuş1, anahtar2, tuş3, anahtar4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Anında İngilizce-farsça cümle çeviri",
+            "content": "Bu araç size Anında farsça duyarlılık çeviri ingilizce anlamak için tam bir veritabanı sunmak. Hızlı ve doğru sonuç için, duyarlılık dönüştürücüsüne duyarlılığı yazın ve doğru gramer yapısı ile parmak uçlarınızda sonuç alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "turkçe-farsça cümle çeviri online",
+            "content": "İçeriğinizi farsça online İngilizce tercüme edin. Yabancı dil metnini zaman ve çaba harcamadan hemen anlayın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Birkaç adımda farsça cümle çevirmen ingilizce",
+            "content": "Düşündüğünden daha kolay. Sadece faragrafınızı kopyalayın ve birkaç saniye içinde farsça İngilizce'ye çevirin."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "farsça cümle çevirisi ücretsiz online ingilizce",
+            "content": "İngilizce çevirmek için zamandan ve paradan tasarruf etmek için ücretsiz online çevirmen. metni başka bir dilde çevirirken anlam ve duyguların kaybolmaması gerektiğine odaklandık."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Farsça hızlı ve istenilen sonuçlar ingilizce alın",
+            "content": "Makalenizi yerli gibi profesyonelleştirmek için İngilizce'den farsçaya çevrimiçi çevirici. Cümle Çevirisi, mesajın herhangi bir dilde anlaşılması için özel olarak tasarlanmıştır"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bu araç farsça Cümle çevirmenleri için İngilizce yeterlidir.",
+            "content": "İngilizce'nin farsça cümle çevirisi için kültürel ve dilsel unsurların dikkate alınması. Sadece cümleyi çevirmekle kalmaz, içeriği farklı kitlelere uyacak şekilde daha da rafine eder."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "İçeriğinizi profesyonel hale getirmek için farsça İngilizce'den cümle çevirisi",
+            "content": "Çok dilli cümle çeviri aracı herhangi bir dile cümle çevirmek için farsça İngilizce olabilir. Sadece cümleyi cümle dönüştürücüsünde yazın ve doğru dilbilgisi yapısı ile parmak uçlarınızda sonuç alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bu gelişmiş Aracı, metni başka bir dilde çevirirken anlam ve duygu kaybetmeden farsça İngilizce makaleleri, hikayeleri ve şiirleri dönüştürmek.",
+            "content": "İngilizceyi farsçaya çevirdiğimiz makale ya da hikayeler. Bu araç kelimeyi kelimeye çevirmez. Akıllı, karar verme yazılımı ile hangi kelimeleri kullanacağına ve hangilerinin gözardı edileceğine karar verir. Metni başka bir dilde çevirirken anlam ve duyguların kaybolmaması gerektiğine odaklandık."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Anlamı değişmeden tutarken, tırnak işaretlerini farsçaya çeviririz ve tersi de geçerlidir.",
+            "content": "Bazen tırnak işaretleri İngilizce'nin farsça değiştiği zaman değişir. Cümle Çevirisinin amacı, özellikle gerçek anlamın değişmeden kalmasını sağlamaktır. Gelişmiş Yapay Zeka ile sadece cümleyi çevirmekle kalmaz, içeriği farklı kitlelere uyacak şekilde daha da rafine eder."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -6,7 +6,6 @@ from: am
 to: en
 folderName: translate
 lang: en
-x: amharic
 permalink: /amharic-to-english-sentence-translation
 tool: amharic-to-english-sentence-translation
 ---

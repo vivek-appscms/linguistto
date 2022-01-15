@@ -1,0 +1,72 @@
+{
+    "Language": "İngilizce",
+    "htmlLangAtt": "tr",
+    "h1": "Pinyin'den İngilizce cümle çevirisi",
+    "h2": "En İyi Online Kelime Çevirisi",
+    "TITLE": "Pinyin'den İngilizce cümle çevirisi | Cümlelerinizi online ücretsiz çevirin",
+    "META": "Cümlelerinizi pinyin'den İngilizce'ye anında ücretsiz çevirin. Kullanım limitlerimiz yok. Bedava deneyin!",
+    "keywords": "tuş1, anahtar2, tuş3, anahtar4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Instant pinyin'den İngilizce cümle çevirisi",
+            "content": "Bu araç size Anında ingilizce duyarlılık çeviri pinyin anlamak için tam bir veritabanı sunmak. Hızlı ve doğru sonuç için, duyarlılık dönüştürücüsüne duyarlılığı yazın ve doğru gramer yapısı ile parmak uçlarınızda sonuç alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "pinyin İngilizce cümle çevirisi çevrimiçi",
+            "content": "İçeriğinizi çevrimiçi pinyin İngilizce'ye çevirin. Yabancı dil metnini zaman ve çaba harcamadan hemen anlayın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Birkaç adımda ingilizce çevirmen pinyin",
+            "content": "Düşündüğünden daha kolay. Sadece pharagrafınızı kopyalayın ve pinyin çevirisini birkaç saniye içinde İngilizceye çevirin."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "İngilizce cümle çevirisi ücretsiz online pinyin",
+            "content": "Pinyin'i İngilizce'ye çevirmek için zamandan ve paradan tasarruf etmek için ücretsiz online çevirmen. metni başka bir dilde çevirirken anlam ve duyguların kaybolmaması gerektiğine odaklandık."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "İngilizce'ye pinyin hızlı ve istenen sonuçlar alın",
+            "content": "Makalenizi yerli gibi profesyonelleştirmek için pinyin için çevrimiçi çevirici. Cümle Çevirisi, mesajın herhangi bir dilde anlaşılması için özel olarak tasarlanmıştır"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bu Araç, İngilizce Cümle çevirmenleri için pinyin konusunda uzmandır.",
+            "content": "Pinyin'in İngilizce'ye cümle çevirisi için kültürel ve dilsel unsurları dikkate almak. Sadece cümleyi çevirmekle kalmaz, içeriği farklı kitlelere uyacak şekilde daha da rafine eder."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "İçeriğinizi profesyonel hale getirmek için pinyin İngilizce'ye cümle çevirisi",
+            "content": "Çok dilli cümle çeviri aracı herhangi bir dile cümle çevirmek için pinyin ingilizce olabilir. Sadece cümleyi cümle dönüştürücüsünde yazın ve doğru dilbilgisi yapısı ile parmak uçlarınızda sonuç alın."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bu gelişmiş Aracı, metni başka bir dilde çevirirken anlam ve duygu kaybetmeden İngilizce'ye pinyin içindeki makaleleri, hikayeleri ve şiirleri dönüştürün.",
+            "content": "Ya Pinyin'i İngilizceye çevirdiğimiz makale ya da hikayeler. Bu araç kelimeyi kelimeye çevirmez. Akıllı, karar verme yazılımı ile hangi kelimeleri kullanacağına ve hangilerinin gözardı edileceğine karar verir. Metni başka bir dilde çevirirken anlam ve duyguların kaybolmaması gerektiğine odaklandık."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Anlamı değişmeden korurken tırnak pinyin'i İngilizceye çeviririz ve tersi de geçerlidir.",
+            "content": "Bazen tırnak İngilizce'ye pinyin değişikliği sırasında değişir. Cümle Çevirisinin amacı, özellikle gerçek anlamın değişmeden kalmasını sağlamaktır. Gelişmiş Yapay Zeka ile sadece cümleyi çevirmekle kalmaz, içeriği farklı kitlelere uyacak şekilde daha da rafine eder."
+        }
+    ],
+   
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -3,8 +3,8 @@ layout: home
 fileName: indonesian-paraphrase-tool
 language: id
 folderName : features
+permalink: /indonesian-paraphrase-tool
 lang: en
-permalink: indonesian-paraphrase-tool
 tool: indonesian-paraphrase-tool
 ---
 {% include section/paraphrase.html %}

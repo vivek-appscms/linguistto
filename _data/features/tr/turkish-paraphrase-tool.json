@@ -1,0 +1,53 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "h1": "Ücretsiz online türkçe paraphrasing aracı",
+    "h2": "En iyi çevrimiçi aracımızı kullanarak türkçe içeriğinizi yeniden yazın.",
+    "TITLE": "Herkes için Türkçe paraphrasing aracı - İçeriği yeniden yazmak için ücretsiz çevrimiçi araç",
+    "META": "Metninizi anında Türkçeye ifade edin. İçeriğinizin birden çok anlatımlı varyantını almak için bu ücretsiz türkçe paraphrasing aracını kullanın.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Kullanımı basit",
+            "content": "Bu türkçe paraphrasing aracı kullanımı çok basittir. Başlamak için, kullanıcı arayüzü basit ve basittir. Çünkü her şey bir yerde, nereden başlayacağını merak etmene gerek kalmayacak. Ayrıca, Türk paraphrasing aracımız reklam içermez ve son kullanıcı için daha keyifli bir kullanıcı deneyimi sunar."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Ücretsiz",
+            "content": "Türk cümle aracımızın kullanımı tamamen ücretsizdir. Türk paraphrasing aracımızı kullanmak için ödeme yapmak gerekli değildir. Hizmetimizi kullanmak için kaydolmanız veya oturum açmanız gerekmez. Tek bir günde, sınırsız sayıda makaleyi ifade edebilirsiniz. Bunun da sınırı yok. İçeriğinizi istediğiniz kadar yenileme seçeneğine sahipsiniz. Bir oturuşta birkaç paragrafı yeniden yazabilirsiniz. Fark edeceğiniz tek şey paragrafı açıklamak için gereken süredir."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "%100 Güvenli",
+            "content": "Türk paraphrasing aracının veritabanları, kullandığınız zaman verilerinizi başka bir kaynağa depolamaz veya iletmez. Bu aracı kullanmanın bir diğer yararı da verilerinizin gizli kalması ve işinizin kalitesinin tehlikeye girmemesi. Makaleniz özetlendikten sonra, araç verilerinizi yerinde güvenli bir şekilde siler. Sonuç olarak, tüm müşterilerimize eksiksiz güvenlik sunarak Türk Paraphrasing aracımızı güvenilir ve her durumda kullanmak için risksiz hale getirebiliriz."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Uyumluluk sorunu yok",
+            "content": "Kullanıcıların bu türkçe ifade oluşturma aracını kullanırken uyumluluk sorunu olmayacaktır. Bu web portalının türkçe paraphrasing aracı, herhangi bir cihazdan erişilebilen çevrimiçi bir hizmettir. Chrome, Safari, Firefox, Microsoft Edge ve diğerleri dahil olmak üzere çeşitli popüler tarayıcılarla çalışır. Türk paraphrasing aracını kullandığınızda, tercihlerinize bağlı olarak masaüstü bilgisayarınızda, tabletinizde veya cep telefonunuzda kullanmanıza olanak tanıyan herhangi bir ekran boyutuna otomatik olarak ayarlanır. Bu çevrimiçi hizmeti kullanarak makalelerinizi açıklamak için belirli bir cihaz satın almanız veya herhangi bir eklenti yüklemeniz gerekmeyecektir."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "İyileştirilmiş cümle yapısı",
+            "content": "Manuel paraphrasing nedeniyle ilgili karmaşıklık metninizin okunabilirliği üzerinde olumsuz bir etkisi olabilir. diğer taraftan Türk paraphrasing aracı, malzemenizin genel yapısını kırmayan cümleler üretebilir. Bu türkçe paraphrasing aracı okuyucuyu meşgul tutar ve istediğiniz sonuçları elde etmenize yardımcı olur."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Pharaphrasing sonucunuzu elde etmenin üç yolu",
+            "content": "Bu türkçe paraphrasing aracının en büyük özelliklerinden biri, sonuçlarınızı üç farklı şekilde elde edebilmenizdir; bu da bir sonuç almak yerine diğer paraphrasing araçlarından ayırır. İçeriğinizi üç farklı şekilde yeniden yazabilir ve harika hale getirmek için bunlardan herhangi birini seçebilirsiniz."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

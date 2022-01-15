@@ -1,0 +1,70 @@
+{
+    "Language": "Anglik",
+    "htmlLangAtt": "pl",
+    "h1": "Narzędzie liczenia wyrazów",
+    "h2": "",
+    "TITLE": "Darmowe narzędzie do liczenia słów, bez ograniczeń użytkowania - Contenttool - Najmądrzejsze narzędzia dla profesjonalistów",
+    "META": "Policz słowa w skopiowanym tekście lub jako typ. Uzyskaj natychmiastowe i dokładne wyniki.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Łatwo wiedzieć o swoim artykule liczba słów online",
+            "content": "Skopiuj swój artykuł z dokumentu i uzyskaj wynik natychmiast liczbę słów."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Cecha naszej liczby słów?",
+            "content": "Metoda liczenia słów jest dość łatwa w użyciu. Tekst można wpisać bezpośrednio w polu. Lub jeśli używasz edytora tekstu lub aplikacji online, takiej jak Dokumenty Google, aby napisać swój kawałek, możesz łatwo skopiować i wkleić go do pola tekstowego."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Kiedy transalacja nie wystarczy dla artykułu, To szuka dokładnego słowa",
+            "content": "możesz przejść do licznika słów, gdzie możesz wiedzieć o długości artykułu ze 100% dokładnością liczby słów"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Liczba wolnych słów online w kilku krokach",
+            "content": "Skopiuj zdanie w liczniku słów i uzyskaj wynik."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "To sprawia, że łatwiej poznać swoje granice w liczbie słów w Internecie",
+            "content": "zwykle istnieją ograniczenia lub minima dla zadań domowych. To samo jest często prawdziwe w przypadku aplikacji na studia. Przestrzeganie tych może mieć znaczący wpływ na to, jak to pisanie jest oceniane i sprawdzane, i pokazuje, czy jesteś w stanie wykonać podstawowe kierunki. Licznik słów może upewnić się, że przypadkowo nie przejść przez limity lub nie spełniają minimów, które mogą być szkodliwe dla tych zadań."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bezpłatna dokładność liczenia słów i szybki wynik w zaledwie kilku krokach",
+            "content": "Dajemy 100% dokładności z szybkim wynikiem wystarczy skopiować tekst i uzyskać natychmiastowy wynik w liczniku słów"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Sprawdź swoje CV, czy ma odpowiednią liczbę słów",
+            "content": "Znajomość liczby słów w CV może być konieczne dla osób poszukujących pracy, aby uzyskać wszystkie szczegóły, które chcesz na jednej stronie."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Kiedy twój napis tweeta szuka dokładnego słowa jesteś we właściwym miejscu",
+            "content": "Ograniczenie postaci Twittera jest uchwytem z pierwszych dni aplikacji, podczas gdy tweety zostały wysłane jako teksty, które zostały ograniczone do stu sześćdziesięciu znaków. Myślał o rzeczywistości, która wyłania się jako jedna z cech definiujących produktu."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "wprowadzenie do liczenia słów",
+            "content": "Ograniczenie postaci Twittera jest uchwytem z pierwszych dni aplikacji, podczas gdy tweety zostały wysłane jako teksty, które zostały ograniczone do stu sześćdziesięciu znaków. Myślał o rzeczywistości, która wyłania się jako jedna z cech definiujących produktu."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

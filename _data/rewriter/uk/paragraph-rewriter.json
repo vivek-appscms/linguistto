@@ -1,0 +1,58 @@
+{
+    "Language": "Англійська мова",
+    "htmlLangAtt": "en",
+    "h1": "Використовуйте безкоштовний онлайн-рерайтер абзацу для якісного контенту.",
+    "h2": "Остаточне рішення ваших проблем з письмом",
+    "TITLE": "Рерайтер абзацу- Кращий інструмент для перезапису необмеженої кількості документів. ",
+    "META": "Розширений веб-рерайтер абзацу є ідеальним місцем для вас, щоб переписати або перефразувати статті. Наш інструмент забезпечує справжню суть теми. Найефективніший інструмент для мінімізації всіх ризиків плагіату і граматичних помилок.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

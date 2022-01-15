@@ -1,0 +1,98 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "h1": "कंटेंट राइटर्स के लिए सबसे स्मार्ट टूल",
+    "h2": "सामग्री, वाक्य अनुवाद और लिप्यंतरण आधारित टाइपिंग टूल के लिए बहुभाषी उपकरण।",
+    "TITLE": "Contenttool - सामग्री पेशेवरों के लिए सबसे स्मार्ट टूल",
+    "META": "ContentTools.io सामग्री पेशेवरों द्वारा दिन-प्रतिदिन के उपयोग के लिए सबसे स्मार्ट उपकरण प्रदान करता है।",
+    "keywords": "कुंजी 1, कुंजी 2, कुंजी 3, कुंजी 4",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "पैराफ्रासिंग टूल",
+            "description": "पेशेवरों के लिए पैराफ्रासिंग टूल",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/hi/paraphrasing-tool"
+        },
+        {
+            "name": "जर्मन पैराफ्रेश टूल",
+            "description": "पेशेवरों के लिए जर्मन पैराफ्रासिंग टूल",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/hi/german-paraphrase-tool"
+        },
+        {
+            "name": "हिंदी पैराफ्रेश टूल",
+            "description": "पेशेवरों के लिए हिंदी पैराफ्रेसिंग टूल",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/hi/hindi-paraphrase-tool"
+        },
+        {
+            "name": "रूसी पैराफ्रेश टूल",
+            "description": "पेशेवरों के लिए रूसी पैराफ्रासिंग टूल",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/hi/russian-paraphrase-tool"
+        },
+        {
+            "name": "स्पेनिश-पैराफ्रेज़-टूल",
+            "description": "पेशेवरों के लिए स्पेनिश पैराफ्रासिंग टूल",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/hi/spanish-paraphrase-tool"
+        },
+        {
+            "name": "लिप्यंतरण औज़ार",
+            "description": "अंग्रेजी से हिंदी टाइपिंग",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/hi/english-to-hindi-typing"
+        },
+        {
+            "name": "अंग्रेजी से बांग्ला टाइपिंग",
+            "description": "ऑनलाइन अंग्रेजी से बांग्ला टाइपिंग",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/hi/bangla-transliteration-tool"
+        },
+        {
+            "name": "वर्ड काउंट टूल",
+            "description": "ऑनलाइन वर्ड काउंट टूल",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/hi/word-count-tool"
+        },
+        {
+            "name": "कैरेक्टर काउंट टूल",
+            "description": "ऑनलाइन कैरेक्टर काउंट टूल",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/hi/character-count-tool"
+        },
+        {
+            "name": "वाक्य का अनुवाद",
+            "description": "ऑनलाइन X से Y वाक्य अनुवाद",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/hi/sentence-translation"
+        },
+        {
+            "name": "पैराग्राफ रिवाइटर",
+            "description": "गुणवत्ता की सामग्री के लिए ऑनलाइन पैराग्राफ rewriter",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/hi/paragraph-rewriter"
+        },
+        {
+            "name": "टेक्स्ट रीराइटर",
+            "description": "उत्कृष्ट टेक्स्ट रीराइटर टूल",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/hi/text-rewriter"
+        }
+    ]
+}

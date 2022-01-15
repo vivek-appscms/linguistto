@@ -1,0 +1,53 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "h1": "Gratis online danskt parafraseringsverktyg",
+    "h2": "Skriv om ditt danska innehåll med vårt bästa online-verktyg.",
+    "TITLE": "Danska parafrasering verktyg för alla - Gratis online verktyg för omskrivning av innehåll",
+    "META": "Parafrasera din text till danska direkt. För att få flera parafraserade varianter av ditt innehåll, använd detta gratis danska parafraseringsverktyg.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Enkel att använda",
+            "content": "Detta danska parafraseringsverktyg är mycket enkelt att använda. Till att börja med är användargränssnittet enkelt och enkelt. Eftersom allt är på ett ställe behöver du inte undra var du ska börja. Dessutom är vårt danska parafraseringsverktyg reklamfritt, vilket ger slutanvändaren en trevligare användarupplevelse."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Kostnadsfritt",
+            "content": "Vårt danska parafrasverktyg är helt gratis att använda. Det är inte nödvändigt att betala för att använda vårt danska parafraseringsverktyg. För att kunna använda vår tjänst behöver du inte registrera dig eller logga in. På en enda dag kan du parafrasera ett obegränsat antal artiklar. Det har inte heller några gränser. Du har möjlighet att uppdatera innehållet så många gånger du vill. Du kan skriva om flera stycken i ett sammanträde. Det enda du kommer att märka är hur lång tid det tar att parafrasera stycket."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% Säker",
+            "content": "Databaserna i det danska parafraseringsverktyget lagrar eller överför inte dina data till någon annan källa när du använder den. En annan fördel med att använda det här verktyget är att dina data förblir hemliga, och kvaliteten på ditt arbete äventyras inte. När din artikel har parafraserats raderar verktyget säkert dina data på plats. Som ett resultat kan vi erbjuda fullständig säkerhet till alla våra kunder, vilket gör vårt danska parafrasingverktyg pålitligt och riskfritt att använda i alla situationer."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Inga kompatibilitetsproblem",
+            "content": "Användarna kommer inte att ha några kompatibilitetsproblem när de använder detta danska parafraseringsverktyg. Webbportalens danska parafraseringsverktyg är en onlinetjänst som kan nås från vilken enhet som helst. Det fungerar med en mängd populära webbläsare, inklusive Chrome, Safari, Firefox, Microsoft Edge och andra. När du använder det danska parafraseringsverktyget justeras det automatiskt till vilken skärmstorlek som helst, så att du kan använda den på din stationära dator, surfplatta eller mobiltelefon, beroende på dina önskemål. Du behöver inte köpa en specifik enhet eller installera några plugins för att parafrasera dina artiklar med hjälp av denna onlinetjänst."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Förbättrad meningsstruktur",
+            "content": "Manuell parafrasering kan ha en negativ inverkan på läsbarheten av din text på grund av komplexiteten involverade. danska parafraseringsverktyg, å andra sidan, kan producera meningar som inte bryter den övergripande strukturen av ditt material. Detta danska parafraseringsverktyg håller läsaren engagerad och hjälper dig att uppnå de resultat du önskar."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tre sätt att få ditt farafragande resultat",
+            "content": "En av de stora funktionerna i denna danska parafraseringsverktyg är att du kan få dina resultat på tre olika sätt, vilket skiljer den från andra parafraseringsverktyg i att istället för att få ett resultat. Du kan skriva om ditt innehåll på tre olika sätt och välja vilket som helst av dem för att göra det fantastiskt."
+        }
+    ],
+   
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}
