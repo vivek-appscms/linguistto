@@ -5,7 +5,6 @@
     "h2": "用於翻譯內容、句子翻譯和基於音譯的打字工具的多語言工具。",
     "TITLE": "內容工具-面向內容專業人員的最智能工具",
     "META": "Content Tools.io 為內容專業人員日常使用提供最智能的工具。",
-    "keywords": "鍵 1, 鍵 2, 鍵 3, 鍵 4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/zh-TW/hindi-paraphrase-tool"
         },
         {
-            "name": "俄語解釋工具",
-            "description": "俄羅斯解釋工具專業人士",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/zh-TW/russian-paraphrase-tool"
-        },
-        {
             "name": "西班牙語解釋-工具",
             "description": "針對專業人士的西班牙語翻譯工具",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/zh-TW/spanish-paraphrase-tool"
+        },
+        {
+            "name": "俄語解釋工具",
+            "description": "俄羅斯解釋工具專業人士",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/zh-TW/russian-paraphrase-tool"
         },
         {
             "name": "音譯工具",
@@ -63,7 +62,7 @@
             "name": "字數計數工具",
             "description": "在線字數計數工具",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/zh-TW/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/zh-TW/sentence-translation"
+        },
+        {
+            "name": "摘要生成器",
+            "description": "最佳免費在線摘要生成器",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/zh-TW/summary-generator"
         },
         {
             "name": "段落重寫",

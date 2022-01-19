@@ -7,6 +7,7 @@ lang: en
 from: de
 to: en
 permalink: /german-to-english-sentence-translation
-tool: german-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

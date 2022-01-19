@@ -1,12 +1,13 @@
 ---
 layout: home
-fileName: arsi-to-english-sentence-translation
+fileName: farsi-to-english-sentence-translation
 translatein: farsi_to_english
 folderName : translate
 lang: en
-from: en
-to: hi
+from: fa
+to: en
 permalink: /farsi-to-english-sentence-translation
-tool: farsi-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

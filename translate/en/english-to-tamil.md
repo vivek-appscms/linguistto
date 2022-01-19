@@ -7,6 +7,7 @@ lang: en
 from: en
 to: ta
 permalink: /english-to-tamil-sentence-translation
-tool: english-to-tamil-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

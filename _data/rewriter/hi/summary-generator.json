@@ -1,0 +1,59 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "h1": "सर्वश्रेष्ठ मुफ्त ऑनलाइन सारांश जनरेटर",
+    "h2": "किसी भी लेख को एक क्लिक में सारांशित करें।",
+    "TITLE": "सारांश जनरेटर- सबसे महत्वपूर्ण वाक्यों को निकालने के लिए सबसे अच्छा सारांश उपकरण।",
+    "META": "उन्नत सारांश जनरेटर के साथ एक त्वरित सारांश बनाएं। संक्षेप में, विश्लेषण करने और केवल एक क्लिक के साथ अपने दस्तावेज़ के लिए निष्कर्ष निकालने के लिए हमारे मुफ्त ऑनलाइन सारांश जनरेटर का उपयोग करें।",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ]
+}

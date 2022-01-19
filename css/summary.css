@@ -1,0 +1,122 @@
+textarea#input {
+    height: 366px;
+    width: 100%;
+}
+
+.result-list ul li {
+    list-style: disc;
+}
+
+.result-list button {
+    height: 40px;
+    padding: 0 25px;
+    font-size: 1.5rem;
+    border: none;
+    font-weight: 500;
+    line-height: 1.2;
+    background: transparent;
+    color: black;
+}
+
+button.copy_text.tooltip {
+    position: absolute;
+    right: 12px;
+}
+h3.title {
+    text-align: start;
+}
+.result-list {
+    box-shadow: 0 2px 6px rgb(0 0 0 / 25%);
+    padding: 2.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    overflow: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    height: 366px;
+    width: 100%;
+}
+
+.copy_text {
+    position: absolute;
+    top: 10px;
+    right: 28px;
+}
+
+input#title {
+    margin-left: 13px;
+    margin-right: 19px;
+}
+
+/* tooltip */
+.copy_text:hover::after,
+.copy_text:hover::before {
+    opacity: 1;
+}
+
+.copy_text::after,
+.copy_text::before {
+    transform: translate3d(-50%, calc(-100% - 16px), 0);
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 80px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -35px;
+
+    /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 80px;
+    background-color: black;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 6px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.tooltip {
+    opacity: 1 !important;
+}

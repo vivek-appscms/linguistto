@@ -5,7 +5,6 @@
     "h2": "Ferramentas multilíngues para parafrasear conteúdo, tradução de frases e ferramentas de digitação baseadas em transliteração.",
     "TITLE": "Contenttool - Ferramentas mais inteligentes para profissionais de conteúdo",
     "META": "O ContentTools.io fornece as ferramentas mais inteligentes para o uso diário por profissionais de conteúdo.",
-    "keywords": "chave 1, chave 2, chave 3, chave 4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/pt/hindi-paraphrase-tool"
         },
         {
-            "name": "Ferramenta de paráfrase russa",
-            "description": "Ferramenta de parafraseamento russa para profissionais",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/pt/russian-paraphrase-tool"
-        },
-        {
             "name": "ferramenta de paráfrase espanhola",
             "description": "Ferramenta de parafraseamento em espanhol para profissionais",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/pt/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de paráfrase russa",
+            "description": "Ferramenta de parafraseamento russa para profissionais",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/pt/russian-paraphrase-tool"
         },
         {
             "name": "Ferramenta de transliteração",
@@ -63,7 +62,7 @@
             "name": "Ferramenta de contagem de palavras",
             "description": "Ferramenta de contagem de palavras online",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/pt/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/pt/sentence-translation"
+        },
+        {
+            "name": "Gerador de resumo",
+            "description": "Melhor gerador de resumo online gratuito",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/pt/summary-generator"
         },
         {
             "name": "Reescritor de parágrafos",

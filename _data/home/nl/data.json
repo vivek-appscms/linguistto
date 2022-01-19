@@ -5,7 +5,6 @@
     "h2": "Meertalige hulpmiddelen voor het parafraseren van inhoud, zinsvertaling en transliteratie gebaseerde typetools.",
     "TITLE": "Contenttool - Slimste tools voor contentprofessionals",
     "META": "Contenttools.io biedt de slimste tools voor dagelijks gebruik door contentprofessionals.",
-    "keywords": "sleutel 1, sleutel2, sleutel3, sleutel4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/nl/hindi-paraphrase-tool"
         },
         {
-            "name": "Russische parafrase-tool",
-            "description": "Russische parafrasering stool voor professionals",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/nl/russian-paraphrase-tool"
-        },
-        {
             "name": "spanish-parafrase-tool",
             "description": "Spaanse parafrasering stool voor professionals",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/nl/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Russische parafrase-tool",
+            "description": "Russische parafrasering stool voor professionals",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/nl/russian-paraphrase-tool"
         },
         {
             "name": "Tool voor transliteratie",
@@ -63,7 +62,7 @@
             "name": "Tool voor het aantal woorden",
             "description": "Online tool voor het aantal woorden",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/nl/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/nl/sentence-translation"
+        },
+        {
+            "name": "Samenvatting generator",
+            "description": "Beste gratis online overzichtsgenerator",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/nl/summary-generator"
         },
         {
             "name": "Paragraph Rewriter",

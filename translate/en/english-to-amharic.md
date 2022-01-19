@@ -7,6 +7,7 @@ lang: en
 from: en
 to: am
 permalink: /english-to-amharic-sentence-translation
-tool: english-to-amharic-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
-{% include section/translateinto.html %}    
+{% include section/translateinto.html %}

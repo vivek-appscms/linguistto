@@ -5,7 +5,6 @@
     "h2": "Многоязычные инструменты для перефразирования контента, перевода предложений и транслитерации.",
     "TITLE": "Contenttool — самые умные инструменты для профессионалов в области контента",
     "META": "ContentTools.io предоставляет самые умные инструменты для повседневного использования профессионалами в области контента.",
-    "keywords": "клавиша 1, клавиша 2, клавиша 3, клавиша 4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/ru/hindi-paraphrase-tool"
         },
         {
-            "name": "Русский инструмент перефразирования",
-            "description": "Русский инструмент перефразирования для профессионалов",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/ru/russian-paraphrase-tool"
-        },
-        {
             "name": "испанский инструмент для перефразирования",
             "description": "Инструмент перефразирования испанского языка для профессионалов",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/ru/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Русский инструмент перефразирования",
+            "description": "Русский инструмент перефразирования для профессионалов",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/ru/russian-paraphrase-tool"
         },
         {
             "name": "Инструмент транслитерации",
@@ -63,7 +62,7 @@
             "name": "Инструмент подсчета слов",
             "description": "Онлайн-инструмент подсчета слов",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/ru/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/ru/sentence-translation"
+        },
+        {
+            "name": "Генератор сводки",
+            "description": "Лучший бесплатный онлайн-генератор сводок",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/ru/summary-generator"
         },
         {
             "name": "Переписатель абзацев",

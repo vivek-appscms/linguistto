@@ -1,72 +1,140 @@
 {
-    "Language" : "English",
-"htmlLangAtt": "en",
-    "h1": "English  to Amharic sentence translation",
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "h1": "English to amharic sentence translation",
     "h2": "Best Online Sentence Translation",
-    "TITLE": "English  to Amharic sentence translation | Translate your sentences online free",
-    "META": "Translate your sentences from english  to amharic instantly for free. We have no usage limits. Try out for free !",
-   
+    "TITLE": "english to amharic sentence translation | Translate your sentences online free",
+    "META": "Translate your sentences from english to amharic instantly for free. We have no usage limits. Try out for free !",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "TEXTUAL_CONTENT": [
-      {
-        "priority": 1,
-        "logoUrl": "/assets/bulb.svg",
-        "header": "Instant english  to amharic sentence translation",
-        "content": "this tool present you a complete database for Instantly understand english  to amharic sentance translation. For quick and accurate result just type the sentance in sentance converter and get result at your fingertips with correct grammatical structure."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/guaranty.svg",
-        "header": "english  to amharic sentence translation online",
-        "content": "Get your content translated online english  to amharic. Understand the foreign language text immediately with no time and effort."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/support.svg",
-        "header": "Sentence translator english  to amharic in few steps",
-        "content": "It's more easier than you thought. Just copy your pharagraph and get transalation in english  to amharic in few seconds."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/protect.svg",
-        "header": "free online english  to amharic sentence translation",
-        "content": "Free online translator to save your time and money to transalate english  to amharic. we have focused that the meaning and emotions should not be lost while translating the text in another language."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/easy.svg",
-        "header": "Get quick and desired results english  to amharic",
-        "content": "Online transalator for english  to amharic to professionalize your article like a native one. Sentence Translation has specifically designed to make the message understood in any language"
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/cloud.svg",
-        "header": "This Tool is proficient in english  to amharic Sentence translators.",
-        "content": "Taking cultural and linguistic elements into account for sentence translation of english  to amharic. It not only translates sentence it further refine content to suit different audiences."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/cloud.svg",
-        "header": "Sentence Translation in english  to amharic to make your content professional",
-        "content": "Multilingual sentence translation tool to translate sentences to any language it could be english  to amharic. Simply type the sentence in sentence converter and get result at your fingertips with correct grammatical structure."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/cloud.svg",
-        "header": "This advanced Tool convert articles, stories and poems in english  to amharic without loosing meaning and emotion while translating the text in another language.",
-        "content": "Either it is article or stories we translate english  to amharic. This tool does’t translate word by word. With intelligent, decision making software it decides which words to use and which ones to disregard. we have focused that the meaning and emotions should not be lost while translating the text in another language."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/cloud.svg",
-        "header": "We translate quotes english  to amharic, and vice versa, while keeping the meaning unchanged.",
-        "content": "Sometimes quotes change at the time of change in english  to amharic. The object of Sentence Translation is specifically to keep the true meaning unchanged. With advanced AI it not only translates sentence it further refine content to suit different audiences."
-      }
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Instant english to amharic sentence translation",
+            "content": "this tool present you a complete database for Instantly understand english to amharic sentance translation. For quick and accurate result just type the sentance in sentance converter and get result at your fingertips with correct grammatical structure."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "english to amharic sentence translation online",
+            "content": "Get your content translated online english to amharic. Understand the foreign language text immediately with no time and effort."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Sentence translator english to amharic in few steps",
+            "content": "It's more easier than you thought. Just copy your pharagraph and get transalation in english to amharic in few seconds."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "free online english to amharic sentence translation",
+            "content": "Free online translator to save your time and money to transalate english to amharic. we have focused that the meaning and emotions should not be lost while translating the text in another language."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Get quick and desired results english to amharic",
+            "content": "Online transalator for english to amharic to professionalize your article like a native one. Sentence Translation has specifically designed to make the message understood in any language"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "This Tool is proficient in english to amharic Sentence translators.",
+            "content": "Taking cultural and linguistic elements into account for sentence translation of english to amharic. It not only translates sentence it further refine content to suit different audiences."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Sentence Translation in english to amharic to make your content professional",
+            "content": "Multilingual sentence translation tool to translate sentences to any language it could be english to amharic. Simply type the sentence in sentence converter and get result at your fingertips with correct grammatical structure."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "This advanced Tool convert articles, stories and poems in english to amharic without loosing meaning and emotion while translating the text in another language.",
+            "content": "Either it is article or stories we translate english to amharic. This tool does’t translate word by word. With intelligent, decision making software it decides which words to use and which ones to disregard. we have focused that the meaning and emotions should not be lost while translating the text in another language."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "We translate quotes english to amharic, and vice versa, while keeping the meaning unchanged.",
+            "content": "Sometimes quotes change at the time of change in english to amharic. The object of Sentence Translation is specifically to keep the true meaning unchanged. With advanced AI it not only translates sentence it further refine content to suit different audiences."
+        }
     ],
-  
-    "csscdns":[
-      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    "FAQ": [
+        {
+            "question": "How to translate a sentence into english to amharic ?",
+            "answer": "You can easily translate english to amharic.Type or paste the sentence into the text you want to translate first.Then click the 'Translate' button. To make the job even easier, you can also simply hit 'Enter'. Your translated sentence will appear in the text box on the right within seconds."
+        },
+        {
+            "question": "Can we download sentance translation tool for english to amharic ?",
+            "answer": "No, We cannot download because it is online sentence translator. Our free online Sentence translator offers quick and accurate translations from english to amharic right at your fingertips."
+        },
+        {
+            "question": "Will this tool give the same meaning while sentence translaton from english to amharic ?",
+            "answer": "With intelligent, decision making software it determines which words to use and which ones to neglect. We also stressed that when translating the text english to amharic, the meaning and feelings should not be lost. We have worked hard to simplify the things and with advanced AI this process takes no time."
+        },
+        {
+            "question": "How accurate is the result when we translate english to amharic?",
+            "answer": "Sentence translator gives quick and accurate results. Simply type the sentence in english and get result at your fingertips with correct grammatical structure in amharic. It's more easier than you thought even a child can easily use it."
+        },
+        {
+            "question": "How to translate a sentence into english to amharic ?",
+            "answer": "You can easily translate english to amharic.Type or paste the sentence into the text you want to translate first.Then click the 'Translate' button. To make the job even easier, you can also simply hit 'Enter'. Your translated sentence will appear in the text box on the right within seconds."
+        },
+        {
+            "question": "Is this english to amharic sentence translation free?",
+            "answer": "This english to amharic Sentence Translation is absolutely free.This Sentance translation tool can be used for both personal and commercial purpose. We do not have any limitations. Get quick and accurate result with correct grammatical structure in no time."
+        },
+        {
+            "question": "How many words I can use in for sentence translator from english to amharic?",
+            "answer": "It depends upon you.You can put whole article or small paragraph to translate fro english to amharic. This tool do not have any limitations. Within second it will convert and gives you accurate result."
+        },
+        {
+            "question": "Is it able to convert english to amharic and vice-versa?",
+            "answer": "Yes, It can be able to english to amharic and vice-versa and other then this tool can translate more than 50+ languages. You can translate to any other language it could be english , amharic or other in the catagory available."
+        },
+        {
+            "question": "Who can use this tool?",
+            "answer": "This tool is substitute for a human translator. Any student, teacher, website owner, traveller, content writer or any proffesional who want english to amharic sentence translation can use it."
+        },
+        {
+            "question": "Can I copy translated text?",
+            "answer": "You have the option of copying the content that has been translated into amharic."
+        },
+        {
+            "question": "Where can I use english to amharic translation?",
+            "answer": "The english to amharic sentence translation tool can be used for a variety of tasks including:<br> 1. Convert english WhatsApp messages that have been received into amharic messages by using the english to amharic sentence translation tool.<br> 2. Learn the meaning of any english term and use it as an english to amharic dictionary by copying and pasting the definition.<br> 3. If you wish to communicate with a amharic language-speaking friend, write your message in english, get it translated into amharic, and then send it to your friend.<br> 4. Web-based amharic translations of english content.<br> 5. You can use this online english to amharic sentence translation tool to translate english sentences to amharic in seconds. 6. To convert a piece of text from one script to another, use this online english to amharic sentence translation tool."
+        },
+        {
+            "question": "Can I use this english to amharic translator on my mobile?",
+            "answer": "It is possible to use this translation tool on your mobile device by accessing it through a mobile browser and using it in the same way as you would on a desktop computer."
+        },
+        {
+            "question": "What is the difference between translation and transliteration?",
+            "answer": "A translation tells you the meaning of words in another language. Google translator, Bing translator, and our own english to amharic sentence translation tool, which is free on our website, are some of the prominent translation tools. While a transliteration does not reveal the meaning of the words, it can help you pronounce them correctly. Transliteration changes the letters from one alphabet or language into the corresponding, similar-sounding characters of another alphabet. Therefore, we can say, transliteration changes the letters from one alphabet into the similar-sounding characters of another alphabet. This makes it the simplest and fastest method of typing in amharic without practicing any amharic keyboard. You can either use the Google input tool for FREE."
+        },
+        {
+            "question": "Why do we need translators?",
+            "answer": "The translation is essential for the dissemination of fresh information, knowledge, and ideas around the world. It is vitally necessary to have effective communication amongst people from different cultural backgrounds to be successful. The translation is something that has the potential to alter the course of history through the process of disseminating new information. It is the sole means by which certain people can become acquainted with a variety of works that will help them to broaden their understanding of the world."
+        },
+        {
+            "question": "Do I have to log in to use this english to amharic sentence translation tool?",
+            "answer": "There is no need for you to download any software or sign up for the service because our english to amharic sentence translation tool is saved locally in your web browser."
+        },
+        {
+            "question": "Translation of english grammar into amharic grammar is possible?",
+            "answer": "Yes, by utilizing this english to amharic sentence translation tool, you may quickly and effortlessly translate english grammar into amharic grammar without any difficulty."
+        },
+        {
+            "question": "Can I translate english text to amharic text on an image?",
+            "answer": "No, at this time, the english to amharic sentence translation tool only allows users to transform textual content from english to amharic but not text on images. You can use third-party services, such as Yandex to translate words or sentences embedded in images or graphics. If you have a smartphone, you can also download the Google Translate app, which allows you to translate a photo. You must let Google Translate access to your camera for this to work. After that, launch the Google Translate app and touch on the Camera icon to translate any text on the image."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
     ]
-  }
+}

@@ -7,6 +7,7 @@ lang: en
 from: vi
 to: en
 permalink: /vietnamese-to-english-sentence-translation
-tool: vietnamese-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

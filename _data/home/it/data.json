@@ -5,7 +5,6 @@
     "h2": "Strumenti multilingue per parafrasare contenuti, strumenti di digitazione basati sulla traduzione di frasi e sulla traslitterazione.",
     "TITLE": "Contenttool: gli strumenti più intelligenti per i professionisti dei contenuti",
     "META": "ContentTools.io fornisce gli strumenti più intelligenti per l'uso quotidiano da parte dei professionisti dei contenuti.",
-    "keywords": "tasto 1, tasto 2, tasto 3, tasto 4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/it/hindi-paraphrase-tool"
         },
         {
-            "name": "Strumento Parafrasi russo",
-            "description": "Strumento di parafrasi russo per professionisti",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/it/russian-paraphrase-tool"
-        },
-        {
             "name": "strumento-parafrasi spagnolo",
             "description": "Strumento di parafrasi in spagnolo per professionisti",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/it/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Strumento Parafrasi russo",
+            "description": "Strumento di parafrasi russo per professionisti",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/it/russian-paraphrase-tool"
         },
         {
             "name": "Strumento di traslitterazione",
@@ -63,7 +62,7 @@
             "name": "Strumento di conteggio delle parole",
             "description": "Strumento di conteggio parole online",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/it/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/it/sentence-translation"
+        },
+        {
+            "name": "Generatore di sommari",
+            "description": "Il miglior generatore di riepilogo online gratuito",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/it/summary-generator"
         },
         {
             "name": "Paragrafo Rewriter",

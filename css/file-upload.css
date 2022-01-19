@@ -214,13 +214,8 @@ button.ml-2 {
   margin-bottom: 30px;
 }
 .textual-lists {
-  /* position: relative; */
-  /* min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px; */
   margin: auto;
   width: 50%;
-  /* padding: 10px; */
 }
 .rows {
   padding: 10px;
@@ -315,31 +310,16 @@ button {
 }
 
 .copy-btn {
-  background: #64a564;
-  color: #fff !important;
-  border-radius: 30px;
-  cursor: pointer;
-  font-size: 14px !important;
+  position: absolute;
+  right: 12px;
+  top: 33px;
+  font-size: 20px
 }
 .paraphrase-output {
-  height: 414px;
+  height:  450px;
   width: 100%;
-  margin-top: 0.5rem;
-}
-.fZJuOo {
-  width: 16px;
-  height: 16px;
-  color: #006ce0;
-  transform: rotate( 
-90deg
-);
-}
-.kDuZbJ {
-  display: inline-flex;
-  background: 0 0;
-  border: 1px solid #ddd;
-  border-radius: 50%;
-  padding: 16px;
+  margin-top: 1rem;
+  padding: 30px 18px;
 }
 .hr-css {
   height: 7px;

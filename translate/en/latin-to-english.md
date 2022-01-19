@@ -7,6 +7,7 @@ lang: en
 from: la
 to: en
 permalink: /latin-to-english-sentence-translation
-tool: latin-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

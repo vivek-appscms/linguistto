@@ -5,7 +5,6 @@
     "h2": "İçerik, cümle çevirisi ve transliterasyon tabanlı yazım araçlarını ifade etmek için çok dilli araçlar.",
     "TITLE": "Contenttool - İçerik uzmanları için en akıllı araçlar",
     "META": "Contenttools.io, içerik uzmanları tarafından günlük kullanım için en akıllı araçlar sağlar.",
-    "keywords": "tuş1, anahtar2, tuş3, anahtar4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/tr/hindi-paraphrase-tool"
         },
         {
-            "name": "Rusça Paraphrase aracı",
-            "description": "Profesyoneller için Rusça Paraphrasing aracı",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/tr/russian-paraphrase-tool"
-        },
-        {
             "name": "İspanyolca-paraphrase-tool",
             "description": "Profesyoneller için İspanyolca Paraphrasing aracı",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/tr/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Rusça Paraphrase aracı",
+            "description": "Profesyoneller için Rusça Paraphrasing aracı",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/tr/russian-paraphrase-tool"
         },
         {
             "name": "Çevriyazım aracı",
@@ -63,7 +62,7 @@
             "name": "Kelime sayımı aracı",
             "description": "Çevrimiçi Kelime Sayımı Aracı",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/tr/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/tr/sentence-translation"
+        },
+        {
+            "name": "Özet jeneratör",
+            "description": "En iyi ücretsiz çevrimiçi özet üreteci",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/tr/summary-generator"
         },
         {
             "name": "Paragraf Yeniden Yazıcısı",

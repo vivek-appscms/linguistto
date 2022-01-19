@@ -5,7 +5,6 @@
     "h2": "Outils multilingues pour paraphraser le contenu, la traduction de phrases et les outils de saisie basés sur la translittération.",
     "TITLE": "Contenttool - Les outils les plus intelligents pour les professionnels du contenu",
     "META": "ContentTools.io fournit les outils les plus intelligents pour une utilisation quotidienne par les professionnels du contenu.",
-    "keywords": "touche 1, touche 2, touche 3, touche 4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/fr/hindi-paraphrase-tool"
         },
         {
-            "name": "Paraphrase russe",
-            "description": "Outil de paraphrase russe pour les professionnels",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/fr/russian-paraphrase-tool"
-        },
-        {
             "name": "outil de paraphrase espagnol",
             "description": "Outil de paraphrase espagnol pour les professionnels",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/fr/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Paraphrase russe",
+            "description": "Outil de paraphrase russe pour les professionnels",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/fr/russian-paraphrase-tool"
         },
         {
             "name": "Outil de translittération",
@@ -63,7 +62,7 @@
             "name": "Outil de comptage de mots",
             "description": "Outil de comptage de mots en ligne",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/fr/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/fr/sentence-translation"
+        },
+        {
+            "name": "Générateur de résumé",
+            "description": "Meilleur générateur de résumé en ligne gratuit",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/fr/summary-generator"
         },
         {
             "name": "Réécriture de paragraphe",

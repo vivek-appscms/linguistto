@@ -5,7 +5,6 @@
     "h2": "Các công cụ đa ngôn ngữ để diễn giải nội dung, dịch câu và các công cụ gõ dựa trên phiên âm.",
     "TITLE": "Contenttool - Công cụ thông minh nhất cho các chuyên gia nội dung",
     "META": "Contenttools.io cung cấp các công cụ thông minh nhất để sử dụng hàng ngày bởi các chuyên gia nội dung.",
-    "keywords": "key1, key2, key3, key4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/vi/hindi-paraphrase-tool"
         },
         {
-            "name": "Công cụ Paraphrase Nga",
-            "description": "Công cụ Paraphrasing của Nga cho các chuyên gia",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/vi/russian-paraphrase-tool"
-        },
-        {
             "name": "Tây Ban Nha-paraphrase-công cụ",
             "description": "Công cụ diễn giải tiếng Tây Ban Nha cho các chuyên gia",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/vi/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Công cụ Paraphrase Nga",
+            "description": "Công cụ Paraphrasing của Nga cho các chuyên gia",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/vi/russian-paraphrase-tool"
         },
         {
             "name": "Công cụ phiên âm",
@@ -63,7 +62,7 @@
             "name": "Công cụ đếm từ",
             "description": "Công cụ đếm từ trực tuyến",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/vi/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/vi/sentence-translation"
+        },
+        {
+            "name": "Máy phát điện tóm tắt",
+            "description": "Trình tạo tóm tắt trực tuyến miễn phí tốt nhất",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/vi/summary-generator"
         },
         {
             "name": "Viết lại đoạn văn",

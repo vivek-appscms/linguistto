@@ -7,6 +7,7 @@ lang: en
 from: it
 to: en
 permalink: /italian-to-english-sentence-translation
-tool: italian-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

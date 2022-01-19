@@ -7,6 +7,7 @@ lang: en
 from: en
 to: ur
 permalink: /english-to-urdu-sentence-translation
-tool: english-to-urdu-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

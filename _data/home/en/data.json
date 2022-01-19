@@ -80,6 +80,13 @@
       "url": "/sentence-translation"
     },
     {
+      "name": "Summary generator",
+      "description": "Best free online summary generator",
+      "color": "#2c3774",
+      "icon": "/assets/summary.svg",
+      "url": "/summary-generator"
+  },
+    {
       "name": "Paragraph Rewriter",
       "description": "online paragraph rewriter for quality content",
       "color": "#8080ff",

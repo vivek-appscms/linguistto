@@ -5,8 +5,9 @@ translatein: english_to_puerto
 folderName : translate
 lang: en
 from: en
-to: hi
+to: es
 permalink: /english-to-puerto-sentence-translation
-tool: english-to-puerto-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

@@ -5,7 +5,6 @@
     "h2": "أدوات متعددة اللغات لإعادة صياغة المحتوى وترجمة الجمل وأدوات الكتابة القائمة على الترجمة الحرفية.",
     "TITLE": "Contenttool - أذكى أدوات لمحترفي المحتوى",
     "META": "يوفر Contenttools.io أذكى الأدوات للاستخدام اليومي من قبل متخصصي المحتوى.",
-    "keywords": "مفتاح 1، مفتاح 2، مفتاح 3، مفتاح 4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/ar/hindi-paraphrase-tool"
         },
         {
-            "name": "أداة إعادة صياغة روسية",
-            "description": "أداة إعادة الصياغة الروسية للمحترفين",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/ar/russian-paraphrase-tool"
-        },
-        {
             "name": "أداة الفقرة الإسبانية",
             "description": "أداة إعادة صياغة الإسبانية للمحترفين",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/ar/spanish-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة روسية",
+            "description": "أداة إعادة الصياغة الروسية للمحترفين",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/ar/russian-paraphrase-tool"
         },
         {
             "name": "أداة التحويل الحرفي",
@@ -63,7 +62,7 @@
             "name": "أداة عدد الكلمات",
             "description": "أداة عدد الكلمات عبر الإنترنت",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/ar/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/ar/sentence-translation"
+        },
+        {
+            "name": "مولد ملخص",
+            "description": "أفضل مولد ملخص مجاني على الإنترنت",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/ar/summary-generator"
         },
         {
             "name": "إعادة كتابة الفقرة",

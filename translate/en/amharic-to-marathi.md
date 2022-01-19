@@ -1,0 +1,13 @@
+---
+layout: home
+fileName: amharic-to-marathi-sentence-translation
+translatein: amharic_to_marathi
+folderName : translate
+lang: en
+from: am
+to: mr
+permalink: /amharic-to-marathi-sentence-translation
+tool: sentence-translations
+nointernationalization: true
+---
+{% include section/translateinto.html %}

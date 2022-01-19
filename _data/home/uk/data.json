@@ -5,7 +5,6 @@
     "h2": "Багатомовні інструменти для перефразовування вмісту, перекладу речень та інструментів введення на основі транслітерації.",
     "TITLE": "Contenttool - найрозумніші інструменти для професіоналів контенту",
     "META": "Contenttools.io надає найрозумніші інструменти для щоденного використання професіоналами контенту.",
-    "keywords": "ключ1, ключ2, ключ3, ключ4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/uk/hindi-paraphrase-tool"
         },
         {
-            "name": "Інструмент «Перефраза Російська»",
-            "description": "Російський інструмент перефразовування для професіоналів",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/uk/russian-paraphrase-tool"
-        },
-        {
             "name": "спаниш-парафраза-інструмент",
             "description": "Іспанський інструмент для перефразовування для професіоналів",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/uk/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Інструмент «Перефраза Російська»",
+            "description": "Російський інструмент перефразовування для професіоналів",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/uk/russian-paraphrase-tool"
         },
         {
             "name": "Інструмент транслітерації",
@@ -63,7 +62,7 @@
             "name": "Інструмент підрахунку слів",
             "description": "Інтернет-інструмент для підрахунку слів",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/uk/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/uk/sentence-translation"
+        },
+        {
+            "name": "Зведений генератор",
+            "description": "Кращий безкоштовний онлайн генератор резюме",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/uk/summary-generator"
         },
         {
             "name": "Переавтор абзацу",

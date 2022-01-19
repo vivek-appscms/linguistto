@@ -1,0 +1,59 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "h1": "เครื่องกำเนิดไฟฟ้าสรุปออนไลน์ที่ดีที่สุดฟรี",
+    "h2": "สรุปบทความใด ๆ ในคลิก",
+    "TITLE": "เครื่องกำเนิดไฟฟ้าสรุป- เครื่องมือสรุปที่ดีที่สุดสำหรับการแยกประโยคที่สำคัญที่สุด",
+    "META": "สร้างบทสรุปอย่างรวดเร็วด้วยเครื่องกำเนิดไฟฟ้าสรุปขั้นสูง.ใช้เครื่องมือสร้างสรุปออนไลน์ฟรีของเราเพื่อสรุป วิเคราะห์ และสรุปเอกสารของคุณได้ในคลิกเดียว",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ]
+}

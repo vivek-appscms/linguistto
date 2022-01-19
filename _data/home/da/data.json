@@ -5,7 +5,6 @@
     "h2": "Flersprogede værktøjer til omskrivning af indhold, sætning oversættelse og translitteration baserede skriveværktøjer.",
     "TITLE": "Contenttool - Smarteste værktøjer til indhold fagfolk",
     "META": "ContentTools.io giver smarteste værktøjer til daglig brug af indhold fagfolk.",
-    "keywords": "key1, key2, key3, nøgle4",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
@@ -32,18 +31,18 @@
             "url": "/da/hindi-paraphrase-tool"
         },
         {
-            "name": "Russisk Parafrase værktøj",
-            "description": "Russisk omskrivning værktøj til fagfolk",
-            "color": "#33cccc",
-            "icon": "/assets/img/rishain.svg",
-            "url": "/da/russian-paraphrase-tool"
-        },
-        {
             "name": "spansk-parafrase-værktøj",
             "description": "Spansk omskrivning værktøj til fagfolk",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
             "url": "/da/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Russisk Parafrase værktøj",
+            "description": "Russisk omskrivning værktøj til fagfolk",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/da/russian-paraphrase-tool"
         },
         {
             "name": "Værktøjet Transliteration",
@@ -63,7 +62,7 @@
             "name": "Værktøjet Word tæller",
             "description": "Værktøj til online ordtælling",
             "color": "#4373fc",
-            "icon": "/assets/img/paraprashing.svg",
+            "icon": "/assets/img/paraprashing.svg ",
             "url": "/da/word-count-tool"
         },
         {
@@ -79,6 +78,13 @@
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
             "url": "/da/sentence-translation"
+        },
+        {
+            "name": "Resume generator",
+            "description": "Bedste gratis online resumé generator",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/da/summary-generator"
         },
         {
             "name": "Afsnit brænder",
