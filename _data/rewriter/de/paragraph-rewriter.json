@@ -1,0 +1,58 @@
+{
+    "Language": "Englisch",
+    "htmlLangAtt": "de",
+    "h1": "Verwenden Sie den kostenlosen Online-Absatzumschreiber für qualitativ hochwertige Inhalte.",
+    "h2": "Ultimative Lösung für Ihre Schreibprobleme",
+    "TITLE": "Absatzumschreiber - Das beste Tool zum Umschreiben einer unbegrenzten Anzahl von Dokumenten. ",
+    "META": "Der fortschrittliche webbasierte Absatzumschreiber ist der perfekte Ort, um die Artikel neu zu schreiben oder zu paraphrasieren. Unser Tool liefert die wahre Essenz des Themas. Das effektivste Tool zur Minimierung aller Risiken von Plagiaten und Grammatikfehlern.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

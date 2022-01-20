@@ -1,13 +1,13 @@
 ---
 layout: home
-fileName: amharic-to-english
+fileName: amharic-to-english-sentence-translation
 translatein: amharic_to_english
+folderName : translate
+lang: en
 from: am
 to: en
-folderName: translate
-lang: en
-x: amharic
 permalink: /amharic-to-english-sentence-translation
-tool: amharic-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

@@ -7,6 +7,7 @@ lang: en
 from: rw
 to: en
 permalink: /kinyarwanda-to-english-sentence-translation
-tool: kinyarwanda-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

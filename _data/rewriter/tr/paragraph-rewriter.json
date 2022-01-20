@@ -1,0 +1,58 @@
+{
+    "Language": "İngilizce",
+    "htmlLangAtt": "tr",
+    "h1": "Kaliteli içerik için ücretsiz çevrimiçi paragraf yeniden yazıcısı kullanın.",
+    "h2": "Yazma sorunlarınıza en iyi çözüm",
+    "TITLE": "Paragraf yeniden yazar-Belgelerin sınırsız sayıda yeniden yazmak için en iyi araç. ",
+    "META": "Gelişmiş web tabanlı paragraf yeniden yazıcısı, makaleleri yeniden yazmak veya özetlemek için mükemmel bir yerdir. Aracımız konunun gerçek özünü sunar. intihal ve gramer hatalarının tüm risklerini en aza indirmek için en etkili araç.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

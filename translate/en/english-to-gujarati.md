@@ -2,11 +2,12 @@
 layout: home
 fileName: english-to-gujarati-sentence-translation
 translatein: english_to_gujarati
-from: en
-to: gu
 folderName : translate
 lang: en
+from: en
+to: gu
 permalink: /english-to-gujarati-sentence-translation
-tool: english-to-gujarati-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

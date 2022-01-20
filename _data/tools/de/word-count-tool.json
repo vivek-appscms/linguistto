@@ -1,0 +1,71 @@
+{
+    "Language": "Englisch",
+    "htmlLangAtt": "de",
+    "h1": "Wortzählwerkzeug",
+    "h2": "",
+    "TITLE": "Kostenloses Tool zur Wortzählung, keine Nutzungsbeschränkungen - Contenttool - Intelligenteste Tools für Content-Profis",
+    "META": "Zählen Sie Wörter in Ihrem kopierten Text oder als Ihren Typ. Erzielen Sie sofortige und genaue Ergebnisse.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Einfach online über die Wortzahl Ihres Artikels zu erfahren",
+            "content": "Kopieren Sie Ihren Artikel aus Ihrem Dokument und erhalten Sie sofort die Wortzahl Ihres Ergebnisses."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Merkmal unserer Wortzahl?",
+            "content": "Die Wortzählmethode ist ziemlich einfach zu verwenden. Sie können Ihren Text direkt in das Feld eingeben. Oder wenn Sie ein Textverarbeitungsprogramm oder eine Online-Anwendung wie Google Documents verwenden, um Ihr Stück zu schreiben, können Sie es einfach kopieren und in ein Textfeld einfügen."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Wenn die Übersetzung für Ihren Artikel nicht ausreicht, wird nach einem genauen Wort gesucht",
+            "content": "Sie können sich für einen Wortzähler entscheiden, bei dem Sie die Länge Ihres Artikels mit einer Genauigkeit von 100% der Wortzahl ermitteln können"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Kostenlose Wortzahl online in wenigen Schritten",
+            "content": "Kopieren Sie Ihren Satz in die Wortzahl und erhalten Sie Ihr Ergebnis."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Es macht einfacher, Ihre Grenzen bei der Wortzahl online zu kennen",
+            "content": "Für Hausaufgaben gibt es normalerweise Grenzwerte oder Mindestanforderungen. Gleiches gilt häufig für Bewerbungen am College. Die Einhaltung dieser Anweisungen kann einen großen Einfluss darauf haben, wie dieses Schreiben bewertet und überprüft wird, und es zeigt, ob Sie grundlegende Anweisungen befolgen können oder nicht. Der Wortzähler kann sicherstellen, dass Sie nicht versehentlich Grenzen überschreiten oder Mindestwerte nicht einhalten, die für diese Zuweisungen schädlich sein können."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Kostenlose Wortzählung, Genauigkeit und schnelles Ergebnis in nur wenigen Schritten",
+            "content": "Wir geben 100% Genauigkeit mit schnellem Ergebnis, kopieren Sie einfach Ihren Text und erhalten Sie sofort Ihr Ergebnis in der Wortzahl"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Überprüfen Sie Ihren Lebenslauf, ob er eine relevante Wortzahl hat",
+            "content": "Die Anzahl der Wörter in Ihrem Lebenslauf zu kennen, kann für Arbeitssuchende erforderlich sein, um alle gewünschten Details auf einer einzigen Seite zu erhalten."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Wenn Ihre Tweet-Beschriftung nach einem genauen Wort sucht, sind Sie hier richtig.",
+            "content": "Die Zeichenbeschränkung von Twitter ist ein Überbleibsel aus den Anfängen der App, während Tweets als Texte gesendet wurden, die auf einhundertsechzig Zeichen beschränkt waren. Es wurde über die Realität nachgedacht, die sich als eines der charakteristischen Merkmale des Produkts herausstellt."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Einführung in die Wortzahl",
+            "content": "Die Zeichenbeschränkung von Twitter ist ein Überbleibsel aus den Anfängen der App, während Tweets als Texte gesendet wurden, die auf einhundertsechzig Zeichen beschränkt waren. Es wurde über die Realität nachgedacht, die sich als eines der charakteristischen Merkmale des Produkts herausstellt."
+        }
+    ],
+   
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

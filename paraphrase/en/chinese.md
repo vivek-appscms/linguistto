@@ -3,8 +3,8 @@ layout: home
 fileName: chinese-paraphrase-tool
 language: zh
 folderName : features
+permalink: /chinese-paraphrase-tool
 lang: en
-permalink: chinese-paraphrase-tool
 tool: chinese-paraphrase-tool
 ---
 {% include section/paraphrase.html %}

@@ -1,0 +1,58 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "h1": "ภาษาอังกฤษเป็นภาษาฮินดี พิมพ์",
+    "h2": "",
+    "TITLE": "ภาษาอังกฤษเป็นภาษาฮินดีพิมพ์ออนไลน์ - วิธีที่ง่ายที่สุดสำหรับการพิมพ์ภาษาฮินดี - Contenttool - เครื่องมือที่ชาญฉลาดสำหรับผู้เชี่ยวชาญด้านเนื้อหา",
+    "META": "हिन्दी मेच टाइकरेज - ใช้ซอฟต์แวร์พิมพ์ภาษาฮินดีอย่างเป็นทางการเพื่อพิมพ์ภาษาฮินดีออนไลน์",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Language": "Anglais",
+    "htmlLangAtt": "fr",
+    "h1": "Liste des traductions",
+    "h2": "",
+    "TITLE": "Contenttool - Les outils les plus intelligents pour les professionnels du contenu",
+    "META": "Comptez les mots dans votre texte copié ou en tant que type. Obtenez des résultats instantanés et précis",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

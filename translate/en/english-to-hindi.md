@@ -7,6 +7,7 @@ lang: en
 from: en
 to: hi
 permalink: /english-to-hindi-sentence-translation
-tool: english-to-hindi-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

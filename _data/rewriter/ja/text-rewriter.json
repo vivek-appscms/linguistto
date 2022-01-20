@@ -1,0 +1,58 @@
+{
+    "Language": "英語",
+    "htmlLangAtt": "en",
+    "h1": "優れたテキストリライタツール",
+    "h2": "テキストリライターで盗作のない高品質でユニークなコンテンツを生成",
+    "TITLE": "テキストリライター-あらゆるコンテンツを新鮮な方法で書き換えるのに最適なテキストリライター。",
+    "META": "ワンクリックでコンテンツを一意にするための最高のテキストリライター。最も信頼できるテキストリライタツールを使用して時間を節約し、最適な方法で情報を伝えます。",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

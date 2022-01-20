@@ -1,0 +1,155 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "Om",
+            "url": "/about"
+        },
+        {
+            "name": "Villkor",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Hjälp",
+            "url": "/help"
+        },
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Verktyg för parafrasering",
+            "url": "/sv/paraphrasing-tool"
+        },
+        {
+            "name": "Verktyget Tyskt parafras",
+            "url": "/sv/german-paraphrase-tool"
+        },
+        {
+            "name": "Verktyget Hindi Parafras",
+            "url": "/sv/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Ryskt parafrasverktyg",
+            "url": "/sv/russian-paraphrase-tool"
+        },
+        {
+            "name": "Verktyget Spanskt parafras",
+            "url": "/sv/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Translittereringsverktyg",
+            "url": "/sv/english-to-hindi-typing "
+        },
+        {
+            "name": "Swedish to bangla Typing",
+            "url": "/sv/bangla-transliteration-tool"
+        },
+        {
+            "name": "Verktyg för antal ord",
+            "url": "/sv/word-count-tool"
+        },
+        {
+            "name": "Verktyg för antal tecken",
+            "url": "/sv/character-count-tool"
+        },
+        {
+            "name": "Översättning av mening",
+            "url": "/sv/sentence-translation"
+        },
+        {
+            "name": "Meta- och titelkontroll",
+            "url": "/sv/meta-and-title-checker"
+        },
+        {
+            "name": "Slumpmässig adjektiv generator",
+            "url": "/sv/random-adjective-generator"
+        },
+        {
+            "name": "Textskillnadskontroll",
+            "url": "/sv/text-difference-checker"
+        },
+        {
+            "name": "Slumpmässig substantiv generator",
+            "url": "/sv/random-noun-generator"
+        },
+        {
+            "name": "Slumpmässig punkt",
+            "url": "/sv/random-paragraph-generator"
+        },
+        {
+            "name": "Slumpmässig generator",
+            "url": "/sv/random-letter-generator"
+        },
+        {
+            "name": "Slumpmässig mening",
+            "url": "/sv/random-sentence-generator"
+        },
+        {
+            "name": "Serp simulator",
+            "url": "/sv/serp-simulator"
+        },
+        {
+            "name": "Ordräkning på webbplatsen",
+            "url": "/sv/website-word-count"
+        },
+        {
+            "name": "Random ordgenerator",
+            "url": "/sv/random-word-generator"
+        },
+        {
+            "name": "Omskrivning av stycke",
+            "url": "/sv/paragraph-rewriter"
+        },
+        {
+            "name": "Text Rewriter",
+            "url": "/sv/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Villkor",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Sekretesspolicy",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Kontakta oss",
+            "url": "/contact"
+        }
+    ]
+}

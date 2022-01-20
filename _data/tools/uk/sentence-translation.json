@@ -1,0 +1,15 @@
+{
+    "Language": "Англійська мова",
+    "htmlLangAtt": "en",
+    "h1": "Список перекладів",
+    "h2": "",
+    "TITLE": "Contenttool - найрозумніші інструменти для професіоналів контенту",
+    "META": "Підрахуйте слова у скопійованому тексті або як ваш тип. Отримуйте миттєві та точні результати",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

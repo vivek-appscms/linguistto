@@ -105,3 +105,4 @@ function clipboardHandler(id) {
     }
 };
 //.netlify/functions/paraphrase/
+//http://127.0.0.1:9000/paraphrase/

@@ -1,12 +1,13 @@
 ---
 layout: home
-fileName: tagalog-to-english-sentence-translatio
+fileName: tagalog-to-english-sentence-translation
 translatein: tagalog_to_english
 folderName : translate
 lang: en
-from: en
-to: hi
+from: tl
+to: en
 permalink: /tagalog-to-english-sentence-translation
-tool: tagalog-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

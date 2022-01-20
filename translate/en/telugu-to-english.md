@@ -7,6 +7,7 @@ lang: en
 from: te
 to: en
 permalink: /telugu-to-english-sentence-translation
-tool: telugu-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

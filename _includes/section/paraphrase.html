@@ -1,44 +1,42 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 <script src="/js/paraprashing.js" data-language="{{page.language}}" async defer></script>
 {% assign initialLanguage = page.language %}
 <div class="container">
 <div class="main">
-    <!-- <h1 class="col-md-12 text">{{keyName}}</h1> -->
+<!-- <h1 class="col-md-12 text">{{keyName}}</h1> -->
 
-    <div class="hr">
-        <hr class="hr-css" />
+<div class="hr">
+    <hr class="hr-css" />
+</div>
+<div class="col-md-12 typing-main-div">
+    <div class="row">
+
     </div>
-    <div class="col-md-12 typing-main-div">
-        <div class="row">
-
-        </div>
-        <div class="row col-md-12 d-flex justify-content-center">
-            <div class="col-md-6 mb-3">
-                <textarea class="mt-3 input-string" id="input-string" value=""></textarea>
-                <div class=" d-flex justify-content-left">
-                    <button class="ml-2" style="font-size:14px; 
-                        font-weight:normal; height:30px ; outline:none;
-                        border:none;" onclick="getInputValue();">
-                        Paraphrase
-                    </button>
-                </div>
-            </div>
-            <!-- <div class="col-md-4 main-div">
-                <button aria-label="Swap currencies" type="button" class="kDuZbJ"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 17" aria-hidden="true" class="miscellany___StyledIconSwap-sc-1r08bla-1 fZJuOo"><path fill="currentColor" fill-rule="evenodd" d="M11.726 1.273l2.387 2.394H.667V5h13.446l-2.386 2.393.94.94 4-4-4-4-.94.94zM.666 12.333l4 4 .94-.94L3.22 13h13.447v-1.333H3.22l2.386-2.394-.94-.94-4 4z" clip-rule="evenodd"></path></svg></button>
-            </div> -->
-            <div class="col-md-6 mb-3">
-                <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 copy-btn"
-                onclick="clipboardHandler('paraphrase-output-1')">copy</p>
-            <p style="font-size:14px" class="float-left m-0 p-0 pl-3 ">Option 1</p>
-            <p class="float-right m-0 p-0 pr-3" id="tooltip-1" data-toggle="tooltip" data-placement="top"
-                title="x out of y words are different from input">
-                <small id="total-different-1">0</small> / <small id="total-input-words-1">0</small>
-            </p>
-                <textarea class="paraphrase-output" id="paraphrase-output-1" value=""></textarea>
-                <div class=" d-flex justify-content-left">
-                </div>
+    <div class="row col-md-12 d-flex justify-content-center">
+        <div class="col-md-6 mb-3">
+            <textarea class="mt-3 input-string" id="input-string" value=""></textarea>
+            <div class=" d-flex justify-content-left">
+                <button class="ml-2" style="font-size:14px; 
+                    font-weight:normal; height:30px ; outline:none;
+                    border:none;" onclick="getInputValue();">
+                    Paraphrase
+                </button>
             </div>
         </div>
+        <!-- <div class="col-md-4 main-div">
+            <button aria-label="Swap currencies" type="button" class="kDuZbJ"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 17" aria-hidden="true" class="miscellany___StyledIconSwap-sc-1r08bla-1 fZJuOo"><path fill="currentColor" fill-rule="evenodd" d="M11.726 1.273l2.387 2.394H.667V5h13.446l-2.386 2.393.94.94 4-4-4-4-.94.94zM.666 12.333l4 4 .94-.94L3.22 13h13.447v-1.333H3.22l2.386-2.394-.94-.94-4 4z" clip-rule="evenodd"></path></svg></button>
+        </div> -->
+        <div class="col-md-6 mb-3">
+        <div class="paraphrase-div">
+            <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 copy-btn"
+            onclick="clipboardHandler('paraphrase-output-1')"><i class="fas fa-copy"></i></p>
+            <textarea class="paraphrase-output" id="paraphrase-output-1" value=""></textarea>
+            <div class=" d-flex justify-content-left">
+            </div>
+        </div>
+        </div>
     </div>
+</div>
 </div>
 </div>

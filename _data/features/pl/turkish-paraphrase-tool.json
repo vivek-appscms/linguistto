@@ -1,0 +1,53 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "h1": "Darmowe narzędzie do parafrazowania online",
+    "h2": "Przepisz swoje tureckie treści, korzystając z naszego najlepszego narzędzia online.",
+    "TITLE": "Turecki parafrazing narzędzie dla każdego - Darmowe narzędzie online do przepisywania treści",
+    "META": "Natychmiast parafrazuj swój tekst do tureckiego. Aby uzyskać wiele sparafrazowanych wariantów treści, skorzystaj z tego bezpłatnego tureckiego narzędzia do parafrazowania.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Prosty w obsłudze",
+            "content": "To tureckie narzędzie parafrazujące jest bardzo proste w użyciu. Na początek interfejs użytkownika jest prosty i prosty. Ponieważ wszystko jest w jednym miejscu, nie będziesz musiał się zastanawiać od czego zacząć. Ponadto nasze tureckie narzędzie do parafrazowania jest wolne od reklam, zapewniając użytkownikowi końcowemu przyjemniejsze wrażenia użytkownika."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Bezpłatnie",
+            "content": "Nasze tureckie narzędzie parafrazowe jest całkowicie bezpłatne w użyciu. Nie trzeba płacić za korzystanie z naszego tureckiego narzędzia parafrazowania. Aby korzystać z naszej usługi, nie musisz się rejestrować ani logować. W ciągu jednego dnia możesz parafrazować nieograniczoną liczbę artykułów. To też nie ma granic. Masz możliwość odświeżenia zawartości tyle razy, ile chcesz. Możesz przepisać kilka akapitów w jednym posiedzeniu. Jedyne, co zauważysz, to ilość czasu potrzebnego na parafrazowanie akapitu."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% bezpieczne",
+            "content": "Bazy danych tureckiego narzędzia parafrazowania nie przechowują ani nie przesyłają danych do żadnego innego źródła podczas korzystania z niego. Kolejną zaletą korzystania z tego narzędzia jest to, że Twoje dane pozostają tajne, a jakość pracy nie jest zagrożona. Gdy artykuł zostanie sparafrazowany, narzędzie bezpiecznie usuwa Twoje dane na miejscu. Dzięki temu możemy zaoferować pełne bezpieczeństwo wszystkim naszym klientom, dzięki czemu nasze tureckie narzędzie parafrazowania jest niezawodne i wolne od ryzyka w każdej sytuacji."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Brak problemów ze zgodnością",
+            "content": "Użytkownicy nie będą mieli problemów ze zgodnością podczas korzystania z tego tureckiego narzędzia parafrazowania. Narzędzie do parafrazowania tego portalu internetowego jest usługą online, do której można uzyskać dostęp z dowolnego urządzenia. Działa z wieloma popularnymi przeglądarkami, w tym Chrome, Safari, Firefox, Microsoft Edge i innymi. Korzystając z tureckiego narzędzia parafrazowania, automatycznie dostosowuje się do dowolnego rozmiaru ekranu, umożliwiając korzystanie z niego na komputerze stacjonarnym, tablecie lub telefonie komórkowym, w zależności od preferencji. Nie będziesz musiał kupować określonego urządzenia ani instalować żadnych wtyczek w celu parafrazowania artykułów za pomocą tej usługi online."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Ulepszona struktura zdania",
+            "content": "Ręczne parafrazowanie może mieć negatywny wpływ na czytelność tekstu ze względu na złożoność zaangażowanych. tureckie narzędzie parafrazujące, z drugiej strony, może produkować zdania, które nie łamią ogólnej struktury materiału. To tureckie narzędzie parafrazujące utrzymuje czytelnik zaangażowany i pomaga osiągnąć pożądane rezultaty."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Trzy sposoby, aby uzyskać wynik farafrazowania",
+            "content": "Jedną z wielkich cech tego tureckiego narzędzia parafrazowania jest to, że można uzyskać wyniki na trzy różne sposoby, co odróżnia je od innych narzędzi parafrazujących w tym, zamiast uzyskać jeden wynik. Możesz przepisać swoje treści na trzy różne sposoby i wybrać jeden z nich, aby uczynić go niesamowitym."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

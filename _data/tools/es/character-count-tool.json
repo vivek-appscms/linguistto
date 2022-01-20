@@ -1,0 +1,71 @@
+{
+    "Language": "Inglés",
+    "htmlLangAtt": "en",
+    "h1": "Herramienta Conteo de personajes",
+    "h2": "",
+    "TITLE": "Herramienta de conteo de caracteres gratuita, sin límites de uso - Contenttool - Las herramientas más inteligentes para profesionales del contenido",
+    "META": "Cuente los caracteres en el texto copiado o según su tipo. Obtenga resultados instantáneos y precisos.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Es fácil saber sobre el recuento de caracteres de su artículo en línea",
+            "content": "Copia tu artículo de tu documento y obtén tu resultado al instante."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "¿Característica de nuestro recuento de personajes?",
+            "content": "El método de conteo de caracteres es bastante fácil de usar. Puede escribir el texto directamente en el cuadro. O si utiliza un procesador de caracteres o una aplicación en línea, como Google Documents, para escribir su pieza, puede copiarla y pegarla fácilmente en un cuadro de texto."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Cuando la traducción no es suficiente para tu artículo, busca el carácter exacto",
+            "content": "puedes ir al contador de caracteres donde puedes saber sobre la longitud de tu artículo con un 100% de precisión en el recuento de caracteres"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Recuento de personajes gratis en línea en pocos pasos",
+            "content": "Copia tu oración en el recuento de caracteres y obtén el resultado."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Hace más fácil conocer tus límites en el recuento de personajes en línea",
+            "content": "por lo general, hay límites o mínimos para las asignaciones de tareas. Lo mismo ocurre con frecuencia para las solicitudes universitarias. Cumplir con estos puede tener un gran impacto en la forma en que se califica y revisa este escrito, y demuestra si puede o no seguir las instrucciones básicas. El contador de caracteres puede asegurarse de que no sobrepase accidentalmente los límites o no cumpla con los mínimos que pueden ser perjudiciales para estas tareas."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Precisión de recuento de caracteres gratuita y resultados rápidos en solo unos pocos pasos",
+            "content": "Damos una precisión del 100% con un resultado rápido, simplemente copie su texto y obtenga su resultado instantáneo en el recuento de caracteres"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Comprueba que tu currículum tiene un recuento de caracteres relevante",
+            "content": "Saber el número de caracteres en tu currículum puede ser necesario para que los solicitantes de empleo obtengan todos los detalles que deseas en una sola página."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Cuando el título de tu tweet busca el carácter exacto, estás en el lugar correcto.",
+            "content": "La restricción de caracteres de Twitter es un remanente de los primeros días de la aplicación, mientras que los tweets se enviaron como textos, que se habían limitado a ciento sesenta caracteres. Ha pensado en la realidad que emerge como una de las características definitorias del producto."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "introducción al recuento de caracteres",
+            "content": "Character Counter es una calculadora de conteo de caracteres en línea 100% gratuita que es fácil de usar. A menudo, las personas eligen la conveniencia de todos los detalles de escritura completos que proporciona Word Counter, y eso es justo lo que ofrece esta herramienta. Indica el número de caracteres y el número de oraciones, que siempre es el único detalle que una persona quiere saber sobre su escritura. Lo mejor de todo es que obtendrá el conocimiento que necesita."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Language": "Inggris",
+    "htmlLangAtt": "id",
+    "h1": "Alat Hitungan Karakter",
+    "h2": "",
+    "TITLE": "Alat hitung karakter gratis, tidak ada batasan penggunaan - Contenttool - Alat paling cerdas untuk profesional konten",
+    "META": "Hitung karakter dalam teks yang disalin atau sebagai tipe Anda. Dapatkan hasil yang instan dan akurat.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Mudah diketahui tentang jumlah karakter artikel Anda secara online",
+            "content": "Salin artikel Anda dari dokumen Anda dan dapatkan hasil Anda langsung menghitung karakter."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Fitur dari jumlah karakter kita?",
+            "content": "Metode hitung karakter cukup mudah digunakan. Anda dapat mengetik teks Anda dalam kotak secara langsung. Atau jika Anda menggunakan prosesor karakter atau aplikasi online, seperti Google Documents, untuk menulis karya Anda, Anda dapat dengan mudah menyalin dan menempelkannya ke dalam kotak teks."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Ketika transalasi tidak cukup untuk artikel Anda, Hal ini mencari karakter yang tepat",
+            "content": "Anda dapat pergi untuk counter karakter di mana Anda dapat mengetahui tentang panjang artikel Anda dengan akurasi 100% dari jumlah karakter"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Jumlah karakter gratis online dalam beberapa langkah",
+            "content": "Salin kalimat Anda dalam hitungan karakter dan dapatkan hasil Anda."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Itu membuat lebih mudah untuk mengetahui batas-batas Anda dalam hitungan karakter secara online",
+            "content": "biasanya ada batas atau minimum untuk tugas pekerjaan rumah. Hal yang sama sering berlaku untuk aplikasi perguruan tinggi. Mematuhi ini dapat memiliki dampak besar pada bagaimana tulisan ini dinilai dan ditinjau, dan itu menunjukkan apakah Anda dapat mengikuti arah dasar atau tidak. Penghitung karakter dapat memastikan Anda tidak sengaja melampaui batas atau gagal memenuhi minimum yang dapat merugikan tugas ini."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Akurasi jumlah karakter gratis dan hasil cepat hanya dalam beberapa langkah",
+            "content": "Kami memberikan akurasi 100% dengan hasil cepat hanya menyalin teks Anda dan mendapatkan hasil langsung Anda dalam jumlah karakter"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Periksa Resume Anda bahwa itu memiliki jumlah karakter yang relevan",
+            "content": "Mengetahui jumlah karakter dalam resume Anda dapat diperlukan bagi pencari kerja untuk mendapatkan semua rincian yang Anda inginkan pada satu halaman."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Ketika caption tweet Anda mencari karakter yang tepat Anda berada di tempat yang tepat",
+            "content": "Pembatasan karakter Twitter adalah penanggung dari hari-hari awal aplikasi sementara tweet telah dikirim sebagai teks, yang telah dibatasi untuk seratus enam puluh karakter. Ini telah berpikir tentang realitas yang muncul sebagai salah satu produk mendefinisikan karakteristik."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "pengantar hitungan karakter",
+            "content": "Character Counter adalah 100% gratis menghitung karakter online kalkulator yang mudah digunakan. Seringkali orang memilih kenyamanan untuk semua detail penulisan komprehensif yang disediakan oleh Word Counter, dan itulah yang diberikan oleh alat ini. Ini menunjukkan jumlah karakter dan jumlah kalimat, yang selalu merupakan satu-satunya detail yang ingin diketahui seseorang tentang tulisan mereka. Yang terbaik dari semuanya, Anda akan mendapatkan pengetahuan yang Anda butuhkan."
+        }
+    ],
+  
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

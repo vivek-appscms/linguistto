@@ -1,0 +1,70 @@
+{
+    "Language": "Engels",
+    "htmlLangAtt": "nl",
+    "h1": "Tool voor het aantal woorden",
+    "h2": "",
+    "TITLE": "Gratis tool voor het tellen van woorden, geen gebruikslimieten - Contenttool - Slimste tools voor contentprofessionals",
+    "META": "Tel woorden in je gekopieerde tekst of als je type. Ontvang direct en nauwkeurige resultaten.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Gemakkelijk te weten over het aantal woorden van je artikel online",
+            "content": "Kopieer uw artikel uit uw document en ontvang direct het aantal woorden."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Kenmerk van ons aantal woorden?",
+            "content": "De methode voor het tellen van woorden is vrij eenvoudig te gebruiken. Je kunt je tekst rechtstreeks in het vak typen. Of als u een tekstverwerker of een online applicatie, zoals Google Documents, gebruikt om uw stuk te schrijven, kunt u het eenvoudig kopiëren en plakken in een tekstvak."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Wanneer transalatie niet genoeg is voor uw artikel, Het is op zoek naar het exacte woord",
+            "content": "u kunt gaan voor woordteller waar u de lengte van uw artikel kunt weten met 100% nauwkeurigheid van het aantal woorden"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Gratis aantal woorden online in enkele stappen",
+            "content": "Kopieer je zin in het aantal woorden en ontvang je resultaat."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Het maakt het gemakkelijker om uw grenzen in het aantal woorden online te kennen",
+            "content": "er zijn meestal limieten of minima voor huiswerkopdrachten. Hetzelfde geldt vaak voor sollicitaties op de universiteit. Het naleven van deze kan een grote impact hebben op hoe dit schrijven wordt beoordeeld en beoordeeld, en het laat zien of je al dan niet basisrichtingen kunt volgen. woordteller kan ervoor zorgen dat je niet per ongeluk de limieten overschrijdt of niet voldoet aan minima die schadelijk kunnen zijn voor deze opdrachten."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Gratis nauwkeurigheid van het aantal woorden en snel resultaat in slechts enkele stappen",
+            "content": "We geven 100% nauwkeurigheid met snel resultaat, kopieer gewoon je tekst en krijg je direct resultaat in het aantal woorden"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Controleer je CV of het relevante aantal woorden heeft",
+            "content": "Het kennen van het aantal woorden in je cv kan nodig zijn voor werkzoekenden om alle details die je wilt op één pagina te krijgen."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Wanneer je tweet bijschrift op zoek is naar het exacte woord, ben je op de juiste plek",
+            "content": "De karakterbeperking van Twitter is een holdover van de begintijd van de app, terwijl tweets als teksten zijn verzonden, die beperkt waren tot honderdzestig tekens. Het heeft nagedacht over de realiteit die naar voren komt als een van de bepalende kenmerken van het product."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "introductie van het aantal woorden",
+            "content": "De karakterbeperking van Twitter is een holdover van de begintijd van de app, terwijl tweets als teksten zijn verzonden, die beperkt waren tot honderdzestig tekens. Het heeft nagedacht over de realiteit die naar voren komt als een van de bepalende kenmerken van het product."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

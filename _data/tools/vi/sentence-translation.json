@@ -1,0 +1,15 @@
+{
+    "Language": "Anh",
+    "htmlLangAtt": "vi",
+    "h1": "Danh sách các bản dịch",
+    "h2": "",
+    "TITLE": "Contenttool - Công cụ thông minh nhất cho các chuyên gia nội dung",
+    "META": "Đếm các từ trong văn bản đã sao chép của bạn hoặc là loại của bạn. Nhận kết quả ngay lập tức và chính xác",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

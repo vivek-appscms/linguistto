@@ -1,0 +1,53 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "h1": "Herramienta de paráfrasis alemana en línea gratuita",
+    "h2": "Reescribe tu contenido en alemán con nuestra mejor herramienta en línea.",
+    "TITLE": "Herramienta de paráfrasis en alemán para todos: herramienta en línea gratuita para reescribir contenido",
+    "META": "Parafrasea tu texto al alemán al instante. Para obtener múltiples variantes parafraseadas de su contenido, use esta herramienta gratuita de paráfrasis en alemán.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Sencillo de usar",
+            "content": "Esta herramienta de paráfrasis en alemán es muy fácil de usar. Para empezar, la interfaz de usuario es directa y sencilla. Como todo está en un solo lugar, no tendrá que preguntarse por dónde empezar. Además, nuestra herramienta de paráfrasis en alemán no tiene publicidad, lo que proporciona una experiencia de usuario más agradable para el usuario final."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Gratuito",
+            "content": "Nuestra herramienta de paráfrasis en alemán es de uso completamente gratuito. No es necesario pagar para usar nuestra herramienta de paráfrasis en alemán. Para utilizar nuestro servicio, no necesita registrarse ni iniciar sesión. En un solo día, puede parafrasear un número ilimitado de artículos. Eso tampoco tiene límites. Tienes la opción de actualizar tu contenido tantas veces como quieras. Puedes reescribir varios párrafos de una sola vez. Lo único que notará es la cantidad de tiempo que lleva parafrasear el párrafo."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% seguro",
+            "content": "Las bases de datos de la herramienta de paráfrasis alemana no almacenan ni transmiten sus datos a ninguna otra fuente cuando la usa. Otro beneficio de usar esta herramienta es que sus datos permanecen en secreto y la calidad de su trabajo no se ve comprometida. Una vez que su artículo ha sido parafraseado, la herramienta elimina sus datos de forma segura en el acto. Como resultado, podemos ofrecer una seguridad completa a todos nuestros clientes, lo que hace que nuestra herramienta de paráfrasis alemana sea confiable y sin riesgos para usar en cualquier situación."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Sin problemas de compatibilidad",
+            "content": "Los usuarios no tendrán problemas de compatibilidad al usar esta herramienta de paráfrasis en alemán. La herramienta de paráfrasis en alemán de este portal web es un servicio en línea al que se puede acceder desde cualquier dispositivo. Funciona con una variedad de navegadores populares, incluidos Chrome, Safari, Firefox, Microsoft Edge y otros. Cuando utiliza la herramienta de paráfrasis en alemán, se ajusta automáticamente a cualquier tamaño de pantalla, lo que le permite usarla en su computadora de escritorio, tableta o teléfono móvil, según sus preferencias. No se le pedirá que compre un dispositivo específico ni instale ningún complemento para parafrasear sus artículos utilizando este servicio en línea."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Estructura de oraciones mejorada",
+            "content": "La paráfrasis manual puede tener una influencia negativa en la legibilidad de su texto debido a la complejidad que implica. La herramienta de paráfrasis en alemán, por otro lado, puede producir oraciones que no rompen la estructura general de su material. Esta herramienta de paráfrasis en alemán mantiene al lector interesado y le ayuda a lograr los resultados que desea."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tres maneras de obtener el resultado de farafraseo",
+            "content": "Una de las grandes características de esta herramienta de paráfrasis alemana es que puede obtener sus resultados de tres maneras diferentes, lo que la distingue de otras herramientas de paráfrasis en que en lugar de obtener un resultado. Puedes reescribir tu contenido de tres maneras diferentes y elegir cualquiera de ellas para que sea impresionante."
+        }
+    ],
+  
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

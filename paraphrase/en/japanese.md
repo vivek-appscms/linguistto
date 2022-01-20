@@ -3,8 +3,8 @@ layout: home
 fileName: japanese-paraphrase-tool
 language: ja
 folderName : features
+permalink: /japanese-paraphrase-tool
 lang: en
-permalink: japanese-paraphrase-tool
 tool: japanese-paraphrase-tool
 ---
 {% include section/paraphrase.html %}

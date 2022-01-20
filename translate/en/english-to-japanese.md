@@ -7,6 +7,7 @@ lang: en
 from: en
 to: ja
 permalink: /english-to-japanese-sentence-translation
-tool: english-to-japanese-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

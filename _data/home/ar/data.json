@@ -1,0 +1,104 @@
+{
+    "Language": "العربية",
+    "htmlLangAtt": "ar",
+    "h1": "أذكى أدوات لكتاب المحتوى",
+    "h2": "أدوات متعددة اللغات لإعادة صياغة المحتوى وترجمة الجمل وأدوات الكتابة القائمة على الترجمة الحرفية.",
+    "TITLE": "Contenttool - أذكى أدوات لمحترفي المحتوى",
+    "META": "يوفر Contenttools.io أذكى الأدوات للاستخدام اليومي من قبل متخصصي المحتوى.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "أداة إعادة الصياغة",
+            "description": "أداة إعادة صياغة للمحترفين",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/ar/paraphrasing-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة ألمانية",
+            "description": "أداة إعادة الصياغة الألمانية للمحترفين",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/ar/german-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة هندية",
+            "description": "أداة إعادة صياغة الهندية للمحترفين",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/ar/hindi-paraphrase-tool"
+        },
+        {
+            "name": "أداة الفقرة الإسبانية",
+            "description": "أداة إعادة صياغة الإسبانية للمحترفين",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/ar/spanish-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة روسية",
+            "description": "أداة إعادة الصياغة الروسية للمحترفين",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/ar/russian-paraphrase-tool"
+        },
+        {
+            "name": "أداة التحويل الحرفي",
+            "description": "الكتابة من الإنجليزية إلى الهندية",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/ar/english-to-hindi-typing"
+        },
+        {
+            "name": "الكتابة من الإنجليزية إلى البنغالية",
+            "description": "الإنجليزية عبر الإنترنت إلى bangla الكتابة",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/ar/bangla-transliteration-tool"
+        },
+        {
+            "name": "أداة عدد الكلمات",
+            "description": "أداة عدد الكلمات عبر الإنترنت",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg ",
+            "url": "/ar/word-count-tool"
+        },
+        {
+            "name": "أداة عدد الأحرف",
+            "description": "أداة عدد الأحرف عبر الإنترنت",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/ar/character-count-tool"
+        },
+        {
+            "name": "ترجمة الجملة",
+            "description": "ترجمة الجملة من X إلى Y عبر الإنترنت",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/ar/sentence-translation"
+        },
+        {
+            "name": "مولد ملخص",
+            "description": "أفضل مولد ملخص مجاني على الإنترنت",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/ar/summary-generator"
+        },
+        {
+            "name": "إعادة كتابة الفقرة",
+            "description": "إعادة كتابة فقرة عبر الإنترنت لمحتوى عالي الجودة",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/ar/paragraph-rewriter"
+        },
+        {
+            "name": "إعادة كتابة النص",
+            "description": "أداة إعادة كتابة نص ممتازة",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/ar/text-rewriter"
+        }
+    ]
+}

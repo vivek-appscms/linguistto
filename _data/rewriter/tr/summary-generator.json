@@ -1,0 +1,59 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "h1": "En iyi ücretsiz çevrimiçi özet üreteci",
+    "h2": "Bir tıklamayla herhangi bir makaleyi özetleyin.",
+    "TITLE": "Özet jeneratör- En önemli cümleleri ayıklamak için en iyi özetleme aracı.",
+    "META": "Gelişmiş özet üreteci ile hızlı bir özet oluşturun. Belgenizi tek bir tıklamayla özetlemek, analiz etmek ve sonuç çıkarmak için ücretsiz çevrimiçi özet jeneratörümüzü kullanın.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ]
+}

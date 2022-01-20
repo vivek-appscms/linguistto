@@ -7,6 +7,7 @@ lang: en
 from: ml
 to: en
 permalink: /malayalam-to-english-sentence-translation
-tool: malayalam-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

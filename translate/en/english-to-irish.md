@@ -7,6 +7,7 @@ lang: en
 from: en
 to: ga
 permalink: /english-to-irish-sentence-translation
-tool: english-to-irish-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

@@ -7,6 +7,7 @@ lang: en
 from: gu
 to: en
 permalink: /gujarati-to-english-sentence-translation
-tool: gujarati-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

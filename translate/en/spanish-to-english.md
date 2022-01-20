@@ -7,6 +7,7 @@ lang: en
 from: es
 to: en
 permalink: /spanish-to-english-sentence-translation
-tool: spanish-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}
