@@ -43,23 +43,21 @@ async function paraphraseControler(string, lang) {
             paraphrase = strOutput.replace(/['",]+/g, '')
             if (i == end - 1) {
                 let inputWords = document.getElementById("input-string").value.toLowerCase().replace(/ \s*/g, " ").split(" ")
-                document.getElementById(`total-input-words-${option}`).innerText = inputWords.length;
                 let differentWordCount = 0;
                 paraphrase.split(" ").forEach(word => {
                     if (inputWords.indexOf(word.toLowerCase()) < 0) {
                         differentWordCount++
                     }
                 })
-                document.getElementById(`total-different-${option}`).innerText = differentWordCount;
                 document.getElementById(`paraphrase-output-${option}`).innerText = paraphrase;
-                document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
+                // document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
 
             }
         }
       } catch (error) {
           try {
             for (let i = start; i < end; i++) {
-              const api_url = `/.netlify/functions/paraphrase/?baselocalecode=${lang[i]}&datalanguagecode=${lang[i + 1]}&value=${paraphrase}`;
+              const api_url = `.netlify/functions/paraphrase/?baselocalecode=${lang[i]}&datalanguagecode=${lang[i + 1]}&value=${paraphrase}`;
               const response = await fetch(api_url);
               let data = await response.json();
               let strOutput = [];
@@ -72,17 +70,14 @@ async function paraphraseControler(string, lang) {
               paraphrase = strOutput.replace(/['",]+/g, '')
               if (i == end - 1) {
                   let inputWords = document.getElementById("input-string").value.toLowerCase().replace(/ \s*/g, " ").split(" ")
-                  document.getElementById(`total-input-words-${option}`).innerText = inputWords.length;
                   let differentWordCount = 0;
                   paraphrase.split(" ").forEach(word => {
                       if (inputWords.indexOf(word.toLowerCase()) < 0) {
                           differentWordCount++
                       }
                   })
-                  document.getElementById(`total-different-${option}`).innerText = differentWordCount;
                   document.getElementById(`paraphrase-output-${option}`).innerText = paraphrase;
-                  document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
-  
+                //   document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
               }
           }
           } catch (error) {
