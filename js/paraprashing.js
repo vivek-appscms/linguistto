@@ -43,7 +43,6 @@ async function paraphraseControler(string, lang) {
             paraphrase = strOutput.replace(/['",]+/g, '')
             if (i == end - 1) {
                 let inputWords = document.getElementById("input-string").value.toLowerCase().replace(/ \s*/g, " ").split(" ")
-                document.getElementById(`total-input-words-${option}`).innerText = inputWords.length;
                 let differentWordCount = 0;
                 paraphrase.split(" ").forEach(word => {
                     if (inputWords.indexOf(word.toLowerCase()) < 0) {
@@ -71,7 +70,6 @@ async function paraphraseControler(string, lang) {
               paraphrase = strOutput.replace(/['",]+/g, '')
               if (i == end - 1) {
                   let inputWords = document.getElementById("input-string").value.toLowerCase().replace(/ \s*/g, " ").split(" ")
-                  document.getElementById(`total-input-words-${option}`).innerText = inputWords.length;
                   let differentWordCount = 0;
                   paraphrase.split(" ").forEach(word => {
                       if (inputWords.indexOf(word.toLowerCase()) < 0) {
