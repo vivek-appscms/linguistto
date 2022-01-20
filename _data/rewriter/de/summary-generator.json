@@ -1,0 +1,59 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "h1": "Bester kostenloser Online-Zusammenfassungsgenerator",
+    "h2": "Fassen Sie jeden Artikel mit einem Klick zusammen.",
+    "TITLE": "Zusammenfassungsgenerator- Das beste Zusammenfassungstool zum Extrahieren der wichtigsten Sätze.",
+    "META": "Erstellen Sie eine schnelle Zusammenfassung mit dem erweiterten Zusammenfassungsgenerator. Nutzen Sie unseren kostenlosen Online-Zusammenfassungsgenerator, um Ihr Dokument mit nur einem Klick zusammenzufassen, zu analysieren und eine Schlussfolgerung für Ihr Dokument zu ziehen.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ]
+}

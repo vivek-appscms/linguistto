@@ -1,0 +1,58 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "h1": "Uitstekende tool voor tekstherschrijver",
+    "h2": "Genereer unieke inhoud van hoge kwaliteit, plagiaatvrij met tekstherschrijver",
+    "TITLE": "Tekstreverschrijver- Perfecte tekstherschrijver om inhoud op een nieuwe manier te herschrijven.",
+    "META": "Beste tekstherschrijver om uw inhoud uniek te maken met slechts één klik. Bespaar tijd door de meest vertrouwde tekstrewritertool te gebruiken en informatie op de beste manier over te brengen.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

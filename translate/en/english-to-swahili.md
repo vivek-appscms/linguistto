@@ -7,6 +7,7 @@ lang: en
 from: en
 to: sw
 permalink: /english-to-swahili-sentence-translation
-tool: english-to-swahili-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

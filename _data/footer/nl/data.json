@@ -1,0 +1,155 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "Over",
+            "url": "/about"
+        },
+        {
+            "name": "Algemene voorwaarden",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Hulp",
+            "url": "/help"
+        },
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Gereedschap parafraseren",
+            "url": "/nl/paraphrasing-tool"
+        },
+        {
+            "name": "Duitse parafrase-tool",
+            "url": "/nl/german-paraphrase-tool"
+        },
+        {
+            "name": "Hindi parafrase-tool",
+            "url": "/nl/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Russische parafrase-tool",
+            "url": "/nl/russian-paraphrase-tool"
+        },
+        {
+            "name": "Spaanse parafrase-tool",
+            "url": "/nl/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Tool voor transliteratie",
+            "url": "/nl/english-to-hindi-typing "
+        },
+        {
+            "name": "Engels naar bangla typen",
+            "url": "/nl/bangla-transliteration-tool"
+        },
+        {
+            "name": "Tool voor het aantal woorden",
+            "url": "/nl/word-count-tool"
+        },
+        {
+            "name": "Gereedschap voor het aantal tekens",
+            "url": "/nl/character-count-tool"
+        },
+        {
+            "name": "Vertaling van zinnen",
+            "url": "/nl/sentence-translation"
+        },
+        {
+            "name": "Meta- en titelcontrole",
+            "url": "/nl/meta-and-title-checker"
+        },
+        {
+            "name": "Willekeurige adjectief generator",
+            "url": "/nl/random-adjective-generator"
+        },
+        {
+            "name": "Controle van tekstverschil",
+            "url": "/nl/text-difference-checker"
+        },
+        {
+            "name": "Willekeurige zelfstandig naamwoord generator",
+            "url": "/nl/random-noun-generator"
+        },
+        {
+            "name": "Willekeurige alinea-generator",
+            "url": "/nl/random-paragraph-generator"
+        },
+        {
+            "name": "Generator willekeurige letters",
+            "url": "/nl/random-letter-generator"
+        },
+        {
+            "name": "Generator voor willekeurige zinnen",
+            "url": "/nl/random-sentence-generator"
+        },
+        {
+            "name": "Serp-simulator",
+            "url": "/nl/serp-simulator"
+        },
+        {
+            "name": "Aantal woorden op de website",
+            "url": "/nl/website-word-count"
+        },
+        {
+            "name": "Willekeurige woordgenerator",
+            "url": "/nl/random-word-generator"
+        },
+        {
+            "name": "Paragraph Rewriter",
+            "url": "/nl/paragraph-rewriter"
+        },
+        {
+            "name": "Tekst-herschrijver",
+            "url": "/nl/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Algemene voorwaarden",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Privacybeleid",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Neem contact op",
+            "url": "/contact"
+        }
+    ]
+}

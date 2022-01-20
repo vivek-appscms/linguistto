@@ -7,6 +7,7 @@ lang: en
 from: en
 to: mr
 permalink: /english-to-marathi-sentence-translation
-tool: english-to-marathi-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

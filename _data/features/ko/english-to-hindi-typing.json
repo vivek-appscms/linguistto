@@ -1,0 +1,58 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "h1": "영어에서 힌디어로 타이핑",
+    "h2": "",
+    "TITLE": "영어에서 힌디어로 온라인 타이핑 - 힌디어 타이핑을위한 가장 쉬운 방법 - Contenttool - 콘텐츠 전문가를위한 가장 스마트 한 도구",
+    "META": "- 공식 콘텐츠 도구의 영어에서 힌디어 타이핑 소프트웨어를 사용하여 온라인으로 힌디어를 입력하십시오.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

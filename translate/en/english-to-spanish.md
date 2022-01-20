@@ -7,6 +7,7 @@ lang: en
 from: en
 to: es
 permalink: /english-to-spanish-sentence-translation
-tool: english-to-punjabi-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

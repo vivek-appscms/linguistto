@@ -1,0 +1,58 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "h1": "उत्कृष्ट टेक्स्ट रीराइटर टूल",
+    "h2": "टेक्स्ट रिवाइटर के साथ उच्च-गुणवत्ता, साहित्यिक चोरी से मुक्त अद्वितीय सामग्री उत्पन्न करें",
+    "TITLE": "टेक्स्ट रिवाइटर- किसी भी सामग्री को नए तरीके से फिर से लिखने के लिए परफेक्ट टेक्स्ट रिवाइटर।",
+    "META": "अपनी सामग्री को केवल एक क्लिक में अद्वितीय बनाने के लिए सर्वश्रेष्ठ टेक्स्ट रिवाइटर। सबसे भरोसेमंद टेक्स्ट रीराइटर टूल का उपयोग करके अपना समय बचाएं और सर्वोत्तम तरीके से जानकारी दें।",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

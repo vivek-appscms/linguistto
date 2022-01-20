@@ -1,0 +1,70 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "h1": "Narzędzie Zliczanie znaków",
+    "h2": "",
+    "TITLE": "Darmowe narzędzie do liczenia znaków, bez ograniczeń użytkowania - Contenttool - Najmądrzejsze narzędzia dla profesjonalistów",
+    "META": "Zliczanie znaków w skopiowanym tekście lub jako typ. Uzyskaj natychmiastowe i dokładne wyniki.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Łatwy do poznania liczby postaci artykułu online",
+            "content": "Skopiuj swój artykuł z dokumentu i natychmiast uzyskaj wynik liczby znaków."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Cechą naszej liczby postaci?",
+            "content": "Metoda liczenia znaków jest dość łatwa w użyciu. Tekst można wpisać bezpośrednio w polu. Jeśli używasz procesora znaków lub aplikacji online, takiej jak Dokumenty Google, do napisania swojego utworu, możesz łatwo skopiować i wkleić go do pola tekstowego."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Kiedy transalacja nie wystarczy dla artykułu, To szuka dokładnego charakteru",
+            "content": "możesz przejść do licznika znaków, gdzie możesz wiedzieć o długości artykułu ze 100% dokładnością liczby znaków"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Liczba darmowych postaci online w kilku krokach",
+            "content": "Skopiuj zdanie w liczbie znaków i uzyskaj wynik."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "To sprawia, że łatwiej poznać swoje granice w liczbie znaków w Internecie",
+            "content": "zwykle istnieją ograniczenia lub minima dla zadań domowych. To samo jest często prawdziwe w przypadku aplikacji na studia. Przestrzeganie tych może mieć istotny wpływ na to, jak to pisanie jest oceniane i sprawdzane, i pokazuje, czy jesteś w stanie wykonać podstawowe kierunki. Licznik znaków może upewnić się, że przypadkowo nie przejść przez granice lub nie spełniają minimów, które mogą być szkodliwe dla tych zadań."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bezpłatna dokładność liczenia znaków i szybki wynik w zaledwie kilku krokach",
+            "content": "Dajemy 100% dokładności z szybkim wynikiem wystarczy skopiować tekst i uzyskać natychmiastowy wynik w liczbie znaków"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Sprawdź swoje CV, czy ma odpowiednią liczbę znaków",
+            "content": "Znajomość liczby postaci w CV może być konieczne dla osób poszukujących pracy, aby uzyskać wszystkie szczegóły, które chcesz na jednej stronie."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Kiedy twój napis tweeta szuka dokładnej postaci jesteś na właściwym miejscu",
+            "content": "Ograniczenie postaci Twittera jest uchwytem z pierwszych dni aplikacji, podczas gdy tweety zostały wysłane jako teksty, które zostały ograniczone do stu sześćdziesięciu znaków. Myślał o rzeczywistości, która wyłania się jako jedna z cech definiujących produktu."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Wprowadzenie do liczby znaków",
+            "content": "Licznik znaków to w 100% darmowy kalkulator liczenia postaci online, który jest łatwy w użyciu. Często ludzie wybierają wygodę dla wszystkich kompleksowych szczegółów pisania, które zapewnia Word Counter, i to właśnie daje to narzędzie. Wskazuje liczbę znaków i liczbę zdań, co jest zawsze jedynym szczegółem, który osoba chce wiedzieć o ich pisaniu. Najlepszy ze wszystkich, dostaniesz wiedzę, jakiej potrzebujesz."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

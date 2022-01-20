@@ -1,0 +1,59 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "h1": "Beste gratis online overzichtsgenerator",
+    "h2": "Vat elk artikel samen met een klik.",
+    "TITLE": "Overzichtsgenerator- Beste samenvattingstool voor het extraheren van de belangrijkste zinnen.",
+    "META": "Maak een korte samenvatting met geavanceerde overzichtsgenerator. Gebruik onze gratis online samenvattingsgenerator om uw document samen te vatten, te analyseren en een conclusie te trekken met slechts één klik.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ]
+}

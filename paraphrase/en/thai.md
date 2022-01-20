@@ -3,8 +3,8 @@ layout: home
 fileName: thai-paraphrase-tool
 language: th
 folderName : features
+permalink: /thai-paraphrase-tool
 lang: en
-permalink: thai-paraphrase-tool
 tool: thai-paraphrase-tool
 ---
 {% include section/paraphrase.html %}

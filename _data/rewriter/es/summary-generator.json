@@ -1,0 +1,59 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "h1": "El mejor generador de resúmenes online gratuito",
+    "h2": "Resume cualquier artículo en un clic.",
+    "TITLE": "Generador de resúmenes: la mejor herramienta de resumen para extraer las oraciones más importantes.",
+    "META": "Crea un resumen rápido con el generador de resúmenes avanzado. Utilice nuestro generador de resúmenes en línea gratuito para resumir, analizar y llegar a una conclusión para su documento con solo un clic.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ]
+}

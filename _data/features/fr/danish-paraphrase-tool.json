@@ -1,0 +1,53 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "h1": "Outil de paraphrase danois en ligne gratuit",
+    "h2": "Réécrivez votre contenu danois à l'aide de notre meilleur outil en ligne.",
+    "TITLE": "Outil de paraphrase danois pour tous - Outil en ligne gratuit pour réécrire du contenu",
+    "META": "Paraphrase ton texte en danois instantanément. Pour obtenir plusieurs variantes paraphrasées de votre contenu, utilisez cet outil de paraphrase gratuit en danois.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Simple à utiliser",
+            "content": "Cet outil de paraphrase danois est très simple à utiliser. Pour commencer, l'interface utilisateur est simple et directe. Parce que tout se trouve au même endroit, vous n'aurez pas à vous demander par où commencer. En outre, notre outil de paraphrase danois est exempt de publicité, offrant une expérience utilisateur plus agréable à l'utilisateur final."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Sans frais",
+            "content": "Notre outil de paraphrase en danois est totalement gratuit. Il n'est pas nécessaire de payer pour utiliser notre outil de paraphrase danois. Pour utiliser notre service, vous n'avez pas besoin de vous inscrire ou de vous connecter. En une seule journée, vous pouvez paraphraser un nombre illimité d'articles. Cela aussi n'a pas de limites. Vous avez la possibilité d'actualiser votre contenu autant de fois que vous le souhaitez. Vous pouvez réécrire plusieurs paragraphes en une seule séance. La seule chose que vous remarquerez est le temps qu'il faut pour paraphraser le paragraphe."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100 % sécurisé",
+            "content": "Les bases de données de l'outil de paraphrase danois ne stockent ni ne transmettent vos données à aucune autre source lorsque vous les utilisez. Un autre avantage de cet outil est que vos données restent secrètes et que la qualité de votre travail n'est pas compromise. Une fois votre article paraphrasé, l'outil supprime vos données en toute sécurité sur place. En conséquence, nous pouvons offrir une sécurité complète à tous nos clients, rendant notre outil de paraphrase danois fiable et sans risque à utiliser dans toutes les situations."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Aucun problème de compatibilité",
+            "content": "Les utilisateurs n'auront aucun problème de compatibilité lors de l'utilisation de cet outil de paraphrase danois. L'outil de paraphrase danois de ce portail Web est un service en ligne accessible depuis n'importe quel appareil. Il fonctionne avec une variété de navigateurs populaires, notamment Chrome, Safari, Firefox, Microsoft Edge et autres. Lorsque vous utilisez l'outil de paraphrase danois, il s'adapte automatiquement à n'importe quelle taille d'écran, vous permettant de l'utiliser sur votre ordinateur de bureau, votre tablette ou votre téléphone portable, selon vos préférences. Il ne vous sera pas demandé d'acheter un appareil spécifique ni d'installer de plugins pour paraphraser vos articles en utilisant ce service en ligne."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Structure de phrase améliorée",
+            "content": "La paraphrase manuelle peut avoir une influence négative sur la lisibilité de votre texte en raison de la complexité impliquée. outil de paraphrase danois, en revanche, peut produire des phrases qui ne rompent pas la structure globale de votre matériel. Cet outil de paraphrase danois maintient l'intérêt du lecteur et vous aide à atteindre les résultats que vous souhaitez."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Trois façons d'obtenir un résultat pharaphrasé",
+            "content": "L'une des grandes caractéristiques de cet outil de paraphrase danois est que vous pouvez obtenir vos résultats de trois manières différentes, ce qui le distingue des autres outils de paraphrase en ce sens qu'au lieu d'obtenir un seul résultat. Vous pouvez réécrire votre contenu de trois manières différentes et choisir l'une d'entre elles pour le rendre génial."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

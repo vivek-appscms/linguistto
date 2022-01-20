@@ -1,6 +1,6 @@
 {
-  "Languageselect": "English",
-  "htmlLangAttselect": "en",
+  "Language": "English",
+  "htmlLangAtt": "en",
     "h1": "List of translations",
     "h2": "",
     "TITLE": "Contenttool - Smartest tools for content professionals",
@@ -9,7 +9,6 @@
     "imgheight": "40px",
     "imgalt": "altvalue",
     "csscdns":[
-      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
-      "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
     ]
   }

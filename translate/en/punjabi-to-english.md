@@ -7,6 +7,7 @@ lang: en
 from: pa
 to: en
 permalink: /punjabi-to-english-sentence-translation
-tool: punjabi-to-english-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

@@ -1,0 +1,58 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-tw",
+    "h1": "優秀的文本重寫工具",
+    "h2": "使用文本重寫器生成高質量、無抄襲的獨特內容",
+    "TITLE": "文本重寫-完美的文本重寫以全新的方式重寫任何內容。",
+    "META": "最好的文本重寫器，使您的內容獨一無二，只需點擊一下。通過使用最值得信賴的文本重寫工具節省您的時間，並以最佳方式傳達信息。",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "解釋工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "印地語解釋工具",
+                        "url": "/zh-tw/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "俄語解釋工具",
+                        "url": "/zh-tw/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "西班牙語翻譯工具",
+                        "url": "/zh-tw/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "英語至印地語打字",
+                        "url": "/zh-tw/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "英語到孟加拉打字",
+                        "url": "/zh-tw/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "德語解釋工具",
+                        "url": "/zh-tw/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "字數計數工具",
+                        "url": "/zh-tw/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "字符計數工具",
+                        "url": "/zh-tw/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "段落重寫",
+                        "url": "/zh-tw/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "文本重寫",
+                        "url": "/zh-tw/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "其他工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "句子翻譯",
+                        "url": "/zh-tw/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "元和標題檢查器",
+                        "url": "/zh-tw/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機形容詞發生器",
+                        "url": "/zh-tw/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "文本差異檢查器",
+                        "url": "/zh-tw/text-difference-checker",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "其他工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機名詞生成器",
+                        "url": "/zh-tw/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機段落生成器",
+                        "url": "/zh-tw/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機字母生成器",
+                        "url": "/zh-tw/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機句子生成器",
+                        "url": "/zh-tw/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "塞爾普模擬器",
+                        "url": "/zh-tw/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "網站字數",
+                        "url": "/zh-tw/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機詞生成器",
+                        "url": "/zh-tw/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "博客",
+            "url": "/blog"
+        }
+    ]
+}

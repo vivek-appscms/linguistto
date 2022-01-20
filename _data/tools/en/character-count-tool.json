@@ -1,6 +1,6 @@
 {
-  "Languageselect": "English",
-  "htmlLangAttselect": "en",
+  "Language": "English",
+  "htmlLangAtt": "en",
     "h1": "Character Count Tool",
     "h2": "",
     "TITLE": "Free character count tool, no usage limits - Contenttool - Smartest tools for content professionals",
@@ -111,7 +111,6 @@
       }
     ],
     "csscdns":[
-      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
-      "<link rel=\"stylesheet\" href=\"/css/character-counter.css\" />"
+      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
     ]
   }

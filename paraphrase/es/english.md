@@ -1,0 +1,9 @@
+---
+layout: home
+fileName: paraphrasing-tool
+folderName: features
+lang: es
+permalink: /es/paraphrasing-tool
+tool: paraphrasing-tool
+---
+{% include section/paraphrase.html %}

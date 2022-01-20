@@ -1,0 +1,58 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "h1": "高品質のコンテンツには、無料のオンライン段落リライタを使用してください。",
+    "h2": "ライティングの問題に対する究極の解決策",
+    "TITLE": "段落リライタ-無制限の数の文書を書き換えるのに最適なツール。 ",
+    "META": "高度なWebベースの段落リライターは、記事を書き換えたり言い換えたりするのに最適な場所です。私たちのツールは、トピックの真の本質を提供します。盗作や文法上の誤りのリスクを最小限に抑えるための最も効果的なツールです。",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

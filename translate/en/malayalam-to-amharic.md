@@ -1,0 +1,13 @@
+---
+layout: home
+fileName: malayalam-to-amharic-sentence-translation
+translatein: malayalam_to_amharic
+folderName : translate
+lang: en
+from: ml
+to: am
+permalink: /malayalam-to-amharic-sentence-translation
+tool: sentence-translations
+nointernationalization: true
+---
+{% include section/translateinto.html %}

@@ -1,0 +1,59 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "h1": "Melhor gerador de resumo online gratuito",
+    "h2": "Resuma qualquer artigo com um clique.",
+    "TITLE": "Gerador de resumo- Melhor ferramenta de resumo para extrair as frases mais importantes.",
+    "META": "Crie um resumo rápido com o gerador de resumo avançado. Use nosso gerador de resumo online gratuito para resumir, analisar e fazer uma conclusão para o seu documento com apenas um clique.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ]
+}

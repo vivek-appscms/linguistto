@@ -3,8 +3,8 @@ layout: home
 fileName: arabic-paraphrase-tool
 language: ar
 folderName : features
+permalink: /arabic-paraphrase-tool
 lang: en
-permalink: arabic-paraphrase-tool
 tool: arabic-paraphrase-tool
 ---
 {% include section/paraphrase.html %}

@@ -7,6 +7,7 @@ lang: en
 from: en
 to: te
 permalink: /english-to-telugu-sentence-translation
-tool: english-to-telugu-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}

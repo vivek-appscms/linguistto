@@ -1,0 +1,58 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "h1": "Excelente ferramenta de reescrita de texto",
+    "h2": "Gere conteúdo exclusivo de alta qualidade e sem plágio com regravador de texto",
+    "TITLE": "Reescritor de texto- Reescritor de texto perfeito para reescrever qualquer conteúdo de uma maneira nova.",
+    "META": "Melhor reescritor de texto para tornar seu conteúdo único com apenas um clique. Economize seu tempo usando a ferramenta de reescrita de texto mais confiável e transmita informações da melhor maneira.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

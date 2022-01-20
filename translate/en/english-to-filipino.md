@@ -2,11 +2,12 @@
 layout: home
 fileName: english-to-filipino-sentence-translation
 translatein: english_to_filipino
-from: en
-to: fil
 folderName : translate
 lang: en
+from: en
+to: fil
 permalink: /english-to-filipino-sentence-translation
-tool: english-to-filipino-sentence-translation
+tool: sentence-translations
+nointernationalization: true
 ---
 {% include section/translateinto.html %}
