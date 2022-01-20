@@ -50,7 +50,7 @@ async function paraphraseControler(string, lang) {
                     }
                 })
                 document.getElementById(`paraphrase-output-${option}`).innerText = paraphrase;
-                document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
+                // document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
 
             }
         }
@@ -77,7 +77,7 @@ async function paraphraseControler(string, lang) {
                       }
                   })
                   document.getElementById(`paraphrase-output-${option}`).innerText = paraphrase;
-                  document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
+                //   document.getElementById(`tooltip-${option}`).title = `${differentWordCount} out of ${inputWords.length} words are different from input words`;
               }
           }
           } catch (error) {
