@@ -6,4 +6,4 @@ lang: en
 permalink: /all-typing-pages
 nointernationalization: true
 ---
-{% include section/translate.html %}
+{% include section/translateintoen.html %}
