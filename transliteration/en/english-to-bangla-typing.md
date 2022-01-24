@@ -1,10 +1,11 @@
 --- 
 layout: home 
-fileName: bangla-transliteration-tool
+fileName: english-to-bangla-typing
 folderName : features
 translatein: bangla
 language: bn
 lang: en
 permalink: /bangla-transliteration-tool
+nointernationalization: true
 ---
 {% include section/translation.html %}

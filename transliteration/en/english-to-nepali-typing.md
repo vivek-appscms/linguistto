@@ -6,5 +6,6 @@ language: ne
 folderName : transliteration
 lang: en
 permalink: /english-to-nepali-typing
+nointernationalization: true
 ---
 {% include section/translation.html %}

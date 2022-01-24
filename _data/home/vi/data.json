@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/vi/text-rewriter"
+        },
+        {
+            "name": "Gõ trang",
+            "description": "Công cụ gõ tuyệt vời",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/vi/all-typing-pages"
         }
     ]
 }

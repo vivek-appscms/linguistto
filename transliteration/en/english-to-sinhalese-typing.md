@@ -6,5 +6,6 @@ language: si
 folderName : transliteration
 lang: en
 permalink: /english-to-sinhalese-typing
+nointernationalization: true
 ---
 {% include section/translation.html %}

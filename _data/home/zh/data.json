@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/zh/text-rewriter"
+        },
+        {
+            "name": "键入页面",
+            "description": "优秀的打字工具",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/zh/all-typing-pages"
         }
     ]
 }

@@ -6,5 +6,6 @@ language: sa
 folderName : transliteration
 lang: en
 permalink: /english-to-sanskrit-typing
+nointernationalization: true
 ---
 {% include section/translation.html %}  

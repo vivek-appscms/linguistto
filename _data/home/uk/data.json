@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/uk/text-rewriter"
+        },
+        {
+            "name": "Набравши сторінки",
+            "description": "Відмінний інструмент набору тексту",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/uk/all-typing-pages"
         }
     ]
 }

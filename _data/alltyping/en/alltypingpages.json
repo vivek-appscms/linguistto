@@ -4,16 +4,8 @@
         "url": "/english-to-arabic-typing"
     },
     {
-        "name": "English to Assamese typing",
-        "url": "/english-to-assamese-typing"
-    },
-    {
         "name": "English to Bangla typing",
-        "url": "/english-to-bangla-typing"
-    },
-    {
-        "name": "English to chinese typing",
-        "url": "/english-to-chinese-typing"
+        "url": "/bangla-transliteration-tool"
     },
     {
         "name": "English to Devanagari typing",
@@ -22,14 +14,6 @@
     {
         "name": "English to Sanskrit typing",
         "url": "/english-to-sanskrit-typing"
-    },
-    {
-        "name": "English to French typing",
-        "url": "/english-to-french-typing"
-    },
-    {
-        "name": "English to German typing",
-        "url": "/english-to-german-typing"
     },
     {
         "name": "English to Gujarati typing",
@@ -52,10 +36,6 @@
         "url": "/english-to-kannada-typing"
     },
     {
-        "name": "English to Korean typing",
-        "url": "/english-to-korean-typing"
-    },
-    {
         "name": "English to Malayalam typing",
         "url": "/english-to-malayalam-typing"
     },
@@ -66,10 +46,6 @@
     {
         "name": "English to Nepali typing",
         "url": "/english-to-nepali-typing"
-    },
-    {
-        "name": "English to Norwegian typing",
-        "url": "/english-to-norwegian-typing"
     },
     {
         "name": "English to Odia typing",
@@ -84,8 +60,8 @@
         "url": "/english-to-sinhalese-typing"
     },
     {
-        "name": "English to Spanish typing",
-        "url": "/english-to-spanish-typing"
+        "name": "English to Russian typing",
+        "url": "/english-to-russian-typing"
     },
     {
         "name": "English to Tamil typing",

@@ -1,155 +1,252 @@
 {
-    "logo": "/img/logo.png",
-    "heading": "",
-    "company": [
-        {
-            "name": "के बारे में",
-            "url": "/about"
-        },
-        {
-            "name": "नियम और शर्तें",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "हेल्प",
-            "url": "/help"
-        },
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "पैराफ़्रेसिंग टूल",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "हिंदी पैराफ्रेश टूल",
+                        "url": "/hi/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "रूसी पैराफ्रेश टूल",
+                        "url": "/hi/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "स्पैनिश पैराफ्रेज़ टूल",
+                        "url": "/hi/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "अंग्रेजी से हिंदी टाइपिंग",
+                        "url": "/hi/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "अंग्रेजी से बांग्ला टाइपिंग",
+                        "url": "/hi/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "जर्मन पैराफ्रेश टूल",
+                        "url": "/hi/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "कोरियाई पैराफ्रेज़ टूल",
+                        "url": "/hi/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "डेनिश पैराफ्रेज़ टूल",
+                        "url": "/hi/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "इटैलियन पैराफ्रेज़ टूल",
+                        "url": "/hi/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "पोलिश पैराफ्रेज़ टूल",
+                        "url": "/hi/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "स्वीडिश पैराफ्रेज़ टूल",
+                        "url": "/hi/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "थाई पैराफ्रेज़-टूल",
+                        "url": "/hi/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "जापानी-पैराफ्रेज़-टूल",
+                        "url": "/hi/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "अरबी-पैराफ्रेज़-टूल",
+                        "url": "/hi/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "यूक्रेनी-पैराफ्रेज़-टूल",
+                        "url": "/hi/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "चीनी-पैराफ़्रेज़-टूल",
+                        "url": "/hi/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "इंडोनेशियाई-पैराफ्रेज़-टूल",
+                        "url": "/hi/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "वियतनामी-पैराफ्रेज़-टूल",
+                        "url": "/hi/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "फ्रेंच-पैराफ्रेज़-टूल",
+                        "url": "/hi/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "डच-पैराफ्रेज़-टूल",
+                        "url": "/hi/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "पुर्तगाली-पैराफ़्रेज़-टूल",
+                        "url": "/hi/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "अन्य टूल्स",
+                "links": [
+                    {
+                        "name": "टाइपिंग पेज",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/hi/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "वाक्य का अनुवाद",
+                        "url": "/hi/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "मेटा और टाइटल चेकर",
+                        "url": "/hi/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "रैंडम विशेषण जनक",
+                        "url": "/hi/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "टेक्स्ट डिफरेंस चेकर",
+                        "url": "/hi/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "वर्ड काउंट टूल",
+                        "url": "/hi/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "कैरेक्टर काउंट टूल",
+                        "url": "/hi/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "पैराग्राफ रिवाइटर",
+                        "url": "/hi/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "टेक्स्ट रीराइटर",
+                        "url": "/hi/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "अन्य टूल्स",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "रैंडम संज्ञा जनक",
+                        "url": "/hi/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "रैंडम पैराग्राफ जेनरेटर",
+                        "url": "/hi/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "रैंडम अक्षर जनरेटर",
+                        "url": "/hi/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "रैंडम वाक्य जनरेटर",
+                        "url": "/hi/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "सर्प सिम्युलेटर",
+                        "url": "/hi/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "वेबसाइट शब्द गणना",
+                        "url": "/hi/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "रैंडम शब्द जनरेटर",
+                        "url": "/hi/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
         {
             "name": "ब्लॉग",
             "url": "/blog"
-        }
-    ],
-    "product": [
-        {
-            "name": "पैराफ्रासिंग टूल",
-            "url": "/hi/paraphrasing-tool"
-        },
-        {
-            "name": "जर्मन पैराफ्रेश टूल",
-            "url": "/hi/german-paraphrase-tool"
-        },
-        {
-            "name": "हिंदी पैराफ्रेश टूल",
-            "url": "/hi/hindi-paraphrase-tool"
-        },
-        {
-            "name": "रूसी पैराफ्रेश टूल",
-            "url": "/hi/russian-paraphrase-tool"
-        },
-        {
-            "name": "स्पैनिश पैराफ्रेज़ टूल",
-            "url": "/hi/spanish-paraphrase-tool"
-        },
-        {
-            "name": "लिप्यंतरण औज़ार",
-            "url": "/hi/english-to-hindi-typing "
-        },
-        {
-            "name": "अंग्रेजी से बांग्ला टाइपिंग",
-            "url": "/hi/bangla-transliteration-tool"
-        },
-        {
-            "name": "वर्ड काउंट टूल",
-            "url": "/hi/word-count-tool"
-        },
-        {
-            "name": "कैरेक्टर काउंट टूल",
-            "url": "/hi/character-count-tool"
-        },
-        {
-            "name": "वाक्य का अनुवाद",
-            "url": "/hi/sentence-translation"
-        },
-        {
-            "name": "मेटा और टाइटल चेकर",
-            "url": "/hi/meta-and-title-checker"
-        },
-        {
-            "name": "रैंडम विशेषण जनक",
-            "url": "/hi/random-adjective-generator"
-        },
-        {
-            "name": "टेक्स्ट डिफरेंस चेकर",
-            "url": "/hi/text-difference-checker"
-        },
-        {
-            "name": "रैंडम संज्ञा जनक",
-            "url": "/hi/random-noun-generator"
-        },
-        {
-            "name": "रैंडम पैराग्राफ जेनरेटर",
-            "url": "/hi/random-paragraph-generator"
-        },
-        {
-            "name": "रैंडम अक्षर जनरेटर",
-            "url": "/hi/random-letter-generator"
-        },
-        {
-            "name": "रैंडम वाक्य जनरेटर",
-            "url": "/hi/random-sentence-generator"
-        },
-        {
-            "name": "सर्प सिम्युलेटर",
-            "url": "/hi/serp-simulator"
-        },
-        {
-            "name": "वेबसाइट शब्द गणना",
-            "url": "/hi/website-word-count"
-        },
-        {
-            "name": "रैंडम शब्द जनरेटर",
-            "url": "/hi/random-word-generator"
-        },
-        {
-            "name": "पैराग्राफ रिवाइटर",
-            "url": "/hi/paragraph-rewriter"
-        },
-        {
-            "name": "टेक्स्ट रीराइटर",
-            "url": "/hi/text-rewriter"
-        }
-    ],
-    "networkSites": [],
-    "social": [
-        {
-            "logo": "/assets/facebook.svg",
-            "url": "/",
-            "title": "एबीसी"
-        },
-        {
-            "logo": "/assets/youtube.svg",
-            "url": "/",
-            "title": "एबीसी"
-        },
-        {
-            "logo": "/assets/instagram.svg",
-            "url": "/",
-            "title": "एबीसी"
-        },
-        {
-            "logo": "/assets/linkdin.svg",
-            "url": "/",
-            "title": "एबीसी"
-        },
-        {
-            "logo": "/assets/twitter.svg",
-            "url": "/",
-            "title": "एबीसी"
-        }
-    ],
-    "messege": "Copyright © 2020 All rights reserved to Contenttool",
-    "legal": [
-        {
-            "name": "नियम और शर्तें",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "प्राइवेसी पॉलिसी",
-            "url": "/privacy-policy"
-        },
-        {
-            "name": "हमसे संपर्क करें",
-            "url": "/contact"
         }
     ]
 }

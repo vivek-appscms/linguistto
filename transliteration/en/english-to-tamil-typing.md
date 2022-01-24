@@ -6,5 +6,6 @@ language: ta
 folderName : transliteration
 lang: en
 permalink: /english-to-tamil-typing
+nointernationalization: true
 ---
 {% include section/translation.html %}

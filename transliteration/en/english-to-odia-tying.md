@@ -6,5 +6,6 @@ language: or
 folderName : transliteration
 lang: en
 permalink: /english-to-odia-typing
+nointernationalization: true
 ---
 {% include section/translation.html %}

@@ -1,155 +1,252 @@
 {
-    "logo": "/img/logo.png",
-    "heading": "",
-    "company": [
-        {
-            "name": "Sobre",
-            "url": "/about"
-        },
-        {
-            "name": "Termos e condições",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "Socorro",
-            "url": "/help"
-        },
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "ferramenta de parafraseamento",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de paráfrase hindi",
+                        "url": "/pt/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de paráfrase russa",
+                        "url": "/pt/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de paráfrase espanhola",
+                        "url": "/pt/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Inglês para hindi Digitando",
+                        "url": "/pt/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Inglês para bangla Digitando",
+                        "url": "/pt/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de paráfrase alemã",
+                        "url": "/pt/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase coreana",
+                        "url": "/pt/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase dinamarquesa",
+                        "url": "/pt/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase italiana",
+                        "url": "/pt/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase polonesa",
+                        "url": "/pt/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase sueca",
+                        "url": "/pt/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase tailandesa",
+                        "url": "/pt/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase japonesa",
+                        "url": "/pt/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ferramenta de paráfrase árabe",
+                        "url": "/pt/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase ucraniana",
+                        "url": "/pt/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase chinesa",
+                        "url": "/pt/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase indonésia",
+                        "url": "/pt/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ferramenta de paráfrase vietnamita",
+                        "url": "/pt/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase francesa",
+                        "url": "/pt/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase holandesa",
+                        "url": "/pt/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ferramenta de paráfrase em português",
+                        "url": "/pt/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Outras ferramentas",
+                "links": [
+                    {
+                        "name": "Digitando páginas",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/pt/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Tradução de frases",
+                        "url": "/pt/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verificador de meta e título",
+                        "url": "/pt/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Gerador de adjetivos aleatórios",
+                        "url": "/pt/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verificador de diferença de",
+                        "url": "/pt/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de contagem de palavras",
+                        "url": "/pt/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de contagem de caracteres",
+                        "url": "/pt/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Reescritor de parágrafos",
+                        "url": "/pt/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Reescritor de texto",
+                        "url": "/pt/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Outras ferramentas",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Gerador de substantivo aleatório",
+                        "url": "/pt/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Gerador de parágrafo aleatório",
+                        "url": "/pt/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Gerador de letras aleatórias",
+                        "url": "/pt/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Gerador de frases aleatórias",
+                        "url": "/pt/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Simulador Serp",
+                        "url": "/pt/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "contagem de palavras do site",
+                        "url": "/pt/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Gerador de palavras aleatórias",
+                        "url": "/pt/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
         {
             "name": "Blog",
             "url": "/blog"
-        }
-    ],
-    "product": [
-        {
-            "name": "Ferramenta de parafraseamento",
-            "url": "/pt/paraphrasing-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase alemã",
-            "url": "/pt/german-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase hindi",
-            "url": "/pt/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase russa",
-            "url": "/pt/russian-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase espanhola",
-            "url": "/pt/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de transliteração",
-            "url": "/pt/english-to-hindi-typing "
-        },
-        {
-            "name": "Inglês para bangla Digitando",
-            "url": "/pt/bangla-transliteration-tool"
-        },
-        {
-            "name": "Ferramenta de contagem de palavras",
-            "url": "/pt/word-count-tool"
-        },
-        {
-            "name": "Ferramenta de contagem de caracteres",
-            "url": "/pt/character-count-tool"
-        },
-        {
-            "name": "Tradução de frases",
-            "url": "/pt/sentence-translation"
-        },
-        {
-            "name": "Verificador de meta e título",
-            "url": "/pt/meta-and-title-checker"
-        },
-        {
-            "name": "Gerador de adjetivos aleatórios",
-            "url": "/pt/random-adjective-generator"
-        },
-        {
-            "name": "Verificador de diferença de",
-            "url": "/pt/text-difference-checker"
-        },
-        {
-            "name": "Gerador de substantivo aleatório",
-            "url": "/pt/random-noun-generator"
-        },
-        {
-            "name": "Gerador de parágrafo aleatório",
-            "url": "/pt/random-paragraph-generator"
-        },
-        {
-            "name": "Gerador de letras aleatórias",
-            "url": "/pt/random-letter-generator"
-        },
-        {
-            "name": "Gerador de frases aleatórias",
-            "url": "/pt/random-sentence-generator"
-        },
-        {
-            "name": "Simulador Serp",
-            "url": "/pt/serp-simulator"
-        },
-        {
-            "name": "contagem de palavras do site",
-            "url": "/pt/website-word-count"
-        },
-        {
-            "name": "Gerador de palavras aleatórias",
-            "url": "/pt/random-word-generator"
-        },
-        {
-            "name": "Reescritor de parágrafos",
-            "url": "/pt/paragraph-rewriter"
-        },
-        {
-            "name": "Reescritor de texto",
-            "url": "/pt/text-rewriter"
-        }
-    ],
-    "networkSites": [],
-    "social": [
-        {
-            "logo": "/assets/facebook.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/youtube.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/instagram.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/linkdin.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/twitter.svg",
-            "url": "/",
-            "title": "abc"
-        }
-    ],
-    "messege": "Copyright © 2020 All rights reserved to Contenttool",
-    "legal": [
-        {
-            "name": "Termos e condições",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "Política de privacidade",
-            "url": "/privacy-policy"
-        },
-        {
-            "name": "Entre em contato conosco",
-            "url": "/contact"
         }
     ]
 }

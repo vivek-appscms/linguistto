@@ -6,5 +6,6 @@ language: pl
 folderName : transliteration
 lang: en
 permalink: /english-to-polish-typing
+nointernationalization: true
 ---
 {% include section/translation.html %}

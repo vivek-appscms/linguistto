@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/ko/text-rewriter"
+        },
+        {
+            "name": "페이지 입력",
+            "description": "뛰어난 타이핑 도구",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/ko/all-typing-pages"
         }
     ]
 }

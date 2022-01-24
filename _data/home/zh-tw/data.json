@@ -1,6 +1,6 @@
 {
     "Language": "繁體中文",
-    "htmlLangAtt": "zh-tw",
+    "htmlLangAtt": "zh-TW",
     "h1": "適用於內容編寫者的最智能工具",
     "h2": "用於翻譯內容、句子翻譯和基於音譯的打字工具的多語言工具。",
     "TITLE": "內容工具-面向內容專業人員的最智能工具",
@@ -14,91 +14,98 @@
             "description": "專業人士的解釋工具",
             "color": "#8080ff",
             "icon": "/assets/img/paraprashing.svg",
-            "url": "/zh-tw/paraphrasing-tool"
+            "url": "/zh-TW/paraphrasing-tool"
         },
         {
             "name": "德語解釋工具",
             "description": "適用於專業人士的德語解釋工具",
             "color": "#a7a7cd",
             "icon": "/assets/img/german.svg",
-            "url": "/zh-tw/german-paraphrase-tool"
+            "url": "/zh-TW/german-paraphrase-tool"
         },
         {
             "name": "印地語解釋工具",
             "description": "印地語解釋工具專業人士",
             "color": "#2c3774",
             "icon": "/assets/img/hindi.svg",
-            "url": "/zh-tw/hindi-paraphrase-tool"
+            "url": "/zh-TW/hindi-paraphrase-tool"
         },
         {
             "name": "西班牙語解釋-工具",
             "description": "針對專業人士的西班牙語翻譯工具",
             "color": "#0e6d6d",
             "icon": "/assets/img/spanish.svg",
-            "url": "/zh-tw/spanish-paraphrase-tool"
+            "url": "/zh-TW/spanish-paraphrase-tool"
         },
         {
             "name": "俄語解釋工具",
             "description": "俄羅斯解釋工具專業人士",
             "color": "#33cccc",
             "icon": "/assets/img/rishain.svg",
-            "url": "/zh-tw/russian-paraphrase-tool"
+            "url": "/zh-TW/russian-paraphrase-tool"
         },
         {
             "name": "音譯工具",
             "description": "英語至印地語打字",
             "color": "#a7a7cd",
             "icon": "/assets/img/hindi.svg",
-            "url": "/zh-tw/english-to-hindi-typing"
+            "url": "/zh-TW/english-to-hindi-typing"
         },
         {
             "name": "英語到孟加拉打字",
             "description": "在線英語孟加拉打字",
             "color": "#33cccc",
             "icon": "/assets/img/german.svg",
-            "url": "/zh-tw/bangla-transliteration-tool"
+            "url": "/zh-TW/bangla-transliteration-tool"
         },
         {
             "name": "字數計數工具",
             "description": "在線字數計數工具",
             "color": "#4373fc",
             "icon": "/assets/img/paraprashing.svg ",
-            "url": "/zh-tw/word-count-tool"
+            "url": "/zh-TW/word-count-tool"
         },
         {
             "name": "字符計數工具",
             "description": "在線字符計數工具",
             "color": "#0e6d6d",
             "icon": "/assets/img/paraprashing.svg",
-            "url": "/zh-tw/character-count-tool"
+            "url": "/zh-TW/character-count-tool"
         },
         {
             "name": "句子翻譯",
             "description": "在線 X 到 Y 句子翻譯",
             "color": "#2c3774",
             "icon": "/assets/img/german.svg",
-            "url": "/zh-tw/sentence-translation"
+            "url": "/zh-TW/sentence-translation"
         },
         {
             "name": "摘要生成器",
             "description": "最佳免費在線摘要生成器",
             "color": "#2c3774",
             "icon": "/assets/summary.svg",
-            "url": "/zh-tw/summary-generator"
+            "url": "/zh-TW/summary-generator"
         },
         {
             "name": "段落重寫",
             "description": "高質量內容的在線段落重寫",
             "color": "#8080ff",
             "icon": "/assets/images/rewriting.svg",
-            "url": "/zh-tw/paragraph-rewriter"
+            "url": "/zh-TW/paragraph-rewriter"
         },
         {
             "name": "文本重寫",
             "description": "優秀的文本重寫工具",
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
-            "url": "/zh-tw/text-rewriter"
+            "url": "/zh-TW/text-rewriter"
+        },
+        {
+            "name": "鍵入頁面",
+            "description": "優秀的打字工具",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/zh-TW/all-typing-pages"
         }
     ]
 }

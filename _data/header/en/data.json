@@ -139,6 +139,12 @@
         "categoryName": "Other Tools",
         "links": [
           {
+            "name": "Typing pages",
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "url": "/all-typing-pages"
+          },
+          {
             "iconSrc": "/assets/img/germanblack.svg",
             "name": "Sentence translation",
             "url": "/sentence-translation",
