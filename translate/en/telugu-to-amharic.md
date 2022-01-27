@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: te
 to: am
+langName : telugu-to
 permalink: /telugu-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

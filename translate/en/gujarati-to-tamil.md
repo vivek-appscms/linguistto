@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: ta
+langName : gujarati-to
 permalink: /gujarati-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

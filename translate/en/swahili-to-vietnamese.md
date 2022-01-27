@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: vi
+langName : swahili-to
 permalink: /swahili-to-vietnamese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

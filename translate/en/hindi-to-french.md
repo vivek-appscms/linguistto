@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: hi
 to: fr
+langName : hindi-to
 permalink: /hindi-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

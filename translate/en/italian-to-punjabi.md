@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: it
 to: pa
+langName : italian-to
 permalink: /italian-to-punjabi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

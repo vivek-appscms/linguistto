@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: zh
+langName : spanish-to
 permalink: /spanish-to-pinyin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

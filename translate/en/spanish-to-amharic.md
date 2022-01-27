@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: am
+langName : spanish-to
 permalink: /spanish-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

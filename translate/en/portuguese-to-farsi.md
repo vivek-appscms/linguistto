@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pt
 to: fa
+langName : portuguese-to
 permalink: /portuguese-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

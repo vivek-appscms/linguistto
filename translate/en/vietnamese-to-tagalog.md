@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: vi
 to: tl
+langName : vietnamese-to
 permalink: /vietnamese-to-tagalog-sentence-translation
 tool: sentence-translations
 nointernationalization: true

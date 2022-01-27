@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: vi
 to: hi
+langName : vietnamese-to
 permalink: /vietnamese-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

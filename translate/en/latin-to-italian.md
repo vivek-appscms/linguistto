@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: it
+langName : latin-to
 permalink: /latin-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ga
 to: mr
+langName : irish-to
 permalink: /irish-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

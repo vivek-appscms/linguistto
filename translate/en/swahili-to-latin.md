@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: la
+langName : swahili-to
 permalink: /swahili-to-latin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

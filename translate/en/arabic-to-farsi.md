@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: fa
+langName : arabic-to
 permalink: /arabic-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

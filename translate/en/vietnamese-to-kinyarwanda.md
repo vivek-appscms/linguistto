@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: vi
 to: rw
+langName : vietnamese-to
 permalink: /vietnamese-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: fr
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

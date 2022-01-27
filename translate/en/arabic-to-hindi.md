@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: hi
+langName : arabic-to
 permalink: /arabic-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

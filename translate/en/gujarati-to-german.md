@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: de
+langName : gujarati-to
 permalink: /gujarati-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

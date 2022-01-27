@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: it
 to: ta
+langName : italian-to
 permalink: /italian-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

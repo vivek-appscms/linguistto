@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fr
 to: sw
+langName : french-to
 permalink: /french-to-swahili-sentence-translation
 tool: sentence-translations
 nointernationalization: true

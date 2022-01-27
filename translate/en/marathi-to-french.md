@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: mr
 to: fr
+langName : marathi-to
 permalink: /marathi-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

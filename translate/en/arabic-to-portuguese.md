@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: pt
+langName : arabic-to
 permalink: /arabic-to-portuguese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

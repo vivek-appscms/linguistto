@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: de
+langName : pinyin-to
 permalink: /pinyin-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

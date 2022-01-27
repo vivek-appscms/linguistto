@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: mr
+langName : gujarati-to
 permalink: /gujarati-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

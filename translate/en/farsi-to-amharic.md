@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fa
 to: am
+langName : farsi-to
 permalink: /farsi-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

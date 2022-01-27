@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fa
 to: fil
+langName : farsi-to
 permalink: /farsi-to-filipino-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: gu
+langName : puerto-to
 permalink: /puerto-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

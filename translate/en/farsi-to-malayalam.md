@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fa
 to: ml
+langName : farsi-to
 permalink: /farsi-to-malayalam-sentence-translation
 tool: sentence-translations
 nointernationalization: true

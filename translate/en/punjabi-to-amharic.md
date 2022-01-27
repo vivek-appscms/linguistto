@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: am
+langName : punjabi-to
 permalink: /punjabi-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

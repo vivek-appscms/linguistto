@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fa
 to: fr
+langName : farsi-to
 permalink: /farsi-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: am
 to: te
+langName : amharic-to
 permalink: /amharic-to-telugu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: zh
+langName : punjabi-to
 permalink: /punjabi-to-pinyin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

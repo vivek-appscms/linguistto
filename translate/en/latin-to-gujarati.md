@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: gu
+langName : latin-to
 permalink: /latin-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

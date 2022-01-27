@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: mr
 to: rw
+langName : marathi-to
 permalink: /marathi-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ur
 to: ja
+langName : urdu-to
 permalink: /urdu-to-japanese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

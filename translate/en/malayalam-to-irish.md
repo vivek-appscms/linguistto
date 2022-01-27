@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: ga
+langName : malayalam-to
 permalink: /malayalam-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

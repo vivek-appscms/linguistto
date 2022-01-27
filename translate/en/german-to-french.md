@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: de
 to: fr
+langName : german-to
 permalink: /german-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

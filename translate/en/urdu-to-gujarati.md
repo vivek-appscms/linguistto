@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ur
 to: gu
+langName : urdu-to
 permalink: /urdu-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

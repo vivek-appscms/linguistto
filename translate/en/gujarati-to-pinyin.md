@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: zh
+langName : gujarati-to
 permalink: /gujarati-to-pinyin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

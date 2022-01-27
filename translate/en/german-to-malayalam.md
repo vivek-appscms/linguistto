@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: de
 to: ml
+langName : german-to
 permalink: /german-to-malayalam-sentence-translation
 tool: sentence-translations
 nointernationalization: true

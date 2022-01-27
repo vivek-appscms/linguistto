@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: it
 to: fa
+langName : italian-to
 permalink: /italian-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

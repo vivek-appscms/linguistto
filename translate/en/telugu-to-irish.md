@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: te
 to: ga
+langName : telugu-to
 permalink: /telugu-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

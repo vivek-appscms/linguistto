@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fa
 to: es
+langName : farsi-to
 permalink: /farsi-to-spanish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

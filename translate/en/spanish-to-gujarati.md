@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: gu
+langName : spanish-to
 permalink: /spanish-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

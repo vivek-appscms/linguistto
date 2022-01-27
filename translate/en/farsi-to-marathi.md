@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fa
 to: mr
+langName : farsi-to
 permalink: /farsi-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

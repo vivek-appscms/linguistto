@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: ur
+langName : japanese-to
 permalink: /japanese-to-urdu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

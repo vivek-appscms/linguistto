@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: es
+langName : pinyin-to
 permalink: /pinyin-to-puerto-sentence-translation
 tool: sentence-translations
 nointernationalization: true

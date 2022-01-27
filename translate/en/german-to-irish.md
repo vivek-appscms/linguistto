@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: de
 to: ga
+langName : german-to
 permalink: /german-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

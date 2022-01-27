@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: hi
+langName : latin-to
 permalink: /latin-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

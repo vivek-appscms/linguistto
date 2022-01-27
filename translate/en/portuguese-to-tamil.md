@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pt
 to: ta
+langName : portuguese-to
 permalink: /portuguese-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: te
 to: es
+langName : telugu-to
 permalink: /telugu-to-puerto-sentence-translation
 tool: sentence-translations
 nointernationalization: true

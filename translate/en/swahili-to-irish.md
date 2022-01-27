@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: ga
+langName : swahili-to
 permalink: /swahili-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

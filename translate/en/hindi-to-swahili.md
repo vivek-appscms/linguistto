@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: hi
 to: sw
+langName : hindi-to
 permalink: /hindi-to-swahili-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: ga
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

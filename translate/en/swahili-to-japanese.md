@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: ja
+langName : swahili-to
 permalink: /swahili-to-japanese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

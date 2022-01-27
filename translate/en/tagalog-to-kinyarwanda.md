@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: rw
+langName : tagalog-to
 permalink: /tagalog-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

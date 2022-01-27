@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: hi
+langName : tagalog-to
 permalink: /tagalog-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

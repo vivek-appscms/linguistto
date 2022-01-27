@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ga
 to: pa
+langName : irish-to
 permalink: /irish-to-punjabi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

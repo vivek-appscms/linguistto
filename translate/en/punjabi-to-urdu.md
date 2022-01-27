@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: ur
+langName : punjabi-to
 permalink: /punjabi-to-urdu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

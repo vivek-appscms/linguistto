@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: mr
+langName : arabic-to
 permalink: /arabic-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

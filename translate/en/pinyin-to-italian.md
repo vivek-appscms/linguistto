@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: it
+langName : pinyin-to
 permalink: /pinyin-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

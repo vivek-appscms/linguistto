@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: es
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-puerto-sentence-translation
 tool: sentence-translations
 nointernationalization: true

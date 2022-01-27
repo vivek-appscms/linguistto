@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: es
+langName : latin-to
 permalink: /latin-to-puerto-sentence-translation
 tool: sentence-translations
 nointernationalization: true

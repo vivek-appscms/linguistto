@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: de
+langName : punjabi-to
 permalink: /punjabi-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

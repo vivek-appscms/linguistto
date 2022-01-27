@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: pt
+langName : latin-to
 permalink: /latin-to-portuguese-sentence-translation
 tool: sentence-translations
 nointernationalization: true
