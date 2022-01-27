@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: _data/rewriter
+  path: _data/rewriter/**
   label: Rewriter
-  match: "**/*"
 - type: directory
   path: _data/features
   label: SEO Content
