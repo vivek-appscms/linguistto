@@ -4,9 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/rewriter/**
+- type: directory
+  path: _data/rewriter
   label: Rewriter
+  create: all
+  match: "**/*"
 - type: directory
   path: _data/features
   label: SEO Content
