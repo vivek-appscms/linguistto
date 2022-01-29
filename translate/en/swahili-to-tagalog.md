@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: tl
+langName : swahili-to
 permalink: /swahili-to-tagalog-sentence-translation
 tool: sentence-translations
 nointernationalization: true

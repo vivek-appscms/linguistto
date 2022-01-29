@@ -1,155 +1,252 @@
 {
-    "logo": "/img/logo.png",
-    "heading": "",
-    "company": [
-        {
-            "name": "Про",
-            "url": "/about"
-        },
-        {
-            "name": "Правила та умови",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "Допомога",
-            "url": "/help"
-        },
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "інструмент перефразовування",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент «Парафраз з хінді»",
+                        "url": "/uk/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент «Перефраза Російська»",
+                        "url": "/uk/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Іспанський інструмент парафраз",
+                        "url": "/uk/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "англійська —> хінді Набір тексту",
+                        "url": "/uk/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "англійська —> бангла Набір тексту",
+                        "url": "/uk/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Німецький інструмент парафраз",
+                        "url": "/uk/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Інструмент «Корейська парафраз»",
+                        "url": "/uk/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Інструмент «Датська парафраз»",
+                        "url": "/uk/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Італійський інструмент парафраз",
+                        "url": "/uk/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Польський інструмент парафраз",
+                        "url": "/uk/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Інструмент «Шведський парафраз»",
+                        "url": "/uk/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Тай-парафраза-інструмент",
+                        "url": "/uk/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Японсько-парафраза-інструмент",
+                        "url": "/uk/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "арабічно-парафраза-інструмент",
+                        "url": "/uk/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Українсько-парафраза-інструмент",
+                        "url": "/uk/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Китайський-парафраза-інструмент",
+                        "url": "/uk/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Індонезійська-перефраза-інструмент",
+                        "url": "/uk/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "В'єтнам-парафраза-інструмент",
+                        "url": "/uk/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Французька-перефраза-інструмент",
+                        "url": "/uk/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Голландсько-парафраза-інструмент",
+                        "url": "/uk/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Португальська-парафраза-інструмент",
+                        "url": "/uk/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                    {
+                        "name": "Набравши сторінки",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/uk/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Переклад речення",
+                        "url": "/uk/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Мета і перевірка заголовків",
+                        "url": "/uk/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових прикметників",
+                        "url": "/uk/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Перевірка різниці тексту",
+                        "url": "/uk/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент підрахунку слів",
+                        "url": "/uk/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент «Кількість символів»",
+                        "url": "/uk/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Переавтор абзацу",
+                        "url": "/uk/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Текст Рерайтер",
+                        "url": "/uk/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових іменників",
+                        "url": "/uk/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових пунктів",
+                        "url": "/uk/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових листів",
+                        "url": "/uk/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових речень",
+                        "url": "/uk/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Serp симулятор",
+                        "url": "/uk/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Кількість слів сайту",
+                        "url": "/uk/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових слів",
+                        "url": "/uk/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
         {
             "name": "Блог",
             "url": "/blog"
-        }
-    ],
-    "product": [
-        {
-            "name": "Інструмент для перефразування",
-            "url": "/uk/paraphrasing-tool"
-        },
-        {
-            "name": "Німецький інструмент парафраз",
-            "url": "/uk/german-paraphrase-tool"
-        },
-        {
-            "name": "Інструмент «Парафраз з хінді»",
-            "url": "/uk/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Інструмент «Перефраза Російська»",
-            "url": "/uk/russian-paraphrase-tool"
-        },
-        {
-            "name": "Іспанський інструмент парафраз",
-            "url": "/uk/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Інструмент транслітерації",
-            "url": "/uk/english-to-hindi-typing "
-        },
-        {
-            "name": "англійська —> бангла Набір тексту",
-            "url": "/uk/bangla-transliteration-tool"
-        },
-        {
-            "name": "Інструмент підрахунку слів",
-            "url": "/uk/word-count-tool"
-        },
-        {
-            "name": "Інструмент «Кількість символів»",
-            "url": "/uk/character-count-tool"
-        },
-        {
-            "name": "Переклад речення",
-            "url": "/uk/sentence-translation"
-        },
-        {
-            "name": "Мета і перевірка заголовків",
-            "url": "/uk/meta-and-title-checker"
-        },
-        {
-            "name": "Генератор випадкових прикметників",
-            "url": "/uk/random-adjective-generator"
-        },
-        {
-            "name": "Перевірка різниці тексту",
-            "url": "/uk/text-difference-checker"
-        },
-        {
-            "name": "Генератор випадкових іменників",
-            "url": "/uk/random-noun-generator"
-        },
-        {
-            "name": "Генератор випадкових пунктів",
-            "url": "/uk/random-paragraph-generator"
-        },
-        {
-            "name": "Генератор випадкових листів",
-            "url": "/uk/random-letter-generator"
-        },
-        {
-            "name": "Генератор випадкових речень",
-            "url": "/uk/random-sentence-generator"
-        },
-        {
-            "name": "Serp симулятор",
-            "url": "/uk/serp-simulator"
-        },
-        {
-            "name": "Кількість слів сайту",
-            "url": "/uk/website-word-count"
-        },
-        {
-            "name": "Генератор випадкових слів",
-            "url": "/uk/random-word-generator"
-        },
-        {
-            "name": "Переавтор абзацу",
-            "url": "/uk/paragraph-rewriter"
-        },
-        {
-            "name": "Текст Рерайтер",
-            "url": "/uk/text-rewriter"
-        }
-    ],
-    "networkSites": [],
-    "social": [
-        {
-            "logo": "/assets/facebook.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/youtube.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/instagram.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/linkdin.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/twitter.svg",
-            "url": "/",
-            "title": "abc"
-        }
-    ],
-    "messege": "Copyright © 2020 All rights reserved to Contenttool",
-    "legal": [
-        {
-            "name": "Правила та умови",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "Політика конфіденційності",
-            "url": "/privacy-policy"
-        },
-        {
-            "name": "зв'яжіться з нами",
-            "url": "/contact"
         }
     ]
 }

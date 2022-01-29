@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: ta
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

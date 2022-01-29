@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: hi
+langName : pinyin-to
 permalink: /pinyin-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

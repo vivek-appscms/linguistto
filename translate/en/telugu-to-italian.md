@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: te
 to: it
+langName : telugu-to
 permalink: /telugu-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

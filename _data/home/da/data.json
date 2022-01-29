@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/da/text-rewriter"
+        },
+        {
+            "name": "Indtastning af sider",
+            "description": "Fremragende Typing værktøj",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/da/all-typing-pages"
         }
     ]
 }

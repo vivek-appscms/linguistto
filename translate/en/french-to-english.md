@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fr
 to: en
+langName : french-to
 permalink: /french-to-english-sentence-translation
 tool: sentence-translations
 nointernationalization: true

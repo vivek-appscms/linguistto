@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: de
 to: mr
+langName : german-to
 permalink: /german-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

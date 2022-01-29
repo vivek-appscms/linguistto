@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/th/text-rewriter"
+        },
+        {
+            "name": "การพิมพ์หน้า",
+            "description": "เครื่องมือพิมพ์ดีเยี่ยม",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/th/all-typing-pages"
         }
     ]
 }

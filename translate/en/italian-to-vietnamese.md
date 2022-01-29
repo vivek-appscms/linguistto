@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: it
 to: vi
+langName : italian-to
 permalink: /italian-to-vietnamese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: pt
+langName : tagalog-to
 permalink: /tagalog-to-portuguese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

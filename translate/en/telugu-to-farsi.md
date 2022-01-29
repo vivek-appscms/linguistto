@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: te
 to: fa
+langName : telugu-to
 permalink: /telugu-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

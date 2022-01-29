@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/es/text-rewriter"
+        },
+        {
+            "name": "Páginas de escritura",
+            "description": "Excelente herramienta de escritura",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/es/all-typing-pages"
         }
     ]
 }

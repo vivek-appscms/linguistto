@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: de
+langName : spanish-to
 permalink: /spanish-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

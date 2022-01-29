@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: mr
+langName : pinyin-to
 permalink: /pinyin-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

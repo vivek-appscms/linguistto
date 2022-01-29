@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: ja
+langName : punjabi-to
 permalink: /punjabi-to-japanese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

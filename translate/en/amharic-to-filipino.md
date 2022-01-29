@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: am
 to: fil
+langName : amharic-to
 permalink: /amharic-to-filipino-sentence-translation
 tool: sentence-translations
 nointernationalization: true

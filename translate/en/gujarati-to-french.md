@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: fr
+langName : gujarati-to
 permalink: /gujarati-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

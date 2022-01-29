@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: am
+langName : pinyin-to
 permalink: /pinyin-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

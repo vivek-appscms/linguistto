@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: am
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

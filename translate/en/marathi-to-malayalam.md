@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: mr
 to: ml
+langName : marathi-to
 permalink: /marathi-to-malayalam-sentence-translation
 tool: sentence-translations
 nointernationalization: true

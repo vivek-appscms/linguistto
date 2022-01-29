@@ -1,0 +1,58 @@
+{
+    "Language" : "English",
+    "htmlLangAtt": "en",
+    "h1": "English to Persian Typing",
+    "h2": "",
+    "TITLE": "English to Persian typing online - Easiest way for Persian Typing - Contenttool - Smartest tools for content professionals",
+    "META": " - Use official contenttool's english to Persian typing software to type in Persian online",   
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+      {
+        "priority": 1,
+        "logoUrl": "/assets/bulb.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/guaranty.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/support.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/protect.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/easy.svg",
+        "header": "",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/assets/cloud.svg",
+        "header": "",
+        "content": ""
+      }
+    ],
+    "FAQ": [
+      {
+        "question": "",
+        "answer": ""
+      }
+    ],
+    "csscdns":[
+      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+  }

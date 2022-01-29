@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: vi
 to: ar
+langName : vietnamese-to
 permalink: /vietnamese-to-arabic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

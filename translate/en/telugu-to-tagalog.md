@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: te
 to: tl
+langName : telugu-to
 permalink: /telugu-to-tagalog-sentence-translation
 tool: sentence-translations
 nointernationalization: true

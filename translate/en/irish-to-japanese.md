@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ga
 to: ja
+langName : irish-to
 permalink: /irish-to-japanese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

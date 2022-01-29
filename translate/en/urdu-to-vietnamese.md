@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ur
 to: vi
+langName : urdu-to
 permalink: /urdu-to-vietnamese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

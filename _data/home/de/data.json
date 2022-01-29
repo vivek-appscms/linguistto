@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/de/text-rewriter"
+        },
+        {
+            "name": "Seiten tippen",
+            "description": "Ausgezeichnetes Schreibwerkzeug",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/de/all-typing-pages"
         }
     ]
 }

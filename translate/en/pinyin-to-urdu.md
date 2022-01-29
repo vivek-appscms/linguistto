@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: ur
+langName : pinyin-to
 permalink: /pinyin-to-urdu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

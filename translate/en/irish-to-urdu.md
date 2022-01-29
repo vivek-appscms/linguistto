@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ga
 to: ur
+langName : irish-to
 permalink: /irish-to-urdu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

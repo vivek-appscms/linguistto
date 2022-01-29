@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: vi
 to: ga
+langName : vietnamese-to
 permalink: /vietnamese-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

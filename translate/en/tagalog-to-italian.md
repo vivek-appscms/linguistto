@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: it
+langName : tagalog-to
 permalink: /tagalog-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: ta
+langName : swahili-to
 permalink: /swahili-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

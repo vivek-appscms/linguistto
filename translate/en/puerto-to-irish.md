@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: ga
+langName : puerto-to
 permalink: /puerto-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

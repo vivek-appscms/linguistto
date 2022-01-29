@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: ml
+langName : pinyin-to
 permalink: /pinyin-to-malayalam-sentence-translation
 tool: sentence-translations
 nointernationalization: true

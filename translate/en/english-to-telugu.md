@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: en
 to: te
+langName : english-to
 permalink: /english-to-telugu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

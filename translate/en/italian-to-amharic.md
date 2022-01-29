@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: it
 to: am
+langName : italian-to
 permalink: /italian-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

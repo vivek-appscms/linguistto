@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: mr
+langName : latin-to
 permalink: /latin-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

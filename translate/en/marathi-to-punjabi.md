@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: mr
 to: pa
+langName : marathi-to
 permalink: /marathi-to-punjabi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: ur
+langName : malayalam-to
 permalink: /malayalam-to-urdu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

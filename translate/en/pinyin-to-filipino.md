@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: fil
+langName : pinyin-to
 permalink: /pinyin-to-filipino-sentence-translation
 tool: sentence-translations
 nointernationalization: true

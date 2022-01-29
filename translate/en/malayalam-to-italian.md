@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: it
+langName : malayalam-to
 permalink: /malayalam-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

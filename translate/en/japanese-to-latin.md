@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: la
+langName : japanese-to
 permalink: /japanese-to-latin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

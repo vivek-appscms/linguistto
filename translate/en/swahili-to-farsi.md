@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: fa
+langName : swahili-to
 permalink: /swahili-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

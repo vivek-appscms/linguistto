@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: ta
+langName : tagalog-to
 permalink: /tagalog-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

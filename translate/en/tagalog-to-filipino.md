@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: fil
+langName : tagalog-to
 permalink: /tagalog-to-filipino-sentence-translation
 tool: sentence-translations
 nointernationalization: true

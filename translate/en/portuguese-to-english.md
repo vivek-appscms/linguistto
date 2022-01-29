@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pt
 to: en
+langName : portuguese-to
 permalink: /portuguese-to-english-sentence-translation
 tool: sentence-translations
 nointernationalization: true

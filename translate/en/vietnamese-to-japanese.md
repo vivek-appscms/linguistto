@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: vi
 to: ja
+langName : vietnamese-to
 permalink: /vietnamese-to-japanese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

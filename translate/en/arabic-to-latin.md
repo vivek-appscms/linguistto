@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: la
+langName : arabic-to
 permalink: /arabic-to-latin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

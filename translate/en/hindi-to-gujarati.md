@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: hi
 to: gu
+langName : hindi-to
 permalink: /hindi-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: fa
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: tl
+langName : latin-to
 permalink: /latin-to-tagalog-sentence-translation
 tool: sentence-translations
 nointernationalization: true

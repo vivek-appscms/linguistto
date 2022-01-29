@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fil
 to: pa
+langName : filipino-to
 permalink: /filipino-to-punjabi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: sw
+langName : puerto-to
 permalink: /puerto-to-swahili-sentence-translation
 tool: sentence-translations
 nointernationalization: true

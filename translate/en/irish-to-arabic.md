@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ga
 to: ar
+langName : irish-to
 permalink: /irish-to-arabic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

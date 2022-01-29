@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: it
 to: gu
+langName : italian-to
 permalink: /italian-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

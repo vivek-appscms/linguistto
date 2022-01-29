@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: rw
+langName : gujarati-to
 permalink: /gujarati-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

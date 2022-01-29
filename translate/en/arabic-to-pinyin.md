@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: zh
+langName : arabic-to
 permalink: /arabic-to-pinyin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

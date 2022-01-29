@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: zh
+langName : japanese-to
 permalink: /japanese-to-pinyin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

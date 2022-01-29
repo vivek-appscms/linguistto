@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fil
 to: mr
+langName : filipino-to
 permalink: /filipino-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

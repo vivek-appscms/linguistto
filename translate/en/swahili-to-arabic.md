@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: ar
+langName : swahili-to
 permalink: /swahili-to-arabic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

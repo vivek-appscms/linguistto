@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: gu
+langName : punjabi-to
 permalink: /punjabi-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

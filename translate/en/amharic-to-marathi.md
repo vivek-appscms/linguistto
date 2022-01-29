@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: am
 to: mr
+langName : amharic-to
 permalink: /amharic-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

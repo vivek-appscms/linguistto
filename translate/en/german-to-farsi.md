@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: de
 to: fa
+langName : german-to
 permalink: /german-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

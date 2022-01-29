@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: sw
+langName : malayalam-to
 permalink: /malayalam-to-swahili-sentence-translation
 tool: sentence-translations
 nointernationalization: true

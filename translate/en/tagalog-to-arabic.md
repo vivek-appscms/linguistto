@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: ar
+langName : tagalog-to
 permalink: /tagalog-to-arabic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

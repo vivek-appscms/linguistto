@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: ur
+langName : swahili-to
 permalink: /swahili-to-urdu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/nl/text-rewriter"
+        },
+        {
+            "name": "pagina's typen",
+            "description": "Uitstekende tool voor typen",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/nl/all-typing-pages"
         }
     ]
 }

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: it
+langName : puerto-to
 permalink: /puerto-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

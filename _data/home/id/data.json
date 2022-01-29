@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/id/text-rewriter"
+        },
+        {
+            "name": "Mengetik halaman",
+            "description": "Alat mengetik yang sangat baik",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/id/all-typing-pages"
         }
     ]
 }

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: de
+langName : arabic-to
 permalink: /arabic-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

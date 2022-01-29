@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: rw
+langName : spanish-to
 permalink: /spanish-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

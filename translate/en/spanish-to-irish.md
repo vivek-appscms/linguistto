@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: ga
+langName : spanish-to
 permalink: /spanish-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

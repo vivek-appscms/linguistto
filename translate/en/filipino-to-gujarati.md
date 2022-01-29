@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fil
 to: gu
+langName : filipino-to
 permalink: /filipino-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

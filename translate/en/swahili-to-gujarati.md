@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: gu
+langName : swahili-to
 permalink: /swahili-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true
