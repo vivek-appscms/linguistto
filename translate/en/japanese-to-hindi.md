@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: hi
+langName : japanese-to
 permalink: /japanese-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

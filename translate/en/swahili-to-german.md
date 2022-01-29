@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: de
+langName : swahili-to
 permalink: /swahili-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

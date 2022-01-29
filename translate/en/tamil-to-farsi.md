@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ta
 to: fa
+langName : tamil-to
 permalink: /tamil-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

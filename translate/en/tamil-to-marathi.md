@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ta
 to: mr
+langName : tamil-to
 permalink: /tamil-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

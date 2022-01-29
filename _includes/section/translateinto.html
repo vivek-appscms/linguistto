@@ -4,6 +4,7 @@
 {% assign test = site.data[conversion] %}
 {% assign dataArr = test[keyName] %}
 {% assign data = dataArr %}
+{% assign langname = page.langName %}
 <div class="container">
     <div class="main">
         <!-- <h1 class="col-md-12 text"> {{keyName}}</h1> -->
@@ -45,15 +46,16 @@
         <h2 class="sup-h2">Popular Sentence Translations</h2>
         <ul class="sup-ul row col-md-12">
         {% for object in boxColor %}
+        {% if object.url contains langname %}
         <li class="col-md-3 conver-list">
             <a href="{{object.url}}">
                 {{ object.name }}
             </a>
         </li>
+        {% endif %}
         {% endfor %}
         </ul>
     </div>
 </div>
-
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 <script data-from="{{page.from}}" data-to="{{page.to}}" src="/js/translation.js"></script>

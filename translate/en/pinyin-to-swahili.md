@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: sw
+langName : pinyin-to
 permalink: /pinyin-to-swahili-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: pa
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-punjabi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

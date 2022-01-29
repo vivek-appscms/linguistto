@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: zh
+langName : tagalog-to
 permalink: /tagalog-to-pinyin-sentence-translation
 tool: sentence-translations
 nointernationalization: true

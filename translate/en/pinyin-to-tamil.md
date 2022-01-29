@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: ta
+langName : pinyin-to
 permalink: /pinyin-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

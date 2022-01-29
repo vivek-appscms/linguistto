@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: fa
+langName : punjabi-to
 permalink: /punjabi-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

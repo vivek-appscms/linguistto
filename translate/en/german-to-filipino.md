@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: de
 to: fil
+langName : german-to
 permalink: /german-to-filipino-sentence-translation
 tool: sentence-translations
 nointernationalization: true

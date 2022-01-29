@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: it
+langName : swahili-to
 permalink: /swahili-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

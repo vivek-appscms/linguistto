@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: vi
 to: mr
+langName : vietnamese-to
 permalink: /vietnamese-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

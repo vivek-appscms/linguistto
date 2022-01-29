@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: hi
+langName : malayalam-to
 permalink: /malayalam-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: de
 to: am
+langName : german-to
 permalink: /german-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

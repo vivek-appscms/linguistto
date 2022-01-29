@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: tl
 to: fa
+langName : tagalog-to
 permalink: /tagalog-to-farsi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

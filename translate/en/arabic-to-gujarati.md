@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: gu
+langName : arabic-to
 permalink: /arabic-to-gujarati-sentence-translation
 tool: sentence-translations
 nointernationalization: true

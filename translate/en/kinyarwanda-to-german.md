@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: rw
 to: de
+langName : kinyarwanda-to
 permalink: /kinyarwanda-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

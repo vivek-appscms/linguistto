@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: hi
+langName : puerto-to
 permalink: /puerto-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

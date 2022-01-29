@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ta
 to: hi
+langName : tamil-to
 permalink: /tamil-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: de
+langName : latin-to
 permalink: /latin-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

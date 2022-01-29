@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: tl
+langName : japanese-to
 permalink: /japanese-to-tagalog-sentence-translation
 tool: sentence-translations
 nointernationalization: true

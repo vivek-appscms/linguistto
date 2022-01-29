@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: es
+langName : spanish-to
 permalink: /spanish-to-puerto-sentence-translation
 tool: sentence-translations
 nointernationalization: true

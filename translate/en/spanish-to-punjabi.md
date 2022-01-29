@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: pa
+langName : spanish-to
 permalink: /spanish-to-punjabi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

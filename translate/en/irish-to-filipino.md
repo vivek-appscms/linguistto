@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ga
 to: fil
+langName : irish-to
 permalink: /irish-to-filipino-sentence-translation
 tool: sentence-translations
 nointernationalization: true

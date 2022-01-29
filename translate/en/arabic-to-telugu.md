@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: te
+langName : arabic-to
 permalink: /arabic-to-telugu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

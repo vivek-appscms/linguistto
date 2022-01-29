@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: am
 to: tl
+langName : amharic-to
 permalink: /amharic-to-tagalog-sentence-translation
 tool: sentence-translations
 nointernationalization: true

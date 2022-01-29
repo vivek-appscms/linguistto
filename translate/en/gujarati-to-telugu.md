@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: te
+langName : gujarati-to
 permalink: /gujarati-to-telugu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

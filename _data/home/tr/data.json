@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/tr/text-rewriter"
+        },
+        {
+            "name": "Yazma sayfaları",
+            "description": "Mükemmel Yazma aracı",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/tr/all-typing-pages"
         }
     ]
 }

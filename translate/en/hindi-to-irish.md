@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: hi
 to: ga
+langName : hindi-to
 permalink: /hindi-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

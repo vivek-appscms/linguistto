@@ -121,7 +121,7 @@
   },
   {
     "name": "English to Marathi sentence translation",
-    "url": "/marathi-to-english-sentence-translation"
+    "url": "/english-to-marathi-sentence-translation"
   },
   {
     "name": "Marathi to English sentence translation",
@@ -183,9 +183,13 @@
     "name": "Tagalog to English sentence translation",
     "url": "/tagalog-to-english-sentence-translation"
   },
-  {
+   {
     "name": "Tamil to English sentence translation",
     "url": "/tamil-to-english-sentence-translation"
+  },
+  {
+    "name": "Telugu to English sentence translation",
+    "url": "/telugu-to-english-sentence-translation"
   },
   {
     "name": "English to Tamil sentence translation",
@@ -698,6 +702,102 @@
   {
     "name": "Filipino to Vietnamese sentence translation",
     "url": "/filipino-to-vietnamese-sentence-translation"
+  },
+  {
+    "name": "French to Punjabi sentence translation",
+    "url": "/french-to-punjabi-sentence-translation"
+  },
+  {
+    "name": "French to Amharic sentence translation",
+    "url": "/french-to-amharic-sentence-translation"
+  },
+  {
+    "name": "French to Arabic sentence translation",
+    "url": "/french-to-arabic-sentence-translation"
+  },
+  {
+    "name": "French to Farsi sentence translation",
+    "url": "/french-to-farsi-sentence-translation"
+  },
+  {
+    "name": "French to Filipino sentence translation",
+    "url": "/french-to-filipino-sentence-translation"
+  },
+  {
+    "name": "French to Gujarati sentence translation",
+    "url": "/french-to-gujarati-sentence-translation"
+  },
+  {
+    "name": "French to Hindi sentence translation",
+    "url": "/french-to-hindi-sentence-translation"
+  },
+  {
+    "name": "French to Irish sentence translation",
+    "url": "/french-to-irish-sentence-translation"
+  },
+  {
+    "name": "French to Italian sentence translation",
+    "url": "/french-to-italian-sentence-translation"
+  },
+  {
+    "name": "French to Japanese sentence translation",
+    "url": "/french-to-japanese-sentence-translation"
+  },
+  {
+    "name": "French to Kinyarwanda sentence translation",
+    "url": "/french-to-kinyarwanda-sentence-translation"
+  },
+  {
+    "name": "French to Latin sentence translation",
+    "url": "/french-to-latin-sentence-translation"
+  },
+  {
+    "name": "French to Malayalam sentence translation",
+    "url": "/french-to-malayalam-sentence-translation"
+  },
+  {
+    "name": "French to Marathi sentence translation",
+    "url": "/french-to-marathi-sentence-translation"
+  },
+  {
+    "name": "French to Pinyin sentence translation",
+    "url": "/french-to-pinyin-sentence-translation"
+  },
+  {
+    "name": "French to Portuguese sentence translation",
+    "url": "/french-to-portuguese-sentence-translation"
+  },
+  {
+    "name": "French to Puerto sentence translation",
+    "url": "/french-to-puerto-sentence-translation"
+  },
+  {
+    "name": "French to Spanish sentence translation",
+    "url": "/french-to-spanish-sentence-translation"
+  },
+  {
+    "name": "French to Swahili sentence translation",
+    "url": "/french-to-swahili-sentence-translation"
+  },
+  {
+    "name": "French to Tagalog sentence translation",
+    "url": "/french-to-tagalog-sentence-translation"
+  },
+  {
+    "name": "French to Tamil sentence translation",
+    "url": "/french-to-tamil-sentence-translation"
+  },
+  {
+    "name": "French to Telugu sentence translation",
+    "url": "/french-to-telugu-sentence-translation"
+  },
+  {
+    "name": "French to Urdu sentence translation",
+    "url": "/french-to-urdu-sentence-translation"
+  },
+  {
+    "name": "French to Vietnamese sentence translation",
+    "url": "/french-to-vietnamese-sentence-translation"
   },
   {
     "name": "German to Punjabi sentence translation",
@@ -1754,6 +1854,10 @@
   {
     "name": "Pinyin to Vietnamese sentence translation",
     "url": "/pinyin-to-vietnamese-sentence-translation"
+  },
+  {
+    "name": "Portuguese to English sentence translation",
+    "url": "/portuguese-to-english-sentence-translation"
   },
   {
     "name": "Portuguese to Punjabi sentence translation",

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: de
+langName : japanese-to
 permalink: /japanese-to-german-sentence-translation
 tool: sentence-translations
 nointernationalization: true

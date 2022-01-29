@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: rw
+langName : latin-to
 permalink: /latin-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: it
+langName : arabic-to
 permalink: /arabic-to-italian-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: te
+langName : pinyin-to
 permalink: /pinyin-to-telugu-sentence-translation
 tool: sentence-translations
 nointernationalization: true

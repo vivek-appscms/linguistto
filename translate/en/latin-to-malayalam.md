@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: la
 to: ml
+langName : latin-to
 permalink: /latin-to-malayalam-sentence-translation
 tool: sentence-translations
 nointernationalization: true

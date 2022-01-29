@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: ar
+langName : malayalam-to
 permalink: /malayalam-to-arabic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/hi/text-rewriter"
+        },
+        {
+            "name": "टाइपिंग पेज",
+            "description": "उत्कृष्ट टाइपिंग टूल",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/hi/all-typing-pages"
         }
     ]
 }

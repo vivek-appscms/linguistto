@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: fr
+langName : malayalam-to
 permalink: /malayalam-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

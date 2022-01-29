@@ -1,155 +1,252 @@
 {
-    "logo": "/img/logo.png",
-    "heading": "",
-    "company": [
-        {
-            "name": "Om",
-            "url": "/about"
-        },
-        {
-            "name": "Villkor",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "Hjälp",
-            "url": "/help"
-        },
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "parafraseringsverktyg",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verktyget Hindi Parafras",
+                        "url": "/sv/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ryskt parafrasverktyg",
+                        "url": "/sv/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verktyget Spanskt parafras",
+                        "url": "/sv/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Swedish to hindi Typing",
+                        "url": "/sv/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Swedish to bangla Typing",
+                        "url": "/sv/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verktyget Tyskt parafras",
+                        "url": "/sv/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Koreansk parafras, verktyg",
+                        "url": "/sv/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Dansk parafras, verktyg",
+                        "url": "/sv/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Italienskt parafrasverktyg",
+                        "url": "/sv/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Verktyget Polskt parafras",
+                        "url": "/sv/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Svenskt parafrasverktyg",
+                        "url": "/sv/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Thai-parafras - verktyg",
+                        "url": "/sv/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Japansk-parafras-verktyg",
+                        "url": "/sv/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "arabisk-parafras-verktyg",
+                        "url": "/sv/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Ukranian-parafras verktyg",
+                        "url": "/sv/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Kinesiska-parafras-verktyg",
+                        "url": "/sv/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Indonesiska-parafras",
+                        "url": "/sv/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "vietnamesiska-parafras- verktyg",
+                        "url": "/sv/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Fransk-parafras-verktyg",
+                        "url": "/sv/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Nederländska-parafras",
+                        "url": "/sv/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "Portugisisk-parafras-verktyg",
+                        "url": "/sv/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Andra verktyg",
+                "links": [
+                    {
+                        "name": "Skriva sidor",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/sv/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Översättning av mening",
+                        "url": "/sv/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Meta- och titelkontroll",
+                        "url": "/sv/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig adjektiv generator",
+                        "url": "/sv/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Textskillnadskontroll",
+                        "url": "/sv/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verktyg för antal ord",
+                        "url": "/sv/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verktyg för antal tecken",
+                        "url": "/sv/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Omskrivning av stycke",
+                        "url": "/sv/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Text Rewriter",
+                        "url": "/sv/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Andra verktyg",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig substantiv generator",
+                        "url": "/sv/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig punkt",
+                        "url": "/sv/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig generator",
+                        "url": "/sv/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig mening",
+                        "url": "/sv/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Serp simulator",
+                        "url": "/sv/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ordräkning på webbplatsen",
+                        "url": "/sv/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Random ordgenerator",
+                        "url": "/sv/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
         {
             "name": "Blog",
             "url": "/blog"
-        }
-    ],
-    "product": [
-        {
-            "name": "Verktyg för parafrasering",
-            "url": "/sv/paraphrasing-tool"
-        },
-        {
-            "name": "Verktyget Tyskt parafras",
-            "url": "/sv/german-paraphrase-tool"
-        },
-        {
-            "name": "Verktyget Hindi Parafras",
-            "url": "/sv/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Ryskt parafrasverktyg",
-            "url": "/sv/russian-paraphrase-tool"
-        },
-        {
-            "name": "Verktyget Spanskt parafras",
-            "url": "/sv/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Translittereringsverktyg",
-            "url": "/sv/english-to-hindi-typing "
-        },
-        {
-            "name": "Swedish to bangla Typing",
-            "url": "/sv/bangla-transliteration-tool"
-        },
-        {
-            "name": "Verktyg för antal ord",
-            "url": "/sv/word-count-tool"
-        },
-        {
-            "name": "Verktyg för antal tecken",
-            "url": "/sv/character-count-tool"
-        },
-        {
-            "name": "Översättning av mening",
-            "url": "/sv/sentence-translation"
-        },
-        {
-            "name": "Meta- och titelkontroll",
-            "url": "/sv/meta-and-title-checker"
-        },
-        {
-            "name": "Slumpmässig adjektiv generator",
-            "url": "/sv/random-adjective-generator"
-        },
-        {
-            "name": "Textskillnadskontroll",
-            "url": "/sv/text-difference-checker"
-        },
-        {
-            "name": "Slumpmässig substantiv generator",
-            "url": "/sv/random-noun-generator"
-        },
-        {
-            "name": "Slumpmässig punkt",
-            "url": "/sv/random-paragraph-generator"
-        },
-        {
-            "name": "Slumpmässig generator",
-            "url": "/sv/random-letter-generator"
-        },
-        {
-            "name": "Slumpmässig mening",
-            "url": "/sv/random-sentence-generator"
-        },
-        {
-            "name": "Serp simulator",
-            "url": "/sv/serp-simulator"
-        },
-        {
-            "name": "Ordräkning på webbplatsen",
-            "url": "/sv/website-word-count"
-        },
-        {
-            "name": "Random ordgenerator",
-            "url": "/sv/random-word-generator"
-        },
-        {
-            "name": "Omskrivning av stycke",
-            "url": "/sv/paragraph-rewriter"
-        },
-        {
-            "name": "Text Rewriter",
-            "url": "/sv/text-rewriter"
-        }
-    ],
-    "networkSites": [],
-    "social": [
-        {
-            "logo": "/assets/facebook.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/youtube.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/instagram.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/linkdin.svg",
-            "url": "/",
-            "title": "abc"
-        },
-        {
-            "logo": "/assets/twitter.svg",
-            "url": "/",
-            "title": "abc"
-        }
-    ],
-    "messege": "Copyright © 2020 All rights reserved to Contenttool",
-    "legal": [
-        {
-            "name": "Villkor",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "Sekretesspolicy",
-            "url": "/privacy-policy"
-        },
-        {
-            "name": "Kontakta oss",
-            "url": "/contact"
         }
     ]
 }

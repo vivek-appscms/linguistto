@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: fr
+langName : pinyin-to
 permalink: /pinyin-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

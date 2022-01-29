@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: fil
 to: pt
+langName : filipino-to
 permalink: /filipino-to-portuguese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

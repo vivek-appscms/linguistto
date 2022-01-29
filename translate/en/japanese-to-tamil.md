@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: ta
+langName : japanese-to
 permalink: /japanese-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

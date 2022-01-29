@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: am
 to: pt
+langName : amharic-to
 permalink: /amharic-to-portuguese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

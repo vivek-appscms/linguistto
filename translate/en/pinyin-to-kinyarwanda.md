@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: zh
 to: rw
+langName : pinyin-to
 permalink: /pinyin-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

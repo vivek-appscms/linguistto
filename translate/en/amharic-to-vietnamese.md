@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: am
 to: vi
+langName : amharic-to
 permalink: /amharic-to-vietnamese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

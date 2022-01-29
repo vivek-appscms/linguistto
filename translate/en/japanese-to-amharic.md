@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: am
+langName : japanese-to
 permalink: /japanese-to-amharic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

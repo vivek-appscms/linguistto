@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: es
+langName : malayalam-to
 permalink: /malayalam-to-spanish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

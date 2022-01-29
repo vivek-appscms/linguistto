@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: fr
+langName : japanese-to
 permalink: /japanese-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

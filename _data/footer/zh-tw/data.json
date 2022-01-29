@@ -1,155 +1,252 @@
 {
-    "logo": "/img/logo.png",
-    "heading": "",
-    "company": [
-        {
-            "name": "關於",
-            "url": "/about"
-        },
-        {
-            "name": "條款和條件",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "幫助",
-            "url": "/help"
-        },
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "解釋工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "印地語解釋工具",
+                        "url": "/zh-TW/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "俄語解釋工具",
+                        "url": "/zh-TW/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "西班牙語翻譯工具",
+                        "url": "/zh-TW/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "英語至印地語打字",
+                        "url": "/zh-TW/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "英語到孟加拉打字",
+                        "url": "/zh-TW/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "德語解釋工具",
+                        "url": "/zh-TW/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "韓語解釋工具",
+                        "url": "/zh-TW/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "丹麥語翻譯工具",
+                        "url": "/zh-TW/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "意大利語解釋工具",
+                        "url": "/zh-TW/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "波蘭語翻譯工具",
+                        "url": "/zh-TW/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "瑞典語翻譯工具",
+                        "url": "/zh-TW/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "泰國的話語-工具",
+                        "url": "/zh-TW/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "日語解釋-工具",
+                        "url": "/zh-TW/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "阿拉伯語-解釋工具",
+                        "url": "/zh-TW/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "英國的解釋-工具",
+                        "url": "/zh-TW/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "中文解釋-工具",
+                        "url": "/zh-TW/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "印度尼西亞-翻譯-工具",
+                        "url": "/zh-TW/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "越南語解釋工具",
+                        "url": "/zh-TW/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "法語解釋-工具",
+                        "url": "/zh-TW/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "荷蘭語解釋-工具",
+                        "url": "/zh-TW/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "葡萄牙語-解釋-工具",
+                        "url": "/zh-TW/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "其他工具",
+                "links": [
+                    {
+                        "name": "鍵入頁面",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/zh-TW/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "句子翻譯",
+                        "url": "/zh-TW/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "元和標題檢查器",
+                        "url": "/zh-TW/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機形容詞發生器",
+                        "url": "/zh-TW/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "文本差異檢查器",
+                        "url": "/zh-TW/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "字數計數工具",
+                        "url": "/zh-TW/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "字符計數工具",
+                        "url": "/zh-TW/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "段落重寫",
+                        "url": "/zh-TW/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "文本重寫",
+                        "url": "/zh-TW/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "其他工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機名詞生成器",
+                        "url": "/zh-TW/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機段落生成器",
+                        "url": "/zh-TW/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機字母生成器",
+                        "url": "/zh-TW/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機句子生成器",
+                        "url": "/zh-TW/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "塞爾普模擬器",
+                        "url": "/zh-TW/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "網站字數",
+                        "url": "/zh-TW/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "隨機詞生成器",
+                        "url": "/zh-TW/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
         {
             "name": "博客",
             "url": "/blog"
-        }
-    ],
-    "product": [
-        {
-            "name": "解釋工具",
-            "url": "/zh-tw/paraphrasing-tool"
-        },
-        {
-            "name": "德語解釋工具",
-            "url": "/zh-tw/german-paraphrase-tool"
-        },
-        {
-            "name": "印地語解釋工具",
-            "url": "/zh-tw/hindi-paraphrase-tool"
-        },
-        {
-            "name": "俄語解釋工具",
-            "url": "/zh-tw/russian-paraphrase-tool"
-        },
-        {
-            "name": "西班牙語翻譯工具",
-            "url": "/zh-tw/spanish-paraphrase-tool"
-        },
-        {
-            "name": "音譯工具",
-            "url": "/zh-tw/english-to-hindi-typing "
-        },
-        {
-            "name": "英語到孟加拉打字",
-            "url": "/zh-tw/bangla-transliteration-tool"
-        },
-        {
-            "name": "字數計數工具",
-            "url": "/zh-tw/word-count-tool"
-        },
-        {
-            "name": "字符計數工具",
-            "url": "/zh-tw/character-count-tool"
-        },
-        {
-            "name": "句子翻譯",
-            "url": "/zh-tw/sentence-translation"
-        },
-        {
-            "name": "元和標題檢查器",
-            "url": "/zh-tw/meta-and-title-checker"
-        },
-        {
-            "name": "隨機形容詞發生器",
-            "url": "/zh-tw/random-adjective-generator"
-        },
-        {
-            "name": "文本差異檢查器",
-            "url": "/zh-tw/text-difference-checker"
-        },
-        {
-            "name": "隨機名詞生成器",
-            "url": "/zh-tw/random-noun-generator"
-        },
-        {
-            "name": "隨機段落生成器",
-            "url": "/zh-tw/random-paragraph-generator"
-        },
-        {
-            "name": "隨機字母生成器",
-            "url": "/zh-tw/random-letter-generator"
-        },
-        {
-            "name": "隨機句子生成器",
-            "url": "/zh-tw/random-sentence-generator"
-        },
-        {
-            "name": "塞爾普模擬器",
-            "url": "/zh-tw/serp-simulator"
-        },
-        {
-            "name": "網站字數",
-            "url": "/zh-tw/website-word-count"
-        },
-        {
-            "name": "隨機詞生成器",
-            "url": "/zh-tw/random-word-generator"
-        },
-        {
-            "name": "段落重寫",
-            "url": "/zh-tw/paragraph-rewriter"
-        },
-        {
-            "name": "文本重寫",
-            "url": "/zh-tw/text-rewriter"
-        }
-    ],
-    "networkSites": [],
-    "social": [
-        {
-            "logo": "/assets/facebook.svg",
-            "url": "/",
-            "title": "ABC"
-        },
-        {
-            "logo": "/assets/youtube.svg",
-            "url": "/",
-            "title": "ABC"
-        },
-        {
-            "logo": "/assets/instagram.svg",
-            "url": "/",
-            "title": "ABC"
-        },
-        {
-            "logo": "/assets/linkdin.svg",
-            "url": "/",
-            "title": "ABC"
-        },
-        {
-            "logo": "/assets/twitter.svg",
-            "url": "/",
-            "title": "ABC"
-        }
-    ],
-    "messege": "Copyright © 2020 All rights reserved to Contenttool",
-    "legal": [
-        {
-            "name": "條款和條件",
-            "url": "/terms-and-conditions"
-        },
-        {
-            "name": "隱私政策",
-            "url": "/privacy-policy"
-        },
-        {
-            "name": "聯繫我們",
-            "url": "/contact"
         }
     ]
 }

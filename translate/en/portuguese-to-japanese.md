@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pt
 to: ja
+langName : portuguese-to
 permalink: /portuguese-to-japanese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

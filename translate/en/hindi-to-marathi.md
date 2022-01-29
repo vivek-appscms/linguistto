@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: hi
 to: mr
+langName : hindi-to
 permalink: /hindi-to-marathi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: mr
 to: sw
+langName : marathi-to
 permalink: /marathi-to-swahili-sentence-translation
 tool: sentence-translations
 nointernationalization: true

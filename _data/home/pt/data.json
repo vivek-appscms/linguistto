@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/pt/text-rewriter"
+        },
+        {
+            "name": "Digitando páginas",
+            "description": "Excelente ferramenta de digitação",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/pt/all-typing-pages"
         }
     ]
 }

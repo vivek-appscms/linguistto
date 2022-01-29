@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ur
 to: fr
+langName : urdu-to
 permalink: /urdu-to-french-sentence-translation
 tool: sentence-translations
 nointernationalization: true

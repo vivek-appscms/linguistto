@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: gu
 to: ga
+langName : gujarati-to
 permalink: /gujarati-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

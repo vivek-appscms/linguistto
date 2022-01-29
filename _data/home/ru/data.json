@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/ru/text-rewriter"
+        },
+        {
+            "name": "Страницы набора текста",
+            "description": "Отличный инструмент для набора текста",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/ru/all-typing-pages"
         }
     ]
 }

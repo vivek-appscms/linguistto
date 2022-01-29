@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pt
 to: hi
+langName : portuguese-to
 permalink: /portuguese-to-hindi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: rw
+langName : swahili-to
 permalink: /swahili-to-kinyarwanda-sentence-translation
 tool: sentence-translations
 nointernationalization: true

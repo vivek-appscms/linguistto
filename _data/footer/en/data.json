@@ -39,7 +39,8 @@
     {
       "name": "Spanish Paraphrase tool",
       "url": "/spanish-paraphrase-tool"
-    },{
+    },
+    {
       "name": "Korean Paraphrase tool",
       "url": "/korean-paraphrase-tool"
     },
@@ -104,8 +105,12 @@
       "url": "/english-to-hindi-typing "
     },
     {
+      "name": "Typing pages",
+      "url": "/all-typing-pages"
+    },
+    {
       "name": "English to bangla Typing",
-      "url":"bangla-transliteration-tool"
+      "url": "bangla-transliteration-tool"
     },
     {
       "name": "Word count tool",

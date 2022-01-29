@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ja
 to: ar
+langName : japanese-to
 permalink: /japanese-to-arabic-sentence-translation
 tool: sentence-translations
 nointernationalization: true

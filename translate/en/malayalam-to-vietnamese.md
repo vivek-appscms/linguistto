@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ml
 to: vi
+langName : malayalam-to
 permalink: /malayalam-to-vietnamese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

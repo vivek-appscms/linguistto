@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: pa
 to: vi
+langName : punjabi-to
 permalink: /punjabi-to-vietnamese-sentence-translation
 tool: sentence-translations
 nointernationalization: true

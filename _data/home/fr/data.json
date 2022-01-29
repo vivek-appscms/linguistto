@@ -99,6 +99,13 @@
             "color": "#0e6d6d",
             "icon": "/assets/images/rewriting.svg",
             "url": "/fr/text-rewriter"
+        },
+        {
+            "name": "Pages de saisie",
+            "description": "Excellent outil de frappe",
+            "color": "#a7a7cd",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/fr/all-typing-pages"
         }
     ]
 }

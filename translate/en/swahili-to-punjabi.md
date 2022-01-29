@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: sw
 to: pa
+langName : swahili-to
 permalink: /swahili-to-punjabi-sentence-translation
 tool: sentence-translations
 nointernationalization: true

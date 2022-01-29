@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ta
 to: ga
+langName : tamil-to
 permalink: /tamil-to-irish-sentence-translation
 tool: sentence-translations
 nointernationalization: true

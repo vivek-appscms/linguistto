@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: es
 to: ta
+langName : spanish-to
 permalink: /spanish-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

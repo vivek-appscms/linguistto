@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: ta
+langName : arabic-to
 permalink: /arabic-to-tamil-sentence-translation
 tool: sentence-translations
 nointernationalization: true

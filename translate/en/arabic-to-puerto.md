@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ar
 to: es
+langName : arabic-to
 permalink: /arabic-to-puerto-sentence-translation
 tool: sentence-translations
 nointernationalization: true

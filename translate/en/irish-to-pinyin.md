@@ -6,6 +6,7 @@ folderName : translate
 lang: en
 from: ga
 to: zh
+langName : irish-to
 permalink: /irish-to-pinyin-sentence-translation
 tool: sentence-translations
 nointernationalization: true
