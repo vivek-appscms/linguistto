@@ -24,18 +24,14 @@ Imagine a program with thousands of lines of code and only one incorrect point t
 
 ## How to use this text difference checker online to compare blocks of code?
 
-Go to the [contenttools.io](https://contenttool.io/) website. This a toolkit of a massive variety of content writing tools.
+1. Go to the [contenttools.io](https://contenttool.io/) website. This a toolkit of a massive variety of content writing tools.
+2. From the Tools dropdown menu, find the [Text Difference Checker](https://contenttool.io/text-difference-checker) option from under Other Tools.
 
-From the Tools dropdown menu, find the [Text Difference Checker](https://contenttool.io/text-difference-checker) option from under Other Tools.
+   ![](/uploads/screenshot-289.png)
+3. In the two text areas given type in or paste the code snippets you want to compare and find the difference between.
+4. Click on purple Find Difference button.
+5. A merged output of both the text inputs will appear above the button. This contains all the characters appearing in both the texts. The characters here are color coded in order for users to understand the differences easily. The color coding is as follows.
 
-![](/uploads/screenshot-289.png)
-
-In the two text areas given type in or paste the code snippets you want to compare and find the difference between.
-
-Click on purple Find Difference button.
-
-A merged output of both the text inputs will appear above the button. This contains all the characters appearing in both the texts. The characters here are color coded in order for users to understand the differences easily. The color coding is as follows.
-
-![](/uploads/screenshot-294.png)
+   ![](/uploads/screenshot-294.png)
 
 Comparing large chunks of very similar codes have never been easier.
