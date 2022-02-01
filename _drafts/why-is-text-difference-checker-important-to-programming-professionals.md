@@ -34,8 +34,8 @@ In the two text areas given type in or paste the code snippets you want to compa
 
 Click on purple Find Difference button.
 
-![](/uploads/screenshot-294.png)
-
 A merged output of both the text inputs will appear above the button. This contains all the characters appearing in both the texts. The characters here are color coded in order for users to understand the differences easily. The color coding is as follows.
+
+![](/uploads/screenshot-294.png)
 
 Comparing large chunks of very similar codes have never been easier.
