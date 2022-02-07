@@ -48,6 +48,22 @@
   ],
   "FAQ": [
     {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "For how long uploaded content is kept in your databases?",
+      "answer": "It is possible that your uploaded text will remain in databases for as long as the  process is not complete. Upon completion of the operation, your content will be automatically deleted from the servers where it was stored."
+    },
+    {
       "question": "What is Text Rewriter?",
       "answer": "Text Rewriter is used to paraphrasing the content making it more attractive. Generate high-quality, plagiarism-free unique content text rewriter plays an important role.\n"
     },
