@@ -48,6 +48,10 @@
   ],
   "FAQ": [
     {
+      "question": "I refreshed the browser by mistake. What do I do?",
+      "answer": "Since our website does not use any servers and does not store your data, the color code entered by you will not be saved. you will have to paste/rewrite the content of the paragraph again."
+    },
+    {
       "question": "Is it safe to use?",
       "answer": "Paragraph Rewriter is 100% safe to use. You can simply copy the color codes suggested by the Paragraph Rewriter and paste where you need them. No permission is required to use the website and its ad free!"
     },
