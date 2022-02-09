@@ -1,58 +1,122 @@
 {
-    "Language": "English",
-    "htmlLangAtt": "en",
-    "h1": "Use free online paragraph rewriter for quality content.",
-    "h2": "Ultimate solution to your writing problems",
-    "TITLE": "Paragraph rewriter- Best tool to rewrite unlimited number of documents. ",
-    "META": "Advanced web based paragraph rewriter is a perfect place for you to rewrite or paraphrase the articles. Our tool delivers the true essence of the topic. The most effective tool for minimizing all the risks of plagiarism and grammatical errors.",
-    "imgwidth": "40px",
-    "imgheight": "40px",
-    "imgalt": "altvalue",
-    "TEXTUAL_CONTENT": [
-      {
-        "priority": 1,
-        "logoUrl": "/assets/bulb.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/guaranty.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/support.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/protect.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/easy.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/cloud.svg",
-        "header": "",
-        "content": ""
-      }
-    ],
-    "FAQ": [
-      {
-        "question": "",
-        "answer": ""
-      }
-    ],
-    "csscdns":[
-      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ]
-  }
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Use free online paragraph rewriter for quality content.",
+  "h2": "Ultimate solution to your writing problems",
+  "TITLE": "Paragraph rewriter- Best tool to rewrite unlimited number of documents. ",
+  "META": "Advanced web based paragraph rewriter is a perfect place for you to rewrite or paraphrase the articles. Our tool delivers the true essence of the topic. The most effective tool for minimizing all the risks of plagiarism and grammatical errors.",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "Simple to Use",
+      "content": "Paragraph Rewriter is simple to use. If you have an paragraph that you need to rewrite, you can just copy it and paste it in our paragraph rewriter and the tool will do the job for you."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Instant Results",
+      "content": "Results are displayed soon as you click on Paraphrase and you don't have to wait for the generation of results."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Cross Platform",
+      "content": "Our website is platform independent. It works on both Window and iOS Operating systems and can be used without any downloads required."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "Safe and Secure",
+      "content": "Our paragraph rewriter is completely safe to use and consistently produces real and precise results. \"Precise outcomes\" means that each altered content is not only plagiarism-free, but also easier to read and comprehend. It will increase the reach and engagement of your content due to its uniqueness and effectiveness. So, what do you have to lose? Give it a shot right now and have fun rewriting."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Unique and plagiarism free content",
+      "content": "It is, without a doubt, the best free and professional paragraph spinner available on the internet. It performs admirably and never disappoints its consumers when it comes to producing original content that is free of plagiarism and duplication issues! After revising your paragraph with our tool, you can verify for originality and distinctiveness by running your document through its plagiarism checker."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "Free to use",
+      "content": "Is there anything more exciting than discovering a text spinner that is completely free to use? Isn't that exactly what everyone is seeking for? The features of our paragraph rewriter tool are completely free to use, so there's no reason not to utilise it."
+    }
+  ],
+  "FAQ": [
+    {
+      "question": "How can working professionals benefit from Paragraph Rewriter?",
+      "answer": "There are numerous benefits associated with using an paragraph rewrite tool. Here are some: It'll save you a lot of time: Manually creating human-readable information can take hours or even days. You may, however, rewrite an paragraph in a matter of minutes using an online rewriting tool.\nIt boosts productivity: You can produce a big number of paragraphs in a short period of time, resulting in increased productivity.\nIt allows you to access content at any time: An online rewriter tool acts as your \"\"always-on-call\"\" content producer, providing you with a steady stream of content whenever you need it.\nIt allows you to improve your SEO: You can improve your search engine optimization (SEO) by using material generated by a third-party internet service to fuel your campaigns."
+    },
+    {
+      "question": "How does Paragraph rewriter work?",
+      "answer": "Our free paragraph rewriter tool is quite simple to use. The tool's built-in technology meticulously examines your entered text, resulting in completely fresh and unique content. Our programme replaces words with the best-fitting synonyms, ensuring that the original content concept is preserved while also increasing the accuracy of the results. Last but not least, our algorithm can determine the text's original meaning, and after thorough investigation, the rewritten content you receive is free of all forms of plagiarism."
+    },
+    {
+      "question": "What are the advantages of using this English paraphrase tool for both teachers and students?",
+      "answer": "Rewriting and paraphrasing are equally difficult for students. They put in a lot of effort, but they can't seem to grasp the core of the subject. When writing these, they strive hard to avoid plagiarism. It also wastes their time and may not even match the expectations of the kids. As a result, they get demotivated. Lessons and notes for pupils are challenging for teachers to plan. Both the teacher and the students benefit from our English paraphrase tool. Students increase their vocabulary and grammar skills, and teachers can give various writing activities to aid in this improvement."
+    },
+    {
+      "question": "What is the difference between summarizing & paraphrasing?",
+      "answer": "It's important to remember that paraphrasing is not the same as summing up summarising. When you give an overview of a subject or when you give an overview of the primary ideas of an author as a whole, you are presenting a summary. It is common for a summary to be significantly shorter than the original content, and it may be possible to summarise the main points of a paragraph in one sentence. Paraphrasing is the process of rewriting a passage from a source document in your own words. A paraphrase, on the other hand, is a reduced version of the original, whereas summarising keeps the original's length intact."
+    },
+    {
+      "question": "How can I improve my paraphrasing?",
+      "answer": "By reading the original paragraph numerous times, you can ensure that you understand the essential ideas. Make a list of the most crucial points and memorise them. To verify correctness, compare your work to the original. Take the original concepts and make something fresh out of them. It's easy to determine whether someone has copied from a textbook because it's so evident. You'll have to get used to your writing style being distinct from the authors you're reading. Look for additional precise words once you've figured out what the original text is saying. The paraphrased version, however, should keep these terms because they are crucial to the sentence's meaning. Use a thesaurus to look for words or sentences that can be modified."
+    },
+    {
+      "question": "Why should we use this paragraph rewriter tool? Why is it different from other tools?",
+      "answer": "Paraphrasing allows you to be more creative with your text, making it appear more expressive than before. The paragraph rewriter tool may help you rewrite text for a website, rewrite material for a forum, paraphrase details for your term paper, update text for your corporate journal, remix an email, or breathe new life into a tweet. It's straightforward, open, intelligent, and incredibly productive. Rewrite your content to ensure that it is plagiarism-free and free of copyright violations. Our pharaphrasing tool is unique in that it allows you to get the results of your post in three different ways, making your content stand out from the crowd. Choose any one of them to improve the quality of your paragraph."
+    },
+    {
+      "question": "What are the uses of the paragraph rewriter tool?",
+      "answer": "People frequently utilise paraphrase to improve their writing skills. It's vital to remember that summarising and paraphrasing are not synonymous. Most people struggle to come up with new ideas on a daily basis. Finding a new spin on an old concept might be difficult at times. Teachers are unable to provide their students with accurate historical information. Website owners and content writers confront a variety of content development challenges on a regular basis due to a lack of resources. Journalists frequently alter their tales to emphasise specific elements or present a different picture of a particular incident.\nMost people struggle to come up with new ideas on a daily basis. Finding a new spin on an old concept might be difficult at times. Teachers are unable to provide their students with accurate historical information. Website owners and content writers confront a variety of content development challenges on a regular basis due to a lack of resources. Journalists frequently alter their tales to emphasise specific elements or present a different picture of a particular incident."
+    },
+    {
+      "question": "Are there any software requirements to use this paragraph rewriter tool?",
+      "answer": "No! It is not required to download or install any software on your computer or mobile device in order to use the free online paragraph rewriter tool."
+    },
+    {
+      "question": "For how long my uploaded content is kept in your databases?",
+      "answer": "It is possible that your uploaded text will remain in databases for as long as the paraphrasing process is not complete. Upon completion of the operation, your content will be automatically deleted from the servers where it was stored."
+    },
+    {
+      "question": "How can paragraph rewriter help me?",
+      "answer": "Bloggers can utilize to create fresh material daily by rephrasing previous content. New bloggers must publish content and work hard every day to grow their blogs. It is difficult to write daily material while preserving the original idea. This tool may assist. Content marketing where digital marketing specialists require tools where they can mold their content to not only make their content more creative but also avoid plagiarism. Here the content writer can paste in the text box and get your result in three ways. Simply paste your text and this paragraph rewriter tool will collect all available word synonyms and create unique content."
+    },
+    {
+      "question": "Is paraphrasing illegal?",
+      "answer": "Paraphrasing in scholarly papers must be noted as a professional courtesy, even though it is not prohibited by law. By 'documenting' or 'citing' your sources, you are giving credit to the author of the material (terms which mean you credit your source). Using words that are too similar to the original material's terminology, or even the sentence structure of the paraphrased text will appear as though you are attempting to pass off someone else's content as your own. Copying is unethical and in certain circumstances illegal, as evidenced by the fact that this is done. The paragraph rewriter tool gives you control over the legibility and quality of your paragraph. We assure you that you will get perfect content that can meet search engine requirements in a reader-friendly way."
+    },
+    {
+      "question": "I refreshed the browser by mistake. What do I do?",
+      "answer": "Since our website does not use any servers and does not store your data, the color code entered by you will not be saved. you will have to paste/rewrite the content of the paragraph again."
+    },
+    {
+      "question": "Is it safe to use?",
+      "answer": "Paragraph Rewriter is 100% safe to use. You can simply copy the color codes suggested by the Paragraph Rewriter and paste where you need them. No permission is required to use the website and its ad free!"
+    },
+    {
+      "question": "Will I be charged to use the website?",
+      "answer": "Our website is absolutely free and you can use it as many times as you want. There are no free trial uses, after which you will have to pay for using our services. We won't charge you anything."
+    },
+    {
+      "question": "Will I have to create an account to use Paragraph Rewriter?",
+      "answer": "Our website does not require you to sign up or create an account. The platform is absolutely free and you can rewrite as many paragraphs as you want."
+    },
+    {
+      "question": "Does it support both Android and iOS platforms?",
+      "answer": "Yes, our website works on browser, and therefore supports both iOS and Android platforms."
+    },
+    {
+      "question": "Which Windows versions does Paragraph Rewriter support?",
+      "answer": "Our website is completely web-based and therefore provides cross-platform support. This means that our tool supports all versions of Windows. It not only works on Windows operating system, but can work on any other operating system, that supports a browser."
+    }
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ]
+}
