@@ -6,7 +6,6 @@ layout: post
 hero: Nikita
 image: "/uploads/ewd.png"
 comments: false
-description: hello world
 
 ---
 The English language is the international language. There are more English speakers who learned the language as a second language than native speakers. It's fascinating!
