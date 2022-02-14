@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "Простота в использовании",
+            "content": "Наш бесплатный инструмент Text Rewriter очень прост в использовании. Вам даже не нужно регистрироваться. Это делает перефразирование предложений простым и понятным.\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "Результаты асurаte",
+            "content": "Наш сайт очень быстро обрабатывает вашу звуковую дорожку. Результаты асurаte и, следовательно, пользователь полностью удовлетворен"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "Сrоss-рlаtfоrm",
+            "content": "Инструмент рерайтера текста совместим с любой системой обработки, такой как Windоws/MаС/Linux/Андроид/Iрhоne.\n\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "Безопасный и заслуживающий доверия",
+            "content": "Сервер не задействован, поэтому ваши данные в безопасности\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "Быстрое и эффективное",
+            "content": "Сайт обрабатывает собранные данные очень быстро и эффективно. Вы можете сделать свою работу в кратчайшие сроки\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "Нет файлов арlоded",
+            "content": "Арliсаtiоn работает соmрlicаtiоn в вашем браузере, не привлекая ни одного сервера. Таким образом, ваши данные в безопасности\n"
         }
     ],
     "csscdns": [

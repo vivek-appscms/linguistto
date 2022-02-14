@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "Einfach zu benutzen",
+            "content": "Unser kostenloses Text-Rewriter-Tool ist sehr einfach zu bedienen. Sie müssen sich nicht einmal anmelden. Es macht das Paraphrasieren der Sätze einfach und unkompliziert.\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "Aсurаte-Ergebnisse",
+            "content": "Unsere Website verarbeitet Ihre Audiospur sehr schnell. Die Ergebnisse sind jetzt und daher ist der Benutzer voll und ganz zufrieden"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "СROSS-PLАTFFORM",
+            "content": "Der Text-Umschreiber ist mit jedem beliebigen Betriebssystem, wie Fenster/MА/Linux/Ndroid/Iрhоne, kompatibel.\n\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "Sicher und vertrauenswürdig",
+            "content": "Es ist kein Server beteiligt und daher ist Ihr Tag sicher\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "schnell und effizient",
+            "content": "Die Website verarbeitet die erfassten Daten sehr schnell und effizient. Sie können Ihre Arbeit in kürzester Zeit erledigen\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "Es wurden keine Dateien erstellt",
+            "content": "Die Arbeit funktioniert vollständig in Ihrem Browser, ohne dass ein Server in Anspruch genommen wird. Daher sind Ihre Daten sicher\n"
         }
     ],
     "csscdns": [

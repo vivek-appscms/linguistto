@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "간편한 사용",
+            "content": "단락 다시 작성기는 사용이 간편합니다.다시 작성해야 할 단락이 있는 경우 단락을 복사하여 단락 다시 작성기에 붙여 넣으면 도구가 자동으로 작업을 수행합니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "즉각적인 결과",
+            "content": "의역을 클릭하면 바로 결과가 표시되며 결과 생성을 기다릴 필요가 없습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "크로스 플랫폼",
+            "content": "저희 웹사이트는 플랫폼에 독립적입니다.Window 및 iOS 운영 체제 모두에서 작동하며 다운로드 없이도 사용할 수 있습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "안전 및 보안",
+            "content": "우리의 단락 재 작성기는 사용하기에 완전히 안전하며 실제적이고 정확한 결과를 일관되게 생성합니다.“정확한 결과”는 변경된 각 콘텐츠가 표절이 없을 뿐만 아니라 읽고 이해하기 쉽다는 것을 의미합니다.독창성과 효과로 인해 콘텐츠의 도달 범위와 참여도가 높아집니다.그렇다면 무엇을 잃어야 할까요?지금 당장 사진을 찍고 재미있게 다시 쓰세요."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "독창적이고 표절이 없는 콘텐츠",
+            "content": "의심 할 여지없이 인터넷에서 사용할 수있는 최고의 무료 전문 단락 스피너입니다.표절 및 중복 문제가없는 독창적 인 콘텐츠를 제작할 때 탁월한 성능을 발휘하며 소비자를 실망시키지 않습니다!Google 도구로 단락을 수정 한 후 표절 검사기를 통해 문서를 실행하여 독창성과 특수성을 확인할 수 있습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "무료 사용",
+            "content": "완전히 무료로 사용할 수 있는 텍스트 스피너를 발견하는 것보다 더 흥미로운 것이 있습니까?그게 바로 모두가 추구하는 것이 아닌가요?단락 다시 쓰기 도구의 기능은 완전히 무료로 사용할 수 있으므로 사용하지 않을 이유가 없습니다."
         }
     ],
     "csscdns": [

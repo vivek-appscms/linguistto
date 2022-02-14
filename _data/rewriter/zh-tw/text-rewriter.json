@@ -1,6 +1,6 @@
 {
     "Language": "繁體中文",
-    "htmlLangAtt": "zh-tw",
+    "htmlLangAtt": "zh-TW",
     "h1": "優秀的文本重寫工具",
     "h2": "使用文本重寫器生成高質量、無抄襲的獨特內容",
     "TITLE": "文本重寫-完美的文本重寫以全新的方式重寫任何內容。",
@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "簡單的使用",
+            "content": "我們免費的文本重寫工具使用非常簡單。你甚至不需要註冊。它使得句子的解釋簡單和簡單。\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "加工結果",
+            "content": "我們的網站處理您的音頻軌道真的很快。結果用户被打擊"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "法蘭克福爾",
+            "content": "文本重寫器是可以與一個不同的系統，像風/馬克斯/Linux/iрhоne。\n\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "可信賴",
+            "content": "有沒有服務器被調用的自己的自己的服務器\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "法師的效應",
+            "content": "該網站以實際方式捕獲的數據進行處理。你可以在 Nо 時間裏得到你們的合作夥計\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "Nо 文件無法使用",
+            "content": "可以使用不可侵犯的服務器來實現自己的服務器。你的數據是 Sаfe\n"
         }
     ],
     "csscdns": [

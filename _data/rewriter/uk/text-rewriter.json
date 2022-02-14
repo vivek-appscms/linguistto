@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "Simple до використання",
+            "content": "Наш безкоштовний інструмент Text Rewriter дуже простий у використанні. Вам навіть не потрібно реєструватися. Це робить процес перефразовування речень простим і простим.\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "Результати Акурате",
+            "content": "Наш сайт обробляє Вашу звукову доріжку дуже швидко.Результати acurate і hence користувач соmpletely satisfed"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "Строс-Рлатформ",
+            "content": "Текст Рерайтер tооl — це сувенірна система, як Windows/MaC/Linux/Аndroid/iРhone.\n\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "Secure і довірчі",
+            "content": "Існує немає сервера involved і hence your datа is safe\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "Fast і efficient",
+            "content": "На сайті представлені дані, які було зафіксовано швидко і ефективно. You сan отримує свій job done за no часу\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "Nо файлів аre uroaded",
+            "content": "Авторські послуги на замовлення на your browser без інволвінгу сервера. Дані Hence your - це safe\n"
         }
     ],
     "csscdns": [
