@@ -104,7 +104,7 @@
             "name": "การพิมพ์หน้า",
             "description": "เครื่องมือพิมพ์ดีเยี่ยม",
             "color": "#a7a7cd",
-            "icon": "/assets/images/rewriting.svg",
+            "icon": "/img/typing.svg",
             "url": "/th/all-typing-pages"
         }
     ]

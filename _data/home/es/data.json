@@ -104,7 +104,7 @@
             "name": "Páginas de escritura",
             "description": "Excelente herramienta de escritura",
             "color": "#a7a7cd",
-            "icon": "/assets/images/rewriting.svg",
+            "icon": "/img/typing.svg",
             "url": "/es/all-typing-pages"
         }
     ]
