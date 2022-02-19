@@ -104,7 +104,7 @@
             "name": "Skriva sidor",
             "description": "Utmärkt skrivverktyg",
             "color": "#a7a7cd",
-            "icon": "/assets/images/rewriting.svg",
+            "icon": "/img/typing.svg",
             "url": "/sv/all-typing-pages"
         }
     ]

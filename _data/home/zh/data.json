@@ -104,7 +104,7 @@
             "name": "键入页面",
             "description": "优秀的打字工具",
             "color": "#a7a7cd",
-            "icon": "/assets/images/rewriting.svg",
+            "icon": "/img/typing.svg",
             "url": "/zh/all-typing-pages"
         }
     ]

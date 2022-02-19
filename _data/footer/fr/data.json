@@ -1,252 +1,219 @@
 {
-    "navbarBrandText": "",
-    "navbarBrandLogo": "/img/logo.png",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-            {
-                "categoryName": "outil de paraphrase",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Outil Paraphrase Hindi",
-                        "url": "/fr/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Paraphrase russe",
-                        "url": "/fr/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Paraphrase espagnol",
-                        "url": "/fr/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Saisie de l'anglais vers le",
-                        "url": "/fr/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Dactylographie de l'anglais",
-                        "url": "/fr/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Outil Paraphrase allemand",
-                        "url": "/fr/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil Paraphrase Coréen",
-                        "url": "/fr/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil Paraphrase en danois",
-                        "url": "/fr/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Paraphrase italienne",
-                        "url": "/fr/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil Paraphrase polonais",
-                        "url": "/fr/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Paraphrase suédoise",
-                        "url": "/fr/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil de paraphrase thaï",
-                        "url": "/fr/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "outil de paraphrase japonais",
-                        "url": "/fr/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "outil de paraphrase arabe",
-                        "url": "/fr/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil de paraphrase ukrainien",
-                        "url": "/fr/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil de paraphrase chinois",
-                        "url": "/fr/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil de paraphrase indonésien",
-                        "url": "/fr/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "outil de paraphrase vietnamien",
-                        "url": "/fr/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil de paraphrase français",
-                        "url": "/fr/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil de paraphrase néerlandais",
-                        "url": "/fr/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Outil de paraphrase en portugais",
-                        "url": "/fr/portuguese-paraphrase-tool"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Autres outils",
-                "links": [
-                    {
-                        "name": "Pages de saisie",
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "url": "/fr/all-typing-pages"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Traduction de phrases",
-                        "url": "/fr/sentence-translation",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Vérificateur de méta et de titre",
-                        "url": "/fr/meta-and-title-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Générateur d'adjectifs aléatoires",
-                        "url": "/fr/random-adjective-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Vérificateur de différence de texte",
-                        "url": "/fr/text-difference-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Outil de comptage de mots",
-                        "url": "/fr/word-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Outil de comptage de caractères",
-                        "url": "/fr/character-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Réécriture de paragraphe",
-                        "url": "/fr/paragraph-rewriter",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Réécriture de texte",
-                        "url": "/fr/text-rewriter",
-                        "hover": "blue"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Autres outils",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Générateur de noms aléatoires",
-                        "url": "/fr/random-noun-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Générateur de paragraphes aléatoires",
-                        "url": "/fr/random-paragraph-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Générateur de lettres aléatoires",
-                        "url": "/fr/random-letter-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Générateur de phrases aléatoires",
-                        "url": "/fr/random-sentence-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Simulateur Serp",
-                        "url": "/fr/serp-simulator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Nombre de mots du site",
-                        "url": "/fr/website-word-count",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Générateur de mots aléatoires",
-                        "url": "/fr/random-word-generator",
-                        "hover": "blue"
-                    }
-                ]
-            }
-        ]
-    },
-    "navItems": [
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "À propos",
+            "url": "/about"
+        },
+        {
+            "name": "Termes et conditions",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Aide",
+            "url": "/help"
+        },
         {
             "name": "Blogue",
             "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Outil pour paraphraser",
+            "url": "/fr/paraphrasing-tool"
+        },
+        {
+            "name": "Outil Paraphrase allemand",
+            "url": "/fr/german-paraphrase-tool"
+        },
+        {
+            "name": "Outil Paraphrase Hindi",
+            "url": "/fr/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Paraphrase russe",
+            "url": "/fr/russian-paraphrase-tool"
+        },
+        {
+            "name": "Paraphrase espagnol",
+            "url": "/fr/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Outil Paraphrase Coréen",
+            "url": "/fr/korean-paraphrase-tool"
+        },
+        {
+            "name": "Outil Paraphrase en danois",
+            "url": "/fr/danish-paraphrase-tool"
+        },
+        {
+            "name": "Paraphrase italienne",
+            "url": "/fr/italian-paraphrase-tool"
+        },
+        {
+            "name": "Outil Paraphrase polonais",
+            "url": "/fr/polish-paraphrase-tool"
+        },
+        {
+            "name": "Paraphrase suédoise",
+            "url": "/fr/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Outil de paraphrase thaï",
+            "url": "/fr/thai-paraphrase-tool"
+        },
+        {
+            "name": "outil de paraphrase japonais",
+            "url": "/fr/japanese-paraphrase-tool"
+        },
+        {
+            "name": "outil de paraphrase arabe",
+            "url": "/fr/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Outil de paraphrase ukrainien",
+            "url": "/fr/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Outil de paraphrase chinois",
+            "url": "/fr/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Outil de paraphrase indonésien",
+            "url": "/fr/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "outil de paraphrase vietnamien",
+            "url": "/fr/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "Outil de paraphrase français",
+            "url": "/fr/french-paraphrase-tool"
+        },
+        {
+            "name": "Outil de paraphrase néerlandais",
+            "url": "/fr/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Outil de paraphrase en portugais",
+            "url": "/fr/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Outil de translittération",
+            "url": "/fr/english-to-hindi-typing "
+        },
+        {
+            "name": "Pages de saisie",
+            "url": "/fr/all-typing-pages"
+        },
+        {
+            "name": "Dactylographie de l'anglais",
+            "url": "/fr/bangla-transliteration-tool"
+        },
+        {
+            "name": "Outil de comptage de mots",
+            "url": "/fr/word-count-tool"
+        },
+        {
+            "name": "Outil de comptage de caractères",
+            "url": "/fr/character-count-tool"
+        },
+        {
+            "name": "Traduction de phrases",
+            "url": "/fr/sentence-translation"
+        },
+        {
+            "name": "Vérificateur de méta et de titre",
+            "url": "/fr/meta-and-title-checker"
+        },
+        {
+            "name": "Générateur d'adjectifs aléatoires",
+            "url": "/fr/random-adjective-generator"
+        },
+        {
+            "name": "Vérificateur de différence de texte",
+            "url": "/fr/text-difference-checker"
+        },
+        {
+            "name": "Générateur de noms aléatoires",
+            "url": "/fr/random-noun-generator"
+        },
+        {
+            "name": "Générateur de paragraphes aléatoires",
+            "url": "/fr/random-paragraph-generator"
+        },
+        {
+            "name": "Générateur de lettres aléatoires",
+            "url": "/fr/random-letter-generator"
+        },
+        {
+            "name": "Générateur de phrases aléatoires",
+            "url": "/fr/random-sentence-generator"
+        },
+        {
+            "name": "Simulateur Serp",
+            "url": "/fr/serp-simulator"
+        },
+        {
+            "name": "Nombre de mots du site",
+            "url": "/fr/website-word-count"
+        },
+        {
+            "name": "Générateur de mots aléatoires",
+            "url": "/fr/random-word-generator"
+        },
+        {
+            "name": "Réécriture de paragraphe",
+            "url": "/fr/paragraph-rewriter"
+        },
+        {
+            "name": "Réécriture de texte",
+            "url": "/fr/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Termes et conditions",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Politique de confidentialité",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Nous contacter",
+            "url": "/contact"
         }
     ]
 }

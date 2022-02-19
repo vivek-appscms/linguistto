@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "Einfach zu benutzen",
+            "content": "Der Absatzumschreiber ist einfach zu bedienen. Wenn Sie einen Absatz haben, den Sie umschreiben müssen, können Sie ihn einfach kopieren und in unseren Absatzumschreiber einfügen. Das Tool erledigt die Arbeit für Sie."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "Sofortige Ergebnisse",
+            "content": "Die Ergebnisse werden angezeigt, sobald Sie auf Paraphrase klicken, und Sie müssen nicht auf die Generierung von Ergebnissen warten."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "Plattformübergreifend",
+            "content": "Unsere Website ist plattformunabhängig. Es funktioniert sowohl auf Windows- als auch auf iOS-Betriebssystemen und kann ohne erforderliche Downloads verwendet werden."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "Sicher und geschützt",
+            "content": "Unser Absatzumschreiber ist absolut sicher in der Anwendung und liefert konstant echte und präzise Ergebnisse. „Präzise Ergebnisse“ bedeutet, dass jeder geänderte Inhalt nicht nur frei von Plagiaten ist, sondern auch einfacher zu lesen und zu verstehen ist. Es erhöht die Reichweite und das Engagement Ihrer Inhalte aufgrund seiner Einzigartigkeit und Effektivität. Also, was musst du verlieren? Probieren Sie es gleich aus und haben Sie Spaß beim Umschreiben."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "Einzigartiger und plagiatfreier Inhalt",
+            "content": "Es ist ohne Zweifel der beste kostenlose und professionelle Absatzspinner, der im Internet verfügbar ist. Es leistet eine bewundernswerte Leistung und enttäuscht seine Verbraucher niemals, wenn es darum geht, Originalinhalte zu produzieren, die frei von Plagiaten und Vervielfältigungsproblemen sind! Nachdem Sie Ihren Absatz mit unserem Tool überarbeitet haben, können Sie die Originalität und Unterscheidungskraft überprüfen, indem Sie Ihr Dokument durch die Plagiatsprüfung führen."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "Kostenlos zu benutzen",
+            "content": "Gibt es etwas Aufregenderes, als einen Text-Spinner zu entdecken, der völlig kostenlos verwendet werden kann? Ist das nicht genau das, was jeder sucht? Die Funktionen unseres Tools zum Umschreiben von Absätzen können völlig kostenlos verwendet werden, sodass es keinen Grund gibt, es nicht zu verwenden."
         }
     ],
     "csscdns": [

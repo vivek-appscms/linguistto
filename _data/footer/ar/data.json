@@ -1,252 +1,219 @@
 {
-    "navbarBrandText": "",
-    "navbarBrandLogo": "/img/logo.png",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-            {
-                "categoryName": "أداة إعادة الصياغة",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة هندية",
-                        "url": "/ar/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة روسية",
-                        "url": "/ar/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة اللغة الإسبانية",
-                        "url": "/ar/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "الكتابة من الإنجليزية إلى الهندية",
-                        "url": "/ar/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "الكتابة من الإنجليزية إلى البنغالية",
-                        "url": "/ar/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة ألمانية",
-                        "url": "/ar/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة إعادة صياغة كورية",
-                        "url": "/ar/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة إعادة الصياغة الدنماركية",
-                        "url": "/ar/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة إعادة صياغة إيطالية",
-                        "url": "/ar/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة إعادة صياغة البولندية",
-                        "url": "/ar/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة إعادة صياغة سويدية",
-                        "url": "/ar/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة صياغة تايلاندية",
-                        "url": "/ar/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة الفقرة اليابانية",
-                        "url": "/ar/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة البارافيراس-العربية",
-                        "url": "/ar/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة صياغة أوكرانية",
-                        "url": "/ar/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة صياغة صينية",
-                        "url": "/ar/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة صياغة إندونيسية",
-                        "url": "/ar/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة العبارات الفيتنامية",
-                        "url": "/ar/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة العبارات الفرنسية",
-                        "url": "/ar/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة صياغة هولندية",
-                        "url": "/ar/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "أداة برتغالية",
-                        "url": "/ar/portuguese-paraphrase-tool"
-                    }
-                ]
-            },
-            {
-                "categoryName": "أدوات أخرى",
-                "links": [
-                    {
-                        "name": "صفحات الكتابة",
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "url": "/ar/all-typing-pages"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ترجمة الجملة",
-                        "url": "/ar/sentence-translation",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مدقق ميتا والعنوان",
-                        "url": "/ar/meta-and-title-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مولد صفة عشوائية",
-                        "url": "/ar/random-adjective-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مدقق فرق النص",
-                        "url": "/ar/text-difference-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة عدد الكلمات",
-                        "url": "/ar/word-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة عدد الأحرف",
-                        "url": "/ar/character-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "إعادة كتابة الفقرة",
-                        "url": "/ar/paragraph-rewriter",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "إعادة كتابة النص",
-                        "url": "/ar/text-rewriter",
-                        "hover": "blue"
-                    }
-                ]
-            },
-            {
-                "categoryName": "أدوات أخرى",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مولد اسم عشوائي",
-                        "url": "/ar/random-noun-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مولد فقرة عشوائية",
-                        "url": "/ar/random-paragraph-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مولد إلكتروني عشوائي",
-                        "url": "/ar/random-letter-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مولد جملة عشوائية",
-                        "url": "/ar/random-sentence-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "محاكاة سيروب",
-                        "url": "/ar/serp-simulator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "عدد كلمات الموقع",
-                        "url": "/ar/website-word-count",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "مولد كلمة عشوائي",
-                        "url": "/ar/random-word-generator",
-                        "hover": "blue"
-                    }
-                ]
-            }
-        ]
-    },
-    "navItems": [
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "حول",
+            "url": "/about"
+        },
+        {
+            "name": "الشروط والأحكام",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "مساعدة",
+            "url": "/help"
+        },
         {
             "name": "مدونة",
             "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "أداة إعادة الصياغة",
+            "url": "/ar/paraphrasing-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة ألمانية",
+            "url": "/ar/german-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة هندية",
+            "url": "/ar/hindi-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة روسية",
+            "url": "/ar/russian-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة اللغة الإسبانية",
+            "url": "/ar/spanish-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة كورية",
+            "url": "/ar/korean-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة الصياغة الدنماركية",
+            "url": "/ar/danish-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة إيطالية",
+            "url": "/ar/italian-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة البولندية",
+            "url": "/ar/polish-paraphrase-tool"
+        },
+        {
+            "name": "أداة إعادة صياغة سويدية",
+            "url": "/ar/swedish-paraphrase-tool"
+        },
+        {
+            "name": "أداة صياغة تايلاندية",
+            "url": "/ar/thai-paraphrase-tool"
+        },
+        {
+            "name": "أداة الفقرة اليابانية",
+            "url": "/ar/japanese-paraphrase-tool"
+        },
+        {
+            "name": "أداة البارافيراس-العربية",
+            "url": "/ar/arabic-paraphrase-tool"
+        },
+        {
+            "name": "أداة صياغة أوكرانية",
+            "url": "/ar/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "أداة صياغة صينية",
+            "url": "/ar/chinese-paraphrase-tool"
+        },
+        {
+            "name": "أداة صياغة إندونيسية",
+            "url": "/ar/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "أداة العبارات الفيتنامية",
+            "url": "/ar/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "أداة العبارات الفرنسية",
+            "url": "/ar/french-paraphrase-tool"
+        },
+        {
+            "name": "أداة صياغة هولندية",
+            "url": "/ar/dutch-paraphrase-tool"
+        },
+        {
+            "name": "أداة برتغالية",
+            "url": "/ar/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "أداة التحويل الحرفي",
+            "url": "/ar/english-to-hindi-typing "
+        },
+        {
+            "name": "صفحات الكتابة",
+            "url": "/ar/all-typing-pages"
+        },
+        {
+            "name": "الكتابة من الإنجليزية إلى البنغالية",
+            "url": "/ar/bangla-transliteration-tool"
+        },
+        {
+            "name": "أداة عدد الكلمات",
+            "url": "/ar/word-count-tool"
+        },
+        {
+            "name": "أداة عدد الأحرف",
+            "url": "/ar/character-count-tool"
+        },
+        {
+            "name": "ترجمة الجملة",
+            "url": "/ar/sentence-translation"
+        },
+        {
+            "name": "مدقق ميتا والعنوان",
+            "url": "/ar/meta-and-title-checker"
+        },
+        {
+            "name": "مولد صفة عشوائية",
+            "url": "/ar/random-adjective-generator"
+        },
+        {
+            "name": "مدقق فرق النص",
+            "url": "/ar/text-difference-checker"
+        },
+        {
+            "name": "مولد اسم عشوائي",
+            "url": "/ar/random-noun-generator"
+        },
+        {
+            "name": "مولد فقرة عشوائية",
+            "url": "/ar/random-paragraph-generator"
+        },
+        {
+            "name": "مولد إلكتروني عشوائي",
+            "url": "/ar/random-letter-generator"
+        },
+        {
+            "name": "مولد جملة عشوائية",
+            "url": "/ar/random-sentence-generator"
+        },
+        {
+            "name": "محاكاة سيروب",
+            "url": "/ar/serp-simulator"
+        },
+        {
+            "name": "عدد كلمات الموقع",
+            "url": "/ar/website-word-count"
+        },
+        {
+            "name": "مولد كلمة عشوائي",
+            "url": "/ar/random-word-generator"
+        },
+        {
+            "name": "إعادة كتابة الفقرة",
+            "url": "/ar/paragraph-rewriter"
+        },
+        {
+            "name": "إعادة كتابة النص",
+            "url": "/ar/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "الشروط والأحكام",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "سياسة الخصوصية",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "اتصل بنا",
+            "url": "/contact"
         }
     ]
 }

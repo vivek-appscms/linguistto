@@ -104,7 +104,7 @@
             "name": "Gõ trang",
             "description": "Công cụ gõ tuyệt vời",
             "color": "#a7a7cd",
-            "icon": "/assets/images/rewriting.svg",
+            "icon": "/img/typing.svg",
             "url": "/vi/all-typing-pages"
         }
     ]

@@ -1,252 +1,219 @@
 {
-    "navbarBrandText": "",
-    "navbarBrandLogo": "/img/logo.png",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-            {
-                "categoryName": "omskrivning værktøj",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Hindi Parafrase værktøj",
-                        "url": "/da/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Russisk Parafrase værktøj",
-                        "url": "/da/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Spansk Parafrase værktøj",
-                        "url": "/da/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Engelsk til hindi Typing",
-                        "url": "/da/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Engelsk to bangla Typing",
-                        "url": "/da/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tysk parafrase værktøj",
-                        "url": "/da/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Koreansk Parafrase værktøj",
-                        "url": "/da/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Dansk Parafrase værktøj",
-                        "url": "/da/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Italiensk parafrase værktøj",
-                        "url": "/da/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Polsk parafrase værktøj",
-                        "url": "/da/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Svensk Parafrase værktøj",
-                        "url": "/da/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Thai-paraphrase-værktøj",
-                        "url": "/da/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Japansk-paraphrase-værktøj",
-                        "url": "/da/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "arabisk-parafrase-værktøj",
-                        "url": "/da/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Ukranian-paraphrase-værktøj",
-                        "url": "/da/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Kinesisk-paraphrase-værktøj",
-                        "url": "/da/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Indonesisk-paraphrase-værktøj",
-                        "url": "/da/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "vietnamese-parafrase-værktøj",
-                        "url": "/da/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Fransk-paraphrase-værktøj",
-                        "url": "/da/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Hollandsk-paraphrase-værktøj",
-                        "url": "/da/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Portugisisk-paraphrase-værktøj",
-                        "url": "/da/portuguese-paraphrase-tool"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Andre værktøjer",
-                "links": [
-                    {
-                        "name": "Indtastning af sider",
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "url": "/da/all-typing-pages"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Sætning oversættelse",
-                        "url": "/da/sentence-translation",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Meta og titel checker",
-                        "url": "/da/meta-and-title-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tilfældig adjektiv generator",
-                        "url": "/da/random-adjective-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tekst forskel checker",
-                        "url": "/da/text-difference-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Værktøjet Word tæller",
-                        "url": "/da/word-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Værktøjet Tæller",
-                        "url": "/da/character-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Afsnit brænder",
-                        "url": "/da/paragraph-rewriter",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tekst brænder",
-                        "url": "/da/text-rewriter",
-                        "hover": "blue"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Andre værktøjer",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tilfældig navneord generator",
-                        "url": "/da/random-noun-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tilfældig afsnit generator",
-                        "url": "/da/random-paragraph-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tilfældig bogstav generator",
-                        "url": "/da/random-letter-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tilfældig sætning generator",
-                        "url": "/da/random-sentence-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Serp simulator",
-                        "url": "/da/serp-simulator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Hjemmeside ord tæller",
-                        "url": "/da/website-word-count",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tilfældig ordgenerator",
-                        "url": "/da/random-word-generator",
-                        "hover": "blue"
-                    }
-                ]
-            }
-        ]
-    },
-    "navItems": [
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "Om",
+            "url": "/about"
+        },
+        {
+            "name": "Vilkår og betingelser",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Hjælp",
+            "url": "/help"
+        },
         {
             "name": "Blog",
             "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Omskrivning værktøj",
+            "url": "/da/paraphrasing-tool"
+        },
+        {
+            "name": "Tysk parafrase værktøj",
+            "url": "/da/german-paraphrase-tool"
+        },
+        {
+            "name": "Hindi Parafrase værktøj",
+            "url": "/da/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Russisk Parafrase værktøj",
+            "url": "/da/russian-paraphrase-tool"
+        },
+        {
+            "name": "Spansk Parafrase værktøj",
+            "url": "/da/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Koreansk Parafrase værktøj",
+            "url": "/da/korean-paraphrase-tool"
+        },
+        {
+            "name": "Dansk Parafrase værktøj",
+            "url": "/da/danish-paraphrase-tool"
+        },
+        {
+            "name": "Italiensk parafrase værktøj",
+            "url": "/da/italian-paraphrase-tool"
+        },
+        {
+            "name": "Polsk parafrase værktøj",
+            "url": "/da/polish-paraphrase-tool"
+        },
+        {
+            "name": "Svensk Parafrase værktøj",
+            "url": "/da/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Thai-paraphrase-værktøj",
+            "url": "/da/thai-paraphrase-tool"
+        },
+        {
+            "name": "Japansk-paraphrase-værktøj",
+            "url": "/da/japanese-paraphrase-tool"
+        },
+        {
+            "name": "arabisk-parafrase-værktøj",
+            "url": "/da/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Ukranian-paraphrase-værktøj",
+            "url": "/da/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Kinesisk-paraphrase-værktøj",
+            "url": "/da/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Indonesisk-paraphrase-værktøj",
+            "url": "/da/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "vietnamese-parafrase-værktøj",
+            "url": "/da/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "Fransk-paraphrase-værktøj",
+            "url": "/da/french-paraphrase-tool"
+        },
+        {
+            "name": "Hollandsk-paraphrase-værktøj",
+            "url": "/da/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Portugisisk-paraphrase-værktøj",
+            "url": "/da/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Værktøjet Transliteration",
+            "url": "/da/english-to-hindi-typing "
+        },
+        {
+            "name": "Indtastning af sider",
+            "url": "/da/all-typing-pages"
+        },
+        {
+            "name": "Engelsk to bangla Typing",
+            "url": "/da/bangla-transliteration-tool"
+        },
+        {
+            "name": "Værktøjet Word tæller",
+            "url": "/da/word-count-tool"
+        },
+        {
+            "name": "Værktøjet Tæller",
+            "url": "/da/character-count-tool"
+        },
+        {
+            "name": "Sætning oversættelse",
+            "url": "/da/sentence-translation"
+        },
+        {
+            "name": "Meta og titel checker",
+            "url": "/da/meta-and-title-checker"
+        },
+        {
+            "name": "Tilfældig adjektiv generator",
+            "url": "/da/random-adjective-generator"
+        },
+        {
+            "name": "Tekst forskel checker",
+            "url": "/da/text-difference-checker"
+        },
+        {
+            "name": "Tilfældig navneord generator",
+            "url": "/da/random-noun-generator"
+        },
+        {
+            "name": "Tilfældig afsnit generator",
+            "url": "/da/random-paragraph-generator"
+        },
+        {
+            "name": "Tilfældig bogstav generator",
+            "url": "/da/random-letter-generator"
+        },
+        {
+            "name": "Tilfældig sætning generator",
+            "url": "/da/random-sentence-generator"
+        },
+        {
+            "name": "Serp simulator",
+            "url": "/da/serp-simulator"
+        },
+        {
+            "name": "Hjemmeside ord tæller",
+            "url": "/da/website-word-count"
+        },
+        {
+            "name": "Tilfældig ordgenerator",
+            "url": "/da/random-word-generator"
+        },
+        {
+            "name": "Afsnit brænder",
+            "url": "/da/paragraph-rewriter"
+        },
+        {
+            "name": "Tekst brænder",
+            "url": "/da/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Vilkår og betingelser",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Privatlivspolitik",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Kontakt os",
+            "url": "/contact"
         }
     ]
 }

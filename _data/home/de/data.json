@@ -104,7 +104,7 @@
             "name": "Seiten tippen",
             "description": "Ausgezeichnetes Schreibwerkzeug",
             "color": "#a7a7cd",
-            "icon": "/assets/images/rewriting.svg",
+            "icon": "/img/typing.svg",
             "url": "/de/all-typing-pages"
         }
     ]

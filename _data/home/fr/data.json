@@ -104,7 +104,7 @@
             "name": "Pages de saisie",
             "description": "Excellent outil de frappe",
             "color": "#a7a7cd",
-            "icon": "/assets/images/rewriting.svg",
+            "icon": "/img/typing.svg",
             "url": "/fr/all-typing-pages"
         }
     ]

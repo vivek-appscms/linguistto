@@ -1,58 +1,109 @@
 {
-    "Language" : "English",
-    "htmlLangAtt": "en",
-    "h1": "English to Gujarati Typing",
-    "h2": "",
-    "TITLE": "English to Gujarati typing online - Easiest way for Gujarati Typing - Contenttool - Smartest tools for content professionals",
-    "META": "ગુજરાતીમાં ટાઇપ કરો - Use official contenttool's english to gujarati typing software to type in gujarati online",
-    "imgwidth": "40px",
-    "imgheight": "40px",
-    "imgalt": "altvalue",
-    "TEXTUAL_CONTENT": [
-      {
-        "priority": 1,
-        "logoUrl": "/assets/bulb.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/guaranty.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/support.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/protect.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/easy.svg",
-        "header": "",
-        "content": ""
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/assets/cloud.svg",
-        "header": "",
-        "content": ""
-      }
-    ],
-    "FAQ": [
-      {
-        "question": "",
-        "answer": ""
-      }
-    ],
-    "csscdns":[
-      "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ]
+  "Language" : "English",
+  "htmlLangAtt": "en",
+  "h1": "Excellent tool for quickly transliterating text to Gujarati",
+  "h2": "For typing Gujarati letter words, enter the letters you want to type into the provided box field.",
+  "TITLE": "Transliterate text to Gujarati - The best tool for easily transliterating English text to Gujarati",
+  "META": "Transliterate your text to Gujarati language instantly. This free English to Gujarati transliteration online tool allows you to copy the transliterate text without any sign-in requirement.",   
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "keywords":"English to Gujarati transliteration online",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "Completely secure",
+      "content": "When you use the English to Gujarati transliteration online tool, the databases that contain the data that you enter do not store or send your information to any other source. Another advantage of using this application is that your data is kept private and that the quality of your work is not compromised. When your article is transliterated, the tool secures it and removes it from the system. This enables us to offer complete protection to all of our customers, making our English to Gujarati transliteration online tool completely dependable and risk-free to use in any situation, at any time of day or night."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Simple to use",
+      "content": "This English to Gujarati transliteration online tool is very easy to use. For starters, the UI is clear and straightforward. There is no need to question where to start because everything is in one location. Additionally, our English to Gujarati transliteration online tool is ad-free, resulting in a better user experience."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "There are no compatibility problems.",
+      "content": "This free English to Gujarati transliteration online tool works with all operating systems and browsers. The English to Gujarati transliteration online tool on this website is a web-based service that can be accessed from any computer or mobile device with an internet connection. Chrome, Safari, Firefox, Microsoft Edge, and a number of other popular browsers are supported. As a result, you can perform the conversion using the English to Gujarati transliteration online tool on a desktop computer, an iPad, a tablet, or a mobile phone, depending on your preference. You will not be required to purchase or install any additional software or plugins on your computer if you use our web service to paraphrase your articles."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "There is no need for any additional downloads",
+      "content": "We do not ask you to download or install any software on your computer or mobile device in order to make use of our English to Gujarati transliteration online service. Our English to Gujarati transliteration online tool is completely browser-based, and you can access our website at any time by simply putting our website's URL into your browser and utilizing the tool as needed."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "You do not need any login ever",
+      "content": "Our English to Gujarati transliteration online tool is completely free and does not require you to provide us with any personal information, such as your email address or password. Our service is completely free. Because our English to Gujarati transliteration online tool is saved locally in your web browser, there is no need to download software or sign up for a service."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "It is entirely free",
+      "content": "You are free to use our English to Gujarati transliteration online tool at any time. Our English to Gujarati transliteration service is completely free to use. You do not need to register or log in to use our service. If you work hard enough, you can transliterate an infinite number of articles in a single day. There are no limitations to what you can do. You are free to re-upload your content as many times as you want. Several paragraphs can be transliterated in a single session. Simply transliterate the paragraph to determine how long it takes to complete."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+      "logoImageUrl": "/img/typing.png",
+      "heading": "To use this English to Gujarati transliteration online tool, follow these steps:",
+      "steps": [
+        "Open our English to Gujarati transliteration online tool",
+        "Using an English keyboard, type your Gujarati words and press the space bar; your English typed words will be converted to Gujarati.",
+        "Click the 'transliterate' button.",
+        "To copy the text, click the 'Copy' button and paste it where you want it."
+      ]
+    },
+  "FAQ": [
+    {
+      "question": "What does transliteration mean?",
+      "answer": "The term 'transliteration' refers to the process of transforming text written in one script to another script. Using this English to Gujarati transliteration online tool, you can enter in Latin letters (e.g. a, b, c, and so on) that are translated to characters that have a comparable pronunciation in the target language. Transliteration, for example, can be used to convert a phrase written in the Greek script into a phrase written in the Latin alphabet. Keep in mind that the phrase will not be translated, but will instead be changed to the Latin script. It is important to note that 'transliteration' is not the same as 'translation' in that the conversion is dependent on the pronunciation rather than the meaning."
+    },
+    {
+      "question": "How safe is my data privacy?",
+      "answer": "We only store the information you provide on your browser. Because of this, your information is entirely secure and confidential to you. We never store or handle any of your information on our servers. Access to your hard drive is completely secure, and we will not misuse your information. We will not make any changes to your website, and you will retain ownership of all of the files on your computer.. To transliterate the text from English to Gujarati simply utilize the English to Gujarati transliteration online tool to do it. It has no influence on the sharpness of the original data, on the other hand. It is absolutely free to use and can be accessed from any computer or mobile device with an internet connection."
+    },
+    {
+      "question": "What is the technology behind English to Gujarati typing?",
+      "answer": "The English to Gujarati transliteration online tool is a machine transliteration software as a service that allows you to enter in Gujarati Additionally, Gujarati transcription is used to refer to this technique. When you type Roman English letters into the box, you will receive Gujarati letters. For example, if you input something in Roman/Latin like 'angregi thi gujarati typing' you will receive the Devanagari equivalent of 'ઇંગલિશ તો ગુજરાતી ટાયપિંગ'."
+    },
+    {
+      "question": "How much does an English to Gujarati typing online tool cost?",
+      "answer": "The usage of our English to Gujarati transliteration online tool is completely free of charge, and we will not charge you any fees in exchange for your use of the service. The online English to Gujarati transliteration tool can be accessed by anybody, and there is no requirement to register for an account. If you use the English to Gujarati transliteration online tool, there is no restriction on the number of times your text can be transliterated."
+    },
+    {
+      "question": "Is the English to Gujarati transliteration online tool reliable to use?",
+      "answer": "Yes, without a doubt, you can use our English to Gujarati transliteration online tool to convert your language. We are powered by the Google Transliteration tool, which ensures that your transliterated content is as reliable and accurate as possible. The databases that store the information you enter do not retain or transmit any of your personal information to any third party. Another advantage of using this program is that your information is kept private and that the quality of your work is unaffected. When your text has been transliterated, the tool automatically secures it and removes it from the database. As a result, all of our customers are completely protected, making our English to Gujarati transliteration online tool completely dependable and risk-free to use in any situation, at any time of day or night, on any device."
+    },
+    {
+      "question": "Why you should use this English to Gujarati transliteration online tool?",
+      "answer": "In many cases, English speakers have difficulty deciphering characters from different alphabets. Translation prioritizes pronunciation over meaning, which is especially useful when addressing foreign people, places, and cultures because it allows for more accurate pronunciation. As a result, if you need to read the material in another language but are more concerned with how it is pronounced than with how it is understood, transliteration is required. However, if you want to understand what it means, you'll need translation services. For example, a person may not recognize the word 'party' written in 'પાર્ટી', but they may recognize it when written in English letters, 'party' <br>Because many smartphones and cell phones do not support certain alphabets, sending a text message in a foreign format may result in a poor user experience. This English to Gujarati transliteration online tool converts full sentences into Gujarati format in seconds, making it simple to communicate with customers in a clear and understandable manner."
+    },
+    {
+      "question": "What exactly does this English to Gujarati transliteration web tool do?",
+      "answer": "The English to Gujarati transliteration online tool transforms text from one script to another. This tool, for example, may translate English text Bhaarat into Devanagari text भारत. It is important to note that this program does not translate any content, so it will not be able to convert भारत into India."
+    },
+    {
+      "question": "With an example, explain what unicode is?",
+      "answer": "A Unicode that defines every character in the majority of the world's spoken languages. Text typed in Unicode can be read on all computers without the need to install any additional software. Unicode characters can use only one byte, or up to four bytes, despite the fact that it is commonly thought to be a two-byte coding system. A code point is a one-of-a-kind number for a character or symbol, such as an accent mark or ligature. Unicode supports over a million code points, which are represented by a 'U' followed by a plus sign and the number in hex; for example, the word 'Hello' is represented by U+0048 U+0065 U+006C U+006C U+006F. As a result, it is always recommended to type Gujarati in Unicode. The English to Gujarati transliteration online tool generates Unicode text. So you copy the Gujarati text from the above box and paste it anywhere on your computers, such as Gmail, Facebook, Twitter, or an MS-Word document."
+    },
+    {
+      "question": "Is it possible to download this online English to Gujarati transliteration tool?",
+      "answer": "Because the English to Gujarati transliteration online tool is now only available online, you can only obtain the translation of this text and use it elsewhere. However, by visiting the google translate chrome extension website, you can download and install the google translate chrome extension application for free.<br>Typing Gujarati is an important language skill, and you can learn to type Gujarati quickly and easily by following the instructions below. Simply type in English and press the space bar on your keyboard. It will immediately change to the letter Gujarati. The English to Gujarati transliteration online tool is a free and time-saving solution for typing in Gujarati without having to master any Gujarati keyboarding skills."
+    },
+    {
+      "question": "How to type in Gujarati by using this English to Gujarati transliteration online tool?",
+      "answer": "Digital alphabets written in unicode characters can be transliterated automatically with the help of specialized software. You may translate English scripts into Gujarati with the aid of our English to Gujarati transliteration online converter. Here’s how: Enter text using your English keyboard and then press the space bar to save your progress. You will receive a Gujarati for the English word you inputted. Nothing more to say than that. Make a copy of the Gujarati text in the box and paste it wherever you like."
+    },
+    {
+      "question": "What is the difference between transcription and transliteration?",
+      "answer": "When characters from one language are translated into characters from another, they are pronounced in the target language. This is called transcription. As a result, different rules can be used for the same source language depending on the target language (e.g., German or English). The transcription has the advantage of allowing everyone who speaks the target language to correctly read the converted words of the source language. One disadvantage is that transcription is not always easily inverted. For example, the Text Converter supports Cyrillic transcription rules for English and German.<br>On the other hand, when using transliteration, each character of the source language is assigned to a different unique character of the target language, allowing for an exact inversion to be achieved. It is possible to use a combination of characters (for example, KA for Hiragana) and diacritic (for example, for Cyrillic) when the source language contains more characters than the target language. Despite the fact that the pronunciation is not as important in transliteration as it is in transcription, it is often possible to recognize the pronunciation by the character that was used. Some ISO transliterations are supported by the Text Converter, including Cyrillic-Latin (ISO 9), Arabic-Latin (ISO 233), Hebrew-Latin (ISO 259), Greek-Latin (ISO 843), Japanese-Latin (ISO 3602), Georgic-Latin (ISO 9984), and Thai-Latin (ISO 11940).<br>As a result, the distinction between transcription and transliteration is that transcription reflects the phonetic articulation of words, whereas transliteration does not. Transliteration, on the other hand, is used when a word is transferred from one writing system to another. In the transcription, the Arabic word كتب for books is 'kataba' and in the transliteration, it is 'ktb'."
   }
+  ],
+  "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ]
+}

@@ -1,252 +1,219 @@
 {
-    "navbarBrandText": "",
-    "navbarBrandLogo": "/img/logo.png",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-            {
-                "categoryName": "Paraphrasing aracı",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Hintçe Paraphrase aracı",
-                        "url": "/tr/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rusça Paraphrase aracı",
-                        "url": "/tr/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "İspanyolca Parafrase aracı",
-                        "url": "/tr/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Turkish to hindi Typing",
-                        "url": "/tr/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Turkish to bangla Typing",
-                        "url": "/tr/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Almanca Paraphrase aracı",
-                        "url": "/tr/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Korece Parafrase aracı",
-                        "url": "/tr/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Danca Parafrase aracı",
-                        "url": "/tr/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "İtalyanca Parafrase aracı",
-                        "url": "/tr/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Lehçe Parafrase aracı",
-                        "url": "/tr/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "İsveççe Parafrase aracı",
-                        "url": "/tr/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Tay Parafrası-aracı",
-                        "url": "/tr/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Japonca-parafras-aracı",
-                        "url": "/tr/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Arapça parafras-aracı",
-                        "url": "/tr/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Kategori: Ukranca Parafras-Aracı",
-                        "url": "/tr/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Çince-parafras-aracı",
-                        "url": "/tr/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Endonezya-parafras-aracı",
-                        "url": "/tr/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "vietnamese-parafras-aracı",
-                        "url": "/tr/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Fransızca-parafras-aracı",
-                        "url": "/tr/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Hollanda-Parafras-aracı",
-                        "url": "/tr/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Portekizce-parametre aracı",
-                        "url": "/tr/portuguese-paraphrase-tool"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Diğer Araçlar",
-                "links": [
-                    {
-                        "name": "Yazma sayfaları",
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "url": "/tr/all-typing-pages"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Cümle çeviri",
-                        "url": "/tr/sentence-translation",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Meta ve başlık denetleyicisi",
-                        "url": "/tr/meta-and-title-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rastgele sıfat jeneratörü",
-                        "url": "/tr/random-adjective-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Metin farkı denetleyicisi",
-                        "url": "/tr/text-difference-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Kelime sayımı aracı",
-                        "url": "/tr/word-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Karakter sayımı aracı",
-                        "url": "/tr/character-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Paragraf Yeniden Yazıcısı",
-                        "url": "/tr/paragraph-rewriter",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Metin Yeniden Yazıcı",
-                        "url": "/tr/text-rewriter",
-                        "hover": "blue"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Diğer Araçlar",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rastgele isim jeneratörü",
-                        "url": "/tr/random-noun-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rastgele paragraf üreteci",
-                        "url": "/tr/random-paragraph-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rastgele harf üreteci",
-                        "url": "/tr/random-letter-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rastgele cümle üreteci",
-                        "url": "/tr/random-sentence-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Serp simülatörü",
-                        "url": "/tr/serp-simulator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Web sitesi sözcük sayısı",
-                        "url": "/tr/website-word-count",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rastgele kelime üreteci",
-                        "url": "/tr/random-word-generator",
-                        "hover": "blue"
-                    }
-                ]
-            }
-        ]
-    },
-    "navItems": [
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "Hakkında",
+            "url": "/about"
+        },
+        {
+            "name": "Şartlar ve koşullar",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Yardım",
+            "url": "/help"
+        },
         {
             "name": "Blog",
             "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Paraphrasing aracı",
+            "url": "/tr/paraphrasing-tool"
+        },
+        {
+            "name": "Almanca Paraphrase aracı",
+            "url": "/tr/german-paraphrase-tool"
+        },
+        {
+            "name": "Hintçe Paraphrase aracı",
+            "url": "/tr/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Rusça Paraphrase aracı",
+            "url": "/tr/russian-paraphrase-tool"
+        },
+        {
+            "name": "İspanyolca Parafrase aracı",
+            "url": "/tr/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Korece Parafrase aracı",
+            "url": "/tr/korean-paraphrase-tool"
+        },
+        {
+            "name": "Danca Parafrase aracı",
+            "url": "/tr/danish-paraphrase-tool"
+        },
+        {
+            "name": "İtalyanca Parafrase aracı",
+            "url": "/tr/italian-paraphrase-tool"
+        },
+        {
+            "name": "Lehçe Parafrase aracı",
+            "url": "/tr/polish-paraphrase-tool"
+        },
+        {
+            "name": "İsveççe Parafrase aracı",
+            "url": "/tr/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Tay Parafrası-aracı",
+            "url": "/tr/thai-paraphrase-tool"
+        },
+        {
+            "name": "Japonca-parafras-aracı",
+            "url": "/tr/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Arapça parafras-aracı",
+            "url": "/tr/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Kategori: Ukranca Parafras-Aracı",
+            "url": "/tr/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Çince-parafras-aracı",
+            "url": "/tr/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Endonezya-parafras-aracı",
+            "url": "/tr/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "vietnamese-parafras-aracı",
+            "url": "/tr/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "Fransızca-parafras-aracı",
+            "url": "/tr/french-paraphrase-tool"
+        },
+        {
+            "name": "Hollanda-Parafras-aracı",
+            "url": "/tr/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Portekizce-parametre aracı",
+            "url": "/tr/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Çevriyazım aracı",
+            "url": "/tr/english-to-hindi-typing "
+        },
+        {
+            "name": "Yazma sayfaları",
+            "url": "/tr/all-typing-pages"
+        },
+        {
+            "name": "Turkish to bangla Typing",
+            "url": "/tr/bangla-transliteration-tool"
+        },
+        {
+            "name": "Kelime sayımı aracı",
+            "url": "/tr/word-count-tool"
+        },
+        {
+            "name": "Karakter sayımı aracı",
+            "url": "/tr/character-count-tool"
+        },
+        {
+            "name": "Cümle çeviri",
+            "url": "/tr/sentence-translation"
+        },
+        {
+            "name": "Meta ve başlık denetleyicisi",
+            "url": "/tr/meta-and-title-checker"
+        },
+        {
+            "name": "Rastgele sıfat jeneratörü",
+            "url": "/tr/random-adjective-generator"
+        },
+        {
+            "name": "Metin farkı denetleyicisi",
+            "url": "/tr/text-difference-checker"
+        },
+        {
+            "name": "Rastgele isim jeneratörü",
+            "url": "/tr/random-noun-generator"
+        },
+        {
+            "name": "Rastgele paragraf üreteci",
+            "url": "/tr/random-paragraph-generator"
+        },
+        {
+            "name": "Rastgele harf üreteci",
+            "url": "/tr/random-letter-generator"
+        },
+        {
+            "name": "Rastgele cümle üreteci",
+            "url": "/tr/random-sentence-generator"
+        },
+        {
+            "name": "Serp simülatörü",
+            "url": "/tr/serp-simulator"
+        },
+        {
+            "name": "Web sitesi sözcük sayısı",
+            "url": "/tr/website-word-count"
+        },
+        {
+            "name": "Rastgele kelime üreteci",
+            "url": "/tr/random-word-generator"
+        },
+        {
+            "name": "Paragraf Yeniden Yazıcısı",
+            "url": "/tr/paragraph-rewriter"
+        },
+        {
+            "name": "Metin Yeniden Yazıcı",
+            "url": "/tr/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Şartlar ve koşullar",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Gizlilik Politikası",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Bize Ulaşın",
+            "url": "/contact"
         }
     ]
 }
