@@ -1,252 +1,219 @@
 {
-    "navbarBrandText": "",
-    "navbarBrandLogo": "/img/logo.png",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-            {
-                "categoryName": "alat parafrase",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat parafrase Hindi",
-                        "url": "/id/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat Parafrasis Rusia",
-                        "url": "/id/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat parafrasis Spanyol",
-                        "url": "/id/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Bahasa Inggris ke Hindi Mengetik",
-                        "url": "/id/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Bahasa Inggris ke Bangla Mengetik",
-                        "url": "/id/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat Parafrase Jerman",
-                        "url": "/id/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Alat Parafrasis Korea",
-                        "url": "/id/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Alat Parafrasis Denmark",
-                        "url": "/id/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Alat Parafrase Italia",
-                        "url": "/id/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Alat parafrase Polandia",
-                        "url": "/id/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Alat Parafrasis Swedia",
-                        "url": "/id/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Thai-paraphrase-alat",
-                        "url": "/id/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Jepang-paraphrase-alat",
-                        "url": "/id/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "alat parafrasa-arabik",
-                        "url": "/id/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Ukrania-paraphrase-alat",
-                        "url": "/id/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Cina-paraphrase-alat",
-                        "url": "/id/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Indonesia-paraphrase-alat",
-                        "url": "/id/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Vietname-paraphrase-alat",
-                        "url": "/id/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Perancis-paraphrase-alat",
-                        "url": "/id/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Belanda-paraphrase-alat",
-                        "url": "/id/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Portugis-paraphrase-alat",
-                        "url": "/id/portuguese-paraphrase-tool"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Alat Lainnya",
-                "links": [
-                    {
-                        "name": "Mengetik halaman",
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "url": "/id/all-typing-pages"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Terjemahan kalimat",
-                        "url": "/id/sentence-translation",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Pemeriksa meta dan judul",
-                        "url": "/id/meta-and-title-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Generator kata sifat acak",
-                        "url": "/id/random-adjective-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Pemeriksa perbedaan teks",
-                        "url": "/id/text-difference-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat hitung kata",
-                        "url": "/id/word-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat hitung karakter",
-                        "url": "/id/character-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Penulis Ulang Paragraf",
-                        "url": "/id/paragraph-rewriter",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rewriter Teks",
-                        "url": "/id/text-rewriter",
-                        "hover": "blue"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Alat Lainnya",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Generator kata benda acak",
-                        "url": "/id/random-noun-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Generator paragraf acak",
-                        "url": "/id/random-paragraph-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Generator huruf acak",
-                        "url": "/id/random-letter-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Generator kalimat acak",
-                        "url": "/id/random-sentence-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Serp simulator",
-                        "url": "/id/serp-simulator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Jumlah kata situs web",
-                        "url": "/id/website-word-count",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Generator kata acak",
-                        "url": "/id/random-word-generator",
-                        "hover": "blue"
-                    }
-                ]
-            }
-        ]
-    },
-    "navItems": [
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "Tentang",
+            "url": "/about"
+        },
+        {
+            "name": "Syarat dan ketentuan",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Bantuan",
+            "url": "/help"
+        },
         {
             "name": "Blog",
             "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Alat parafrase",
+            "url": "/id/paraphrasing-tool"
+        },
+        {
+            "name": "Alat Parafrase Jerman",
+            "url": "/id/german-paraphrase-tool"
+        },
+        {
+            "name": "Alat parafrase Hindi",
+            "url": "/id/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Alat Parafrasis Rusia",
+            "url": "/id/russian-paraphrase-tool"
+        },
+        {
+            "name": "Alat parafrasis Spanyol",
+            "url": "/id/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Alat Parafrasis Korea",
+            "url": "/id/korean-paraphrase-tool"
+        },
+        {
+            "name": "Alat Parafrasis Denmark",
+            "url": "/id/danish-paraphrase-tool"
+        },
+        {
+            "name": "Alat Parafrase Italia",
+            "url": "/id/italian-paraphrase-tool"
+        },
+        {
+            "name": "Alat parafrase Polandia",
+            "url": "/id/polish-paraphrase-tool"
+        },
+        {
+            "name": "Alat Parafrasis Swedia",
+            "url": "/id/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Thai-paraphrase-alat",
+            "url": "/id/thai-paraphrase-tool"
+        },
+        {
+            "name": "Jepang-paraphrase-alat",
+            "url": "/id/japanese-paraphrase-tool"
+        },
+        {
+            "name": "alat parafrasa-arabik",
+            "url": "/id/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Ukrania-paraphrase-alat",
+            "url": "/id/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Cina-paraphrase-alat",
+            "url": "/id/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Indonesia-paraphrase-alat",
+            "url": "/id/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "Vietname-paraphrase-alat",
+            "url": "/id/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "Perancis-paraphrase-alat",
+            "url": "/id/french-paraphrase-tool"
+        },
+        {
+            "name": "Belanda-paraphrase-alat",
+            "url": "/id/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Portugis-paraphrase-alat",
+            "url": "/id/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Alat transliterasi",
+            "url": "/id/english-to-hindi-typing "
+        },
+        {
+            "name": "Mengetik halaman",
+            "url": "/id/all-typing-pages"
+        },
+        {
+            "name": "Bahasa Inggris ke Bangla Mengetik",
+            "url": "/id/bangla-transliteration-tool"
+        },
+        {
+            "name": "Alat hitung kata",
+            "url": "/id/word-count-tool"
+        },
+        {
+            "name": "Alat hitung karakter",
+            "url": "/id/character-count-tool"
+        },
+        {
+            "name": "Terjemahan kalimat",
+            "url": "/id/sentence-translation"
+        },
+        {
+            "name": "Pemeriksa meta dan judul",
+            "url": "/id/meta-and-title-checker"
+        },
+        {
+            "name": "Generator kata sifat acak",
+            "url": "/id/random-adjective-generator"
+        },
+        {
+            "name": "Pemeriksa perbedaan teks",
+            "url": "/id/text-difference-checker"
+        },
+        {
+            "name": "Generator kata benda acak",
+            "url": "/id/random-noun-generator"
+        },
+        {
+            "name": "Generator paragraf acak",
+            "url": "/id/random-paragraph-generator"
+        },
+        {
+            "name": "Generator huruf acak",
+            "url": "/id/random-letter-generator"
+        },
+        {
+            "name": "Generator kalimat acak",
+            "url": "/id/random-sentence-generator"
+        },
+        {
+            "name": "Serp simulator",
+            "url": "/id/serp-simulator"
+        },
+        {
+            "name": "Jumlah kata situs web",
+            "url": "/id/website-word-count"
+        },
+        {
+            "name": "Generator kata acak",
+            "url": "/id/random-word-generator"
+        },
+        {
+            "name": "Penulis Ulang Paragraf",
+            "url": "/id/paragraph-rewriter"
+        },
+        {
+            "name": "Rewriter Teks",
+            "url": "/id/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Syarat dan ketentuan",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Kebijakan Privasi",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Hubungi Kami",
+            "url": "/contact"
         }
     ]
 }

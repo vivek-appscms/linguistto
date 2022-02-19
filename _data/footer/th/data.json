@@ -1,252 +1,219 @@
 {
-    "navbarBrandText": "",
-    "navbarBrandLogo": "/img/logo.png",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-            {
-                "categoryName": "เครื่องมือถอดความถวม",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความหมายภาษาฮินดี",
-                        "url": "/th/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความภาษารัสเซีย",
-                        "url": "/th/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความภาษาสเปน",
-                        "url": "/th/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ภาษาอังกฤษเป็นภาษาฮินดี พิมพ์",
-                        "url": "/th/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ภาษาอังกฤษไปบางลา พิมพ์ดีด",
-                        "url": "/th/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความภาษาเยอรมัน",
-                        "url": "/th/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมือถอดความภาษาเกาหลี",
-                        "url": "/th/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมือถอดความภาษาเดนมาร์ก",
-                        "url": "/th/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมือแปลความหมายภาษาอิตาลี",
-                        "url": "/th/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมือถอดความภาษาโปแลนด์",
-                        "url": "/th/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมือถอดความภาษาสวีเดน",
-                        "url": "/th/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ไทย-อุปกรณ์ถอดถวร",
-                        "url": "/th/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมือแปลภาษาญี่ปุ่น",
-                        "url": "/th/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ภาษาอาหรับ - เครื่องมือถอดถวร",
-                        "url": "/th/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมืออุคราเนีย-พาราวลี",
-                        "url": "/th/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เครื่องมือถอดวลีภาษาจีน",
-                        "url": "/th/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "อินโดนีเซีย-พาราวล-เครื่องมือ",
-                        "url": "/th/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "เวียดนาม-การถอดถ้อยคำ-เครื่องมือ",
-                        "url": "/th/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ภาษาฝรั่งเศส-ถอดวลี-เครื่องมือ",
-                        "url": "/th/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ดัตช์ถอดวลีเครื่องมือ",
-                        "url": "/th/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "โปรตุเกส-คำแปล-เครื่องมือ",
-                        "url": "/th/portuguese-paraphrase-tool"
-                    }
-                ]
-            },
-            {
-                "categoryName": "เครื่องมืออื่นๆ",
-                "links": [
-                    {
-                        "name": "การพิมพ์หน้า",
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "url": "/th/all-typing-pages"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "การแปลประโยค",
-                        "url": "/th/sentence-translation",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Meta และตัวตรวจสอบชื่อ",
-                        "url": "/th/meta-and-title-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องกำเนิดไฟฟ้าคำคุณศัพท์แบบสุ่ม",
-                        "url": "/th/random-adjective-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ตัวตรวจสอบความแตกต่างของข้อความ",
-                        "url": "/th/text-difference-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือนับคำ",
-                        "url": "/th/word-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือนับอักขระ",
-                        "url": "/th/character-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ย่อหน้า Rewriter",
-                        "url": "/th/paragraph-rewriter",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เขียนข้อความใหม่",
-                        "url": "/th/text-rewriter",
-                        "hover": "blue"
-                    }
-                ]
-            },
-            {
-                "categoryName": "เครื่องมืออื่นๆ",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องกำเนิดคำนามแบบสุ่ม",
-                        "url": "/th/random-noun-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
-                        "url": "/th/random-paragraph-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
-                        "url": "/th/random-letter-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องกำเนิดประโยคแบบสุ่ม",
-                        "url": "/th/random-sentence-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "จำลอง Serp",
-                        "url": "/th/serp-simulator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "จำนวนคำในเว็บไซต์",
-                        "url": "/th/website-word-count",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องกำเนิดคำแบบสุ่ม",
-                        "url": "/th/random-word-generator",
-                        "hover": "blue"
-                    }
-                ]
-            }
-        ]
-    },
-    "navItems": [
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "เกี่ยวกับ",
+            "url": "/about"
+        },
+        {
+            "name": "ข้อกำหนดและเงื่อนไข",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ความช่วยเหลือ",
+            "url": "/help"
+        },
         {
             "name": "บล็อก",
             "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "เครื่องมือถอดความถวม",
+            "url": "/th/paraphrasing-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความภาษาเยอรมัน",
+            "url": "/th/german-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความหมายภาษาฮินดี",
+            "url": "/th/hindi-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความภาษารัสเซีย",
+            "url": "/th/russian-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความภาษาสเปน",
+            "url": "/th/spanish-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความภาษาเกาหลี",
+            "url": "/th/korean-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความภาษาเดนมาร์ก",
+            "url": "/th/danish-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือแปลความหมายภาษาอิตาลี",
+            "url": "/th/italian-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความภาษาโปแลนด์",
+            "url": "/th/polish-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดความภาษาสวีเดน",
+            "url": "/th/swedish-paraphrase-tool"
+        },
+        {
+            "name": "ไทย-อุปกรณ์ถอดถวร",
+            "url": "/th/thai-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือแปลภาษาญี่ปุ่น",
+            "url": "/th/japanese-paraphrase-tool"
+        },
+        {
+            "name": "ภาษาอาหรับ - เครื่องมือถอดถวร",
+            "url": "/th/arabic-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมืออุคราเนีย-พาราวลี",
+            "url": "/th/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือถอดวลีภาษาจีน",
+            "url": "/th/chinese-paraphrase-tool"
+        },
+        {
+            "name": "อินโดนีเซีย-พาราวล-เครื่องมือ",
+            "url": "/th/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "เวียดนาม-การถอดถ้อยคำ-เครื่องมือ",
+            "url": "/th/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "ภาษาฝรั่งเศส-ถอดวลี-เครื่องมือ",
+            "url": "/th/french-paraphrase-tool"
+        },
+        {
+            "name": "ดัตช์ถอดวลีเครื่องมือ",
+            "url": "/th/dutch-paraphrase-tool"
+        },
+        {
+            "name": "โปรตุเกส-คำแปล-เครื่องมือ",
+            "url": "/th/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "เครื่องมือทับศัพท์",
+            "url": "/th/english-to-hindi-typing "
+        },
+        {
+            "name": "การพิมพ์หน้า",
+            "url": "/th/all-typing-pages"
+        },
+        {
+            "name": "ภาษาอังกฤษไปบางลา พิมพ์ดีด",
+            "url": "/th/bangla-transliteration-tool"
+        },
+        {
+            "name": "เครื่องมือนับคำ",
+            "url": "/th/word-count-tool"
+        },
+        {
+            "name": "เครื่องมือนับอักขระ",
+            "url": "/th/character-count-tool"
+        },
+        {
+            "name": "การแปลประโยค",
+            "url": "/th/sentence-translation"
+        },
+        {
+            "name": "Meta และตัวตรวจสอบชื่อ",
+            "url": "/th/meta-and-title-checker"
+        },
+        {
+            "name": "เครื่องกำเนิดไฟฟ้าคำคุณศัพท์แบบสุ่ม",
+            "url": "/th/random-adjective-generator"
+        },
+        {
+            "name": "ตัวตรวจสอบความแตกต่างของข้อความ",
+            "url": "/th/text-difference-checker"
+        },
+        {
+            "name": "เครื่องกำเนิดคำนามแบบสุ่ม",
+            "url": "/th/random-noun-generator"
+        },
+        {
+            "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
+            "url": "/th/random-paragraph-generator"
+        },
+        {
+            "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
+            "url": "/th/random-letter-generator"
+        },
+        {
+            "name": "เครื่องกำเนิดประโยคแบบสุ่ม",
+            "url": "/th/random-sentence-generator"
+        },
+        {
+            "name": "จำลอง Serp",
+            "url": "/th/serp-simulator"
+        },
+        {
+            "name": "จำนวนคำในเว็บไซต์",
+            "url": "/th/website-word-count"
+        },
+        {
+            "name": "เครื่องกำเนิดคำแบบสุ่ม",
+            "url": "/th/random-word-generator"
+        },
+        {
+            "name": "ย่อหน้า Rewriter",
+            "url": "/th/paragraph-rewriter"
+        },
+        {
+            "name": "เขียนข้อความใหม่",
+            "url": "/th/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "ข้อกำหนดและเงื่อนไข",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "นโยบายความเป็นส่วนตัว",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "ติดต่อเรา",
+            "url": "/contact"
         }
     ]
 }

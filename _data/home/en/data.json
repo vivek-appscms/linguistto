@@ -102,9 +102,9 @@
     },
     {
       "name": "Typing pages",
-      "description": "Excellent Typing tool",
+      "description": "Excellent Typing tools",
       "color": "#a7a7cd",
-      "icon": "/assets/images/rewriting.svg",
+      "icon": "/img/typing.svg",
       "url": "/all-typing-pages"
     }
   ]

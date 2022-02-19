@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "Simple à utiliser",
+            "content": "Paragraph Rewriter est simple à utiliser. Si vous avez un paragraphe à réécrire, vous pouvez simplement le copier et le coller dans notre outil de réécriture de paragraphe et l'outil fera le travail à votre place."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "Résultats instantanés",
+            "content": "Les résultats s'affichent dès que vous cliquez sur Paraphrase et vous n'avez pas à attendre la génération des résultats."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "Plate-forme croisée",
+            "content": "Notre site Web est indépendant de la plateforme. Il fonctionne à la fois sur les systèmes d'exploitation Windows et iOS et peut être utilisé sans aucun téléchargement requis."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "Sûr et sécurisé",
+            "content": "Notre réécriture de paragraphe est totalement sûre à utiliser et produit systématiquement des résultats réels et précis. Les « résultats précis » signifient que chaque contenu modifié est non seulement exempt de plagiat, mais également plus facile à lire et à comprendre. Cela augmentera la portée et l'engagement de votre contenu en raison de son caractère unique et de son efficacité. Alors, qu'est-ce que tu as à perdre ? Essayez-le dès maintenant et amusez-vous à réécrire."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "Contenu unique et sans plagiat",
+            "content": "C'est, sans aucun doute, le meilleur spinner de paragraphe gratuit et professionnel disponible sur Internet. Il fonctionne admirablement et ne déçoit jamais ses consommateurs lorsqu'il s'agit de produire un contenu original exempt de plagiat et de duplication ! Après avoir révisé votre paragraphe avec notre outil, vous pouvez vérifier son originalité et son caractère distinctif en exécutant votre document via son vérificateur de plagiat."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "Utilisation gratuite",
+            "content": "Y a-t-il quelque chose de plus excitant que de découvrir un spinner de texte totalement gratuit ? N'est-ce pas exactement ce que tout le monde recherche ? Les fonctionnalités de notre outil de réécriture de paragraphes sont totalement gratuites, il n'y a donc aucune raison de ne pas l'utiliser."
         }
     ],
     "csscdns": [

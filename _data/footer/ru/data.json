@@ -1,252 +1,219 @@
 {
-    "navbarBrandText": "",
-    "navbarBrandLogo": "/img/logo.png",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-            {
-                "categoryName": "инструмент перефразирования",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Инструмент перефразирования на хинди",
-                        "url": "/ru/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Русский инструмент перефразирования",
-                        "url": "/ru/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Испанский инструмент перефразирования",
-                        "url": "/ru/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Набор текста с английского на хинди",
-                        "url": "/ru/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Набирать текст с английского на бангла",
-                        "url": "/ru/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Немецкий инструмент перефразирования",
-                        "url": "/ru/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Корейский инструмент перефразирования",
-                        "url": "/ru/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Датский инструмент перефразирования",
-                        "url": "/ru/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Итальянский инструмент перефразирования",
-                        "url": "/ru/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Инструмент «Польский перефразирование»",
-                        "url": "/ru/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Шведский инструмент перефразирования",
-                        "url": "/ru/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Тайский инструмент для парафраз",
-                        "url": "/ru/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Инструмент для перефразирования японского языка",
-                        "url": "/ru/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "арабский инструмент для перефразирования",
-                        "url": "/ru/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Украинский инструмент парафраз",
-                        "url": "/ru/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Китайский инструмент для перефразирования",
-                        "url": "/ru/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Индонезийский инструмент для перефразирования",
-                        "url": "/ru/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "вьетнамский инструмент для перефразирования",
-                        "url": "/ru/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Французский инструмент для перефразирования",
-                        "url": "/ru/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Голландский инструмент для перефразирования",
-                        "url": "/ru/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "Португальский инструмент для перефразирования",
-                        "url": "/ru/portuguese-paraphrase-tool"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Другие инструменты",
-                "links": [
-                    {
-                        "name": "Страницы набора текста",
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "url": "/ru/all-typing-pages"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Перевод предложений",
-                        "url": "/ru/sentence-translation",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Мета и проверка заголовков",
-                        "url": "/ru/meta-and-title-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Генератор случайных прилагательных",
-                        "url": "/ru/random-adjective-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Проверка различий в тексте",
-                        "url": "/ru/text-difference-checker",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Инструмент подсчета слов",
-                        "url": "/ru/word-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Инструмент подсчета символов",
-                        "url": "/ru/character-count-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Переписатель абзацев",
-                        "url": "/ru/paragraph-rewriter",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Рерайтер текста",
-                        "url": "/ru/text-rewriter",
-                        "hover": "blue"
-                    }
-                ]
-            },
-            {
-                "categoryName": "Другие инструменты",
-                "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Генератор случайных существительных",
-                        "url": "/ru/random-noun-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Генератор случайных абзацев",
-                        "url": "/ru/random-paragraph-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Генератор случайных писем",
-                        "url": "/ru/random-letter-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Генератор случайных предложений",
-                        "url": "/ru/random-sentence-generator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Симулятор поисковой выдачи",
-                        "url": "/ru/serp-simulator",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Количество слов на сайте",
-                        "url": "/ru/website-word-count",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Генератор случайных слов",
-                        "url": "/ru/random-word-generator",
-                        "hover": "blue"
-                    }
-                ]
-            }
-        ]
-    },
-    "navItems": [
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "О нас",
+            "url": "/about"
+        },
+        {
+            "name": "Положения и условия",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Помощь",
+            "url": "/help"
+        },
         {
             "name": "Блог",
             "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Инструмент перефразирования",
+            "url": "/ru/paraphrasing-tool"
+        },
+        {
+            "name": "Немецкий инструмент перефразирования",
+            "url": "/ru/german-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент перефразирования на хинди",
+            "url": "/ru/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Русский инструмент перефразирования",
+            "url": "/ru/russian-paraphrase-tool"
+        },
+        {
+            "name": "Испанский инструмент перефразирования",
+            "url": "/ru/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Корейский инструмент перефразирования",
+            "url": "/ru/korean-paraphrase-tool"
+        },
+        {
+            "name": "Датский инструмент перефразирования",
+            "url": "/ru/danish-paraphrase-tool"
+        },
+        {
+            "name": "Итальянский инструмент перефразирования",
+            "url": "/ru/italian-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент «Польский перефразирование»",
+            "url": "/ru/polish-paraphrase-tool"
+        },
+        {
+            "name": "Шведский инструмент перефразирования",
+            "url": "/ru/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Тайский инструмент для парафраз",
+            "url": "/ru/thai-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент для перефразирования японского языка",
+            "url": "/ru/japanese-paraphrase-tool"
+        },
+        {
+            "name": "арабский инструмент для перефразирования",
+            "url": "/ru/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Украинский инструмент парафраз",
+            "url": "/ru/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Китайский инструмент для перефразирования",
+            "url": "/ru/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Индонезийский инструмент для перефразирования",
+            "url": "/ru/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "вьетнамский инструмент для перефразирования",
+            "url": "/ru/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "Французский инструмент для перефразирования",
+            "url": "/ru/french-paraphrase-tool"
+        },
+        {
+            "name": "Голландский инструмент для перефразирования",
+            "url": "/ru/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Португальский инструмент для перефразирования",
+            "url": "/ru/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент транслитерации",
+            "url": "/ru/english-to-hindi-typing "
+        },
+        {
+            "name": "Страницы набора текста",
+            "url": "/ru/all-typing-pages"
+        },
+        {
+            "name": "Набирать текст с английского на бангла",
+            "url": "/ru/bangla-transliteration-tool"
+        },
+        {
+            "name": "Инструмент подсчета слов",
+            "url": "/ru/word-count-tool"
+        },
+        {
+            "name": "Инструмент подсчета символов",
+            "url": "/ru/character-count-tool"
+        },
+        {
+            "name": "Перевод предложений",
+            "url": "/ru/sentence-translation"
+        },
+        {
+            "name": "Мета и проверка заголовков",
+            "url": "/ru/meta-and-title-checker"
+        },
+        {
+            "name": "Генератор случайных прилагательных",
+            "url": "/ru/random-adjective-generator"
+        },
+        {
+            "name": "Проверка различий в тексте",
+            "url": "/ru/text-difference-checker"
+        },
+        {
+            "name": "Генератор случайных существительных",
+            "url": "/ru/random-noun-generator"
+        },
+        {
+            "name": "Генератор случайных абзацев",
+            "url": "/ru/random-paragraph-generator"
+        },
+        {
+            "name": "Генератор случайных писем",
+            "url": "/ru/random-letter-generator"
+        },
+        {
+            "name": "Генератор случайных предложений",
+            "url": "/ru/random-sentence-generator"
+        },
+        {
+            "name": "Симулятор поисковой выдачи",
+            "url": "/ru/serp-simulator"
+        },
+        {
+            "name": "Количество слов на сайте",
+            "url": "/ru/website-word-count"
+        },
+        {
+            "name": "Генератор случайных слов",
+            "url": "/ru/random-word-generator"
+        },
+        {
+            "name": "Переписатель абзацев",
+            "url": "/ru/paragraph-rewriter"
+        },
+        {
+            "name": "Рерайтер текста",
+            "url": "/ru/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Положения и условия",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Политика конфиденциальности",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Свяжитесь с нами",
+            "url": "/contact"
         }
     ]
 }

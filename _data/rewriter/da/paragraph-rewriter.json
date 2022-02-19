@@ -12,44 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "",
-            "content": ""
+            "header": "Enkel at bruge",
+            "content": "Paragraph brænder er enkel at bruge. Hvis du har et afsnit, som du skal omskrive, kan du bare kopiere det og indsætte det i vores afsnit omskriver, og værktøjet vil gøre jobbet for dig."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "",
-            "content": ""
+            "header": "Instant resultater",
+            "content": "Resultaterne vises snart du klikker på Parafrase, og du behøver ikke at vente på generering af resultater."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "",
-            "content": ""
+            "header": "Cross Platform",
+            "content": "Vores hjemmeside er platform uafhængig. Det virker på både Window og iOS Operativsystemer og kan bruges uden nogen downloads kræves."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "",
-            "content": ""
+            "header": "Sikker og sikker",
+            "content": "Vores afsnitsbrænder er helt sikkert at bruge og producerer konsekvent reelle og præcise resultater. „Præcise resultater“ betyder, at hvert ændret indhold ikke kun er plagiatfri, men også lettere at læse og forstå. Det vil øge rækkevidden og engagementet af dit indhold på grund af dets unikke og effektivitet. Så hvad har du at tabe? Giv det et skud lige nu og have det sjovt at omskrive."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "",
-            "content": ""
+            "header": "Unikt og plagiat gratis indhold",
+            "content": "Det er uden tvivl den bedste gratis og professionelle afsnit spinner tilgængelig på internettet. Det udfører beundringsværdigt og aldrig skuffer sine forbrugere, når det kommer til at producere originalt indhold, der er fri for plagiat og dobbeltarbejde problemer! Når du har revideret dit afsnit med vores værktøj, kan du bekræfte originalitet og særpræg ved at køre dit dokument gennem sin plagiat checker."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "",
-            "content": ""
-        }
-    ],
-    "FAQ": [
-        {
-            "question": "",
-            "answer": ""
+            "header": "Gratis at bruge",
+            "content": "Er der noget mere spændende end at opdage en tekst spinner, der er helt gratis at bruge? Er det ikke præcis, hvad alle søger efter? Funktionerne i vores afsnitsrewriter-værktøj er helt gratis at bruge, så der er ingen grund til ikke at bruge det."
         }
     ],
     "csscdns": [
