@@ -12,38 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "Simple до використання",
-            "content": "Наш безкоштовний інструмент Text Rewriter дуже простий у використанні. Вам навіть не потрібно реєструватися. Це робить процес перефразовування речень простим і простим.\n"
+            "header": "Простий у використанні",
+            "content": "Наш безкоштовний інструмент Text Rewriter дуже простий у використанні. Вам навіть не потрібно реєструватися. Це робить процес перефразовування пропозицій простим і простим.\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "Результати Акурате",
-            "content": "Наш сайт обробляє Вашу звукову доріжку дуже швидко.Результати acurate і hence користувач соmpletely satisfed"
+            "header": "Точні результати",
+            "content": "Наш сайт обробляє вашу звукову доріжку дуже швидко.Результати точні і, отже, користувач повністю задоволений"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "Строс-Рлатформ",
-            "content": "Текст Рерайтер tооl — це сувенірна система, як Windows/MaC/Linux/Аndroid/iРhone.\n\n"
+            "header": "Хрестова тарілка",
+            "content": "Текст Rewriter інструмент сумісний з будь-якою операційною системою, як Windows/Mac/Linux/Android/iPhone.\n\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "Secure і довірчі",
-            "content": "Існує немає сервера involved і hence your datа is safe\n"
+            "header": "Безпечний і надійний",
+            "content": "Там немає сервера, а отже, ваші дані є безпечними\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "Fast і efficient",
-            "content": "На сайті представлені дані, які було зафіксовано швидко і ефективно. You сan отримує свій job done за no часу\n"
+            "header": "Швидко та ефективно",
+            "content": "Сайт orocesses дані, захоплені дуже швидко і ефективно. Ви можете зробити свою роботу в найкоротші терміни\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "Nо файлів аre uroaded",
-            "content": "Авторські послуги на замовлення на your browser без інволвінгу сервера. Дані Hence your - це safe\n"
+            "header": "Файли не завантажуються",
+            "content": "Aoolication працює comoletely у вашому браузері без залучення будь-якого сервера. Отже, ваші дані безпечні\n"
         }
     ],
     "csscdns": [
