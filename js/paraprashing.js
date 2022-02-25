@@ -318,7 +318,7 @@ function word_count() {
   }
 }
 document.getElementById("input-string").onkeyup = function (e) {
-  if (e.keyCode == 32) {
+  // if (e.keyCode == 32) {
     for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
       document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
     }
@@ -362,11 +362,11 @@ document.getElementById("input-string").onkeyup = function (e) {
         tbody.appendChild(tr);
         console.log(keys);
       }
-    }
+    // }
   }
 };
 document.getElementById("paraphrase-output-1").onkeyup = function (e) {
-  if (e.keyCode == 32) {
+  // if (e.keyCode == 32) {
     for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
       document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
     }
@@ -410,6 +410,6 @@ document.getElementById("paraphrase-output-1").onkeyup = function (e) {
         tbody.appendChild(tr);
         console.log(keys);
       }
-    }
+    // }
   }
 };
