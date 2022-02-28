@@ -18,8 +18,8 @@
   to = "https://contenttool-newtools-main.netlify.app/random-adjective-generator"
   force = true
   status = 200
-  
-  
+
+
   [[redirects]]
   from = "/random-sentence-generator"
   to = "https://contenttool-newtools-main.netlify.app/random-sentence-generator"
@@ -46,6 +46,13 @@
   to = "https://contenttool-newtools-main.netlify.app/random-paragraph-generator"
   force = true
   status = 200
+
+  [[redirects]] 
+  from = "/getRandomParagraph" 
+  to = "https://contenttool-newtools-main.netlify.app/paragraph.json 
+  force = true 
+  status = 200
+  
   
 [[redirects]]
   from = "/random-letter-generator"
