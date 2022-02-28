@@ -9,6 +9,50 @@ function inputHandle(event) {
                 inputString.value = result[1][0][1][0]
             })
     }
+	for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
+		document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
+	  }
+	  document.getElementById("tbody").innerHTML = "";
+	  let counts = [];
+	  let keys = [];
+	  var wordcount = [];
+	  var tbody = document.getElementById("tbody");
+	  var wordcount = document.getElementById("input-string").value;
+	  var token = wordcount.split(" ");
+	  for (let i = 0; i < token.length; i++) {
+		var word = token[i].toLowerCase();
+		if (!/\d+/.test(word)) {
+		  if (counts[word] === undefined) {
+			counts[word] = 1;
+			keys.push(word);
+		  } else {
+			counts[word] = counts[word] + 1;
+		  }
+		}
+	  }
+	  console.log(keys);
+	  keys.sort(compare);
+	  function compare(a, b) {
+		var countA = counts[a];
+		var countB = counts[b];
+		return countB - countA;
+	  }
+	  for (let i = 0; i < keys.length; i++) {
+		let key = keys[i];
+		if (!key == "") {
+		  let tr = document.createElement("tr");
+		  let td = document.createElement("td");
+		  let td2 = document.createElement("td");
+  
+		  td.innerHTML = `${key}`;
+		  td2.innerHTML = `${counts[key]}`;
+  
+		  tr.appendChild(td);
+		  tr.appendChild(td2);
+		  tbody.appendChild(tr);
+		  console.log(keys);
+		}
+	  }
 }
 
 //////
@@ -51,14 +95,7 @@ function font_size_fun(size){
 function font_family_fun(family){
 	document.getElementById("input-string").style.fontFamily = family
 }
-document.getElementById("active_button").addEventListener("click", ()=>{
-	var value = document.getElementById("active_text");
-   if( value.innerHTML == "Autosave is OFF"){
-	value.innerHTML = "Autosave is ON"
-   }else{
-	value.innerHTML = "Autosave is OFF"
-   }
-});
+
 document.getElementById("clear_button").addEventListener("click", ()=>{
 	document.getElementById("input-string").value = ""
 	document.getElementById("tbody").innerHTML=""
@@ -158,53 +195,3 @@ function word_count(){
 	}
 
 }
-
-
-document.getElementById("input-string").onkeyup = function (e) {
-	// if (e.keyCode == 32) {
-	  for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
-		document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
-	  }
-	  document.getElementById("tbody").innerHTML = "";
-	  let counts = [];
-	  let keys = [];
-	  var wordcount = [];
-	  var tbody = document.getElementById("tbody");
-	  var wordcount = document.getElementById("input-string").value;
-	  var token = wordcount.split(" ");
-	  for (let i = 0; i < token.length; i++) {
-		var word = token[i].toLowerCase();
-		if (!/\d+/.test(word)) {
-		  if (counts[word] === undefined) {
-			counts[word] = 1;
-			keys.push(word);
-		  } else {
-			counts[word] = counts[word] + 1;
-		  }
-		}
-	  }
-	  console.log(keys);
-	  keys.sort(compare);
-	  function compare(a, b) {
-		var countA = counts[a];
-		var countB = counts[b];
-		return countB - countA;
-	  }
-	  for (let i = 0; i < keys.length; i++) {
-		let key = keys[i];
-		if (!key == "") {
-		  let tr = document.createElement("tr");
-		  let td = document.createElement("td");
-		  let td2 = document.createElement("td");
-  
-		  td.innerHTML = `${key}`;
-		  td2.innerHTML = `${counts[key]}`;
-  
-		  tr.appendChild(td);
-		  tr.appendChild(td2);
-		  tbody.appendChild(tr);
-		  console.log(keys);
-		}
-	  }
-	// }
-  };

@@ -163,14 +163,6 @@ function font_family_fun(family) {
   document.getElementById("input-string").style.fontFamily = family;
   document.getElementById("paraphrase-output-1").style.fontFamily = family;
 }
-document.getElementById("active_button").addEventListener("click", () => {
-  var value = document.getElementById("active_text");
-  if (value.innerHTML == "Autosave is OFF") {
-    value.innerHTML = "Autosave is ON";
-  } else {
-    value.innerHTML = "Autosave is OFF";
-  }
-});
 
 document.getElementById("clear_button").addEventListener("click", () => {
   document.getElementById("input-string").value = "";
