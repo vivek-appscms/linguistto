@@ -3,7 +3,7 @@
   
 [[redirects]]
   from = "/newtoolsapi/*"
-  to = "https://contenttools-new-tools-develop.netlify.app/.netlify/functions/:splat"
+  to = "https://toools.netlify.app/.netlify/functions/:splat"
   force = true
   status = 200
 
@@ -61,30 +61,30 @@
   
   [[redirects]]
   from = "/meta-and-title-checker"
-  to = "https://contenttools-new-tools-develop.netlify.app/meta-and-title-checker"
+  to = "https://toools.netlify.app/meta-and-title-checker"
   force = true
   status = 200
   
   [[redirects]]
   from = "/website-word-count"
-  to = "https://contenttools-new-tools-develop.netlify.app/website-word-count"
+  to = "https://toools.netlify.app/website-word-count"
   force = true
   status = 200
   
   [[redirects]]
   from = "/serp-simulator"
-  to = "https://contenttools-new-tools-develop.netlify.app/serp-simulator"
+  to = "https://toools.netlify.app/serp-simulator"
   force = true
   status = 200
   
 [[redirects]]
   from = "/text-difference-checker"
-  to = "https://contenttools-new-tools-develop.netlify.app/text-difference-checker"
+  to = "https://toools.netlify.app/text-difference-checker"
   force = true
   status = 200
   
   [[redirects]]
   from = "/tools/sitemap.xml"
-  to = "https://contenttools-new-tools-develop.netlify.app/sitemap.xml"
+  to = "https://toools.netlify.app//sitemap.xml"
   force = true
   status = 200
