@@ -49,12 +49,11 @@
 
   [[redirects]] 
   from = "/getRandomParagraph" 
-  to = "https://contenttool-newtools-main.netlify.app/paragraph.json 
+  to = "https://contenttool-newtools-main.netlify.app/paragraph.json" 
   force = true 
   status = 200
-  
-  
-[[redirects]]
+ 
+  [[redirects]]
   from = "/random-letter-generator"
   to = "https://contenttool-newtools-main.netlify.app/random-letter-generator"
   force = true
