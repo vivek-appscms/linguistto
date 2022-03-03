@@ -3,88 +3,88 @@
   
 [[redirects]]
   from = "/newtoolsapi/*"
-  to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/:splat"
+  to = "https://contenttools-new-tools-develop.netlify.app/.netlify/functions/:splat"
   force = true
   status = 200
 
 [[redirects]]
   from = "/random-word-generator"
-  to = "https://contenttool-newtools-main.netlify.app/random-word-generator"
+  to = "https://contenttools-new-tools-develop.netlify.app/random-word-generator"
   force = true
   status = 200
   
   [[redirects]]
   from = "/random-adjective-generator"
-  to = "https://contenttool-newtools-main.netlify.app/random-adjective-generator"
+  to = "https://contenttools-new-tools-develop.netlify.app/random-adjective-generator"
   force = true
   status = 200
 
 
   [[redirects]]
   from = "/random-sentence-generator"
-  to = "https://contenttool-newtools-main.netlify.app/random-sentence-generator"
+  to = "https://contenttools-new-tools-develop.netlify.app/random-sentence-generator"
   force = true
   status = 200
   
    
   [[redirects]]
   from = "/getSentencess"
-  to = "https://contenttool-newtools-main.netlify.app/sentences.json"
+  to = "https://contenttools-new-tools-develop.netlify.app/sentences.json"
   force = true
   status = 200
   
   
   [[redirects]]
   from = "/random-noun-generator"
-  to = "https://contenttool-newtools-main.netlify.app/random-noun-generator"
+  to = "https://contenttools-new-tools-develop.netlify.app/random-noun-generator"
   force = true
   status = 200
   
   
   [[redirects]]
   from = "/random-paragraph-generator"
-  to = "https://contenttool-newtools-main.netlify.app/random-paragraph-generator"
+  to = "https://contenttools-new-tools-develop.netlify.app/random-paragraph-generator"
   force = true
   status = 200
 
   [[redirects]] 
   from = "/getRandomParagraph" 
-  to = "https://contenttool-newtools-main.netlify.app/paragraph.json" 
+  to = "https://contenttools-new-tools-develop.netlify.app/paragraph.json" 
   force = true 
   status = 200
  
   [[redirects]]
   from = "/random-letter-generator"
-  to = "https://contenttool-newtools-main.netlify.app/random-letter-generator"
+  to = "https://contenttools-new-tools-develop.netlify.app/random-letter-generator"
   force = true
   status = 200
   
   [[redirects]]
   from = "/meta-and-title-checker"
-  to = "https://contenttool-newtools-main.netlify.app/meta-and-title-checker"
+  to = "https://contenttools-new-tools-develop.netlify.app/meta-and-title-checker"
   force = true
   status = 200
   
   [[redirects]]
   from = "/website-word-count"
-  to = "https://contenttool-newtools-main.netlify.app/website-word-count"
+  to = "https://contenttools-new-tools-develop.netlify.app/website-word-count"
   force = true
   status = 200
   
   [[redirects]]
   from = "/serp-simulator"
-  to = "https://contenttool-newtools-main.netlify.app/serp-simulator"
+  to = "https://contenttools-new-tools-develop.netlify.app/serp-simulator"
   force = true
   status = 200
   
 [[redirects]]
   from = "/text-difference-checker"
-  to = "https://contenttool-newtools-main.netlify.app/text-difference-checker"
+  to = "https://contenttools-new-tools-develop.netlify.app/text-difference-checker"
   force = true
   status = 200
   
   [[redirects]]
   from = "/tools/sitemap.xml"
-  to = "https://contenttool-newtools-main.netlify.app/sitemap.xml"
+  to = "https://contenttools-new-tools-develop.netlify.app//sitemap.xml"
   force = true
   status = 200
