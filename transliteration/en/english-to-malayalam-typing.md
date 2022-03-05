@@ -6,6 +6,6 @@ language: ml
 folderName : transliteration
 lang: en
 permalink: /english-to-malayalam-typing
-nointernationalization: true
+matchurls: en&&ml
 ---
 {% include section/translation.html %}

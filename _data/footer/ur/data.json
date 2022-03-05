@@ -1,0 +1,219 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "کے بارے میں",
+            "url": "/about"
+        },
+        {
+            "name": "شرائط و ضوابط",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "مدد",
+            "url": "/help"
+        },
+        {
+            "name": "بلاگ",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "تشریح کے آلے",
+            "url": "/ur/paraphrasing-tool"
+        },
+        {
+            "name": "جرمن پیرافرز کا آلہ",
+            "url": "/ur/german-paraphrase-tool"
+        },
+        {
+            "name": "ہندی تشریح کا آلہ",
+            "url": "/ur/hindi-paraphrase-tool"
+        },
+        {
+            "name": "روسی تشریح کا آلہ",
+            "url": "/ur/russian-paraphrase-tool"
+        },
+        {
+            "name": "ہسپانوی تشریح کا آلہ",
+            "url": "/ur/spanish-paraphrase-tool"
+        },
+        {
+            "name": "کوریائی تشریح کا آلہ",
+            "url": "/ur/korean-paraphrase-tool"
+        },
+        {
+            "name": "ڈینش پیرافرز کا آلہ",
+            "url": "/ur/danish-paraphrase-tool"
+        },
+        {
+            "name": "اطالوی تشریح کا آلہ",
+            "url": "/ur/italian-paraphrase-tool"
+        },
+        {
+            "name": "پولش پیرافرز کا آلہ",
+            "url": "/ur/polish-paraphrase-tool"
+        },
+        {
+            "name": "سویڈش پیرافرز کا آلہ",
+            "url": "/ur/swedish-paraphrase-tool"
+        },
+        {
+            "name": "تھائی پیرافرز کے آلے",
+            "url": "/ur/thai-paraphrase-tool"
+        },
+        {
+            "name": "جاپانی پیرافرز کے آلے",
+            "url": "/ur/japanese-paraphrase-tool"
+        },
+        {
+            "name": "عرب-پیرافرز کے آلے",
+            "url": "/ur/arabic-paraphrase-tool"
+        },
+        {
+            "name": "یوکرانیان-پیرافرز کے آلے",
+            "url": "/ur/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "چینی پیرافرز کے آلے",
+            "url": "/ur/chinese-paraphrase-tool"
+        },
+        {
+            "name": "انڈونیشیائی پیرافرز کے آلے",
+            "url": "/ur/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "ویتری-پیرافرز کے آلے",
+            "url": "/ur/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "فرانسیسی پیرافریز کے آلے",
+            "url": "/ur/french-paraphrase-tool"
+        },
+        {
+            "name": "ڈچ پیرافرز کے آلے",
+            "url": "/ur/dutch-paraphrase-tool"
+        },
+        {
+            "name": "پرتگیزی-پیرافرز-آلے",
+            "url": "/ur/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "نقل حرفی کا آلہ",
+            "url": "/ur/english-to-hindi-typing "
+        },
+        {
+            "name": "ٹائپنگ صفحات",
+            "url": "/ur/all-typing-pages"
+        },
+        {
+            "name": "انگریزی کرنے بنگلہ ٹائپنگ",
+            "url": "/ur/bangla-transliteration-tool"
+        },
+        {
+            "name": "لفظ شمار کا آلہ",
+            "url": "/ur/word-count-tool"
+        },
+        {
+            "name": "کردار شمار کے آلے",
+            "url": "/ur/character-count-tool"
+        },
+        {
+            "name": "جملہ ترجمہ",
+            "url": "/ur/sentence-translation"
+        },
+        {
+            "name": "میٹا اور عنوان چیکر",
+            "url": "/ur/meta-and-title-checker"
+        },
+        {
+            "name": "بے ترتیب صفت جنریٹر",
+            "url": "/ur/random-adjective-generator"
+        },
+        {
+            "name": "متن فرق چیکر",
+            "url": "/ur/text-difference-checker"
+        },
+        {
+            "name": "بے ترتیب اسم جنریٹر",
+            "url": "/ur/random-noun-generator"
+        },
+        {
+            "name": "بے ترتیب پیراگراف جنریٹر",
+            "url": "/ur/random-paragraph-generator"
+        },
+        {
+            "name": "بے ترتیب خط جنریٹر",
+            "url": "/ur/random-letter-generator"
+        },
+        {
+            "name": "بے ترتیب سزا جنریٹر",
+            "url": "/ur/random-sentence-generator"
+        },
+        {
+            "name": "سرپ سمیلیٹر",
+            "url": "/ur/serp-simulator"
+        },
+        {
+            "name": "ویب سائٹ کا لفظ شمار",
+            "url": "/ur/website-word-count"
+        },
+        {
+            "name": "بے ترتیب لفظ جنریٹر",
+            "url": "/ur/random-word-generator"
+        },
+        {
+            "name": "پیراگراف ری رائٹر",
+            "url": "/ur/paragraph-rewriter"
+        },
+        {
+            "name": "متن ری رائٹر",
+            "url": "/ur/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "اے بی سی"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "اے بی سی"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "اے بی سی"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "اے بی سی"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "اے بی سی"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "شرائط و ضوابط",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "رازداری کی پالیسی",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "ہم سے رابطہ کریں",
+            "url": "/contact"
+        }
+    ]
+}

@@ -6,6 +6,6 @@ language: te
 folderName : transliteration
 lang: en
 permalink: /english-to-telugu-typing
-nointernationalization: true
+matchurls: en&&te
 ---
 {% include section/translation.html %}

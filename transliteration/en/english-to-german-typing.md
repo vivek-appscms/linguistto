@@ -6,6 +6,6 @@ language: de
 folderName : transliteration
 lang: en
 permalink: /english-to-german-typing
-nointernationalization: true
+matchurls: en&&de
 ---
 {% include section/translation.html %} -->

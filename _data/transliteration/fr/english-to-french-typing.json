@@ -1,0 +1,63 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "h1": "Excellent outil pour translittérer rapidement du texte en français",
+    "h2": "Pour taper des mots en français, entrez les lettres que vous souhaitez saisir dans le champ prévu à cet effet.",
+    "TITLE": "Translittérer un texte en français - Le meilleur outil pour translittérer facilement un texte anglais en français",
+    "META": "Translittération instantanée de votre texte en français. Cet outil en ligne gratuit de translittération de l'anglais vers le français vous permet de copier le texte translittéré sans aucune obligation de connexion.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "keywords": "Translittération de l'anglais vers le français en ligne",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Complètement sécurisé",
+            "content": "Lorsque vous utilisez l'outil en ligne de translittération de l'anglais vers le français, les bases de données qui contiennent les données que vous saisissez ne stockent ni n'envoient vos informations à aucune autre source. Un autre avantage de l'utilisation de cette application est que vos données restent privées et que la qualité de votre travail n'est pas compromise. Lorsque votre article est translittéré, l'outil le sécurise et le supprime du système. Cela nous permet d'offrir une protection complète à tous nos clients, ce qui rend notre outil en ligne de translittération de l'anglais vers le français totalement fiable et sans risque à utiliser dans toutes les situations, à toute heure du jour ou de la nuit."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Simple à utiliser",
+            "content": "Cet outil en ligne de translittération de l'anglais vers le français est très facile à utiliser. Pour commencer, l'interface utilisateur est claire et directe. Il n'est pas nécessaire de se demander par où commencer car tout se trouve au même endroit. De plus, notre outil en ligne de translittération de l'anglais vers le français est exempt de publicité, ce qui améliore l'expérience utilisateur."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Il n'y a aucun problème de compatibilité.",
+            "content": "Cet outil en ligne gratuit de translittération de l'anglais vers le français fonctionne avec tous les systèmes d'exploitation et navigateurs. L'outil en ligne de translittération de l'anglais vers le français de ce site Web est un service Web accessible à partir de n'importe quel ordinateur ou appareil mobile disposant d'une connexion Internet. Chrome, Safari, Firefox, Microsoft Edge et un certain nombre d'autres navigateurs populaires sont pris en charge. Par conséquent, vous pouvez effectuer la conversion à l'aide de l'outil en ligne de translittération anglais-français sur un ordinateur de bureau, un iPad, une tablette ou un téléphone portable, selon votre préférence. Vous ne serez pas obligé d'acheter ou d'installer des logiciels ou des plugins supplémentaires sur votre ordinateur si vous utilisez notre service Web pour paraphraser vos articles."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Aucun téléchargement supplémentaire n'est nécessaire",
+            "content": "Nous ne vous demandons pas de télécharger ou d'installer de logiciel sur votre ordinateur ou appareil mobile afin d'utiliser notre service en ligne de translittération de l'anglais vers le français. Notre outil en ligne de translittération de l'anglais vers le français est entièrement basé sur un navigateur, et vous pouvez accéder à notre site Web à tout moment en saisissant simplement l'URL de notre site Web dans votre navigateur et en utilisant l'outil selon vos besoins."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Vous n'avez jamais besoin d'un identifiant",
+            "content": "Notre outil en ligne de translittération de l'anglais vers le français est entièrement gratuit et ne vous oblige pas à nous fournir d'informations personnelles, telles que votre adresse e-mail ou votre mot de passe. Notre service est entièrement gratuit. Notre outil en ligne de translittération de l'anglais vers le français étant enregistré localement dans votre navigateur Web, il n'est pas nécessaire de télécharger de logiciel ou de vous inscrire à un service."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Il est entièrement gratuit",
+            "content": "Vous êtes libre d'utiliser notre outil en ligne de translittération de l'anglais vers le français à tout moment. Notre service de translittération de l'anglais vers le français est totalement gratuit. Vous n'avez pas besoin de vous inscrire ou de vous connecter pour utiliser notre service. Si vous travaillez assez dur, vous pouvez translittérer un nombre infini d'articles en une seule journée. Il n'y a aucune limite à ce que vous pouvez faire. Vous êtes libre de télécharger à nouveau votre contenu autant de fois que vous le souhaitez. Plusieurs paragraphes peuvent être translittérés en une seule session. Il suffit de translittérer le paragraphe pour déterminer le temps qu'il faut pour le terminer."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/img/typing.png",
+        "heading": "Pour utiliser cet outil en ligne de translittération de l'anglais vers le français, procédez comme suit :",
+        "steps": [
+            "Ouvrez notre outil en ligne de translittération de l'anglais vers le français",
+            "À l'aide d'un clavier anglais, tapez vos mots français et appuyez sur la barre d'espace ; vos mots saisis en anglais seront convertis en français.",
+            "Cliquez sur le bouton « translittérer ».",
+            "Pour copier le texte, cliquez sur le bouton « Copier » et collez-le où vous le souhaitez."
+        ]
+    },
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

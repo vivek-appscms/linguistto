@@ -1,0 +1,252 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "آلے کی تشریح",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ہندی تشریح کا آلہ",
+                        "url": "/ur/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "روسی تشریح کا آلہ",
+                        "url": "/ur/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ہسپانوی تشریح کا آلہ",
+                        "url": "/ur/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "انگریزی کرنے ہندی ٹائپنگ",
+                        "url": "/ur/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "انگریزی کرنے بنگلہ ٹائپنگ",
+                        "url": "/ur/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "جرمن پیرافرز کا آلہ",
+                        "url": "/ur/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "کوریائی تشریح کا آلہ",
+                        "url": "/ur/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ڈینش پیرافرز کا آلہ",
+                        "url": "/ur/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "اطالوی تشریح کا آلہ",
+                        "url": "/ur/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "پولش پیرافرز کا آلہ",
+                        "url": "/ur/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "سویڈش پیرافرز کا آلہ",
+                        "url": "/ur/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "تھائی پیرافرز کے آلے",
+                        "url": "/ur/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "جاپانی پیرافرز کے آلے",
+                        "url": "/ur/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "عرب-پیرافرز کے آلے",
+                        "url": "/ur/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "یوکرانیان-پیرافرز کے آلے",
+                        "url": "/ur/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "چینی پیرافرز کے آلے",
+                        "url": "/ur/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "انڈونیشیائی پیرافرز کے آلے",
+                        "url": "/ur/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ویتری-پیرافرز کے آلے",
+                        "url": "/ur/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "فرانسیسی پیرافریز کے آلے",
+                        "url": "/ur/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ڈچ پیرافرز کے آلے",
+                        "url": "/ur/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "پرتگیزی-پیرافرز-آلے",
+                        "url": "/ur/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "دیگر اوزار",
+                "links": [
+                    {
+                        "name": "ٹائپنگ صفحات",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/ur/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "جملہ ترجمہ",
+                        "url": "/ur/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "میٹا اور عنوان چیکر",
+                        "url": "/ur/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "بے ترتیب صفت جنریٹر",
+                        "url": "/ur/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "متن فرق چیکر",
+                        "url": "/ur/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "لفظ شمار کا آلہ",
+                        "url": "/ur/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "کردار شمار کے آلے",
+                        "url": "/ur/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "پیراگراف ری رائٹر",
+                        "url": "/ur/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "متن ری رائٹر",
+                        "url": "/ur/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "دیگر اوزار",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "بے ترتیب اسم جنریٹر",
+                        "url": "/ur/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "بے ترتیب پیراگراف جنریٹر",
+                        "url": "/ur/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "بے ترتیب خط جنریٹر",
+                        "url": "/ur/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "بے ترتیب سزا جنریٹر",
+                        "url": "/ur/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "سرپ سمیلیٹر",
+                        "url": "/ur/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ویب سائٹ کا لفظ شمار",
+                        "url": "/ur/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "بے ترتیب لفظ جنریٹر",
+                        "url": "/ur/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "بلاگ",
+            "url": "/blog"
+        }
+    ]
+}

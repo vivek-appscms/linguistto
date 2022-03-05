@@ -6,6 +6,6 @@ language: no
 folderName : transliteration
 lang: en
 permalink: /english-to-norwegian-typing
-nointernationalization: true
+matchurls: en&&no
 ---
 {% include section/translation.html %} -->

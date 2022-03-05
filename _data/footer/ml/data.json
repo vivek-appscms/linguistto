@@ -1,0 +1,219 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "കുറിച്ച്",
+            "url": "/about"
+        },
+        {
+            "name": "നിബന്ധനകളും വ്യവസ്ഥകളും",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "സഹായിക്കുക",
+            "url": "/help"
+        },
+        {
+            "name": "ബ്ലോഗ്",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "പരഫ്രസിന്ഗ് ഉപകരണം",
+            "url": "/ml/paraphrasing-tool"
+        },
+        {
+            "name": "ജർമൻ പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/german-paraphrase-tool"
+        },
+        {
+            "name": "ഹിന്ദി പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/hindi-paraphrase-tool"
+        },
+        {
+            "name": "റഷ്യൻ പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/russian-paraphrase-tool"
+        },
+        {
+            "name": "സ്പാനിഷ് പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/spanish-paraphrase-tool"
+        },
+        {
+            "name": "കൊറിയൻ പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/korean-paraphrase-tool"
+        },
+        {
+            "name": "ഡാനിഷ് പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/danish-paraphrase-tool"
+        },
+        {
+            "name": "ഇറ്റാലിയൻ പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/italian-paraphrase-tool"
+        },
+        {
+            "name": "പോളിഷ് പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/polish-paraphrase-tool"
+        },
+        {
+            "name": "സ്വീഡിഷ് പരഫ്രസെ ഉപകരണം",
+            "url": "/ml/swedish-paraphrase-tool"
+        },
+        {
+            "name": "ഥൈ-പരഫ്രചെസ്-ഉപകരണം",
+            "url": "/ml/thai-paraphrase-tool"
+        },
+        {
+            "name": "ജപ്പാനീസ്-പാരാഫ്രെയ്സ്-ഉപകരണം",
+            "url": "/ml/japanese-paraphrase-tool"
+        },
+        {
+            "name": "അറബിക്-പരഫ്രസെ-ഉപകരണം",
+            "url": "/ml/arabic-paraphrase-tool"
+        },
+        {
+            "name": "ഉക്രനി-പരപ്-ഉപകരണം",
+            "url": "/ml/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "ചൈനീസ്-പാരാഫ്രെയ്സ്-ഉപകരണം",
+            "url": "/ml/chinese-paraphrase-tool"
+        },
+        {
+            "name": "ഇന്തോനേഷ്യൻ-പാരാഫ്രസ്-ഉപകരണം",
+            "url": "/ml/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "വിയറ്റ്നാമീസ്-പാരാഫ്രസ്-ഉപകരണം",
+            "url": "/ml/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "ഫ്രഞ്ച്-പാരാഫ്രെയ്സ്-ഉപകരണം",
+            "url": "/ml/french-paraphrase-tool"
+        },
+        {
+            "name": "ഡച്ച്-പാരാഫ്രെയ്സ്-ഉപകരണം",
+            "url": "/ml/dutch-paraphrase-tool"
+        },
+        {
+            "name": "പോർച്ചുഗീസ് പാരാഫ്രസ്-ഉപകരണം",
+            "url": "/ml/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "ലിപ്യന്തരണം ഉപകരണം",
+            "url": "/ml/english-to-hindi-typing "
+        },
+        {
+            "name": "ടൈപ്പിംഗ് പേജുകൾ",
+            "url": "/ml/all-typing-pages"
+        },
+        {
+            "name": "ഇംഗ്ലീഷ് മുതൽ ബംഗ്ലാ ടൈപ്പിംഗ്",
+            "url": "/ml/bangla-transliteration-tool"
+        },
+        {
+            "name": "വാക്ക് എണ്ണം ഉപകരണം",
+            "url": "/ml/word-count-tool"
+        },
+        {
+            "name": "കഥാപാത്രം എണ്ണം ഉപകരണം",
+            "url": "/ml/character-count-tool"
+        },
+        {
+            "name": "വാചകം വിവർത്തനം",
+            "url": "/ml/sentence-translation"
+        },
+        {
+            "name": "മെറ്റാ, ടൈറ്റിൽ ചെക്കർ",
+            "url": "/ml/meta-and-title-checker"
+        },
+        {
+            "name": "റാൻഡം നാമവിശേഷണ ജനറേറ്റർ",
+            "url": "/ml/random-adjective-generator"
+        },
+        {
+            "name": "ടെക്സ്റ്റ് വ്യത്യാസം ചെക്കർ",
+            "url": "/ml/text-difference-checker"
+        },
+        {
+            "name": "റാൻഡം നാമം ജനറേറ്റർ",
+            "url": "/ml/random-noun-generator"
+        },
+        {
+            "name": "റാൻഡം ഖണ്ഡിക ജനറേറ്റർ",
+            "url": "/ml/random-paragraph-generator"
+        },
+        {
+            "name": "റാൻഡം ലെറ്റർ ജനറേറ്റർ",
+            "url": "/ml/random-letter-generator"
+        },
+        {
+            "name": "റാൻഡം വിധി ജനറേറ്റർ",
+            "url": "/ml/random-sentence-generator"
+        },
+        {
+            "name": "സെര്പ് സിമുലേറ്റർ",
+            "url": "/ml/serp-simulator"
+        },
+        {
+            "name": "വെബ്സൈറ്റ് വേഡ് എണ്ണം",
+            "url": "/ml/website-word-count"
+        },
+        {
+            "name": "റാൻഡം വാക്ക് ജനറേറ്റർ",
+            "url": "/ml/random-word-generator"
+        },
+        {
+            "name": "ഖണ്ഡിക തിരുത്തൽ",
+            "url": "/ml/paragraph-rewriter"
+        },
+        {
+            "name": "ടെക്സ്റ്റ് റീറൈറ്റർ",
+            "url": "/ml/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "എബിസി"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "എബിസി"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "എബിസി"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "എബിസി"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "എബിസി"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "നിബന്ധനകളും വ്യവസ്ഥകളും",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "സ്വകാര്യതാ നയം",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "ഞങ്ങളെ ബന്ധപ്പെടുക",
+            "url": "/contact"
+        }
+    ]
+}

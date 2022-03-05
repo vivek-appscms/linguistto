@@ -12,38 +12,38 @@
         {
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
-            "header": "簡單的使用",
-            "content": "我們免費的文本重寫工具使用非常簡單。你甚至不需要註冊。它使得句子的解釋簡單和簡單。\n"
+            "header": "易於使用",
+            "content": "我們免費的文本重寫工具使用非常簡單。你甚至不需要註冊。它使句子的解釋過程變得簡單明瞭。\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "加工結果",
-            "content": "我們的網站處理您的音頻軌道真的很快。結果用户被打擊"
+            "header": "準確的結果",
+            "content": "我們的網站處理您的音頻軌道真的很快。結果是準確的，因此用户完全滿意"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "法蘭克福爾",
-            "content": "文本重寫器是可以與一個不同的系統，像風/馬克斯/Linux/iрhоne。\n\n"
+            "header": "交叉板形式",
+            "content": "文本重寫工具與任何操作系統兼容，如 Windows /MAC/Linux/Android/iPhone。\n\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
-            "header": "可信賴",
-            "content": "有沒有服務器被調用的自己的自己的服務器\n"
+            "header": "安全且值得信賴",
+            "content": "沒有涉及服務器，因此您的數據是安全的\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "法師的效應",
-            "content": "該網站以實際方式捕獲的數據進行處理。你可以在 Nо 時間裏得到你們的合作夥計\n"
+            "header": "快速高效",
+            "content": "該站點捕獲的數據非常快速和高效。你可以立即完成你的工作\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "Nо 文件無法使用",
-            "content": "可以使用不可侵犯的服務器來實現自己的服務器。你的數據是 Sаfe\n"
+            "header": "沒有文件被 UO加載",
+            "content": "Aoolication 在您的瀏覽器上工作，而不涉及任何服務器。因此，您的數據是安全的\n"
         }
     ],
     "csscdns": [

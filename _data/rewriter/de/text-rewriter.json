@@ -13,37 +13,37 @@
             "priority": 1,
             "logoUrl": "/assets/bulb.svg",
             "header": "Einfach zu benutzen",
-            "content": "Unser kostenloses Text-Rewriter-Tool ist sehr einfach zu bedienen. Sie müssen sich nicht einmal anmelden. Es macht das Paraphrasieren der Sätze einfach und unkompliziert.\n"
+            "content": "Unser kostenloses Text-Rewriter-Tool ist sehr einfach zu bedienen. Sie müssen sich nicht einmal anmelden. Dadurch wird das Paraphrasieren der Sätze einfach und unkompliziert.\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/guaranty.svg",
-            "header": "Aсurаte-Ergebnisse",
-            "content": "Unsere Website verarbeitet Ihre Audiospur sehr schnell. Die Ergebnisse sind jetzt und daher ist der Benutzer voll und ganz zufrieden"
+            "header": "Präzise Ergebnisse",
+            "content": "Unsere Website verarbeitet Ihre Audiospur sehr schnell. Die Ergebnisse sind korrekt und daher ist der Benutzer rundum zufrieden"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/support.svg",
-            "header": "СROSS-PLАTFFORM",
-            "content": "Der Text-Umschreiber ist mit jedem beliebigen Betriebssystem, wie Fenster/MА/Linux/Ndroid/Iрhоne, kompatibel.\n\n"
+            "header": "Plattformübergreifende Form",
+            "content": "Das Text-Rewriter-Tool ist mit jedem Betriebssystem wie Windows/Mac/Linux/Android/iPhone kompatibel.\n\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/protect.svg",
             "header": "Sicher und vertrauenswürdig",
-            "content": "Es ist kein Server beteiligt und daher ist Ihr Tag sicher\n"
+            "content": "Es ist kein Server beteiligt und daher sind Ihre Daten sicher\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/easy.svg",
-            "header": "schnell und effizient",
-            "content": "Die Website verarbeitet die erfassten Daten sehr schnell und effizient. Sie können Ihre Arbeit in kürzester Zeit erledigen\n"
+            "header": "Schnell und effizient",
+            "content": "Die Site verarbeitet die erfassten Daten sehr schnell und effizient. Sie können Ihre Arbeit in kürzester Zeit erledigen\n"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud.svg",
-            "header": "Es wurden keine Dateien erstellt",
-            "content": "Die Arbeit funktioniert vollständig in Ihrem Browser, ohne dass ein Server in Anspruch genommen wird. Daher sind Ihre Daten sicher\n"
+            "header": "Es werden keine Dateien hochgeladen",
+            "content": "Die Anwendung funktioniert vollständig in Ihrem Browser, ohne dass ein Server involviert ist. Daher sind Ihre Daten sicher.\n"
         }
     ],
     "csscdns": [
