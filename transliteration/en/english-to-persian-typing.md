@@ -6,6 +6,6 @@ language: fa
 folderName : transliteration
 lang: en
 permalink: /english-to-persian-typing
-nointernationalization: true
+matchurls: en&&fa
 ---
 {% include section/translation.html %}

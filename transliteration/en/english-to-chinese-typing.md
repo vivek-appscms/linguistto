@@ -6,6 +6,6 @@ language: zh
 folderName : transliteration
 lang: en
 permalink: /english-to-chinese-typing
-nointernationalization: true
+matchurls: en&&zh
 ---
 {% include section/translation.html %} -->

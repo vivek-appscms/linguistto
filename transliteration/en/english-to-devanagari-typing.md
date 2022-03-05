@@ -6,6 +6,6 @@ language: hi
 folderName : transliteration
 lang: en
 permalink: /english-to-devanagari-typing
-nointernationalization: true
+matchurls: en&&hi
 ---
 {% include section/translation.html %}

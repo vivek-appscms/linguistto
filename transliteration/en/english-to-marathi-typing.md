@@ -6,6 +6,6 @@ language: mr
 folderName : transliteration
 lang: en
 permalink: /english-to-marathi-typing
-nointernationalization: true
+matchurls: en&&mr
 ---
 {% include section/translation.html %}

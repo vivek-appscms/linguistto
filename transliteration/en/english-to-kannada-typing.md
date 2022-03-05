@@ -6,6 +6,6 @@ language: kn
 folderName : transliteration
 lang: en
 permalink: /english-to-kannada-typing
-nointernationalization: true
+matchurls: en&&kn
 ---
 {% include section/translation.html %}

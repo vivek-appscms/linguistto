@@ -6,6 +6,6 @@ language: ja
 folderName : transliteration
 lang: en
 permalink: /english-to-japanese-typing
-nointernationalization: true
+matchurls: en&&ja
 ---
 {% include section/translation.html %}

@@ -6,6 +6,6 @@ translatein: bangla
 language: bn
 lang: en
 permalink: /bangla-transliteration-tool
-nointernationalization: true
+matchurls: en&&bn
 ---
 {% include section/translation.html %}
