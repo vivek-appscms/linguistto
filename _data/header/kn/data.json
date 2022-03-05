@@ -1,0 +1,252 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "ಪ್ಯಾರಾಫ್ರಾಸಿಂಗ್ ಉಪಕರಣವನ್ನು",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ರಷ್ಯಾದ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಸ್ಪ್ಯಾನಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಇಂಗ್ಲೀಷ್ ಗೆ ಹಿಂದಿ ಟೈಪಿಂಗ್",
+                        "url": "/kn/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಇಂಗ್ಲೀಷ್ ಗೆ ಬಾಂಗ್ಲಾ ಟೈಪಿಂಗ್",
+                        "url": "/kn/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಜರ್ಮನ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಕೊರಿಯಾದ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಡ್ಯಾನಿಶ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಇಟಾಲಿಯನ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಪೋಲಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಸ್ವೀಡಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+                        "url": "/kn/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಥಾಯ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+                        "url": "/kn/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಜಪಾನಿನ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+                        "url": "/kn/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಅರೇಬಿಕ್-ಪ್ಯಾರಾಫ್ರಾಸ್-ಉಪಕರಣವನ್ನು",
+                        "url": "/kn/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಉಕ್ರೇನಿಯನ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+                        "url": "/kn/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಚೀನೀ-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+                        "url": "/kn/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಇಂಡೋನೇಷಿಯನ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+                        "url": "/kn/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ವಿಯೆಟ್ನಾಮ್ಸ್-ಪ್ಯಾರಾಫ್ರಾಸ್-ಟೂಲ್",
+                        "url": "/kn/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಫ್ರೆಂಚ್-ಪ್ಯಾರಾಫ್ರೇಸ್-ಟೂಲ್",
+                        "url": "/kn/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಡಚ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+                        "url": "/kn/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ಪೋರ್ಚುಗೀಸ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+                        "url": "/kn/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "ಇತರೆ ಪರಿಕರಗಳು",
+                "links": [
+                    {
+                        "name": "ಟೈಪಿಂಗ್ ಪುಟಗಳು",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/kn/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ವಾಕ್ಯ ಅನುವಾದ",
+                        "url": "/kn/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಮೆಟಾ ಮತ್ತು ಶೀರ್ಷಿಕೆ ಪರೀಕ್ಷಕ",
+                        "url": "/kn/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಯಾದೃಚ್ಛಿಕ ವಿಶೇಷಣ ಜನರೇಟರ್",
+                        "url": "/kn/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಪಠ್ಯ ವ್ಯತ್ಯಾಸ ಪರೀಕ್ಷಕ",
+                        "url": "/kn/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಪದಗಳ ಎಣಿಕೆ ಸಾಧನ",
+                        "url": "/kn/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಅಕ್ಷರ ಎಣಿಕೆ ಉಪಕರಣ",
+                        "url": "/kn/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಪ್ಯಾರಾಗ್ರಾಫ್ ರಿರೈಟರ್",
+                        "url": "/kn/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಪಠ್ಯ ಪುನರ್ರಚಕ",
+                        "url": "/kn/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "ಇತರೆ ಪರಿಕರಗಳು",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಯಾದೃಚ್ಛಿಕ ನಾಮಪದ ಜನರೇಟರ್",
+                        "url": "/kn/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಯಾದೃಚ್ಛಿಕ ಪ್ಯಾರಾಗ್ರಾಫ್ ಜನರೇಟರ್",
+                        "url": "/kn/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಯಾದೃಚ್ಛಿಕ ಅಕ್ಷರ ಜನರೇಟರ್",
+                        "url": "/kn/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಯಾದೃಚ್ಛಿಕ ವಾಕ್ಯ ಜನರೇಟರ್",
+                        "url": "/kn/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಎಸ್ಇಆರ್ಪಿ ಸಿಮ್ಯುಲೇಟರ್",
+                        "url": "/kn/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ವೆಬ್ಸೈಟ್ ಪದ ಎಣಿಕೆ",
+                        "url": "/kn/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಯಾದೃಚ್ಛಿಕ ಪದ ಜನರೇಟರ್",
+                        "url": "/kn/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "ಬ್ಲಾಗ್",
+            "url": "/blog"
+        }
+    ]
+}

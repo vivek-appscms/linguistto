@@ -1,0 +1,219 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "ಬಗ್ಗೆ",
+            "url": "/about"
+        },
+        {
+            "name": "ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ಸಹಾಯ",
+            "url": "/help"
+        },
+        {
+            "name": "ಬ್ಲಾಗ್",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "ಪ್ಯಾರಾಫ್ರಾಸಿಂಗ್ ಟೂಲ್",
+            "url": "/kn/paraphrasing-tool"
+        },
+        {
+            "name": "ಜರ್ಮನ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/german-paraphrase-tool"
+        },
+        {
+            "name": "ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/hindi-paraphrase-tool"
+        },
+        {
+            "name": "ರಷ್ಯಾದ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/russian-paraphrase-tool"
+        },
+        {
+            "name": "ಸ್ಪ್ಯಾನಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/spanish-paraphrase-tool"
+        },
+        {
+            "name": "ಕೊರಿಯಾದ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/korean-paraphrase-tool"
+        },
+        {
+            "name": "ಡ್ಯಾನಿಶ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/danish-paraphrase-tool"
+        },
+        {
+            "name": "ಇಟಾಲಿಯನ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/italian-paraphrase-tool"
+        },
+        {
+            "name": "ಪೋಲಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/polish-paraphrase-tool"
+        },
+        {
+            "name": "ಸ್ವೀಡಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
+            "url": "/kn/swedish-paraphrase-tool"
+        },
+        {
+            "name": "ಥಾಯ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+            "url": "/kn/thai-paraphrase-tool"
+        },
+        {
+            "name": "ಜಪಾನಿನ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+            "url": "/kn/japanese-paraphrase-tool"
+        },
+        {
+            "name": "ಅರೇಬಿಕ್-ಪ್ಯಾರಾಫ್ರಾಸ್-ಉಪಕರಣವನ್ನು",
+            "url": "/kn/arabic-paraphrase-tool"
+        },
+        {
+            "name": "ಉಕ್ರೇನಿಯನ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+            "url": "/kn/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "ಚೀನೀ-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+            "url": "/kn/chinese-paraphrase-tool"
+        },
+        {
+            "name": "ಇಂಡೋನೇಷಿಯನ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+            "url": "/kn/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "ವಿಯೆಟ್ನಾಮ್ಸ್-ಪ್ಯಾರಾಫ್ರಾಸ್-ಟೂಲ್",
+            "url": "/kn/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "ಫ್ರೆಂಚ್-ಪ್ಯಾರಾಫ್ರೇಸ್-ಟೂಲ್",
+            "url": "/kn/french-paraphrase-tool"
+        },
+        {
+            "name": "ಡಚ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+            "url": "/kn/dutch-paraphrase-tool"
+        },
+        {
+            "name": "ಪೋರ್ಚುಗೀಸ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
+            "url": "/kn/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "ಲಿಪ್ಯಂತರ ಸಾಧನ",
+            "url": "/kn/english-to-hindi-typing "
+        },
+        {
+            "name": "ಟೈಪಿಂಗ್ ಪುಟಗಳು",
+            "url": "/kn/all-typing-pages"
+        },
+        {
+            "name": "ಇಂಗ್ಲೀಷ್ ಗೆ ಬಾಂಗ್ಲಾ ಟೈಪಿಂಗ್",
+            "url": "/kn/bangla-transliteration-tool"
+        },
+        {
+            "name": "ಪದಗಳ ಎಣಿಕೆ ಸಾಧನ",
+            "url": "/kn/word-count-tool"
+        },
+        {
+            "name": "ಅಕ್ಷರ ಎಣಿಕೆ ಉಪಕರಣ",
+            "url": "/kn/character-count-tool"
+        },
+        {
+            "name": "ವಾಕ್ಯ ಅನುವಾದ",
+            "url": "/kn/sentence-translation"
+        },
+        {
+            "name": "ಮೆಟಾ ಮತ್ತು ಶೀರ್ಷಿಕೆ ಪರೀಕ್ಷಕ",
+            "url": "/kn/meta-and-title-checker"
+        },
+        {
+            "name": "ಯಾದೃಚ್ಛಿಕ ವಿಶೇಷಣ ಜನರೇಟರ್",
+            "url": "/kn/random-adjective-generator"
+        },
+        {
+            "name": "ಪಠ್ಯ ವ್ಯತ್ಯಾಸ ಪರೀಕ್ಷಕ",
+            "url": "/kn/text-difference-checker"
+        },
+        {
+            "name": "ಯಾದೃಚ್ಛಿಕ ನಾಮಪದ ಜನರೇಟರ್",
+            "url": "/kn/random-noun-generator"
+        },
+        {
+            "name": "ಯಾದೃಚ್ಛಿಕ ಪ್ಯಾರಾಗ್ರಾಫ್ ಜನರೇಟರ್",
+            "url": "/kn/random-paragraph-generator"
+        },
+        {
+            "name": "ಯಾದೃಚ್ಛಿಕ ಅಕ್ಷರ ಜನರೇಟರ್",
+            "url": "/kn/random-letter-generator"
+        },
+        {
+            "name": "ಯಾದೃಚ್ಛಿಕ ವಾಕ್ಯ ಜನರೇಟರ್",
+            "url": "/kn/random-sentence-generator"
+        },
+        {
+            "name": "ಎಸ್ಇಆರ್ಪಿ ಸಿಮ್ಯುಲೇಟರ್",
+            "url": "/kn/serp-simulator"
+        },
+        {
+            "name": "ವೆಬ್ಸೈಟ್ ಪದ ಎಣಿಕೆ",
+            "url": "/kn/website-word-count"
+        },
+        {
+            "name": "ಯಾದೃಚ್ಛಿಕ ಪದ ಜನರೇಟರ್",
+            "url": "/kn/random-word-generator"
+        },
+        {
+            "name": "ಪ್ಯಾರಾಗ್ರಾಫ್ ರಿರೈಟರ್",
+            "url": "/kn/paragraph-rewriter"
+        },
+        {
+            "name": "ಪಠ್ಯ ಪುನರ್ರಚಕ",
+            "url": "/kn/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "ಎಬಿಸಿ"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "ಎಬಿಸಿ"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "ಎಬಿಸಿ"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "ಎಬಿಸಿ"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "ಎಬಿಸಿ"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ಗೌಪ್ಯತಾ ನೀತಿ",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
+            "url": "/contact"
+        }
+    ]
+}
