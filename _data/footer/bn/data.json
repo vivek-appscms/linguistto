@@ -1,0 +1,219 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "সম্পর্কে",
+            "url": "/about"
+        },
+        {
+            "name": "শর্তাবলী",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "সহায়তা",
+            "url": "/help"
+        },
+        {
+            "name": "ব্লগ",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "প্যারাফ্রেজিং টুল",
+            "url": "/bn/paraphrasing-tool"
+        },
+        {
+            "name": "জার্মান প্যারাফ্রেজ টুল",
+            "url": "/bn/german-paraphrase-tool"
+        },
+        {
+            "name": "হিন্দি প্যারাফ্রেজ টুল",
+            "url": "/bn/hindi-paraphrase-tool"
+        },
+        {
+            "name": "রাশিয়ান প্যারাফ্রেজ টুল",
+            "url": "/bn/russian-paraphrase-tool"
+        },
+        {
+            "name": "স্প্যানিশ প্যারাফ্রেজ টুল",
+            "url": "/bn/spanish-paraphrase-tool"
+        },
+        {
+            "name": "কোরিয়ান প্যারাফ্রেজ টুল",
+            "url": "/bn/korean-paraphrase-tool"
+        },
+        {
+            "name": "ড্যানিশ প্যারাফ্রেজ টুল",
+            "url": "/bn/danish-paraphrase-tool"
+        },
+        {
+            "name": "ইতালীয় প্যারাফ্রেজ টুল",
+            "url": "/bn/italian-paraphrase-tool"
+        },
+        {
+            "name": "পোলিশ প্যারাফ্রেজ টুল",
+            "url": "/bn/polish-paraphrase-tool"
+        },
+        {
+            "name": "সুইডিশ প্যারাফ্রেজ টুল",
+            "url": "/bn/swedish-paraphrase-tool"
+        },
+        {
+            "name": "থাই-প্যারাফ্রেজ টুল",
+            "url": "/bn/thai-paraphrase-tool"
+        },
+        {
+            "name": "জাপানি-প্যারাফ্রেজ হাতিয়ার",
+            "url": "/bn/japanese-paraphrase-tool"
+        },
+        {
+            "name": "আরবি-প্যারাফ্রেজ-টুল",
+            "url": "/bn/arabic-paraphrase-tool"
+        },
+        {
+            "name": "ইউক্রেনীয়-প্যারাফ্রেজ টুল",
+            "url": "/bn/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "চীনা-প্যারাফ্রেজ টুল",
+            "url": "/bn/chinese-paraphrase-tool"
+        },
+        {
+            "name": "ইন্দোনেশিয়ান-প্যারাফ্রেজ টুল",
+            "url": "/bn/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "ভিয়েতনামী-প্যারাফ্রেজ টুল",
+            "url": "/bn/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "ফরাসি-প্যারাফ্রেজ-টুল",
+            "url": "/bn/french-paraphrase-tool"
+        },
+        {
+            "name": "ডাচ-প্যারাফ্রেজ টুল",
+            "url": "/bn/dutch-paraphrase-tool"
+        },
+        {
+            "name": "পর্তুগিজ-পারফ্রেজ টুল",
+            "url": "/bn/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "ট্রান্সলিটারেশন টুল",
+            "url": "/bn/english-to-hindi-typing "
+        },
+        {
+            "name": "টাইপিং পৃষ্ঠা",
+            "url": "/bn/all-typing-pages"
+        },
+        {
+            "name": "বাংলা থেকে বাংলা টাইপিং",
+            "url": "/bn/bangla-transliteration-tool"
+        },
+        {
+            "name": "শব্দ গণনা টুল",
+            "url": "/bn/word-count-tool"
+        },
+        {
+            "name": "ক্যারেক্টার গণনা টুল",
+            "url": "/bn/character-count-tool"
+        },
+        {
+            "name": "বাক্য অনুবাদ",
+            "url": "/bn/sentence-translation"
+        },
+        {
+            "name": "মেটা এবং শিরোনাম পরীক্ষক",
+            "url": "/bn/meta-and-title-checker"
+        },
+        {
+            "name": "র্যান্ডম বিশেষণ জেনারেটর",
+            "url": "/bn/random-adjective-generator"
+        },
+        {
+            "name": "টেক্সট পার্থক্য পরীক্ষক",
+            "url": "/bn/text-difference-checker"
+        },
+        {
+            "name": "র্যান্ডম নাম জেনারেটর",
+            "url": "/bn/random-noun-generator"
+        },
+        {
+            "name": "এলোমেলো অনুচ্ছেদ",
+            "url": "/bn/random-paragraph-generator"
+        },
+        {
+            "name": "র্যান্ডম পত্র জেনারেটর",
+            "url": "/bn/random-letter-generator"
+        },
+        {
+            "name": "র্যান্ডম বাক্য উৎপাদক",
+            "url": "/bn/random-sentence-generator"
+        },
+        {
+            "name": "সার্প সিমুলেটর",
+            "url": "/bn/serp-simulator"
+        },
+        {
+            "name": "ওয়েবসাইট শব্দ গণনা",
+            "url": "/bn/website-word-count"
+        },
+        {
+            "name": "র্যান্ডম শব্দ জেনারেটর",
+            "url": "/bn/random-word-generator"
+        },
+        {
+            "name": "অনুচ্ছেদ রিরাইটার",
+            "url": "/bn/paragraph-rewriter"
+        },
+        {
+            "name": "টেক্সট রিরাইটার",
+            "url": "/bn/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "এবিসি"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "এবিসি"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "এবিসি"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "এবিসি"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "এবিসি"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "শর্তাবলী",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "গোপনীয়তা নীতি",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "আমাদের সাথে যোগাযোগ করুন",
+            "url": "/contact"
+        }
+    ]
+}

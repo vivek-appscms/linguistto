@@ -1,0 +1,252 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "பொழிப்புரை கருவி",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "பொழிப்புரை கருவி",
+                        "url": "/ta/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ரஷியன் பொழிப்புரை கருவி",
+                        "url": "/ta/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ஸ்பானிஷ் பொழிப்புரை கருவி",
+                        "url": "/ta/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ஆங்கிலம் முதல் இந்தி தட்டச்சு",
+                        "url": "/ta/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "பங்களா தட்டச்சு செய்ய ஆங்கிலம்",
+                        "url": "/ta/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ஜெர்மன் பொழிப்புரை கருவி",
+                        "url": "/ta/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "கொரிய பொழிப்புரை கருவி",
+                        "url": "/ta/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "டேனிஷ் பொழிப்புரை கருவி",
+                        "url": "/ta/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "இத்தாலிய பொழிப்புரை கருவி",
+                        "url": "/ta/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "போலந்து பொழிப்புரை கருவி",
+                        "url": "/ta/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ஸ்வீடிஷ் பொழிப்புரை கருவி",
+                        "url": "/ta/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "தை-உபகரணம்-கருவி",
+                        "url": "/ta/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ஜப்பானிய-பாராஃப்ரேஸ்-கருவி",
+                        "url": "/ta/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "அரபு-உபகரணம்-கருவி",
+                        "url": "/ta/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "உராய்வு-உபகரணம்-கருவி",
+                        "url": "/ta/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "சீன-பாராப்ரேஸ்-கருவி",
+                        "url": "/ta/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "இந்தோனேஷிய-பாராபிரேஸ்-கருவி",
+                        "url": "/ta/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "வியட்நாமிஸ்-பாராஃப்ரேஸ்-கருவி",
+                        "url": "/ta/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "பிரஞ்சு-உபகரணம்-கருவி",
+                        "url": "/ta/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "டச்சு உபகரணங்கள்-கருவி",
+                        "url": "/ta/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "போர்த்துகீசியம் - கருவி",
+                        "url": "/ta/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "பிற கருவிகள்",
+                "links": [
+                    {
+                        "name": "தட்டச்சு பக்கங்கள்",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/ta/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "வாக்கிய மொழிபெயர்ப்பு",
+                        "url": "/ta/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "மெட்டா மற்றும் தலைப்பு சரிபார்ப்பு",
+                        "url": "/ta/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ரேண்டம் உரிச்சொல் ஜெனரேட்டர்",
+                        "url": "/ta/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "உரை வேறுபாடு சரிபார்ப்பு",
+                        "url": "/ta/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "வார்த்தை எண்ணிக்கை கருவி",
+                        "url": "/ta/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "எழுத்து எண்ணிக்கை கருவி",
+                        "url": "/ta/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "பத்தி ரீரைட்டர்",
+                        "url": "/ta/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "உரை ரீரைட்டர்",
+                        "url": "/ta/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "பிற கருவிகள்",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ரேண்டம் பெயர்ச்சொல் ஜெனரேட்டர்",
+                        "url": "/ta/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ரேண்டம் பத்தி ஜெனரேட்டர்",
+                        "url": "/ta/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "சீரற்ற கடிதம் ஜெனரேட்டர்",
+                        "url": "/ta/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ரேண்டம் தண்டனை ஜெனரேட்டர்",
+                        "url": "/ta/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "செர்ப் சிமுலேட்டர்",
+                        "url": "/ta/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "வலைத்தள சொல் எண்ணிக்கை",
+                        "url": "/ta/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ரேண்டம் சொல் ஜெனரேட்டர்",
+                        "url": "/ta/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "வலைப்பதிவு",
+            "url": "/blog"
+        }
+    ]
+}
