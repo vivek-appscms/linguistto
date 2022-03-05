@@ -1,78 +1,7 @@
 [
-    {
-        "name": "English to Arabic typing",
-        "url": "/pa/english-to-arabic-typing"
-    },
-    {
-        "name": "English to Bangla typing",
-        "url": "/pa/bangla-transliteration-tool"
-    },
-    {
-        "name": "English to Devanagari typing",
-        "url": "/pa/english-to-devanagari-typing"
-    },
-    {
-        "name": "English to Sanskrit typing",
-        "url": "/pa/english-to-sanskrit-typing"
-    },
-    {
-        "name": "English to Gujarati typing",
-        "url": "/pa/english-to-gujarati-typing"
-    },
-    {
-        "name": "English to Gurmukhi typing",
-        "url": "/pa/english-to-gurmukhi-typing"
-    },
-    {
-        "name": "English to Hindi typing",
-        "url": "/pa/english-to-hindi-typing"
-    },
-    {
-        "name": "English to Japanese typing",
-        "url": "/pa/english-to-japanese-typing"
-    },
-    {
-        "name": "English to Kannada typing",
-        "url": "/pa/english-to-kannada-typing"
-    },
-    {
-        "name": "English to Malayalam typing",
-        "url": "/pa/english-to-malayalam-typing"
-    },
-    {
-        "name": "English to Marathi typing",
-        "url": "/pa/english-to-marathi-typing"
-    },
-    {
-        "name": "English to Nepali typing",
-        "url": "/pa/english-to-nepali-typing"
-    },
-    {
-        "name": "English to Odia typing",
-        "url": "/pa/english-to-odia-typing"
-    },
+
     {
         "name": "English to Punjabi typing",
         "url": "/pa/english-to-punjabi-typing"
-    },
-    {
-        "name": "English to Sinhalese typing",
-        "url": "/pa/english-to-sinhalese-typing"
-    },
-    {
-        "name": "English to Russian typing",
-        "url": "/pa/english-to-russian-typing"
-    },
-    {
-        "name": "English to Tamil typing",
-        "url": "/pa/english-to-tamil-typing"
-    },
-    {
-        "name": "English to Telugu typing",
-        "url": "/pa/english-to-telugu-typing"
-    },
-    {
-        "name": "English to Urdu typing",
-        "url": "/pa/english-to-urdu-typing"
     }
 ]
