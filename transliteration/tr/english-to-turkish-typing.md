@@ -4,8 +4,8 @@ fileName: english-to-turkish-typing
 translatein: turkish
 language: tr
 folderName : transliteration
-lang: tu
-permalink: /tu/english-to-turkish-typing
-matchurls: en&&tu
+lang: tr
+permalink: /tr/english-to-turkish-typing
+matchurls: en&&tr
 ---
 {% include section/translation.html %}
