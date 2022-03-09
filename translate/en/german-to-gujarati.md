@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: de
 to: gu
-langName : german-to
+langname: german-to
 permalink: /german-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&de&&gu
 ---
 {% include section/translateinto.html %}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: zh
 to: ml
-langName : pinyin-to
+langname: pinyin-to
 permalink: /pinyin-to-malayalam-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&zh&&ml
 ---
 {% include section/translateinto.html %}

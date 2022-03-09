@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ar
 to: ja
-langName : arabic-to
+langname: arabic-to
 permalink: /arabic-to-japanese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ar&&ja
 ---
 {% include section/translateinto.html %}

@@ -2,9 +2,9 @@
 tags: []
 categories:
 - general
-title: "                         Using transition words: Compare and Contrast"
+title: "Using transition words: Compare and Contrast"
 layout: post
-hero: ''
+author: Anushka
 image: "/uploads/l-1.png"
 comments: false
 

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: gu
 to: es
-langName : gujarati-to
+langname: gujarati-to
 permalink: /gujarati-to-puerto-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&gu&&es
 ---
 {% include section/translateinto.html %}

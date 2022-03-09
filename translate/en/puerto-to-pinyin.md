@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: zh
-langName : puerto-to
+langname: puerto-to
 permalink: /puerto-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es&&zh
 ---
 {% include section/translateinto.html %}

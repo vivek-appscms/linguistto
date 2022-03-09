@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: swahili-to-pinyin-sentence-translation
+translatein: swahili_to_pinyin
+folderName : translate
+lang: sw
+from: sw
+to: zh
+langname: swahili-to
+permalink: /sw/swahili-to-pinyin-sentence-translation
+tool: sentence-translations
+matchurls: en&&sw&&zh
+---
+{% include section/translateinto.html %}

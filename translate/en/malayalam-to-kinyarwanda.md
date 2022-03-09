@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ml
 to: rw
-langName : malayalam-to
+langname: malayalam-to
 permalink: /malayalam-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml&&rw
 ---
 {% include section/translateinto.html %}

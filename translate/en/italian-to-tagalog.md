@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: it
 to: tl
-langName : italian-to
+langname: italian-to
 permalink: /italian-to-tagalog-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&it&&tl
 ---
 {% include section/translateinto.html %}

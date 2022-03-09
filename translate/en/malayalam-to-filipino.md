@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ml
 to: fil
-langName : malayalam-to
+langname: malayalam-to
 permalink: /malayalam-to-filipino-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml&&fil
 ---
 {% include section/translateinto.html %}

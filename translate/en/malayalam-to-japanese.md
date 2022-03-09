@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ml
 to: ja
-langName : malayalam-to
+langname: malayalam-to
 permalink: /malayalam-to-japanese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml&&ja
 ---
 {% include section/translateinto.html %}

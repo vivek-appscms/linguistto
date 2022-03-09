@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ml
 to: gu
-langName : malayalam-to
+langname: malayalam-to
 permalink: /malayalam-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml&&gu
 ---
 {% include section/translateinto.html %}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: pa
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-punjabi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&pa
 ---
 {% include section/translateinto.html %}

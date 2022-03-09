@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: am
 to: ja
-langName : amharic-to
+langname: amharic-to
 permalink: /amharic-to-japanese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&am&&ja
 ---
 {% include section/translateinto.html %}

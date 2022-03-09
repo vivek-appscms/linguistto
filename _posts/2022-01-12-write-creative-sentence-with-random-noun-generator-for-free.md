@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Write creative sentence with random noun generator for free
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/ewd.png"
 comments: false
 

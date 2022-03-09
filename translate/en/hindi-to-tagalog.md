@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: hi
 to: tl
-langName : hindi-to
+langname: hindi-to
 permalink: /hindi-to-tagalog-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&hi&&tl
 ---
 {% include section/translateinto.html %}

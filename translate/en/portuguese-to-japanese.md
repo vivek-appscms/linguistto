@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: ja
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-japanese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt&&ja
 ---
 {% include section/translateinto.html %}

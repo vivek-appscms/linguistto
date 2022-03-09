@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ga
 to: ml
-langName : irish-to
+langname: irish-to
 permalink: /irish-to-malayalam-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga&&ml
 ---
 {% include section/translateinto.html %}

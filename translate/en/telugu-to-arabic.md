@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: ar
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-arabic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&ar
 ---
 {% include section/translateinto.html %}

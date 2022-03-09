@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fr
 to: ar
-langName : french-to
+langname: french-to
 permalink: /french-to-arabic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fr&&ar
 ---
 {% include section/translateinto.html %}

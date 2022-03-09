@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ga
 to: de
-langName : irish-to
+langname: irish-to
 permalink: /irish-to-german-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga&&de
 ---
 {% include section/translateinto.html %}

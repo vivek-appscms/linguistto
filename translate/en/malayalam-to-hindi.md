@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ml
 to: hi
-langName : malayalam-to
+langname: malayalam-to
 permalink: /malayalam-to-hindi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml&&hi
 ---
 {% include section/translateinto.html %}

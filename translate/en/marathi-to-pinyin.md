@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: mr
 to: zh
-langName : marathi-to
+langname: marathi-to
 permalink: /marathi-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&mr&&zh
 ---
 {% include section/translateinto.html %}

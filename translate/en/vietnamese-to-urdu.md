@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: ur
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-urdu-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi&&ur
 ---
 {% include section/translateinto.html %}

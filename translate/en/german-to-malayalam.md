@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: de
 to: ml
-langName : german-to
+langname: german-to
 permalink: /german-to-malayalam-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&de&&ml
 ---
 {% include section/translateinto.html %}

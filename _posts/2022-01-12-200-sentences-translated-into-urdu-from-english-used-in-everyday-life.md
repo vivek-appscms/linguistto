@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: 200+ Sentences translated into Urdu from English used in everyday life.
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/wodhw.png"
 comments: false
 

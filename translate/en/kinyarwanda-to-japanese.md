@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: ja
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-japanese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&rw&&ja
 ---
 {% include section/translateinto.html %}

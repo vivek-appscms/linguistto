@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ja
 to: hi
-langName : japanese-to
+langname: japanese-to
 permalink: /japanese-to-hindi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ja&&hi
 ---
 {% include section/translateinto.html %}

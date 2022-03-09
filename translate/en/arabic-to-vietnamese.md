@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ar
 to: vi
-langName : arabic-to
+langname: arabic-to
 permalink: /arabic-to-vietnamese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ar&&vi
 ---
 {% include section/translateinto.html %}

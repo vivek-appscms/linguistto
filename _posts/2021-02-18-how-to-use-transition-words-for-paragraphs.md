@@ -4,7 +4,7 @@ categories:
 - general
 title: How to use transition words for paragraphs
 layout: post
-hero: ''
+author: Anushka
 image: "/uploads/k-2.png"
 comments: false
 

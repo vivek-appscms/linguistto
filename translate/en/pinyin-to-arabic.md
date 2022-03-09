@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: zh
 to: ar
-langName : pinyin-to
+langname: pinyin-to
 permalink: /pinyin-to-arabic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&zh&&ar
 ---
 {% include section/translateinto.html %}

@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: swahili-to-tamil-sentence-translation
+translatein: swahili_to_tamil
+folderName : translate
+lang: sw
+from: sw
+to: ta
+langname: swahili-to
+permalink: /sw/swahili-to-tamil-sentence-translation
+tool: sentence-translations
+matchurls: en&&sw&&ta
+---
+{% include section/translateinto.html %}

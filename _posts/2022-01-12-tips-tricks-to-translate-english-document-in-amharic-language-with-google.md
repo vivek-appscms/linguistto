@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Tips & tricks to translate English document in Amharic language with Google
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/qnd.png"
 comments: false
 

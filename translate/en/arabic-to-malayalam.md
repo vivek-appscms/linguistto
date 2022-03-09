@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ar
 to: ml
-langName : arabic-to
+langname: arabic-to
 permalink: /arabic-to-malayalam-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ar&&ml
 ---
 {% include section/translateinto.html %}

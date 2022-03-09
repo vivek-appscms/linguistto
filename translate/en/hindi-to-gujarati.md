@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: hi
 to: gu
-langName : hindi-to
+langname: hindi-to
 permalink: /hindi-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&hi&&gu
 ---
 {% include section/translateinto.html %}

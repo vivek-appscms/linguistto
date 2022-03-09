@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: filipino-to-french-sentence-translation
+translatein: filipino_to_french
+folderName : translate
+lang: en
+from: fil
+to: fr
+langname: filipino-to
+permalink: /fil/filipino-to-french-sentence-translation
+tool: sentence-translations
+matchurls: en&&fil&&fr
+---
+{% include section/translateinto.html %}

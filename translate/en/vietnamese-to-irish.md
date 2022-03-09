@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: ga
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi&&ga
 ---
 {% include section/translateinto.html %}

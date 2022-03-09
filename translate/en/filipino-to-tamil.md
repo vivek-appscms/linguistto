@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fil
 to: ta
-langName : filipino-to
+langname: filipino-to
 permalink: /filipino-to-tamil-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fil&&ta
 ---
 {% include section/translateinto.html %}

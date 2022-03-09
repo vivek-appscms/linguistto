@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: pa
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-punjabi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi&&pa
 ---
 {% include section/translateinto.html %}

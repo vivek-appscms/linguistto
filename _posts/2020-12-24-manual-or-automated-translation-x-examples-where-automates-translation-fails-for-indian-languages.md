@@ -5,7 +5,6 @@ title:
   Manual or automated translation ? Top examples where automates translation
   fails for Indian languages
 layout: post
-hero: ''
 image: '/uploads/output-7.png'
 author: ankita
 comments: false

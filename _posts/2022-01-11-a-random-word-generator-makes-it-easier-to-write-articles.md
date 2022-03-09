@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: A random word generator makes it easier to write articles
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/output-13.png"
 comments: false
 

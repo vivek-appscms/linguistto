@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fa
 to: la
-langName : farsi-to
+langname: farsi-to
 permalink: /farsi-to-latin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fa&&la
 ---
 {% include section/translateinto.html %}

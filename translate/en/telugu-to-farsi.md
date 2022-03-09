@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: fa
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-farsi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&fa
 ---
 {% include section/translateinto.html %}

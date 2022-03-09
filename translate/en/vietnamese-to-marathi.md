@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: mr
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-marathi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi&&mr
 ---
 {% include section/translateinto.html %}

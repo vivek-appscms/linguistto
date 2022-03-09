@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: la
 to: pa
-langName : latin-to
+langname: latin-to
 permalink: /latin-to-punjabi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&la&&pa
 ---
 {% include section/translateinto.html %}

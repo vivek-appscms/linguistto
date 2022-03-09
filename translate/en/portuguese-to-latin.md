@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: la
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-latin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt&&la
 ---
 {% include section/translateinto.html %}

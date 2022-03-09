@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: am
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-amharic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt&&am
 ---
 {% include section/translateinto.html %}

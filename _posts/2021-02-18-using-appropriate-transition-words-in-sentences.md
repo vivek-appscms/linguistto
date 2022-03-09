@@ -4,7 +4,7 @@ categories:
 - general
 title: Using appropriate transition words in sentences
 layout: post
-hero: ''
+author: Anushka
 image: "/uploads/p-3.png"
 comments: false
 

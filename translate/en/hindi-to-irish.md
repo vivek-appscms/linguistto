@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: hi
 to: ga
-langName : hindi-to
+langname: hindi-to
 permalink: /hindi-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&hi&&ga
 ---
 {% include section/translateinto.html %}

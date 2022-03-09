@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: kinyarwanda-to-tamil-sentence-translation
+translatein: kinyarwanda_to_tamil
+folderName : translate
+lang: rw
+from: rw
+to: ta
+langname: kinyarwanda-to
+permalink: /rw/kinyarwanda-to-tamil-sentence-translation
+tool: sentence-translations
+matchurls: en&&rw&&ta
+---
+{% include section/translateinto.html %}

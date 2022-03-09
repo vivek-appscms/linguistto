@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: am
 to: ta
-langName : amharic-to
+langname: amharic-to
 permalink: /amharic-to-tamil-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&am&&ta
 ---
 {% include section/translateinto.html %}

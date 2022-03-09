@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: hi
 to: zh
-langName : hindi-to
+langname: hindi-to
 permalink: /hindi-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&hi&&zh
 ---
 {% include section/translateinto.html %}

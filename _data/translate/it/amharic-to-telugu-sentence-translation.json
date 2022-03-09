@@ -1,0 +1,167 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Strumento per la traduzione di frasi",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al punjabi",
+                        "url": "/it/arabic-to-punjabi-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione di frasi dall\"arabo all\"amarico",
+                        "url": "/it/arabic-to-amharic-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo all\"inglese",
+                        "url": "/it/arabic-to-english-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al farsi",
+                        "url": "/it/arabic-to-farsi-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al filippino",
+                        "url": "/it/arabic-to-filipino-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al tedesco",
+                        "url": "/it/arabic-to-german-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al gujarati",
+                        "url": "/it/arabic-to-gujarati-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo all\"hindi",
+                        "url": "/it/arabic-to-hindi-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo all\"irlandese",
+                        "url": "/it/arabic-to-irish-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione di frasi dall'arabo all'italiano",
+                        "url": "/it/arabic-to-italian-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al giapponese",
+                        "url": "/it/arabic-to-japanese-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione di frase da Arabo a Kinyarwanda",
+                        "url": "/it/arabic-to-kinyarwanda-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione di frasi dall'arabo al latino",
+                        "url": "/it/arabic-to-latin-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al malayalam",
+                        "url": "/it/arabic-to-malayalam-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al marathi",
+                        "url": "/it/arabic-to-marathi-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Arabo-Pinyin traduzione frase",
+                        "url": "/it/arabic-to-pinyin-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al portoghese",
+                        "url": "/it/arabic-to-portuguese-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Arabo-Puerto traduzione frase",
+                        "url": "/it/arabic-to-puerto-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo allo spagnolo",
+                        "url": "/it/arabic-to-spanish-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo allo swahili",
+                        "url": "/it/arabic-to-swahili-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al tagalog",
+                        "url": "/it/arabic-to-tagalog-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al tamil",
+                        "url": "/it/arabic-to-tamil-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al telugu",
+                        "url": "/it/arabic-to-telugu-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo all\"urdu",
+                        "url": "/it/arabic-to-urdu-sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Traduzione della frase dall\"arabo al vietnamita",
+                        "url": "/it/arabic-to-vietnamese-sentence-translation",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

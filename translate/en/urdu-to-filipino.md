@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ur
 to: fil
-langName : urdu-to
+langname: urdu-to
 permalink: /urdu-to-filipino-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ur&&fil
 ---
 {% include section/translateinto.html %}

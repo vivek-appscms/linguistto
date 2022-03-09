@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: la
 to: am
-langName : latin-to
+langname: latin-to
 permalink: /latin-to-amharic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&la&&am
 ---
 {% include section/translateinto.html %}

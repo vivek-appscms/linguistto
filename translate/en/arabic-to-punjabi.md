@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ar
 to: pa
-langName : arabic-to
+langname: arabic-to
 permalink: /arabic-to-punjabi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ar&&pa
 ---
 {% include section/translateinto.html %}

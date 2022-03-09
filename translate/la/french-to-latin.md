@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: french-to-latin-sentence-translation
+translatein: french_to_latin
+folderName : translate
+lang: la
+from: fr
+to: la
+langname: french-to
+permalink: /la/french-to-latin-sentence-translation
+tool: sentence-translations
+matchurls: en&&fr&&la
+---
+{% include section/translateinto.html %}

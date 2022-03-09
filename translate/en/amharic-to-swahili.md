@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: am
 to: sw
-langName : amharic-to
+langname: amharic-to
 permalink: /amharic-to-swahili-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&am&&sw
 ---
 {% include section/translateinto.html %}

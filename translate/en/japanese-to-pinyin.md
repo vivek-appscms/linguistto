@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ja
 to: zh
-langName : japanese-to
+langname: japanese-to
 permalink: /japanese-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ja&&zh
 ---
 {% include section/translateinto.html %}

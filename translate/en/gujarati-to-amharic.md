@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: gu
 to: am
-langName : gujarati-to
+langname: gujarati-to
 permalink: /gujarati-to-amharic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&gu&&am
 ---
 {% include section/translateinto.html %}

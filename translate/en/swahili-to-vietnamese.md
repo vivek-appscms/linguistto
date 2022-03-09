@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: sw
 to: vi
-langName : swahili-to
+langname: swahili-to
 permalink: /swahili-to-vietnamese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&sw&&vi
 ---
 {% include section/translateinto.html %}
