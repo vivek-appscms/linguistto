@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-japanese-sentence-translation
 translatein: swahili_to_japanese
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: ja
 langname: swahili-to

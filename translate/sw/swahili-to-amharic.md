@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-amharic-sentence-translation
 translatein: swahili_to_amharic
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: am
 langname: swahili-to

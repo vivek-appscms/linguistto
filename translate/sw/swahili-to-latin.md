@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-latin-sentence-translation
 translatein: swahili_to_latin
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: la
 langname: swahili-to

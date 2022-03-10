@@ -3,7 +3,7 @@ layout: home
 fileName: hindi-to-swahili-sentence-translation
 translatein: hindi_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: hi
 to: sw
 langname: hindi-to

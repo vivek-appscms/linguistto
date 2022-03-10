@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-tamil-sentence-translation
 translatein: swahili_to_tamil
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: ta
 langname: swahili-to

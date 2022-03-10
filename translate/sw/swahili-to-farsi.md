@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-farsi-sentence-translation
 translatein: swahili_to_farsi
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: fa
 langname: swahili-to

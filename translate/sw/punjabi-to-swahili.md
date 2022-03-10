@@ -3,7 +3,7 @@ layout: home
 fileName: punjabi-to-swahili-sentence-translation
 translatein: punjabi_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: pa
 to: sw
 langname: punjabi-to

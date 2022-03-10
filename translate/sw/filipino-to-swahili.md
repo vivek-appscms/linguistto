@@ -3,7 +3,7 @@ layout: home
 fileName: filipino-to-swahili-sentence-translation
 translatein: filipino_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: fil
 to: sw
 langname: filipino-to

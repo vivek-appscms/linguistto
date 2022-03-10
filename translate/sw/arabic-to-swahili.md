@@ -3,7 +3,7 @@ layout: home
 fileName: arabic-to-swahili-sentence-translation
 translatein: arabic_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: ar
 to: sw
 langname: arabic-to

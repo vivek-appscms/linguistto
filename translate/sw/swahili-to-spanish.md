@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-spanish-sentence-translation
 translatein: swahili_to_spanish
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: es
 langname: swahili-to

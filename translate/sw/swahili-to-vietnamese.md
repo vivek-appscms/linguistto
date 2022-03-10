@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-vietnamese-sentence-translation
 translatein: swahili_to_vietnamese
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: vi
 langname: swahili-to

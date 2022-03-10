@@ -3,7 +3,7 @@ layout: home
 fileName: portuguese-to-swahili-sentence-translation
 translatein: portuguese_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: pt
 to: sw
 langname: portuguese-to

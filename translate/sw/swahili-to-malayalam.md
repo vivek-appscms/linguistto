@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-malayalam-sentence-translation
 translatein: swahili_to_malayalam
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: ml
 langname: swahili-to

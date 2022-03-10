@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-irish-sentence-translation
 translatein: swahili_to_irish
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: ga
 langname: swahili-to

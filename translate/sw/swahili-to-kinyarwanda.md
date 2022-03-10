@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-kinyarwanda-sentence-translation
 translatein: swahili_to_kinyarwanda
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: rw
 langname: swahili-to

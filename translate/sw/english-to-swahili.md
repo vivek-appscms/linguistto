@@ -3,7 +3,7 @@ layout: home
 fileName: english-to-swahili-sentence-translation
 translatein: english_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: en
 to: sw
 langname: english-to

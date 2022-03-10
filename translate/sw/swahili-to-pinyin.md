@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-pinyin-sentence-translation
 translatein: swahili_to_pinyin
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: zh
 langname: swahili-to

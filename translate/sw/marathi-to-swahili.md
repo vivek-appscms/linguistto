@@ -3,7 +3,7 @@ layout: home
 fileName: marathi-to-swahili-sentence-translation
 translatein: marathi_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: mr
 to: sw
 langname: marathi-to

@@ -3,7 +3,7 @@ layout: home
 fileName: puerto-to-swahili-sentence-translation
 translatein: puerto_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: es
 to: sw
 langname: puerto-to

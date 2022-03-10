@@ -3,7 +3,7 @@ layout: home
 fileName: german-to-swahili-sentence-translation
 translatein: german_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: de
 to: sw
 langname: german-to

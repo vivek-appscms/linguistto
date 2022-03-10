@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-french-sentence-translation
 translatein: swahili_to_french
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: fr
 langname: swahili-to

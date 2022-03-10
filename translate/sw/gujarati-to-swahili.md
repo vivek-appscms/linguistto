@@ -3,7 +3,7 @@ layout: home
 fileName: gujarati-to-swahili-sentence-translation
 translatein: gujarati_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: gu
 to: sw
 langname: gujarati-to

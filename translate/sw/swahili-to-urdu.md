@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-urdu-sentence-translation
 translatein: swahili_to_urdu
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: ur
 langname: swahili-to

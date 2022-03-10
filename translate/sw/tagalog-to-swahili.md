@@ -3,7 +3,7 @@ layout: home
 fileName: tagalog-to-swahili-sentence-translation
 translatein: tagalog_to_swahili
 folderName : translate
-lang: sw
+lang: en
 from: tl
 to: sw
 langname: tagalog-to

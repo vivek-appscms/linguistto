@@ -3,7 +3,7 @@ layout: home
 fileName: swahili-to-telugu-sentence-translation
 translatein: swahili_to_telugu
 folderName : translate
-lang: sw
+lang: en
 from: sw
 to: te
 langname: swahili-to
