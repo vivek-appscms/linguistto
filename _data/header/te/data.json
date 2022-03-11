@@ -5,26 +5,9 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "పారాఫ్రాసింగ్ సాధనం",
+                "categoryName": "ఇతర పరికరములు",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "హిందీ పారాఫ్రాస్ సాధనం",
-                        "url": "/te/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "రష్యన్ పారాఫ్రాస్ సాధనం",
-                        "url": "/te/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "స్పానిష్ పారాఫ్రాస్ సాధనం",
-                        "url": "/te/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "ఇంగ్లీష్ నుండి హిందీ టైపింగ్",
@@ -36,102 +19,6 @@
                         "name": "ఇంగ్లీష్ టు బంగ్లా టైపింగ్",
                         "url": "/te/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "జర్మన్ పారాఫ్రేజ్ సాధనం",
-                        "url": "/te/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "కొరియన్ పారాఫ్రేజ్ సాధనం",
-                        "url": "/te/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "డానిష్ పారాఫ్రాస్ సాధనం",
-                        "url": "/te/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ఇటాలియన్ పారాఫ్రాస్ సాధనం",
-                        "url": "/te/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "పోలిష్ పారాఫ్రాస్ సాధనం",
-                        "url": "/te/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "స్వీడిష్ పారాఫ్రేజ్ సాధనం",
-                        "url": "/te/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "థాయ్-పారాఫ్రాస్-సాధనం",
-                        "url": "/te/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "జపనీస్-పారాఫ్రాస్-టూల్",
-                        "url": "/te/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "అరబిక్ పారాఫ్రాస్-సాధనం",
-                        "url": "/te/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ఉక్రేనియన్ పారాఫ్రాస్-టూల్",
-                        "url": "/te/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "చైనీస్-పారాఫ్రేజ్-సాధనం",
-                        "url": "/te/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ఇండోనేషియా-పారాఫ్రమ్ టూల్",
-                        "url": "/te/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "వియత్నామీస్ పారాఫ్రాస్-సాధనం",
-                        "url": "/te/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ఫ్రెంచ్-పారాఫ్రాస్-సాధనం",
-                        "url": "/te/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "డచ్-పారాఫ్రమ్ టూల్",
-                        "url": "/te/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "పోర్చుగీస్-పారాఫ్రాస్-టూల్",
-                        "url": "/te/portuguese-paraphrase-tool"
                     }
                 ]
             },

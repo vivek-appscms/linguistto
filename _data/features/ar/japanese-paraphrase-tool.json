@@ -7,7 +7,153 @@
     "META": "إعادة صياغة النص الخاص بك إلى اليابانية على الفور. للحصول على العديد من المتغيرات التي تمت إعادة صياغتها من المحتوى الخاص بك، استخدم أداة إعادة الصياغة اليابانية المجانية هذه.",
     "imgwidth": "40px",
     "imgheight": "40px",
-    "imgalt": "altvalue",
+   "imgalt": "altvalue",
+ "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "أدوات إعادة الصياغة",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة اللغة العربية",
+                        "url": "/ar/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة الصينية",
+                        "url": "/ar/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة الدنماركية",
+                        "url": "/ar/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة اللغة العربية",
+                        "url": "/ar/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة اللغة الإنجليزية",
+                        "url": "/ar/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة الفرنسية",
+                        "url": "/ar/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "أدوات إعادة الصياغة",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة ألمانية",
+                        "url": "/ar/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة الهندية",
+                        "url": "/ar/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة إندونيسية",
+                        "url": "/ar/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة إيطالية",
+                        "url": "/ar/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة يابانية",
+                        "url": "/ar/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة كورية",
+                        "url": "/ar/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة بولندية",
+                        "url": "/ar/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "أدوات إعادة الصياغة",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة برتغالية",
+                        "url": "/ar/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة روسية",
+                        "url": "/ar/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة اللغة الإسبانية",
+                        "url": "/ar/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة السويدية",
+                        "url": "/ar/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة التايلاندية",
+                        "url": "/ar/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة التركية",
+                        "url": "/ar/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة صياغة أوكرانية",
+                        "url": "/ar/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "أداة إعادة الصياغة الفيتنامية",
+                        "url": "/ar/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

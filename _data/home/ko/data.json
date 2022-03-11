@@ -31,6 +31,13 @@
             "url": "/ko/hindi-paraphrase-tool"
         },
         {
+            "name": "모든 의역 도구",
+            "url": "/ko/all-paraphrase-pages",
+            "description": "전문가를 위한 모든 의역 도구",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "스페인어 의역 도구",
             "description": "전문가를 위한 스페인어 의역 도구",
             "color": "#0e6d6d",

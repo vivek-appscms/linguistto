@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "Paraphrasing aracı",
+                "categoryName": "Diğer Araçlar",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Hintçe Paraphrase aracı",
-                        "url": "/tr/hindi-paraphrase-tool",
+                        "name": "Tüm Paraphrasing araçları",
+            "url": "/tr/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Rusça Paraphrase aracı",
-                        "url": "/tr/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "İspanyolca Parafrase aracı",
-                        "url": "/tr/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Turkish to hindi Typing",
@@ -37,12 +26,7 @@
                         "url": "/tr/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Almanca Paraphrase aracı",
-                        "url": "/tr/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Kelime sayımı aracı",

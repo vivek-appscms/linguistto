@@ -5,26 +5,8 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "የማብራሪያ መሳሪያ",
+                "categoryName": "ሌሎች መሳሪያዎች",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "የሂንዲ ፓራፊስ መሳሪያ",
-                        "url": "/am/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "የሩሲያ ፓራፊክ መሳሪያ",
-                        "url": "/am/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "የስፓኒሽ ፓራፊስ መሳሪያ",
-                        "url": "/am/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "እንግሊዝኛ ወደ ሂንዲ መተየብ",
@@ -39,99 +21,9 @@
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "የጀርመን ፓራፊል መሳሪያ",
-                        "url": "/am/german-paraphrase-tool",
+                        "name": "ሁሉም የማብራሪያ መሳሪያዎች",
+                        "url": "/all-paraphrase-pages",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የኮሪያ ፓራፊል መሳሪያ",
-                        "url": "/am/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የዴንማርክ ፓራፊስ መሳሪያ",
-                        "url": "/am/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የጣሊያን ፓራፊስ መሳሪያ",
-                        "url": "/am/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የፖላንድ ፓራፊስ መሳሪያ",
-                        "url": "/am/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የስዊድን መግለጫ መሳሪያ",
-                        "url": "/am/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የታይ-ምሳሌ-መሳሪያ መሳሪያ",
-                        "url": "/am/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ጃፓን-ምሳሌ-መሳሪያ",
-                        "url": "/am/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "አረብ-ሐረፍ-ሐረግ-መሣሪያ",
-                        "url": "/am/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የዩክሬን-ምሳሌ-መሳሪያ",
-                        "url": "/am/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የቻይና-ምሳሌ-መሣሪያ",
-                        "url": "/am/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የኢንዶኔዥያ-ምሳሌ-መሳሪያ",
-                        "url": "/am/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ቪትናማዎች-ምሳሌ-ሐረፍ-መሣሪያ",
-                        "url": "/am/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የፈረንሳይኛ-ፓራፊክ-መሣሪያ",
-                        "url": "/am/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "የደች-ምሳሌ-መሳሪያ",
-                        "url": "/am/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ፖርቹጋል-ምሳሌ - መሣሪያ",
-                        "url": "/am/portuguese-paraphrase-tool"
                     }
                 ]
             },

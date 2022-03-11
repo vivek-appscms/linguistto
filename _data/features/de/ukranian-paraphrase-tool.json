@@ -7,7 +7,153 @@
     "META": "Paraphrasieren Sie Ihren Text sofort ins Ukrainische. Um mehrere paraphrasierte Varianten Ihres Inhalts zu erhalten, verwenden Sie dieses kostenlose ukrainische Paraphrasierungstool.",
     "imgwidth": "40px",
     "imgheight": "40px",
-    "imgalt": "altvalue",
+           "imgalt": "altvalue",
+        "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "paraphrasieren Tools",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Arabisches Paraphrasierungswerkzeug",
+                        "url": "/de/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Chinesisches Paraphrasierungswerkzeug",
+                        "url": "/de/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Dänisches Paraphrasier-Tool",
+                        "url": "/de/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Arabisches Paraphrasierungswerkzeug",
+                        "url": "/de/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Englisches Paraphrasierungs-Tool",
+                        "url": "/de/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Französisches Paraphrasierwerkzeug",
+                        "url": "/de/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "paraphrasieren Tools",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Deutsche Paraphrasierung",
+                        "url": "/de/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Paraphrasierungs-Tool für Hindi",
+                        "url": "/de/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Indonesisches Paraphrasierungs-Tool",
+                        "url": "/de/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Italienisches Paraphrasierungs-Tool",
+                        "url": "/de/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Japanisches Paraphrasierungswerkzeug",
+                        "url": "/de/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Koreanisches Paraphrasierungs-Tool",
+                        "url": "/de/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Polnisches Paraphrasierungswerkzeug",
+                        "url": "/de/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "paraphrasieren Tools",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Portugiesisches Paraphrasier-Tool",
+                        "url": "/de/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Russisches Paraphrasierungswerkzeug",
+                        "url": "/de/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Spanisches Paraphrasier-Tool",
+                        "url": "/de/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Schwedisches Paraphrasier-Tool",
+                        "url": "/de/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Thai Paraphrasierung",
+                        "url": "/de/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Türkisches Paraphrasierungswerkzeug",
+                        "url": "/de/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Uranisches Paraphrasierungswerkzeug",
+                        "url": "/de/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Vietnamesisches Paraphrasierungs-Tool",
+                        "url": "/de/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

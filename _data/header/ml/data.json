@@ -5,26 +5,8 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "പരഫ്രസിന്ഗ് ഉപകരണം",
+                "categoryName": "മറ്റ് ഉപകരണങ്ങൾ",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ഹിന്ദി പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "റഷ്യൻ പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "സ്പാനിഷ് പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "ഹിന്ദി ടൈപ്പിംഗ് ഇംഗ്ലീഷ്",
@@ -36,102 +18,6 @@
                         "name": "ഇംഗ്ലീഷ് മുതൽ ബംഗ്ലാ ടൈപ്പിംഗ്",
                         "url": "/ml/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ജർമൻ പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "കൊറിയൻ പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ഡാനിഷ് പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ഇറ്റാലിയൻ പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "പോളിഷ് പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "സ്വീഡിഷ് പരഫ്രസെ ഉപകരണം",
-                        "url": "/ml/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ഥൈ-പരഫ്രചെസ്-ഉപകരണം",
-                        "url": "/ml/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ജപ്പാനീസ്-പാരാഫ്രെയ്സ്-ഉപകരണം",
-                        "url": "/ml/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "അറബിക്-പരഫ്രസെ-ഉപകരണം",
-                        "url": "/ml/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ഉക്രനി-പരപ്-ഉപകരണം",
-                        "url": "/ml/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ചൈനീസ്-പാരാഫ്രെയ്സ്-ഉപകരണം",
-                        "url": "/ml/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ഇന്തോനേഷ്യൻ-പാരാഫ്രസ്-ഉപകരണം",
-                        "url": "/ml/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "വിയറ്റ്നാമീസ്-പാരാഫ്രസ്-ഉപകരണം",
-                        "url": "/ml/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ഫ്രഞ്ച്-പാരാഫ്രെയ്സ്-ഉപകരണം",
-                        "url": "/ml/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ഡച്ച്-പാരാഫ്രെയ്സ്-ഉപകരണം",
-                        "url": "/ml/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "പോർച്ചുഗീസ് പാരാഫ്രസ്-ഉപകരണം",
-                        "url": "/ml/portuguese-paraphrase-tool"
                     }
                 ]
             },

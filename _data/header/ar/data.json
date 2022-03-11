@@ -5,44 +5,21 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "أداة إعادة الصياغة",
+                "categoryName":  "أدوات أخرى",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة هندية",
-                        "url": "/ar/hindi-paraphrase-tool",
+                   {
+                       "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "جميع أدوات إعادة الصياغة",
+                        "url": "/ar/all-paraphrase-pages",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة روسية",
-                        "url": "/ar/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة اللغة الإسبانية",
-                        "url": "/ar/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "الكتابة من الإنجليزية إلى الهندية",
-                        "url": "/ar/english-to-hindi-typing",
-                        "hover": "blue"
-                    },
+                   },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "الكتابة من الإنجليزية إلى البنغالية",
                         "url": "/ar/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "أداة إعادة صياغة ألمانية",
-                        "url": "/ar/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "أداة عدد الكلمات",

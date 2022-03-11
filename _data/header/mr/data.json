@@ -5,26 +5,9 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "पॅराफ्रासिंग साधन",
+                "categoryName": "इतर साधने",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "हिंदी शब्दकोश साधन",
-                        "url": "/mr/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "रशियन पॅराफ्रेज साधन",
-                        "url": "/mr/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "स्पॅनिश पॅराफ्रेज साधन",
-                        "url": "/mr/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "इंग्रजी ते हिंदी टायपिंग",
@@ -36,102 +19,6 @@
                         "name": "इंग्रजी ते बांगला टायपिंग",
                         "url": "/mr/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "जर्मन पॅराफ्रेज साधन",
-                        "url": "/mr/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "कोरियन पॅराफ्रेज साधन",
-                        "url": "/mr/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "डॅनिश पॅराफ्रेज साधन",
-                        "url": "/mr/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "इटालियन पॅराफ्रेज साधन",
-                        "url": "/mr/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "पोलिश पॅराफ्रेज साधन",
-                        "url": "/mr/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "स्वीडिश पॅराफ्रेज साधन",
-                        "url": "/mr/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "पॅराफ्रेज-साधन",
-                        "url": "/mr/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "जपानी पॅराफ्रेज-साधन",
-                        "url": "/mr/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "अरबी पॅराफ्रेज-साधन",
-                        "url": "/mr/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "युक्रेनियन पॅराफ्रेज-साधन",
-                        "url": "/mr/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "चीनी-पॅराफ्रेज-साधन",
-                        "url": "/mr/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "इंडोनेशियन पॅराफ्रेज-साधन",
-                        "url": "/mr/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "व्हिएतनाम-पॅराफ्रेज-साधन",
-                        "url": "/mr/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "फ्रेंच-पॅराफ्रेज-साधन",
-                        "url": "/mr/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "डच-पॅराफ्रेश-साधन",
-                        "url": "/mr/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "पोर्तुगीज पॅराफ्रेज-साधन",
-                        "url": "/mr/portuguese-paraphrase-tool"
                     }
                 ]
             },

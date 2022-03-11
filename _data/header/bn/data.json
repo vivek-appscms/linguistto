@@ -5,26 +5,9 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "অপব্যবহার টুল",
+                "categoryName": "অন্যান্য সরঞ্জাম",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "হিন্দি প্যারাফ্রেজ টুল",
-                        "url": "/bn/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "রাশিয়ান প্যারাফ্রেজ টুল",
-                        "url": "/bn/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "স্প্যানিশ প্যারাফ্রেজ টুল",
-                        "url": "/bn/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "বাংলা থেকে হিন্দি টাইপিং",
@@ -36,102 +19,6 @@
                         "name": "বাংলা থেকে বাংলা টাইপিং",
                         "url": "/bn/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "জার্মান প্যারাফ্রেজ টুল",
-                        "url": "/bn/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "কোরিয়ান প্যারাফ্রেজ টুল",
-                        "url": "/bn/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ড্যানিশ প্যারাফ্রেজ টুল",
-                        "url": "/bn/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ইতালীয় প্যারাফ্রেজ টুল",
-                        "url": "/bn/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "পোলিশ প্যারাফ্রেজ টুল",
-                        "url": "/bn/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "সুইডিশ প্যারাফ্রেজ টুল",
-                        "url": "/bn/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "থাই-প্যারাফ্রেজ টুল",
-                        "url": "/bn/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "জাপানি-প্যারাফ্রেজ হাতিয়ার",
-                        "url": "/bn/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "আরবি-প্যারাফ্রেজ-টুল",
-                        "url": "/bn/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ইউক্রেনীয়-প্যারাফ্রেজ টুল",
-                        "url": "/bn/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "চীনা-প্যারাফ্রেজ টুল",
-                        "url": "/bn/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ইন্দোনেশিয়ান-প্যারাফ্রেজ টুল",
-                        "url": "/bn/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ভিয়েতনামী-প্যারাফ্রেজ টুল",
-                        "url": "/bn/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ফরাসি-প্যারাফ্রেজ-টুল",
-                        "url": "/bn/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ডাচ-প্যারাফ্রেজ টুল",
-                        "url": "/bn/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "পর্তুগিজ-পারফ্রেজ টুল",
-                        "url": "/bn/portuguese-paraphrase-tool"
                     }
                 ]
             },

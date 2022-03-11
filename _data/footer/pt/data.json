@@ -21,84 +21,8 @@
     ],
     "product": [
         {
-            "name": "Ferramenta de parafraseamento",
-            "url": "/pt/paraphrasing-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase alemã",
-            "url": "/pt/german-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase hindi",
-            "url": "/pt/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase russa",
-            "url": "/pt/russian-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase espanhola",
-            "url": "/pt/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase coreana",
-            "url": "/pt/korean-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase dinamarquesa",
-            "url": "/pt/danish-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase italiana",
-            "url": "/pt/italian-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase polonesa",
-            "url": "/pt/polish-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase sueca",
-            "url": "/pt/swedish-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase tailandesa",
-            "url": "/pt/thai-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase japonesa",
-            "url": "/pt/japanese-paraphrase-tool"
-        },
-        {
-            "name": "ferramenta de paráfrase árabe",
-            "url": "/pt/arabic-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase ucraniana",
-            "url": "/pt/ukranian-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase chinesa",
-            "url": "/pt/chinese-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase indonésia",
-            "url": "/pt/indonesian-paraphrase-tool"
-        },
-        {
-            "name": "ferramenta de paráfrase vietnamita",
-            "url": "/pt/vietnamese-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase francesa",
-            "url": "/pt/french-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase holandesa",
-            "url": "/pt/dutch-paraphrase-tool"
-        },
-        {
-            "name": "Ferramenta de paráfrase em português",
-            "url": "/pt/portuguese-paraphrase-tool"
+            "name": "Todas as ferramentas de parafraseamento",
+            "url": "/pt/all-paraphrase-pages"
         },
         {
             "name": "Ferramenta de transliteração",

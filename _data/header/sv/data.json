@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "parafraseringsverktyg",
+                "categoryName": "Andra verktyg",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Verktyget Hindi Parafras",
-                        "url": "/sv/hindi-paraphrase-tool",
+                        "name": "Alla parafraseringsverktyg",
+            "url": "/sv/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Ryskt parafrasverktyg",
-                        "url": "/sv/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Verktyget Spanskt parafras",
-                        "url": "/sv/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Swedish to hindi Typing",
@@ -37,12 +26,7 @@
                         "url": "/sv/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Verktyget Tyskt parafras",
-                        "url": "/sv/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Verktyg för antal ord",

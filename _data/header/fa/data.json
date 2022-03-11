@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "ابزار تفسیر",
+                "categoryName": "سایر ابزارها",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "ابزار پارافراسی هندی",
-                        "url": "/fa/hindi-paraphrase-tool",
+                        "url": "/hindi-paraphrase-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ابزار تفسیر روسی",
-                        "url": "/fa/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ابزار تفسیر اسپانیایی",
-                        "url": "/fa/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "تایپ انگلیسی به هندی",
@@ -36,103 +25,8 @@
                         "name": "انگلیسی به bangla تایپ",
                         "url": "/fa/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ابزار پارافراز آلمانی",
-                        "url": "/fa/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار پارافراسی کره‌ای",
-                        "url": "/fa/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار پارافراز دانمارکی",
-                        "url": "/fa/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار پارافراز ایتالیایی",
-                        "url": "/fa/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار پارافراز لهستانی",
-                        "url": "/fa/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار پارافراسی سوئدی",
-                        "url": "/fa/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار تایی-پارافراس-ابزار",
-                        "url": "/fa/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار ژاپنی - پاراگراف",
-                        "url": "/fa/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار عربی-تفسیر",
-                        "url": "/fa/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار اوکرانیایی-پارافاراس-ابزار",
-                        "url": "/fa/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "چینی-ابزار",
-                        "url": "/fa/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "اندونزی-پارافاراس-ابزار",
-                        "url": "/fa/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار ویتنامی",
-                        "url": "/fa/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ابزار فرانسوی",
-                        "url": "/fa/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "هلندی پارافراس-ابزار",
-                        "url": "/fa/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "پرتغالی-پاراگراف ابزار",
-                        "url": "/fa/portuguese-paraphrase-tool"
                     }
+                   
                 ]
             },
             {

@@ -31,6 +31,13 @@
             "url": "/id/hindi-paraphrase-tool"
         },
         {
+            "name": "Semua alat Paraphrasing",
+            "url": "/id/all-paraphrase-pages",
+            "description": "Semua alat Paraphrasing untuk para profesional",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "spanyol-paraphrase-alat",
             "description": "Alat Parafrase Spanyol untuk para profesional",
             "color": "#0e6d6d",

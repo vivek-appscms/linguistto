@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "инструмент перефразирования",
+                "categoryName": "Другие инструменты",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Инструмент перефразирования на хинди",
-                        "url": "/ru/hindi-paraphrase-tool",
+                        "name": "Все инструменты перефразирования",
+                         "url": "/ru/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Русский инструмент перефразирования",
-                        "url": "/ru/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Испанский инструмент перефразирования",
-                        "url": "/ru/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Набор текста с английского на хинди",
@@ -37,12 +26,7 @@
                         "url": "/ru/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Немецкий инструмент перефразирования",
-                        "url": "/ru/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Инструмент подсчета слов",

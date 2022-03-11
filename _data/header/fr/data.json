@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "outil de paraphrase",
+                "categoryName": "Autres outils",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Outil Paraphrase Hindi",
-                        "url": "/fr/hindi-paraphrase-tool",
+                        "name": "Tous les outils pour paraphraser",
+                        "url": "/fr/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Paraphrase russe",
-                        "url": "/fr/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Paraphrase espagnol",
-                        "url": "/fr/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Saisie de l'anglais vers le",
@@ -37,12 +26,7 @@
                         "url": "/fr/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Outil Paraphrase allemand",
-                        "url": "/fr/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Outil de comptage de mots",

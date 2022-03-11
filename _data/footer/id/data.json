@@ -21,84 +21,8 @@
     ],
     "product": [
         {
-            "name": "Alat parafrase",
-            "url": "/id/paraphrasing-tool"
-        },
-        {
-            "name": "Alat Parafrase Jerman",
-            "url": "/id/german-paraphrase-tool"
-        },
-        {
-            "name": "Alat parafrase Hindi",
-            "url": "/id/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Alat Parafrasis Rusia",
-            "url": "/id/russian-paraphrase-tool"
-        },
-        {
-            "name": "Alat parafrasis Spanyol",
-            "url": "/id/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Alat Parafrasis Korea",
-            "url": "/id/korean-paraphrase-tool"
-        },
-        {
-            "name": "Alat Parafrasis Denmark",
-            "url": "/id/danish-paraphrase-tool"
-        },
-        {
-            "name": "Alat Parafrase Italia",
-            "url": "/id/italian-paraphrase-tool"
-        },
-        {
-            "name": "Alat parafrase Polandia",
-            "url": "/id/polish-paraphrase-tool"
-        },
-        {
-            "name": "Alat Parafrasis Swedia",
-            "url": "/id/swedish-paraphrase-tool"
-        },
-        {
-            "name": "Thai-paraphrase-alat",
-            "url": "/id/thai-paraphrase-tool"
-        },
-        {
-            "name": "Jepang-paraphrase-alat",
-            "url": "/id/japanese-paraphrase-tool"
-        },
-        {
-            "name": "alat parafrasa-arabik",
-            "url": "/id/arabic-paraphrase-tool"
-        },
-        {
-            "name": "Ukrania-paraphrase-alat",
-            "url": "/id/ukranian-paraphrase-tool"
-        },
-        {
-            "name": "Cina-paraphrase-alat",
-            "url": "/id/chinese-paraphrase-tool"
-        },
-        {
-            "name": "Indonesia-paraphrase-alat",
-            "url": "/id/indonesian-paraphrase-tool"
-        },
-        {
-            "name": "Vietname-paraphrase-alat",
-            "url": "/id/vietnamese-paraphrase-tool"
-        },
-        {
-            "name": "Perancis-paraphrase-alat",
-            "url": "/id/french-paraphrase-tool"
-        },
-        {
-            "name": "Belanda-paraphrase-alat",
-            "url": "/id/dutch-paraphrase-tool"
-        },
-        {
-            "name": "Portugis-paraphrase-alat",
-            "url": "/id/portuguese-paraphrase-tool"
+            "name": "Semua alat Paraphrasing",
+            "url": "/id/all-paraphrase-pages"
         },
         {
             "name": "Alat transliterasi",

@@ -21,84 +21,8 @@
     ],
     "product": [
         {
-            "name": "เครื่องมือถอดความถวม",
-            "url": "/th/paraphrasing-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความภาษาเยอรมัน",
-            "url": "/th/german-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความหมายภาษาฮินดี",
-            "url": "/th/hindi-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความภาษารัสเซีย",
-            "url": "/th/russian-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความภาษาสเปน",
-            "url": "/th/spanish-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความภาษาเกาหลี",
-            "url": "/th/korean-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความภาษาเดนมาร์ก",
-            "url": "/th/danish-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือแปลความหมายภาษาอิตาลี",
-            "url": "/th/italian-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความภาษาโปแลนด์",
-            "url": "/th/polish-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดความภาษาสวีเดน",
-            "url": "/th/swedish-paraphrase-tool"
-        },
-        {
-            "name": "ไทย-อุปกรณ์ถอดถวร",
-            "url": "/th/thai-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือแปลภาษาญี่ปุ่น",
-            "url": "/th/japanese-paraphrase-tool"
-        },
-        {
-            "name": "ภาษาอาหรับ - เครื่องมือถอดถวร",
-            "url": "/th/arabic-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมืออุคราเนีย-พาราวลี",
-            "url": "/th/ukranian-paraphrase-tool"
-        },
-        {
-            "name": "เครื่องมือถอดวลีภาษาจีน",
-            "url": "/th/chinese-paraphrase-tool"
-        },
-        {
-            "name": "อินโดนีเซีย-พาราวล-เครื่องมือ",
-            "url": "/th/indonesian-paraphrase-tool"
-        },
-        {
-            "name": "เวียดนาม-การถอดถ้อยคำ-เครื่องมือ",
-            "url": "/th/vietnamese-paraphrase-tool"
-        },
-        {
-            "name": "ภาษาฝรั่งเศส-ถอดวลี-เครื่องมือ",
-            "url": "/th/french-paraphrase-tool"
-        },
-        {
-            "name": "ดัตช์ถอดวลีเครื่องมือ",
-            "url": "/th/dutch-paraphrase-tool"
-        },
-        {
-            "name": "โปรตุเกส-คำแปล-เครื่องมือ",
-            "url": "/th/portuguese-paraphrase-tool"
+            "name": "เครื่องมือถอดความทั้งหมด",
+            "url": "/th/all-paraphrase-pages"
         },
         {
             "name": "เครื่องมือทับศัพท์",

@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "strumento parafrasi",
+                "categoryName": "Altri strumenti",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Strumento parafrasi hindi",
-                        "url": "/it/hindi-paraphrase-tool",
+                        "name": "Semua alat Paraphrasing",
+                        "url": "/id/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Strumento Parafrasi russo",
-                        "url": "/it/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Strumento Parafrasi spagnolo",
-                        "url": "/it/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Digitazione da inglese a hindi",
@@ -37,12 +26,7 @@
                         "url": "/it/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Strumento parafrasi tedesco",
-                        "url": "/it/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Strumento di conteggio delle parole",

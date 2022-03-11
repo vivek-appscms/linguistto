@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "言い換えツール",
+                "categoryName": "その他工具",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ヒンディー語言い換えツール",
-                        "url": "/ja/hindi-paraphrase-tool",
+                        "name": "すべての言い換えツール",
+                        "url": "/ja/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ロシア語の言い換えツール",
-                        "url": "/ja/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "スペイン語の言い換えツール",
-                        "url": "/ja/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "英語からヒンディー語タイピング",
@@ -37,12 +26,7 @@
                         "url": "/ja/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ドイツ語言い換えツール",
-                        "url": "/ja/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "ワードカウントツール",

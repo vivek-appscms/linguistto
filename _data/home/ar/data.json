@@ -31,6 +31,13 @@
             "url": "/ar/hindi-paraphrase-tool"
         },
         {
+            "name": "جميع أدوات إعادة الصياغة",
+            "url": "/ar/all-paraphrase-pages",
+            "description": "جميع أدوات إعادة الصياغة للمحترفين",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "أداة الفقرة الإسبانية",
             "description": "أداة إعادة صياغة الإسبانية للمحترفين",
             "color": "#0e6d6d",
@@ -44,6 +51,7 @@
             "icon": "/assets/img/rishain.svg",
             "url": "/ar/russian-paraphrase-tool"
         },
+        
         {
             "name": "أداة التحويل الحرفي",
             "description": "الكتابة من الإنجليزية إلى الهندية",
