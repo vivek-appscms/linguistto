@@ -1,82 +1,88 @@
-[
-    {
-        "name": "의역 도구",
-        "url": "/ko/paraphrasing-tool"
-    },
-    {
-        "name": "독일어 의역 도구",
-        "url": "/ko/german-paraphrase-tool"
-    },
-    {
-        "name": "힌디어 의역 도구",
-        "url": "/ko/hindi-paraphrase-tool"
-    },
-    {
-        "name": "러시아어 의역 도구",
-        "url": "/ko/russian-paraphrase-tool"
-    },
-    {
-        "name": "스페인어 의역 도구",
-        "url": "/ko/spanish-paraphrase-tool"
-    },
-    {
-        "name": "한국어 의역 도구",
-        "url": "/ko/korean-paraphrase-tool"
-    },
-    {
-        "name": "덴마크어 의역 도구",
-        "url": "/ko/danish-paraphrase-tool"
-    },
-    {
-        "name": "이탈리아어 의역 도구",
-        "url": "/ko/italian-paraphrase-tool"
-    },
-    {
-        "name": "폴란드어 의역 도구",
-        "url": "/ko/polish-paraphrase-tool"
-    },
-    {
-        "name": "스웨덴어 의역 도구",
-        "url": "/ko/swedish-paraphrase-tool"
-    },
-    {
-        "name": "태국어 의역 도구",
-        "url": "/ko/thai-paraphrase-tool"
-    },
-    {
-        "name": "일본어 의역 도구",
-        "url": "/ko/japanese-paraphrase-tool"
-    },
-    {
-        "name": "아랍어 의역 도구",
-        "url": "/ko/arabic-paraphrase-tool"
-    },
-    {
-        "name": "우크라이나어 의역 도구",
-        "url": "/ko/ukranian-paraphrase-tool"
-    },
-    {
-        "name": "중국어 의역 도구",
-        "url": "/ko/chinese-paraphrase-tool"
-    },
-    {
-        "name": "인도네시아어 의역 도구",
-        "url": "/ko/indonesian-paraphrase-tool"
-    },
-    {
-        "name": "베트남어 의역 도구",
-        "url": "/ko/vietnamese-paraphrase-tool"
-    },
-    {
-        "name": "프랑스어 의역 도구",
-        "url": "/ko/french-paraphrase-tool"
-    },
-    {
-        "name": "네덜란드어 의역 도구",
-        "url": "/ko/dutch-paraphrase-tool"
-    },
-    {
-        "name": "포르투갈어 의역 도구",
-        "url": "/ko/portuguese-paraphrase-tool"
-    }
-]
+{
+    "links": [
+        {
+            "name": "아랍어 의역 도구",
+            "url": "/ko/arabic-paraphrase-tool"
+        },
+        {
+            "name": "중국어 의역 도구",
+            "url": "/ko/chinese-paraphrase-tool"
+        },
+        {
+            "name": "덴마크어 의역 도구",
+            "url": "/ko/danish-paraphrase-tool"
+        },
+        {
+            "name": "아랍어 의역 도구",
+            "url": "/ko/dutch-paraphrase-tool"
+        },
+        {
+            "name": "영어 의역 도구",
+            "url": "/ko/paraphrasing-tool"
+        },
+        {
+            "name": "프랑스어 의역 도구",
+            "url": "/ko/french-paraphrase-tool"
+        },
+        {
+            "name": "독일어 의역 도구",
+            "url": "/ko/german-paraphrase-tool"
+        },
+        {
+            "name": "힌디어 의역 도구",
+            "url": "/ko/hindi-paraphrase-tool"
+        },
+        {
+            "name": "인도네시아어 의역 도구",
+            "url": "/ko/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "이탈리아어 의역 도구",
+            "url": "/ko/italian-paraphrase-tool"
+        },
+        {
+            "name": "일본어 의역 도구",
+            "url": "/ko/japanese-paraphrase-tool"
+        },
+        {
+            "name": "한국어 의역 도구",
+            "url": "/ko/korean-paraphrase-tool"
+        },
+        {
+            "name": "폴란드어 의역 도구",
+            "url": "/ko/polish-paraphrase-tool"
+        },
+        {
+            "name": "포르투갈어 의역 도구",
+            "url": "/ko/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "러시아어 의역 도구",
+            "url": "/ko/russian-paraphrase-tool"
+        },
+        {
+            "name": "스페인어 의역 도구",
+            "url": "/ko/spanish-paraphrase-tool"
+        },
+        {
+            "name": "스웨덴어 의역 도구",
+            "url": "/ko/swedish-paraphrase-tool"
+        },
+        {
+            "name": "태국어 의역 도구",
+            "url": "/ko/thai-paraphrase-tool"
+        },
+        {
+            "name": "터키어 의역 도구",
+            "url": "/ko/turkish-paraphrase-tool"
+        },
+        {
+            "name": "우크라이나어 의역 도구",
+            "url": "/ko/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "베트남어 의역 도구",
+            "url": "/ko/vietnamese-paraphrase-tool"
+        }
+    ]
+}

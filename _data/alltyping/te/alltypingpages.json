@@ -1,6 +1,8 @@
-[
-    {
-        "name": "English to Telugu typing",
-        "url": "/te/english-to-telugu-typing"
-    }
-]
+{
+    "links": [
+        {
+            "name": "ఇంగ్లీష్ నుండి తెలుగు టైపింగ్",
+            "url": "/te/english-to-telugu-typing"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to kinyarwanda sentence translation",
     "url": "/english-to-kinyarwanda-sentence-translation"
   },
@@ -194,4 +194,4 @@
     "name": "kinyarwanda to Urdu sentence translation",
     "url": "/kinyarwanda-to-urdu-sentence-translation"
   }
-]
+]}

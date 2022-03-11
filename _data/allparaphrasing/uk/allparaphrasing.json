@@ -1,82 +1,88 @@
-[
-    {
-        "name": "Інструмент для перефразування",
-        "url": "/uk/paraphrasing-tool"
-    },
-    {
-        "name": "Німецький інструмент парафраз",
-        "url": "/uk/german-paraphrase-tool"
-    },
-    {
-        "name": "Інструмент «Парафраз з хінді»",
-        "url": "/uk/hindi-paraphrase-tool"
-    },
-    {
-        "name": "Інструмент «Перефраза Російська»",
-        "url": "/uk/russian-paraphrase-tool"
-    },
-    {
-        "name": "Іспанський інструмент парафраз",
-        "url": "/uk/spanish-paraphrase-tool"
-    },
-    {
-        "name": "Інструмент «Корейська парафраз»",
-        "url": "/uk/korean-paraphrase-tool"
-    },
-    {
-        "name": "Інструмент «Датська парафраз»",
-        "url": "/uk/danish-paraphrase-tool"
-    },
-    {
-        "name": "Італійський інструмент парафраз",
-        "url": "/uk/italian-paraphrase-tool"
-    },
-    {
-        "name": "Польський інструмент парафраз",
-        "url": "/uk/polish-paraphrase-tool"
-    },
-    {
-        "name": "Інструмент «Шведський парафраз»",
-        "url": "/uk/swedish-paraphrase-tool"
-    },
-    {
-        "name": "Тай-парафраза-інструмент",
-        "url": "/uk/thai-paraphrase-tool"
-    },
-    {
-        "name": "Японсько-парафраза-інструмент",
-        "url": "/uk/japanese-paraphrase-tool"
-    },
-    {
-        "name": "арабічно-парафраза-інструмент",
-        "url": "/uk/arabic-paraphrase-tool"
-    },
-    {
-        "name": "Українсько-парафраза-інструмент",
-        "url": "/uk/ukranian-paraphrase-tool"
-    },
-    {
-        "name": "Китайський-парафраза-інструмент",
-        "url": "/uk/chinese-paraphrase-tool"
-    },
-    {
-        "name": "Індонезійська-перефраза-інструмент",
-        "url": "/uk/indonesian-paraphrase-tool"
-    },
-    {
-        "name": "В'єтнам-парафраза-інструмент",
-        "url": "/uk/vietnamese-paraphrase-tool"
-    },
-    {
-        "name": "Французька-перефраза-інструмент",
-        "url": "/uk/french-paraphrase-tool"
-    },
-    {
-        "name": "Голландсько-парафраза-інструмент",
-        "url": "/uk/dutch-paraphrase-tool"
-    },
-    {
-        "name": "Португальська-парафраза-інструмент",
-        "url": "/uk/portuguese-paraphrase-tool"
-    }
-]
+{
+    "links": [
+        {
+            "name": "Арабський інструмент перефразування",
+            "url": "/uk/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Китайський інструмент перефразовування",
+            "url": "/uk/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Датський інструмент перефразовування",
+            "url": "/uk/danish-paraphrase-tool"
+        },
+        {
+            "name": "Арабський інструмент перефразування",
+            "url": "/uk/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Інструмент для перефразування англійською мовою",
+            "url": "/uk/paraphrasing-tool"
+        },
+        {
+            "name": "Французький інструмент перефразування",
+            "url": "/uk/french-paraphrase-tool"
+        },
+        {
+            "name": "Німецький інструмент перефразовування",
+            "url": "/uk/german-paraphrase-tool"
+        },
+        {
+            "name": "Інструмент для перефразування хінді",
+            "url": "/uk/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Індонезійський інструмент для перефразовування",
+            "url": "/uk/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "Італійський інструмент перефразовування",
+            "url": "/uk/italian-paraphrase-tool"
+        },
+        {
+            "name": "Японський інструмент перефразовування",
+            "url": "/uk/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Корейський інструмент перефразовування",
+            "url": "/uk/korean-paraphrase-tool"
+        },
+        {
+            "name": "Польський інструмент перефразовування",
+            "url": "/uk/polish-paraphrase-tool"
+        },
+        {
+            "name": "Португальський інструмент перефразовування",
+            "url": "/uk/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Російський інструмент перефразовування",
+            "url": "/uk/russian-paraphrase-tool"
+        },
+        {
+            "name": "Іспанський інструмент для перефразування",
+            "url": "/uk/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Шведський інструмент перефразування",
+            "url": "/uk/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Тайський інструмент перефразування",
+            "url": "/uk/thai-paraphrase-tool"
+        },
+        {
+            "name": "Турецький інструмент для перефразовування",
+            "url": "/uk/turkish-paraphrase-tool"
+        },
+        {
+            "name": "Український інструмент перефразовування",
+            "url": "/uk/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "В'єтнамський інструмент перефразування",
+            "url": "/uk/vietnamese-paraphrase-tool"
+        }
+    ]
+}

@@ -1,5 +1,7 @@
 {
-  "links": [{    "name": "English to Hindi sentence translation",
+  "links": {
+   "links":[ {
+    "name": "English to Hindi sentence translation",
     "url": "/english-to-hindi-sentence-translation"
   },
   {
@@ -2716,3 +2718,4 @@
     "url": "/vietnamese-to-urdu-sentence-translation"
   }
 ]}
+}

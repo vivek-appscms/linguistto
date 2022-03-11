@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to Arabic sentence translation",
     "url": "/ar/english-to-arabic-sentence-translation"
   },
@@ -197,4 +197,4 @@
     "name": "Arabic to Urdu sentence translation",
     "url": "/ar/arabic-to-urdu-sentence-translation"
   }
-]
+]}

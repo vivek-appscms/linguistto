@@ -1,6 +1,8 @@
-[
-    {
-        "name": "English to Russian typing",
-        "url": "/ru/english-to-russian-typing"
-    }
-]
+{
+    "links": [
+        {
+            "name": "Набор текста с английского на русский",
+            "url": "/ru/english-to-russian-typing"
+        }
+    ]
+}

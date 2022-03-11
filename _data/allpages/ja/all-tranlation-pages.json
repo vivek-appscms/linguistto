@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "Japanese to English sentence translation",
     "url": "/ja/japanese-to-english-sentence-translation"
   },
@@ -195,4 +195,4 @@
     "name": "Vietnamese to Japanese sentence translation",
     "url": "/ja/vietnamese-to-Japanese-sentence-translation"
   }
-]
+]}

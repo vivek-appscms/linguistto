@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to Punjabi sentence translation",
     "url": "/pa/english-to-punjabi-sentence-translation"
   },
@@ -192,4 +192,4 @@
     "name": "Punjabi to Urdu sentence translation",
     "url": "/pa/punjabi-to-urdu-sentence-translation"
   }
-]
+]}

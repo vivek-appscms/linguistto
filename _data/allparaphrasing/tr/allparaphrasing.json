@@ -1,82 +1,88 @@
-[
-    {
-        "name": "Paraphrasing aracı",
-        "url": "/tr/paraphrasing-tool"
-    },
-    {
-        "name": "Almanca Paraphrase aracı",
-        "url": "/tr/german-paraphrase-tool"
-    },
-    {
-        "name": "Hintçe Paraphrase aracı",
-        "url": "/tr/hindi-paraphrase-tool"
-    },
-    {
-        "name": "Rusça Paraphrase aracı",
-        "url": "/tr/russian-paraphrase-tool"
-    },
-    {
-        "name": "İspanyolca Parafrase aracı",
-        "url": "/tr/spanish-paraphrase-tool"
-    },
-    {
-        "name": "Korece Parafrase aracı",
-        "url": "/tr/korean-paraphrase-tool"
-    },
-    {
-        "name": "Danca Parafrase aracı",
-        "url": "/tr/danish-paraphrase-tool"
-    },
-    {
-        "name": "İtalyanca Parafrase aracı",
-        "url": "/tr/italian-paraphrase-tool"
-    },
-    {
-        "name": "Lehçe Parafrase aracı",
-        "url": "/tr/polish-paraphrase-tool"
-    },
-    {
-        "name": "İsveççe Parafrase aracı",
-        "url": "/tr/swedish-paraphrase-tool"
-    },
-    {
-        "name": "Tay Parafrası-aracı",
-        "url": "/tr/thai-paraphrase-tool"
-    },
-    {
-        "name": "Japonca-parafras-aracı",
-        "url": "/tr/japanese-paraphrase-tool"
-    },
-    {
-        "name": "Arapça parafras-aracı",
-        "url": "/tr/arabic-paraphrase-tool"
-    },
-    {
-        "name": "Kategori: Ukranca Parafras-Aracı",
-        "url": "/tr/ukranian-paraphrase-tool"
-    },
-    {
-        "name": "Çince-parafras-aracı",
-        "url": "/tr/chinese-paraphrase-tool"
-    },
-    {
-        "name": "Endonezya-parafras-aracı",
-        "url": "/tr/indonesian-paraphrase-tool"
-    },
-    {
-        "name": "vietnamese-parafras-aracı",
-        "url": "/tr/vietnamese-paraphrase-tool"
-    },
-    {
-        "name": "Fransızca-parafras-aracı",
-        "url": "/tr/french-paraphrase-tool"
-    },
-    {
-        "name": "Hollanda-Parafras-aracı",
-        "url": "/tr/dutch-paraphrase-tool"
-    },
-    {
-        "name": "Portekizce-parametre aracı",
-        "url": "/tr/portuguese-paraphrase-tool"
-    }
-]
+{
+    "links": [
+        {
+            "name": "Arapça ifade oluşturma aracı",
+            "url": "/tr/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Çince paraphrasing aracı",
+            "url": "/tr/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Danimarka paraphrasing aracı",
+            "url": "/tr/danish-paraphrase-tool"
+        },
+        {
+            "name": "Arapça ifade oluşturma aracı",
+            "url": "/tr/dutch-paraphrase-tool"
+        },
+        {
+            "name": "İngilizce paraphrasing aracı",
+            "url": "/tr/paraphrasing-tool"
+        },
+        {
+            "name": "Fransızca ifade oluşturma aracı",
+            "url": "/tr/french-paraphrase-tool"
+        },
+        {
+            "name": "Almanca paraphrasing aracı",
+            "url": "/tr/german-paraphrase-tool"
+        },
+        {
+            "name": "Hintçe paraphrasing aracı",
+            "url": "/tr/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Endonezya paraphrasing aracı",
+            "url": "/tr/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "İtalyanca paraphrasing aracı",
+            "url": "/tr/italian-paraphrase-tool"
+        },
+        {
+            "name": "Japonca paraphrasing aracı",
+            "url": "/tr/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Korece ifade oluşturma aracı",
+            "url": "/tr/korean-paraphrase-tool"
+        },
+        {
+            "name": "Lehçe paraphrasing aracı",
+            "url": "/tr/polish-paraphrase-tool"
+        },
+        {
+            "name": "Portekizce parametre oluşturma aracı",
+            "url": "/tr/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Rusça paraphrasing aracı",
+            "url": "/tr/russian-paraphrase-tool"
+        },
+        {
+            "name": "İspanyolca ifade oluşturma aracı",
+            "url": "/tr/spanish-paraphrase-tool"
+        },
+        {
+            "name": "İsveççe paraphrasing aracı",
+            "url": "/tr/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Tay dili paraphrasing aracı",
+            "url": "/tr/thai-paraphrase-tool"
+        },
+        {
+            "name": "Türkçe paraphrasing aracı",
+            "url": "/tr/turkish-paraphrase-tool"
+        },
+        {
+            "name": "Ukranian paraphrasing aracı",
+            "url": "/tr/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Vietnam paraphrasing aracı",
+            "url": "/tr/vietnamese-paraphrase-tool"
+        }
+    ]
+}

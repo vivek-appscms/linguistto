@@ -1,86 +1,88 @@
-[
-    {
-        "name": "Arabic paraphrasing tool",
-        "url": "/pt/arabic-paraphrase-tool"
-    },
-    {
-        "name": "Chinese paraphrasing tool",
-        "url": "/pt/chinese-paraphrase-tool"
-    },
-    {
-        "name": "Danish paraphrasing tool",
-        "url": "/pt/danish-paraphrase-tool"
-    },
-    {
-        "name": "Arabic paraphrasing tool",
-        "url": "/pt/dutch-paraphrase-tool"
-    },
-    {
-        "name": "English paraphrasing tool",
-        "url": "/pt/paraphrasing-tool"
-    },
-    {
-        "name": "French paraphrasing tool",
-        "url": "/pt/french-paraphrase-tool"
-    },
-    {
-        "name": "German paraphrasing tool",
-        "url": "/pt/german-paraphrase-tool"
-    },
-    {
-        "name": "Hindi paraphrasing tool",
-        "url": "/pt/hindi-paraphrase-tool"
-    },
-    {
-        "name": "Indonesian paraphrasing tool",
-        "url": "/pt/indonesian-paraphrase-tool"
-    },
-    {
-        "name": "Italian paraphrasing tool",
-        "url": "/pt/italian-paraphrase-tool"
-    },
-    {
-        "name": "Japanese paraphrasing tool",
-        "url": "/pt/japanese-paraphrase-tool"
-    },
-    {
-        "name": "Korean paraphrasing tool",
-        "url": "/pt/korean-paraphrase-tool"
-    },
-    {
-        "name": "Polish paraphrasing tool",
-        "url": "/pt/polish-paraphrase-tool"
-    },
-    {
-        "name": "Portuguese paraphrasing tool",
-        "url": "/pt/portuguese-paraphrase-tool"
-    },
-    {
-        "name": "Russian paraphrasing tool",
-        "url": "/pt/russian-paraphrase-tool"
-    },
-    {
-        "name": "Spanish paraphrasing tool",
-        "url": "/pt/spanish-paraphrase-tool"
-    },
-    {
-        "name": "Swedish paraphrasing tool",
-        "url": "/pt/swedish-paraphrase-tool"
-    },
-    {
-        "name": "Thai paraphrasing tool",
-        "url": "/pt/thai-paraphrase-tool"
-    },
-    {
-        "name": "Turkish paraphrasing tool",
-        "url": "/pt/turkish-paraphrase-tool"
-    },
-    {
-        "name": "Ukranian paraphrasing tool",
-        "url": "/pt/ukranian-paraphrase-tool"
-    },
-    {
-        "name": "Vietnamese paraphrasing tool",
-        "url": "/pt/vietnamese-paraphrase-tool"
-    }
-]
+{
+    "links": [
+        {
+            "name": "Ferramenta de parafraseamento árabe",
+            "url": "/pt/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento chinesa",
+            "url": "/pt/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento dinamarquesa",
+            "url": "/pt/danish-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento árabe",
+            "url": "/pt/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento em inglês",
+            "url": "/pt/paraphrasing-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento francesa",
+            "url": "/pt/french-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento alemã",
+            "url": "/pt/german-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento hindi",
+            "url": "/pt/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento indonésia",
+            "url": "/pt/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento italiana",
+            "url": "/pt/italian-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento japonesa",
+            "url": "/pt/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento coreana",
+            "url": "/pt/korean-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento polonesa",
+            "url": "/pt/polish-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento em português",
+            "url": "/pt/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento russa",
+            "url": "/pt/russian-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento em espanhol",
+            "url": "/pt/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento sueca",
+            "url": "/pt/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento tailandesa",
+            "url": "/pt/thai-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento turca",
+            "url": "/pt/turkish-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento ucraniana",
+            "url": "/pt/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Ferramenta de parafraseamento vietnamita",
+            "url": "/pt/vietnamese-paraphrase-tool"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to Amharic sentence translation",
     "url": "/am/english-to-amharic-sentence-translation"
   },
@@ -192,4 +192,4 @@
     "name": "Amharic to Urdu sentence translation",
     "url": "/am/amharic-to-urdu-sentence-translation"
   }
-]
+]}

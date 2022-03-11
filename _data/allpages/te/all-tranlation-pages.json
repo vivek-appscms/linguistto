@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to Telugu sentence translation",
     "url": "/te/english-to-telugu-sentence-translation"
   },
@@ -188,4 +188,4 @@
     "name": "Telugu to Urdu sentence translation",
     "url": "/te/telugu-to-urdu-sentence-translation"
   }
-]
+]}

@@ -1,6 +1,8 @@
-[
-    {
-        "name": "English to Malayalam typing",
-        "url": "/ml/english-to-malayalam-typing"
-    }
-]
+{
+    "links": [
+        {
+            "name": "ഇംഗ്ലീഷ് മുതൽ മലയാളം ടൈപ്പിംഗ്",
+            "url": "/ml/english-to-kannada-typing"
+        }
+    ]
+}

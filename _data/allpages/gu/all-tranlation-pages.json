@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to Gujarati sentence translation",
     "url": "/gu/english-to-gujarati-sentence-translation"
   },
@@ -190,4 +190,4 @@
     "name": "Gujarati to Urdu sentence translation",
     "url": "/gu/gujarati-to-urdu-sentence-translation"
   }
-]
+]}

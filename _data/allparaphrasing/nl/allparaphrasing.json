@@ -1,82 +1,88 @@
-[
-    {
-        "name": "Gereedschap parafraseren",
-        "url": "/nl/paraphrasing-tool"
-    },
-    {
-        "name": "Duitse parafrase-tool",
-        "url": "/nl/german-paraphrase-tool"
-    },
-    {
-        "name": "Hindi parafrase-tool",
-        "url": "/nl/hindi-paraphrase-tool"
-    },
-    {
-        "name": "Russische parafrase-tool",
-        "url": "/nl/russian-paraphrase-tool"
-    },
-    {
-        "name": "Spaanse parafrase-tool",
-        "url": "/nl/spanish-paraphrase-tool"
-    },
-    {
-        "name": "Koreaanse parafrase-tool",
-        "url": "/nl/korean-paraphrase-tool"
-    },
-    {
-        "name": "Deense parafrase-tool",
-        "url": "/nl/danish-paraphrase-tool"
-    },
-    {
-        "name": "Italiaanse parafrase-tool",
-        "url": "/nl/italian-paraphrase-tool"
-    },
-    {
-        "name": "Gereedschap voor Poolse parafrase",
-        "url": "/nl/polish-paraphrase-tool"
-    },
-    {
-        "name": "Zweedse parafrase tool",
-        "url": "/nl/swedish-paraphrase-tool"
-    },
-    {
-        "name": "Thai-parafrase-tool",
-        "url": "/nl/thai-paraphrase-tool"
-    },
-    {
-        "name": "Japanse parafrase-tool",
-        "url": "/nl/japanese-paraphrase-tool"
-    },
-    {
-        "name": "arabisch-parafrase-tool",
-        "url": "/nl/arabic-paraphrase-tool"
-    },
-    {
-        "name": "Ukranian-parafrase-tool",
-        "url": "/nl/ukranian-paraphrase-tool"
-    },
-    {
-        "name": "Chinees-parafrase-tool",
-        "url": "/nl/chinese-paraphrase-tool"
-    },
-    {
-        "name": "Indonesisch-parafrase-tool",
-        "url": "/nl/indonesian-paraphrase-tool"
-    },
-    {
-        "name": "vietnamese-parafrase-tool",
-        "url": "/nl/vietnamese-paraphrase-tool"
-    },
-    {
-        "name": "Frans-parafrase-tool",
-        "url": "/nl/french-paraphrase-tool"
-    },
-    {
-        "name": "Nederlands-parafrase-tool",
-        "url": "/nl/dutch-paraphrase-tool"
-    },
-    {
-        "name": "Portugees-parafrase-tool",
-        "url": "/nl/portuguese-paraphrase-tool"
-    }
-]
+{
+    "links": [
+        {
+            "name": "Arabisch parafraseren",
+            "url": "/nl/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Chinees gereedschap voor parafraseren",
+            "url": "/nl/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Deens hulpmiddel voor parafraseren",
+            "url": "/nl/danish-paraphrase-tool"
+        },
+        {
+            "name": "Arabisch parafraseren",
+            "url": "/nl/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Engels gereedschap voor parafraseren",
+            "url": "/nl/paraphrasing-tool"
+        },
+        {
+            "name": "Frans gereedschap voor parafraseren",
+            "url": "/nl/french-paraphrase-tool"
+        },
+        {
+            "name": "Duits gereedschap voor parafraseren",
+            "url": "/nl/german-paraphrase-tool"
+        },
+        {
+            "name": "Hindi parafraseren",
+            "url": "/nl/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Indonesisch hulpmiddel voor parafraseren",
+            "url": "/nl/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "Italiaans hulpmiddel voor parafraseren",
+            "url": "/nl/italian-paraphrase-tool"
+        },
+        {
+            "name": "Japans gereedschap voor parafraseren",
+            "url": "/nl/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Koreaanse parafraseertool",
+            "url": "/nl/korean-paraphrase-tool"
+        },
+        {
+            "name": "Pools gereedschap voor parafraseren",
+            "url": "/nl/polish-paraphrase-tool"
+        },
+        {
+            "name": "Portugese parafrasering stool",
+            "url": "/nl/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Russische parafrasering stool",
+            "url": "/nl/russian-paraphrase-tool"
+        },
+        {
+            "name": "Spaanse parafraseertool",
+            "url": "/nl/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Zweedse parafraseertool",
+            "url": "/nl/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Thais hulpmiddel voor parafraseren",
+            "url": "/nl/thai-paraphrase-tool"
+        },
+        {
+            "name": "Turks hulpmiddel voor parafraseren",
+            "url": "/nl/turkish-paraphrase-tool"
+        },
+        {
+            "name": "Oekraïens gereedschap voor parafraseren",
+            "url": "/nl/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Vietnamese parafraseertool",
+            "url": "/nl/vietnamese-paraphrase-tool"
+        }
+    ]
+}

@@ -1,6 +1,8 @@
-[
-    {
-        "name": "English to Urdu typing",
-        "url": "/ur/english-to-urdu-typing"
-    }
-]
+{
+    "links": [
+        {
+            "name": "اردو سے اردو ٹائپنگ",
+            "url": "/ur/english-to-urdu-typing"
+        }
+    ]
+}

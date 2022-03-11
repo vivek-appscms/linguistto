@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to Swahili sentence translation",
     "url": "/english-to-swahili-sentence-translation"
   },
@@ -186,4 +186,4 @@
     "name": "Swahili to Urdu sentence translation",
     "url": "/swahili-to-urdu-sentence-translation"
   }
-]
+]}

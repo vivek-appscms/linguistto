@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "English to Malayalam sentence translation",
     "url": "/ml/english-to-malayalam-sentence-translation"
   },
@@ -194,4 +194,4 @@
     "name": "Malayalam to Urdu sentence translation",
     "url": "/ml/malayalam-to-urdu-sentence-translation"
   }
-]
+]}

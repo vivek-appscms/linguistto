@@ -26,7 +26,12 @@
                         "url": "/it/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Mengetik halaman",
+                        "url": "/all-typing-pages",
+                        "hover": "blue"
+                      },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Strumento di conteggio delle parole",

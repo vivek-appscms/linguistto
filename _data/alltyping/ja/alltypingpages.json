@@ -1,6 +1,8 @@
-[
-    {
-        "name": "English to Japanese typing",
-        "url": "/ja/english-to-japanese-typing"
-    }
-]
+{
+    "links": [
+        {
+            "name": "英語から日本語へのタイピング",
+            "url": "/ja/english-to-japanese-typing"
+        }
+    ]
+}

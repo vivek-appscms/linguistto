@@ -1,6 +1,8 @@
-[
-    {
-        "name": "English to Marathi typing",
-        "url": "/mr/english-to-marathi-typing"
-    }
+{
+    "links": [
+        {
+            "name": "इंग्रजी ते मराठी टायपिंग",
+            "url": "/mr/english-to-marathi-typing"
+        }
 ]
+}

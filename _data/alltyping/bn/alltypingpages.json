@@ -1,6 +1,8 @@
-[
-    {
-        "name": "English to Bangla typing",
-        "url": "/bn/bangla-transliteration-tool"
-    }
-]
+{
+    "links": [
+        {
+            "name": "বাংলা থেকে বাংলা টাইপিং",
+            "url": "/bn/bangla-transliteration-tool"
+        }
+    ]
+}

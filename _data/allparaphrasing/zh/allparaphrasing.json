@@ -1,82 +1,88 @@
-[
-    {
-        "name": "释义工具",
-        "url": "/zh/paraphrasing-tool"
-    },
-    {
-        "name": "德语释义工具",
-        "url": "/zh/german-paraphrase-tool"
-    },
-    {
-        "name": "印地语释义工具",
-        "url": "/zh/hindi-paraphrase-tool"
-    },
-    {
-        "name": "俄语释义工具",
-        "url": "/zh/russian-paraphrase-tool"
-    },
-    {
-        "name": "西班牙语释义工具",
-        "url": "/zh/spanish-paraphrase-tool"
-    },
-    {
-        "name": "韩语释义工具",
-        "url": "/zh/korean-paraphrase-tool"
-    },
-    {
-        "name": "丹麦语释义工具",
-        "url": "/zh/danish-paraphrase-tool"
-    },
-    {
-        "name": "意大利语释义工具",
-        "url": "/zh/italian-paraphrase-tool"
-    },
-    {
-        "name": "波兰语释义工具",
-        "url": "/zh/polish-paraphrase-tool"
-    },
-    {
-        "name": "瑞典语释义工具",
-        "url": "/zh/swedish-paraphrase-tool"
-    },
-    {
-        "name": "泰语释义工具",
-        "url": "/zh/thai-paraphrase-tool"
-    },
-    {
-        "name": "日语释义工具",
-        "url": "/zh/japanese-paraphrase-tool"
-    },
-    {
-        "name": "阿拉伯语释义工具",
-        "url": "/zh/arabic-paraphrase-tool"
-    },
-    {
-        "name": "乌克兰语释义工具",
-        "url": "/zh/ukranian-paraphrase-tool"
-    },
-    {
-        "name": "中文释义工具",
-        "url": "/zh/chinese-paraphrase-tool"
-    },
-    {
-        "name": "印尼语释义工具",
-        "url": "/zh/indonesian-paraphrase-tool"
-    },
-    {
-        "name": "越南语释义工具",
-        "url": "/zh/vietnamese-paraphrase-tool"
-    },
-    {
-        "name": "法语释义工具",
-        "url": "/zh/french-paraphrase-tool"
-    },
-    {
-        "name": "荷兰释义工具",
-        "url": "/zh/dutch-paraphrase-tool"
-    },
-    {
-        "name": "葡萄牙语释义工具",
-        "url": "/zh/portuguese-paraphrase-tool"
-    }
-]
+{
+    "links": [
+        {
+            "name": "阿拉伯语释义工具",
+            "url": "/zh/arabic-paraphrase-tool"
+        },
+        {
+            "name": "中文释义工具",
+            "url": "/zh/chinese-paraphrase-tool"
+        },
+        {
+            "name": "丹麦语释义工具",
+            "url": "/zh/danish-paraphrase-tool"
+        },
+        {
+            "name": "阿拉伯语释义工具",
+            "url": "/zh/dutch-paraphrase-tool"
+        },
+        {
+            "name": "英语释义工具",
+            "url": "/zh/paraphrasing-tool"
+        },
+        {
+            "name": "法语释义工具",
+            "url": "/zh/french-paraphrase-tool"
+        },
+        {
+            "name": "德语释义工具",
+            "url": "/zh/german-paraphrase-tool"
+        },
+        {
+            "name": "印地语释义工具",
+            "url": "/zh/hindi-paraphrase-tool"
+        },
+        {
+            "name": "印尼语释义工具",
+            "url": "/zh/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "意大利语释义工具",
+            "url": "/zh/italian-paraphrase-tool"
+        },
+        {
+            "name": "日语释义工具",
+            "url": "/zh/japanese-paraphrase-tool"
+        },
+        {
+            "name": "韩语释义工具",
+            "url": "/zh/korean-paraphrase-tool"
+        },
+        {
+            "name": "波兰语释义工具",
+            "url": "/zh/polish-paraphrase-tool"
+        },
+        {
+            "name": "葡萄牙语释义工具",
+            "url": "/zh/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "俄语释义工具",
+            "url": "/zh/russian-paraphrase-tool"
+        },
+        {
+            "name": "西班牙语释义工具",
+            "url": "/zh/spanish-paraphrase-tool"
+        },
+        {
+            "name": "瑞典语释义工具",
+            "url": "/zh/swedish-paraphrase-tool"
+        },
+        {
+            "name": "泰语释义工具",
+            "url": "/zh/thai-paraphrase-tool"
+        },
+        {
+            "name": "土耳其语释义工具",
+            "url": "/zh/turkish-paraphrase-tool"
+        },
+        {
+            "name": "乌克兰语释义工具",
+            "url": "/zh/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "越南语释义工具",
+            "url": "/zh/vietnamese-paraphrase-tool"
+        }
+    ]
+}

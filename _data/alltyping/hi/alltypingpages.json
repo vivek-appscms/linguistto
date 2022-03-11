@@ -1,6 +1,12 @@
-[
-    {
-        "name": "English to Hindi typing",
-        "url": "/hi/english-to-hindi-typing"
-    }
+{
+    "links": [
+        {
+            "name": "अंग्रेजी से हिंदी टाइपिंग",
+            "url": "/hi/english-to-hindi-typing"
+        },
+        {
+            "name": "अंग्रेजी से देवनागरी टाइपिंग",
+            "url": "/hi/english-to-devanagari-typing"
+        }
 ]
+}

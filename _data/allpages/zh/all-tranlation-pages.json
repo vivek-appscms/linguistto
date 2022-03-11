@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "Pinyin to English sentence translation",
     "url": "/zh/pinyin-to-english-sentence-translation"
   },
@@ -99,4 +99,4 @@
     "name": "Pinyin to Vietnamese sentence translation",
     "url": "/zh/pinyin-to-vietnamese-sentence-translation"
   }
-]
+]}

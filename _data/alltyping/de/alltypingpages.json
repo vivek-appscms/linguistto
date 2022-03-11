@@ -1,4 +1,8 @@
 {
-    "name": "English to Devanagari typing",
-    "url": "/de/english-to-devanagari-typing"
+  "links": [
+    {
+      "name": "English to Devanagari typing",
+      "url": "/english-to-devanagari-typing"
+    }
+  ]
 }

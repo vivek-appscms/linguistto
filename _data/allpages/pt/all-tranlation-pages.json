@@ -1,5 +1,5 @@
-[
-  {
+{
+   "links":[ {
     "name": "Portuguese to English sentence translation",
     "url": "/pt/portuguese-to-english-sentence-translation"
   },
@@ -195,4 +195,4 @@
     "name": "Vietnamese to Portuguese sentence translation",
     "url": "/pt/vietnamese-to-portuguese-sentence-translation"
   }
-]
+]}
