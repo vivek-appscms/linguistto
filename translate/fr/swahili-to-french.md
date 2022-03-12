@@ -9,6 +9,6 @@ to: fr
 langname: swahili-to
 permalink: /fr/swahili-to-french-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&fr
+matchurls: en&&fr
 ---
 {% include section/translateinto.html %}

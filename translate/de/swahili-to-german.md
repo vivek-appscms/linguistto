@@ -9,6 +9,6 @@ to: de
 langname: swahili-to
 permalink: /de/swahili-to-german-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&de
+matchurls: en&&de
 ---
 {% include section/translateinto.html %}

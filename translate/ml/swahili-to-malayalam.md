@@ -9,6 +9,6 @@ to: ml
 langname: swahili-to
 permalink: /ml/swahili-to-malayalam-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&ml
+matchurls: en&&ml
 ---
 {% include section/translateinto.html %}

@@ -9,6 +9,6 @@ to: gu
 langname: swahili-to
 permalink: /gu/swahili-to-gujarati-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&gu
+matchurls: en&&gu
 ---
 {% include section/translateinto.html %}

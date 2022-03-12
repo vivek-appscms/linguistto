@@ -9,6 +9,6 @@ to: hi
 langname: kinyarwanda-to
 permalink: /kinyarwanda-to-hindi-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&hi
+matchurls: en&&hi
 ---
 {% include section/translateinto.html %}

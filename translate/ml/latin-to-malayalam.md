@@ -9,6 +9,6 @@ to: ml
 langname: latin-to
 permalink: /ml/latin-to-malayalam-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&ml
+matchurls: en&&ml
 ---
 {% include section/translateinto.html %}

@@ -9,6 +9,6 @@ to: tl
 langname: kinyarwanda-to
 permalink: /kinyarwanda-to-tagalog-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&tl
+matchurls: en&&tl
 ---
 {% include section/translateinto.html %}

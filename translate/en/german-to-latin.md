@@ -9,6 +9,6 @@ to: la
 langname: german-to
 permalink: /german-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&de&&la
+matchurls: en&&de
 ---
 {% include section/translateinto.html %}

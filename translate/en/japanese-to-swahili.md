@@ -9,6 +9,6 @@ to: sw
 langname: japanese-to
 permalink: /japanese-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&ja&&sw
+matchurls: en&&ja
 ---
 {% include section/translateinto.html %}

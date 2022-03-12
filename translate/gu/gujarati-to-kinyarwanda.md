@@ -9,6 +9,6 @@ to: rw
 langname: gujarati-to
 permalink: /gu/gujarati-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&gu&&rw
+matchurls: en&&gu
 ---
 {% include section/translateinto.html %}

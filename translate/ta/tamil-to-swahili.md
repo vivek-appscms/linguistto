@@ -9,6 +9,6 @@ to: sw
 langname: tamil-to
 permalink: /ta/tamil-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&ta&&sw
+matchurls: en&&ta
 ---
 {% include section/translateinto.html %}

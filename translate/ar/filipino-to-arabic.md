@@ -9,6 +9,6 @@ to: ar
 langname: filipino-to
 permalink: /ar/filipino-to-arabic-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&ar
+matchurls: en&&ar
 ---
 {% include section/translateinto.html %}

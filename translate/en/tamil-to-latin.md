@@ -9,6 +9,6 @@ to: la
 langname: tamil-to
 permalink: /tamil-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&ta&&la
+matchurls: en&&ta
 ---
 {% include section/translateinto.html %}

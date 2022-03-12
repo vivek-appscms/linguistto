@@ -9,6 +9,6 @@ to: mr
 langname: latin-to
 permalink: /mr/latin-to-marathi-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&mr
+matchurls: en&&mr
 ---
 {% include section/translateinto.html %}

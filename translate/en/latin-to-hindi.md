@@ -9,6 +9,6 @@ to: hi
 langname: latin-to
 permalink: /latin-to-hindi-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&hi
+matchurls: en&&hi
 ---
 {% include section/translateinto.html %}

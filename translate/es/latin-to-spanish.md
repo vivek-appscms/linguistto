@@ -9,6 +9,6 @@ to: es
 langname: latin-to
 permalink: /es/latin-to-spanish-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&es
+matchurls: en&&es
 ---
 {% include section/translateinto.html %}

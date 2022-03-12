@@ -9,6 +9,6 @@ to: it
 langname: kinyarwanda-to
 permalink: /it/kinyarwanda-to-italian-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&it
+matchurls: en&&it
 ---
 {% include section/translateinto.html %}

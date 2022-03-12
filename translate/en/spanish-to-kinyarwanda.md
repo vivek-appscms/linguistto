@@ -9,6 +9,6 @@ to: rw
 langname: spanish-to
 permalink: /spanish-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&es&&rw
+matchurls: en&&es
 ---
 {% include section/translateinto.html %}

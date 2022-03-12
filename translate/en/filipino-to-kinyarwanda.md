@@ -9,6 +9,6 @@ to: rw
 langname: filipino-to
 permalink: /filipino-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&rw
+matchurls: en
 ---
 {% include section/translateinto.html %}

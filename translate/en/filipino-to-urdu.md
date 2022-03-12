@@ -9,6 +9,6 @@ to: ur
 langname: filipino-to
 permalink: /filipino-to-urdu-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&ur
+matchurls: en&&ur
 ---
 {% include section/translateinto.html %}

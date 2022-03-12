@@ -9,6 +9,6 @@ to: rw
 langname: irish-to
 permalink: /ga/irish-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&ga&&rw
+matchurls: en&&ga
 ---
 {% include section/translateinto.html %}

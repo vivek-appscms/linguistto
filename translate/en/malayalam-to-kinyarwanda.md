@@ -9,6 +9,6 @@ to: rw
 langname: malayalam-to
 permalink: /malayalam-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&ml&&rw
+matchurls: en&&ml
 ---
 {% include section/translateinto.html %}

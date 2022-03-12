@@ -9,6 +9,6 @@ to: sw
 langname: telugu-to
 permalink: /telugu-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&te&&sw
+matchurls: en&&te
 ---
 {% include section/translateinto.html %}

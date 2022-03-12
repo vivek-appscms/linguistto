@@ -9,6 +9,6 @@ to: es
 langname: filipino-to
 permalink: /filipino-to-puerto-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&es
+matchurls: en&&es
 ---
 {% include section/translateinto.html %}

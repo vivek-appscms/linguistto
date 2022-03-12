@@ -9,6 +9,6 @@ to: fil
 langname: hindi-to
 permalink: /hindi-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&hi&&fil
+matchurls: en&&hi
 ---
 {% include section/translateinto.html %}

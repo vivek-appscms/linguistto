@@ -9,6 +9,6 @@ to: rw
 langname: french-to
 permalink: /fr/french-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&fr&&rw
+matchurls: en&&fr
 ---
 {% include section/translateinto.html %}

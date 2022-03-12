@@ -9,6 +9,6 @@ to: gu
 langname: latin-to
 permalink: /latin-to-gujarati-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&gu
+matchurls: en&&gu
 ---
 {% include section/translateinto.html %}

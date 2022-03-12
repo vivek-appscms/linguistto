@@ -9,6 +9,6 @@ to: fil
 langname: amharic-to
 permalink: /amharic-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&am&&fil
+matchurls: en&&am
 ---
 {% include section/translateinto.html %}

@@ -9,6 +9,6 @@ to: ur
 langname: latin-to
 permalink: /latin-to-urdu-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&ur
+matchurls: en&&ur
 ---
 {% include section/translateinto.html %}

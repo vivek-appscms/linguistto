@@ -9,6 +9,6 @@ to: fa
 langname: latin-to
 permalink: /fa/latin-to-farsi-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&fa
+matchurls: en&&fa
 ---
 {% include section/translateinto.html %}

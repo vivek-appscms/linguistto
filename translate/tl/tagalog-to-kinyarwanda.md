@@ -9,6 +9,6 @@ to: rw
 langname: tagalog-to
 permalink: /tl/tagalog-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&tl&&rw
+matchurls: en&&tl
 ---
 {% include section/translateinto.html %}

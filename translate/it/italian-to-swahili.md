@@ -9,6 +9,6 @@ to: sw
 langname: italian-to
 permalink: /it/italian-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&it&&sw
+matchurls: en&&it
 ---
 {% include section/translateinto.html %}

@@ -9,6 +9,6 @@ to: gu
 langname: filipino-to
 permalink: /gu/filipino-to-gujarati-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&gu
+matchurls: en&&gu
 ---
 {% include section/translateinto.html %}

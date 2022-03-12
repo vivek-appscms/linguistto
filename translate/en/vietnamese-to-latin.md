@@ -9,6 +9,6 @@ to: la
 langname: vietnamese-to
 permalink: /vietnamese-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&vi&&la
+matchurls: en&&vi
 ---
 {% include section/translateinto.html %}

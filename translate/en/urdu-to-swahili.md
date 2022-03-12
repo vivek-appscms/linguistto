@@ -9,6 +9,6 @@ to: sw
 langname: urdu-to
 permalink: /urdu-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&ur&&sw
+matchurls: en&&ur
 ---
 {% include section/translateinto.html %}

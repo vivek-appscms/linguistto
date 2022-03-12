@@ -9,6 +9,6 @@ to: rw
 langname: arabic-to
 permalink: /arabic-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&ar&&rw
+matchurls: en&&ar
 ---
 {% include section/translateinto.html %}

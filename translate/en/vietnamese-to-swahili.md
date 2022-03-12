@@ -9,6 +9,6 @@ to: sw
 langname: vietnamese-to
 permalink: /vietnamese-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&vi&&sw
+matchurls: en&&vi
 ---
 {% include section/translateinto.html %}

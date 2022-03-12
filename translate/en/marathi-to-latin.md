@@ -9,6 +9,6 @@ to: la
 langname: marathi-to
 permalink: /marathi-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&mr&&la
+matchurls: en&&mr
 ---
 {% include section/translateinto.html %}

@@ -9,6 +9,6 @@ to: mr
 langname: kinyarwanda-to
 permalink: /mr/kinyarwanda-to-marathi-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&mr
+matchurls: en&&mr
 ---
 {% include section/translateinto.html %}

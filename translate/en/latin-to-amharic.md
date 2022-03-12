@@ -9,6 +9,6 @@ to: am
 langname: latin-to
 permalink: /latin-to-amharic-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&am
+matchurls: en&&am
 ---
 {% include section/translateinto.html %}

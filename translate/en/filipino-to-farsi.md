@@ -9,6 +9,6 @@ to: fa
 langname: filipino-to
 permalink: /filipino-to-farsi-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&fa
+matchurls: en&&fa
 ---
 {% include section/translateinto.html %}

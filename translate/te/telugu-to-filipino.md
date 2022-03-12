@@ -9,6 +9,6 @@ to: fil
 langname: telugu-to
 permalink: /te/telugu-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&te&&fil
+matchurls: en&&te
 ---
 {% include section/translateinto.html %}

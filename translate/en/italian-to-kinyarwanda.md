@@ -9,6 +9,6 @@ to: rw
 langname: italian-to
 permalink: /italian-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&it&&rw
+matchurls: en&&it
 ---
 {% include section/translateinto.html %}

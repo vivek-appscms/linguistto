@@ -9,6 +9,6 @@ to: sw
 langname: punjabi-to
 permalink: /pa/punjabi-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&pa&&sw
+matchurls: en&&pa
 ---
 {% include section/translateinto.html %}

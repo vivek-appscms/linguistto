@@ -9,6 +9,6 @@ to: fil
 langname: tagalog-to
 permalink: /tl/tagalog-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&tl&&fil
+matchurls: en&&tl
 ---
 {% include section/translateinto.html %}

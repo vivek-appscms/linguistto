@@ -9,6 +9,6 @@ to: sw
 langname: pinyin-to
 permalink: /pinyin-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&zh&&sw
+matchurls: en&&zh
 ---
 {% include section/translateinto.html %}

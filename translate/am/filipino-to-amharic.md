@@ -9,6 +9,6 @@ to: am
 langname: filipino-to
 permalink: /am/filipino-to-amharic-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&am
+matchurls: en&&am
 ---
 {% include section/translateinto.html %}

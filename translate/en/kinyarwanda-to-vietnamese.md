@@ -9,6 +9,6 @@ to: vi
 langname: kinyarwanda-to
 permalink: /kinyarwanda-to-vietnamese-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&vi
+matchurls: en&&vi
 ---
 {% include section/translateinto.html %}

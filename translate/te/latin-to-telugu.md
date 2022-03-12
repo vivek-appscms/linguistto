@@ -9,6 +9,6 @@ to: te
 langname: latin-to
 permalink: /te/latin-to-telugu-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&te
+matchurls: en&&te
 ---
 {% include section/translateinto.html %}

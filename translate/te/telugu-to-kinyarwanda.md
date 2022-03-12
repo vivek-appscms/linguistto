@@ -9,6 +9,6 @@ to: rw
 langname: telugu-to
 permalink: /te/telugu-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&te&&rw
+matchurls: en&&te
 ---
 {% include section/translateinto.html %}

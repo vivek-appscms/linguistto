@@ -9,6 +9,6 @@ to: fr
 langname: kinyarwanda-to
 permalink: /fr/kinyarwanda-to-french-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&fr
+matchurls: en&&fr
 ---
 {% include section/translateinto.html %}

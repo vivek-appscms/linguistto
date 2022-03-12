@@ -9,6 +9,6 @@ to: sw
 langname: portuguese-to
 permalink: /portuguese-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&pt&&sw
+matchurls: en&&pt
 ---
 {% include section/translateinto.html %}

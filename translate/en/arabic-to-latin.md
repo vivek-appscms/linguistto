@@ -9,6 +9,6 @@ to: la
 langname: arabic-to
 permalink: /arabic-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&ar&&la
+matchurls: en&&ar
 ---
 {% include section/translateinto.html %}

@@ -9,6 +9,6 @@ to: la
 langname: telugu-to
 permalink: /telugu-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&te&&la
+matchurls: en&&te
 ---
 {% include section/translateinto.html %}

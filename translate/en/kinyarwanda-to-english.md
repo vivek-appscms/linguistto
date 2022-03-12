@@ -9,6 +9,6 @@ to: en
 langname: kinyarwanda-to
 permalink: /kinyarwanda-to-english-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw
+matchurls: en
 ---
 {% include section/translateinto.html %}

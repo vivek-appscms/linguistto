@@ -9,6 +9,6 @@ to: sw
 langname: hindi-to
 permalink: /hindi-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&hi&&sw
+matchurls: en&&hi
 ---
 {% include section/translateinto.html %}
