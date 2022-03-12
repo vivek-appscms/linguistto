@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-puerto-sentence-translation
 translatein: kinyarwanda_to_puerto
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: es
 langname: kinyarwanda-to

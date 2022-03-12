@@ -3,7 +3,7 @@ layout: home
 fileName: tagalog-to-kinyarwanda-sentence-translation
 translatein: tagalog_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: tl
 to: rw
 langname: tagalog-to

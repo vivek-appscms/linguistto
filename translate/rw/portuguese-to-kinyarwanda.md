@@ -3,7 +3,7 @@ layout: home
 fileName: portuguese-to-kinyarwanda-sentence-translation
 translatein: portuguese_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: pt
 to: rw
 langname: portuguese-to

@@ -3,7 +3,7 @@ layout: home
 fileName: pinyin-to-kinyarwanda-sentence-translation
 translatein: pinyin_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: zh
 to: rw
 langname: pinyin-to

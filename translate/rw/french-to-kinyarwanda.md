@@ -3,7 +3,7 @@ layout: home
 fileName: french-to-kinyarwanda-sentence-translation
 translatein: french_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: fr
 to: rw
 langname: french-to

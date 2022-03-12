@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-kinyarwanda-sentence-translation
 translatein: latin_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: la
 to: rw
 langname: latin-to

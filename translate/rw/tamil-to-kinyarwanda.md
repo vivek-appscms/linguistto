@@ -3,7 +3,7 @@ layout: home
 fileName: tamil-to-kinyarwanda-sentence-translation
 translatein: tamil_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: ta
 to: rw
 langname: tamil-to

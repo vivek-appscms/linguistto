@@ -3,7 +3,7 @@ layout: home
 fileName: spanish-to-kinyarwanda-sentence-translation
 translatein: spanish_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: es
 to: rw
 langname: spanish-to

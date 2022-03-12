@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-filipino-sentence-translation
 translatein: kinyarwanda_to_filipino
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: fil
 langname: kinyarwanda-to

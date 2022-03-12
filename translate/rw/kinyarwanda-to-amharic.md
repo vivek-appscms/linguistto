@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-amharic-sentence-translation
 translatein: kinyarwanda_to_amharic
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: am
 langname: kinyarwanda-to

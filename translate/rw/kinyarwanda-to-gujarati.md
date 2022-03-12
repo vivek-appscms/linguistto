@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-gujarati-sentence-translation
 translatein: kinyarwanda_to_gujarati
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: gu
 langname: kinyarwanda-to

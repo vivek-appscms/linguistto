@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-punjabi-sentence-translation
 translatein: kinyarwanda_to_punjabi
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: pa
 langname: kinyarwanda-to

@@ -3,7 +3,7 @@ layout: home
 fileName: japanese-to-kinyarwanda-sentence-translation
 translatein: japanese_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: ja
 to: rw
 langname: japanese-to

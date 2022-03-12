@@ -3,7 +3,7 @@ layout: home
 fileName: marathi-to-kinyarwanda-sentence-translation
 translatein: marathi_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: mr
 to: rw
 langname: marathi-to

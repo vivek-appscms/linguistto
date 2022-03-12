@@ -3,7 +3,7 @@ layout: home
 fileName: puerto-to-kinyarwanda-sentence-translation
 translatein: puerto_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: es
 to: rw
 langname: puerto-to

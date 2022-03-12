@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-italian-sentence-translation
 translatein: kinyarwanda_to_italian
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: it
 langname: kinyarwanda-to

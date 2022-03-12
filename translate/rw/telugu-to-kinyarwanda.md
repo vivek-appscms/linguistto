@@ -3,7 +3,7 @@ layout: home
 fileName: telugu-to-kinyarwanda-sentence-translation
 translatein: telugu_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: te
 to: rw
 langname: telugu-to

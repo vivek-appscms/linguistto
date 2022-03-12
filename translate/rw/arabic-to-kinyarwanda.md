@@ -3,7 +3,7 @@ layout: home
 fileName: arabic-to-kinyarwanda-sentence-translation
 translatein: arabic_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: ar
 to: rw
 langname: arabic-to

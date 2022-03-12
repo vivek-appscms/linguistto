@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-hindi-sentence-translation
 translatein: kinyarwanda_to_hindi
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: hi
 langname: kinyarwanda-to

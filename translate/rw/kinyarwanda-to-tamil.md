@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-tamil-sentence-translation
 translatein: kinyarwanda_to_tamil
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: ta
 langname: kinyarwanda-to

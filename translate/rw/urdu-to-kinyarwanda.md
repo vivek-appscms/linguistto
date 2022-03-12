@@ -3,7 +3,7 @@ layout: home
 fileName: urdu-to-kinyarwanda-sentence-translation
 translatein: urdu_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: ur
 to: rw
 langname: urdu-to

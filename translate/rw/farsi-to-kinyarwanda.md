@@ -3,7 +3,7 @@ layout: home
 fileName: farsi-to-kinyarwanda-sentence-translation
 translatein: farsi_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: fa
 to: rw
 langname: farsi-to

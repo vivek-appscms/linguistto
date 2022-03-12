@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-vietnamese-sentence-translation
 translatein: kinyarwanda_to_vietnamese
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: vi
 langname: kinyarwanda-to

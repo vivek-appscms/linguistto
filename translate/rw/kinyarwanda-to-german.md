@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-german-sentence-translation
 translatein: kinyarwanda_to_german
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: de
 langname: kinyarwanda-to

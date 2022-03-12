@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-tagalog-sentence-translation
 translatein: kinyarwanda_to_tagalog
 folderName : translate
-lang: rw
+lang: en
 from: rw
 to: tl
 langname: kinyarwanda-to

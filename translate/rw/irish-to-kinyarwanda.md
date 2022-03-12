@@ -3,7 +3,7 @@ layout: home
 fileName: irish-to-kinyarwanda-sentence-translation
 translatein: irish_to_kinyarwanda
 folderName : translate
-lang: rw
+lang: en
 from: ga
 to: rw
 langname: irish-to
