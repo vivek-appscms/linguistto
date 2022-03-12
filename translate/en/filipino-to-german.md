@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fil
 to: de
-langName : filipino-to
+langname: filipino-to
 permalink: /filipino-to-german-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fil&&de
 ---
 {% include section/translateinto.html %}

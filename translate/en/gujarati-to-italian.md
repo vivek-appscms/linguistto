@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: gu
 to: it
-langName : gujarati-to
+langname: gujarati-to
 permalink: /gujarati-to-italian-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&gu&&it
 ---
 {% include section/translateinto.html %}

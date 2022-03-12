@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: fil
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-filipino-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&fil
 ---
 {% include section/translateinto.html %}

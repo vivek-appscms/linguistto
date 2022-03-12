@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: sw
 to: zh
-langName : swahili-to
+langname: swahili-to
 permalink: /swahili-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&sw&&zh
 ---
 {% include section/translateinto.html %}

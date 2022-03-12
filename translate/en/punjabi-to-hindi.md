@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pa
 to: hi
-langName : punjabi-to
+langname: punjabi-to
 permalink: /punjabi-to-hindi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pa&&hi
 ---
 {% include section/translateinto.html %}

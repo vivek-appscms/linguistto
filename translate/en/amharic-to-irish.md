@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: am
 to: ga
-langName : amharic-to
+langname: amharic-to
 permalink: /amharic-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&am&&ga
 ---
 {% include section/translateinto.html %}

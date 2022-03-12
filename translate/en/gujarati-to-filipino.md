@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: gu
 to: fil
-langName : gujarati-to
+langname: gujarati-to
 permalink: /gujarati-to-filipino-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&gu&&fil
 ---
 {% include section/translateinto.html %}

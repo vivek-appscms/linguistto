@@ -1,6 +1,5 @@
-[
-  {
-    "name": "English to Hindi sentence translation",
+{
+  "links": [{    "name": "English to Hindi sentence translation",
     "url": "/english-to-hindi-sentence-translation"
   },
   {
@@ -2716,4 +2715,4 @@
     "name": "Vietnamese to Urdu sentence translation",
     "url": "/vietnamese-to-urdu-sentence-translation"
   }
-]
+]}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: zh
 to: pa
-langName : pinyin-to
+langname: pinyin-to
 permalink: /pinyin-to-punjabi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&zh&&pa
 ---
 {% include section/translateinto.html %}

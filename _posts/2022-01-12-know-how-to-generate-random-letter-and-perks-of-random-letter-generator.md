@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Know how to generate random letter and perks of random letter generator
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/qdsnqw.png"
 comments: false
 

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: de
 to: pt
-langName : german-to
+langname: german-to
 permalink: /german-to-portuguese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&de&&pt
 ---
 {% include section/translateinto.html %}

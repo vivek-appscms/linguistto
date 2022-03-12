@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ml
 to: fa
-langName : malayalam-to
+langname: malayalam-to
 permalink: /malayalam-to-farsi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml&&fa
 ---
 {% include section/translateinto.html %}

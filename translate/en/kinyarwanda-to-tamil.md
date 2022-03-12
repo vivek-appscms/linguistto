@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: ta
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-tamil-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&rw&&ta
 ---
 {% include section/translateinto.html %}

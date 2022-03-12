@@ -5,24 +5,12 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "omskrivning værktøj",
+                "categoryName": "Andre værktøjer",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Hindi Parafrase værktøj",
-                        "url": "/da/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Russisk Parafrase værktøj",
-                        "url": "/da/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Spansk Parafrase værktøj",
-                        "url": "/da/spanish-paraphrase-tool",
+                        "name": "Alle omskrivning værktøjer",
+                        "url": "/da/all-paraphrase-pages",
                         "hover": "blue"
                     },
                     {
@@ -37,12 +25,7 @@
                         "url": "/da/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tysk parafrase værktøj",
-                        "url": "/da/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Værktøjet Word tæller",

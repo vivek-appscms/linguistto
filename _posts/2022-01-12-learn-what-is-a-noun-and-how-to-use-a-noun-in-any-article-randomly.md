@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: 'Learn: What is a noun and how to use a noun in any article randomly.'
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/wdfhw.png"
 comments: false
 

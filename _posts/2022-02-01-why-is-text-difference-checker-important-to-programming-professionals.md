@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Why is Text Difference Checker Important to Programming Professionals?
 layout: post
-hero: Anushka
+author: Anushka
 image: "/uploads/ct-dc2.png"
 comments: false
 

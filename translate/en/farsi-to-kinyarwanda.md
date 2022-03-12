@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fa
 to: rw
-langName : farsi-to
+langname: farsi-to
 permalink: /farsi-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fa&&rw
 ---
 {% include section/translateinto.html %}

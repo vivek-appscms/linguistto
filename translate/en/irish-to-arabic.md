@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ga
 to: ar
-langName : irish-to
+langname: irish-to
 permalink: /irish-to-arabic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga&&ar
 ---
 {% include section/translateinto.html %}

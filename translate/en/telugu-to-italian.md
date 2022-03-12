@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: it
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-italian-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&it
 ---
 {% include section/translateinto.html %}

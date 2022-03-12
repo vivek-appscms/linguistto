@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: de
 to: ar
-langName : german-to
+langname: german-to
 permalink: /german-to-arabic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&de&&ar
 ---
 {% include section/translateinto.html %}

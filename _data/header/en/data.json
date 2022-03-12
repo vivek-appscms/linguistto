@@ -5,24 +5,12 @@
     "nav-link-name": "Tools",
     "dropdown": [
       {
-        "categoryName": "paraphrasing tool",
+        "categoryName": "Other Tools",
         "links": [
           {
             "iconSrc": "/assets/img/germanblack.svg",
-            "name": "Hindi Paraphrase tool",
-            "url": "/hindi-paraphrase-tool",
-            "hover": "blue"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "name": "Russian Paraphrase tool",
-            "url": "/russian-paraphrase-tool",
-            "hover": "blue"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "name": "Spanish Paraphrase tool",
-            "url": "/spanish-paraphrase-tool",
+            "name": "All Paraphrasing tools",
+            "url": "/all-paraphrase-pages",
             "hover": "blue"
           },
           {
@@ -30,109 +18,8 @@
             "name": "English to hindi Typing",
             "url": "/english-to-hindi-typing",
             "hover": "blue"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "name": "English to bangla Typing",
-            "url": "bangla-transliteration-tool",
-            "hover": "blue"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "name": "German Paraphrase tool",
-            "url": "/german-paraphrase-tool",
-            "hover": "blue"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Korean Paraphrase tool",
-            "url": "/korean-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Danish Paraphrase tool",
-            "url": "/danish-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Italian Paraphrase tool",
-            "url": "/italian-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Polish Paraphrase tool",
-            "url": "/polish-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Swedish Paraphrase tool",
-            "url": "/swedish-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Thai-paraphrase-tool",
-            "url": "/thai-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Japanese-paraphrase-tool",
-            "url": "/japanese-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "arabic-paraphrase-tool",
-            "url": "/arabic-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Ukranian-paraphrase-tool",
-            "url": "/ukranian-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Chinese-paraphrase-tool",
-            "url": "/chinese-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Indonesian-paraphrase-tool",
-            "url": "/indonesian-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "vietnamese-paraphrase-tool",
-            "url": "/vietnamese-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "French-paraphrase-tool",
-            "url": "/french-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Dutch-paraphrase-tool",
-            "url": "/dutch-paraphrase-tool"
-          },
-          {
-            "iconSrc": "/assets/img/germanblack.svg",
-            "hover": "blue",
-            "name": "Portuguese-paraphrase-tool",
-            "url": "/portuguese-paraphrase-tool"
           }
+          
         ]
       },
       {

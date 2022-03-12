@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: sw
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-swahili-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&sw
 ---
 {% include section/translateinto.html %}

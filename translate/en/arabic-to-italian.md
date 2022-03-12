@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ar
 to: it
-langName : arabic-to
+langname: arabic-to
 permalink: /arabic-to-italian-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ar&&it
 ---
 {% include section/translateinto.html %}

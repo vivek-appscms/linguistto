@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: de
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-german-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi&&de
 ---
 {% include section/translateinto.html %}

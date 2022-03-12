@@ -5,26 +5,9 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "ਪੈਰਾਫਰੇਸਿੰਗ ਟੂਲ",
+                "categoryName": "ਹੋਰ ਸੰਦ",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ਹਿੰਦੀ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ਰੂਸੀ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ਸਪੇਨੀ ਪੈਰਾਫ੍ਰੇਸ ਸੰਦ ਹੈ",
-                        "url": "/pa/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "ਹਿੰਦੀ ਟਾਈਪਿੰਗ ਲਈ ਅੰਗਰੇਜ਼ੀ",
@@ -36,102 +19,6 @@
                         "name": "ਪੰਜਾਬੀ ਟਾਈਪਿੰਗ ਲਈ ਅੰਗਰੇਜ਼ੀ",
                         "url": "/pa/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ਜਰਮਨ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਕੋਰੀਅਨ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਡੈਨਿਸ਼ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਇਤਾਲਵੀ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਪੋਲਿਸ਼ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਸਵੀਡਿਸ਼ ਪੈਰਾਫਰੇਜ ਟੂਲ",
-                        "url": "/pa/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਥਾਈ-ਪੈਰਾਫਰੇਸ-ਟੂਲ",
-                        "url": "/pa/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਜਪਾਨੀ-ਪੈਰਾਫਰਾਸ-ਸੰਦ",
-                        "url": "/pa/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਅਰਬੀਕ-ਪੈਰਾਫਰਾਸ-ਸੰਦ",
-                        "url": "/pa/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਯੂਕਰੇਨੀ-ਪੈਰਾਫਰਾਸ-ਸੰਦ",
-                        "url": "/pa/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਚੀਨੀ-ਪੈਰਾਫਰਾਸ-ਸੰਦ",
-                        "url": "/pa/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਇੰਡੋਨੇਸ਼ੀਆਈ ਪੈਰਾਫਰਾਸ-ਸੰਦ",
-                        "url": "/pa/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਵੀਅਤਨਾਮ-ਪੈਰਾਫਰਾਸ-ਟੂਲ",
-                        "url": "/pa/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਫ੍ਰੈਂਚ-ਪੈਰਾਫਰਾਸ-ਟੂਲ",
-                        "url": "/pa/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਡੱਚ-ਪੈਰਾਫਰੇਸ-ਸੰਦ",
-                        "url": "/pa/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ਪੁਰਤਗਾਲੀ-ਪੈਰਾਫਰਾਸ-ਟੂਲ",
-                        "url": "/pa/portuguese-paraphrase-tool"
                     }
                 ]
             },

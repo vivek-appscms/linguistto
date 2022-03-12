@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: am
 to: es
-langName : amharic-to
+langname: amharic-to
 permalink: /amharic-to-spanish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&am&&es
 ---
 {% include section/translateinto.html %}

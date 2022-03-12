@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: mr
 to: am
-langName : marathi-to
+langname: marathi-to
 permalink: /marathi-to-amharic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&mr&&am
 ---
 {% include section/translateinto.html %}

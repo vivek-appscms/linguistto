@@ -4,7 +4,7 @@ categories: []
 title: How Paragraph Generator Helps Writers Improve Their Creative Side to Get the
   Best Results?
 layout: post
-hero: Anushka
+author: Anushka
 image: "/uploads/ct-pg.png"
 comments: false
 

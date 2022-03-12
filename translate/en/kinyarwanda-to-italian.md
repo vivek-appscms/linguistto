@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: it
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-italian-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&rw&&it
 ---
 {% include section/translateinto.html %}

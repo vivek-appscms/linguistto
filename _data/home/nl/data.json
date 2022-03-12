@@ -31,6 +31,13 @@
             "url": "/nl/hindi-paraphrase-tool"
         },
         {
+            "name": "Alle hulpmiddelen voor parafraseren",
+            "url": "/nl/all-paraphrase-pages",
+            "description": "Alle hulpmiddelen voor parafraseren voor professionals",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "spanish-parafrase-tool",
             "description": "Spaanse parafrasering stool voor professionals",
             "color": "#0e6d6d",

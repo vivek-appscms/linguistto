@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: mr
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-marathi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&rw&&mr
 ---
 {% include section/translateinto.html %}

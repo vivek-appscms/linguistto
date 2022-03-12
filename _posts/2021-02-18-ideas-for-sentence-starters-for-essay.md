@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Ideas for sentence starters for Essay
 layout: post
-hero: ''
+author: Anushka
 image: "/uploads/o-2.png"
 comments: false
 

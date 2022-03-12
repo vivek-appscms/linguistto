@@ -3,7 +3,6 @@ tags: []
 categories: []
 title: Free content tools which every content writers should use
 layout: post
-hero: ''
 image: '/uploads/l.png'
 comments: false
 author: ankita

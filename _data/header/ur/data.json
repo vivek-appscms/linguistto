@@ -5,26 +5,8 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "آلے کی تشریح",
+                "categoryName": "دیگر اوزار",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ہندی تشریح کا آلہ",
-                        "url": "/ur/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "روسی تشریح کا آلہ",
-                        "url": "/ur/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ہسپانوی تشریح کا آلہ",
-                        "url": "/ur/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "انگریزی کرنے ہندی ٹائپنگ",
@@ -36,102 +18,6 @@
                         "name": "انگریزی کرنے بنگلہ ٹائپنگ",
                         "url": "/ur/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "جرمن پیرافرز کا آلہ",
-                        "url": "/ur/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "کوریائی تشریح کا آلہ",
-                        "url": "/ur/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ڈینش پیرافرز کا آلہ",
-                        "url": "/ur/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "اطالوی تشریح کا آلہ",
-                        "url": "/ur/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "پولش پیرافرز کا آلہ",
-                        "url": "/ur/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "سویڈش پیرافرز کا آلہ",
-                        "url": "/ur/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "تھائی پیرافرز کے آلے",
-                        "url": "/ur/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "جاپانی پیرافرز کے آلے",
-                        "url": "/ur/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "عرب-پیرافرز کے آلے",
-                        "url": "/ur/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "یوکرانیان-پیرافرز کے آلے",
-                        "url": "/ur/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "چینی پیرافرز کے آلے",
-                        "url": "/ur/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "انڈونیشیائی پیرافرز کے آلے",
-                        "url": "/ur/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ویتری-پیرافرز کے آلے",
-                        "url": "/ur/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "فرانسیسی پیرافریز کے آلے",
-                        "url": "/ur/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ڈچ پیرافرز کے آلے",
-                        "url": "/ur/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "پرتگیزی-پیرافرز-آلے",
-                        "url": "/ur/portuguese-paraphrase-tool"
                     }
                 ]
             },

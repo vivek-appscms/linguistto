@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: sw
 to: mr
-langName : swahili-to
+langname: swahili-to
 permalink: /swahili-to-marathi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&sw&&mr
 ---
 {% include section/translateinto.html %}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fil
 to: ga
-langName : filipino-to
+langname: filipino-to
 permalink: /filipino-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fil&&ga
 ---
 {% include section/translateinto.html %}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: ja
-langName : puerto-to
+langname: puerto-to
 permalink: /puerto-to-japanese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es&&ja
 ---
 {% include section/translateinto.html %}

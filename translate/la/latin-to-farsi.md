@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: latin-to-farsi-sentence-translation
+translatein: latin_to_farsi
+folderName : translate
+lang: la
+from: la
+to: fa
+langname: latin-to
+permalink: /la/latin-to-farsi-sentence-translation
+tool: sentence-translations
+matchurls: en&&la&&fa
+---
+{% include section/translateinto.html %}

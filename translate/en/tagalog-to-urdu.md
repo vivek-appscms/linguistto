@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: tl
 to: ur
-langName : tagalog-to
+langname: tagalog-to
 permalink: /tagalog-to-urdu-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&tl&&ur
 ---
 {% include section/translateinto.html %}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pa
 to: ja
-langName : punjabi-to
+langname: punjabi-to
 permalink: /punjabi-to-japanese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pa&&ja
 ---
 {% include section/translateinto.html %}

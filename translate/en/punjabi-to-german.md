@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pa
 to: de
-langName : punjabi-to
+langname: punjabi-to
 permalink: /punjabi-to-german-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pa&&de
 ---
 {% include section/translateinto.html %}

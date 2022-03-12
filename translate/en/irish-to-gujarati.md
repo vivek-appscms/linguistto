@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ga
 to: gu
-langName : irish-to
+langname: irish-to
 permalink: /irish-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga&&gu
 ---
 {% include section/translateinto.html %}

@@ -3,7 +3,6 @@ tags: []
 categories: []
 title: Free sentence translation tools which you can use
 layout: post
-hero: ''
 image: '/uploads/output-8.png'
 author: ankita
 comments: false

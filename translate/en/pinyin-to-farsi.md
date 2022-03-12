@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: zh
 to: fa
-langName : pinyin-to
+langname: pinyin-to
 permalink: /pinyin-to-farsi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&zh&&fa
 ---
 {% include section/translateinto.html %}

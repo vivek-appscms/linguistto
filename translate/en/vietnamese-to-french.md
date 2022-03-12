@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: fr
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-french-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi&&fr
 ---
 {% include section/translateinto.html %}

@@ -5,26 +5,9 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "ಪ್ಯಾರಾಫ್ರಾಸಿಂಗ್ ಉಪಕರಣವನ್ನು",
+                "categoryName": "ಇತರೆ ಪರಿಕರಗಳು",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ರಷ್ಯಾದ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ಸ್ಪ್ಯಾನಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "ಇಂಗ್ಲೀಷ್ ಗೆ ಹಿಂದಿ ಟೈಪಿಂಗ್",
@@ -36,102 +19,6 @@
                         "name": "ಇಂಗ್ಲೀಷ್ ಗೆ ಬಾಂಗ್ಲಾ ಟೈಪಿಂಗ್",
                         "url": "/kn/bangla-transliteration-tool",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ಜರ್ಮನ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಕೊರಿಯಾದ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/korean-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಡ್ಯಾನಿಶ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/danish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಇಟಾಲಿಯನ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/italian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಪೋಲಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/polish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಸ್ವೀಡಿಷ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಟೂಲ್",
-                        "url": "/kn/swedish-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಥಾಯ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
-                        "url": "/kn/thai-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಜಪಾನಿನ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
-                        "url": "/kn/japanese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಅರೇಬಿಕ್-ಪ್ಯಾರಾಫ್ರಾಸ್-ಉಪಕರಣವನ್ನು",
-                        "url": "/kn/arabic-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಉಕ್ರೇನಿಯನ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
-                        "url": "/kn/ukranian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಚೀನೀ-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
-                        "url": "/kn/chinese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಇಂಡೋನೇಷಿಯನ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
-                        "url": "/kn/indonesian-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ವಿಯೆಟ್ನಾಮ್ಸ್-ಪ್ಯಾರಾಫ್ರಾಸ್-ಟೂಲ್",
-                        "url": "/kn/vietnamese-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಫ್ರೆಂಚ್-ಪ್ಯಾರಾಫ್ರೇಸ್-ಟೂಲ್",
-                        "url": "/kn/french-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಡಚ್ ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
-                        "url": "/kn/dutch-paraphrase-tool"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "hover": "blue",
-                        "name": "ಪೋರ್ಚುಗೀಸ್-ಪ್ಯಾರಾಫ್ರೇಸ್ ಉಪಕರಣ",
-                        "url": "/kn/portuguese-paraphrase-tool"
                     }
                 ]
             },

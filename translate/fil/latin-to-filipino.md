@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: latin-to-filipino-sentence-translation
+translatein: latin_to_filipino
+folderName : translate
+lang: en
+from: la
+to: fil
+langname: latin-to
+permalink: /fil/latin-to-filipino-sentence-translation
+tool: sentence-translations
+matchurls: en&&la&&fil
+---
+{% include section/translateinto.html %}

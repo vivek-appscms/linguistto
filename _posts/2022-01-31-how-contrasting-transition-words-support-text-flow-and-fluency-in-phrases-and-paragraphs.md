@@ -4,7 +4,7 @@ categories: []
 title: How Contrasting Transition Words Support Text Flow and Fluency in Phrases and
   Paragraphs
 layout: post
-hero: Anushka
+author: Anushka
 image: "/uploads/ct-tw.png"
 comments: false
 

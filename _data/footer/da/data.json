@@ -21,84 +21,8 @@
     ],
     "product": [
         {
-            "name": "Omskrivning værktøj",
-            "url": "/da/paraphrasing-tool"
-        },
-        {
-            "name": "Tysk parafrase værktøj",
-            "url": "/da/german-paraphrase-tool"
-        },
-        {
-            "name": "Hindi Parafrase værktøj",
-            "url": "/da/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Russisk Parafrase værktøj",
-            "url": "/da/russian-paraphrase-tool"
-        },
-        {
-            "name": "Spansk Parafrase værktøj",
-            "url": "/da/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Koreansk Parafrase værktøj",
-            "url": "/da/korean-paraphrase-tool"
-        },
-        {
-            "name": "Dansk Parafrase værktøj",
-            "url": "/da/danish-paraphrase-tool"
-        },
-        {
-            "name": "Italiensk parafrase værktøj",
-            "url": "/da/italian-paraphrase-tool"
-        },
-        {
-            "name": "Polsk parafrase værktøj",
-            "url": "/da/polish-paraphrase-tool"
-        },
-        {
-            "name": "Svensk Parafrase værktøj",
-            "url": "/da/swedish-paraphrase-tool"
-        },
-        {
-            "name": "Thai-paraphrase-værktøj",
-            "url": "/da/thai-paraphrase-tool"
-        },
-        {
-            "name": "Japansk-paraphrase-værktøj",
-            "url": "/da/japanese-paraphrase-tool"
-        },
-        {
-            "name": "arabisk-parafrase-værktøj",
-            "url": "/da/arabic-paraphrase-tool"
-        },
-        {
-            "name": "Ukranian-paraphrase-værktøj",
-            "url": "/da/ukranian-paraphrase-tool"
-        },
-        {
-            "name": "Kinesisk-paraphrase-værktøj",
-            "url": "/da/chinese-paraphrase-tool"
-        },
-        {
-            "name": "Indonesisk-paraphrase-værktøj",
-            "url": "/da/indonesian-paraphrase-tool"
-        },
-        {
-            "name": "vietnamese-parafrase-værktøj",
-            "url": "/da/vietnamese-paraphrase-tool"
-        },
-        {
-            "name": "Fransk-paraphrase-værktøj",
-            "url": "/da/french-paraphrase-tool"
-        },
-        {
-            "name": "Hollandsk-paraphrase-værktøj",
-            "url": "/da/dutch-paraphrase-tool"
-        },
-        {
-            "name": "Portugisisk-paraphrase-værktøj",
-            "url": "/da/portuguese-paraphrase-tool"
+            "name": "Alle omskrivning værktøjer",
+            "url": "/da/all-paraphrase-pages"
         },
         {
             "name": "Værktøjet Transliteration",

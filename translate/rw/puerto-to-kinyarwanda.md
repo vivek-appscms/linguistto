@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: puerto-to-kinyarwanda-sentence-translation
+translatein: puerto_to_kinyarwanda
+folderName : translate
+lang: rw
+from: es
+to: rw
+langname: puerto-to
+permalink: /rw/puerto-to-kinyarwanda-sentence-translation
+tool: sentence-translations
+matchurls: en&&es&&rw
+---
+{% include section/translateinto.html %}

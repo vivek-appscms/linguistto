@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: hi
-langName : puerto-to
+langname: puerto-to
 permalink: /puerto-to-hindi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es&&hi
 ---
 {% include section/translateinto.html %}

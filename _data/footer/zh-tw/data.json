@@ -21,156 +21,80 @@
     ],
     "product": [
         {
-            "name": "解釋工具",
-            "url": "/zh-TW/paraphrasing-tool"
-        },
-        {
-            "name": "德語解釋工具",
-            "url": "/zh-TW/german-paraphrase-tool"
-        },
-        {
-            "name": "印地語解釋工具",
-            "url": "/zh-TW/hindi-paraphrase-tool"
-        },
-        {
-            "name": "俄語解釋工具",
-            "url": "/zh-TW/russian-paraphrase-tool"
-        },
-        {
-            "name": "西班牙語翻譯工具",
-            "url": "/zh-TW/spanish-paraphrase-tool"
-        },
-        {
-            "name": "韓語解釋工具",
-            "url": "/zh-TW/korean-paraphrase-tool"
-        },
-        {
-            "name": "丹麥語翻譯工具",
-            "url": "/zh-TW/danish-paraphrase-tool"
-        },
-        {
-            "name": "意大利語解釋工具",
-            "url": "/zh-TW/italian-paraphrase-tool"
-        },
-        {
-            "name": "波蘭語翻譯工具",
-            "url": "/zh-TW/polish-paraphrase-tool"
-        },
-        {
-            "name": "瑞典語翻譯工具",
-            "url": "/zh-TW/swedish-paraphrase-tool"
-        },
-        {
-            "name": "泰國的話語-工具",
-            "url": "/zh-TW/thai-paraphrase-tool"
-        },
-        {
-            "name": "日語解釋-工具",
-            "url": "/zh-TW/japanese-paraphrase-tool"
-        },
-        {
-            "name": "阿拉伯語-解釋工具",
-            "url": "/zh-TW/arabic-paraphrase-tool"
-        },
-        {
-            "name": "英國的解釋-工具",
-            "url": "/zh-TW/ukranian-paraphrase-tool"
-        },
-        {
-            "name": "中文解釋-工具",
-            "url": "/zh-TW/chinese-paraphrase-tool"
-        },
-        {
-            "name": "印度尼西亞-翻譯-工具",
-            "url": "/zh-TW/indonesian-paraphrase-tool"
-        },
-        {
-            "name": "越南語解釋工具",
-            "url": "/zh-TW/vietnamese-paraphrase-tool"
-        },
-        {
-            "name": "法語解釋-工具",
-            "url": "/zh-TW/french-paraphrase-tool"
-        },
-        {
-            "name": "荷蘭語解釋-工具",
-            "url": "/zh-TW/dutch-paraphrase-tool"
-        },
-        {
-            "name": "葡萄牙語-解釋-工具",
-            "url": "/zh-TW/portuguese-paraphrase-tool"
+            "name": "所有解釋工具",
+            "url": "/zh-TW/all-paraphrase-pages"
         },
         {
             "name": "音譯工具",
-            "url": "/zh-TW/english-to-hindi-typing "
+            "url": "/zh-tw/english-to-hindi-typing "
         },
         {
             "name": "鍵入頁面",
-            "url": "/zh-TW/all-typing-pages"
+            "url": "/zh-tw/all-typing-pages"
         },
         {
             "name": "英語到孟加拉打字",
-            "url": "/zh-TW/bangla-transliteration-tool"
+            "url": "/zh-tw/bangla-transliteration-tool"
         },
         {
             "name": "字數計數工具",
-            "url": "/zh-TW/word-count-tool"
+            "url": "/zh-tw/word-count-tool"
         },
         {
             "name": "字符計數工具",
-            "url": "/zh-TW/character-count-tool"
+            "url": "/zh-tw/character-count-tool"
         },
         {
             "name": "句子翻譯",
-            "url": "/zh-TW/sentence-translation"
+            "url": "/zh-tw/sentence-translation"
         },
         {
             "name": "元和標題檢查器",
-            "url": "/zh-TW/meta-and-title-checker"
+            "url": "/zh-tw/meta-and-title-checker"
         },
         {
             "name": "隨機形容詞發生器",
-            "url": "/zh-TW/random-adjective-generator"
+            "url": "/zh-tw/random-adjective-generator"
         },
         {
             "name": "文本差異檢查器",
-            "url": "/zh-TW/text-difference-checker"
+            "url": "/zh-tw/text-difference-checker"
         },
         {
             "name": "隨機名詞生成器",
-            "url": "/zh-TW/random-noun-generator"
+            "url": "/zh-tw/random-noun-generator"
         },
         {
             "name": "隨機段落生成器",
-            "url": "/zh-TW/random-paragraph-generator"
+            "url": "/zh-tw/random-paragraph-generator"
         },
         {
             "name": "隨機字母生成器",
-            "url": "/zh-TW/random-letter-generator"
+            "url": "/zh-tw/random-letter-generator"
         },
         {
             "name": "隨機句子生成器",
-            "url": "/zh-TW/random-sentence-generator"
+            "url": "/zh-tw/random-sentence-generator"
         },
         {
             "name": "塞爾普模擬器",
-            "url": "/zh-TW/serp-simulator"
+            "url": "/zh-tw/serp-simulator"
         },
         {
             "name": "網站字數",
-            "url": "/zh-TW/website-word-count"
+            "url": "/zh-tw/website-word-count"
         },
         {
             "name": "隨機詞生成器",
-            "url": "/zh-TW/random-word-generator"
+            "url": "/zh-tw/random-word-generator"
         },
         {
             "name": "段落重寫",
-            "url": "/zh-TW/paragraph-rewriter"
+            "url": "/zh-tw/paragraph-rewriter"
         },
         {
             "name": "文本重寫",
-            "url": "/zh-TW/text-rewriter"
+            "url": "/zh-tw/text-rewriter"
         }
     ],
     "networkSites": [],

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: ar
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-arabic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&rw&&ar
 ---
 {% include section/translateinto.html %}

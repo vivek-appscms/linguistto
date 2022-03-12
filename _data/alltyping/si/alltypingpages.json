@@ -1,78 +1,8 @@
-[
-    {
-        "name": "English to Arabic typing",
-        "url": "/si/english-to-arabic-typing"
-    },
-    {
-        "name": "English to Bangla typing",
-        "url": "/si/bangla-transliteration-tool"
-    },
-    {
-        "name": "English to Devanagari typing",
-        "url": "/si/english-to-devanagari-typing"
-    },
-    {
-        "name": "English to Sanskrit typing",
-        "url": "/si/english-to-sanskrit-typing"
-    },
-    {
-        "name": "English to Gujarati typing",
-        "url": "/si/english-to-gujarati-typing"
-    },
-    {
-        "name": "English to Gurmukhi typing",
-        "url": "/si/english-to-gurmukhi-typing"
-    },
-    {
-        "name": "English to Hindi typing",
-        "url": "/si/english-to-hindi-typing"
-    },
-    {
-        "name": "English to Japanese typing",
-        "url": "/si/english-to-japanese-typing"
-    },
-    {
-        "name": "English to Kannada typing",
-        "url": "/si/english-to-kannada-typing"
-    },
-    {
-        "name": "English to Malayalam typing",
-        "url": "/si/english-to-malayalam-typing"
-    },
-    {
-        "name": "English to Marathi typing",
-        "url": "/si/english-to-marathi-typing"
-    },
-    {
-        "name": "English to Nepali typing",
-        "url": "/si/english-to-nepali-typing"
-    },
-    {
-        "name": "English to Odia typing",
-        "url": "/si/english-to-odia-typing"
-    },
-    {
-        "name": "English to Punjabi typing",
-        "url": "/si/english-to-punjabi-typing"
-    },
-    {
-        "name": "English to Sinhalese typing",
-        "url": "/si/english-to-sinhalese-typing"
-    },
-    {
-        "name": "English to Russian typing",
-        "url": "/si/english-to-russian-typing"
-    },
-    {
-        "name": "English to Tamil typing",
-        "url": "/si/english-to-tamil-typing"
-    },
-    {
-        "name": "English to Telugu typing",
-        "url": "/si/english-to-telugu-typing"
-    },
-    {
-        "name": "English to Urdu typing",
-        "url": "/si/english-to-urdu-typing"
-    }
-]
+{
+    "links": [
+        {
+            "name": "ඉංග්රීසි සිට සිංහල යතුරු ලියනය",
+            "url": "/si/english-to-sinhalese-typing"
+        }
+    ]
+}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: ga
-langName : spanish-to
+langname: spanish-to
 permalink: /spanish-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es&&ga
 ---
 {% include section/translateinto.html %}

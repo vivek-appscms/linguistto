@@ -21,84 +21,8 @@
     ],
     "product": [
         {
-            "name": "Verktyg för parafrasering",
-            "url": "/sv/paraphrasing-tool"
-        },
-        {
-            "name": "Verktyget Tyskt parafras",
-            "url": "/sv/german-paraphrase-tool"
-        },
-        {
-            "name": "Verktyget Hindi Parafras",
-            "url": "/sv/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Ryskt parafrasverktyg",
-            "url": "/sv/russian-paraphrase-tool"
-        },
-        {
-            "name": "Verktyget Spanskt parafras",
-            "url": "/sv/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Koreansk parafras, verktyg",
-            "url": "/sv/korean-paraphrase-tool"
-        },
-        {
-            "name": "Dansk parafras, verktyg",
-            "url": "/sv/danish-paraphrase-tool"
-        },
-        {
-            "name": "Italienskt parafrasverktyg",
-            "url": "/sv/italian-paraphrase-tool"
-        },
-        {
-            "name": "Verktyget Polskt parafras",
-            "url": "/sv/polish-paraphrase-tool"
-        },
-        {
-            "name": "Svenskt parafrasverktyg",
-            "url": "/sv/swedish-paraphrase-tool"
-        },
-        {
-            "name": "Thai-parafras - verktyg",
-            "url": "/sv/thai-paraphrase-tool"
-        },
-        {
-            "name": "Japansk-parafras-verktyg",
-            "url": "/sv/japanese-paraphrase-tool"
-        },
-        {
-            "name": "arabisk-parafras-verktyg",
-            "url": "/sv/arabic-paraphrase-tool"
-        },
-        {
-            "name": "Ukranian-parafras verktyg",
-            "url": "/sv/ukranian-paraphrase-tool"
-        },
-        {
-            "name": "Kinesiska-parafras-verktyg",
-            "url": "/sv/chinese-paraphrase-tool"
-        },
-        {
-            "name": "Indonesiska-parafras",
-            "url": "/sv/indonesian-paraphrase-tool"
-        },
-        {
-            "name": "vietnamesiska-parafras- verktyg",
-            "url": "/sv/vietnamese-paraphrase-tool"
-        },
-        {
-            "name": "Fransk-parafras-verktyg",
-            "url": "/sv/french-paraphrase-tool"
-        },
-        {
-            "name": "Nederländska-parafras",
-            "url": "/sv/dutch-paraphrase-tool"
-        },
-        {
-            "name": "Portugisisk-parafras-verktyg",
-            "url": "/sv/portuguese-paraphrase-tool"
+            "name": "Alla parafraseringsverktyg",
+            "url": "/sv/all-paraphrase-pages"
         },
         {
             "name": "Translittereringsverktyg",

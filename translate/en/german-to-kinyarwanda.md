@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: de
 to: rw
-langName : german-to
+langname: german-to
 permalink: /german-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&de&&rw
 ---
 {% include section/translateinto.html %}

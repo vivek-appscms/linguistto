@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: kinyarwanda-to-tagalog-sentence-translation
+translatein: kinyarwanda_to_tagalog
+folderName : translate
+lang: rw
+from: rw
+to: tl
+langname: kinyarwanda-to
+permalink: /rw/kinyarwanda-to-tagalog-sentence-translation
+tool: sentence-translations
+matchurls: en&&rw&&tl
+---
+{% include section/translateinto.html %}

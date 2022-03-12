@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "alat parafrase",
+                "categoryName": "Alat Lainnya",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat parafrase Hindi",
-                        "url": "/id/hindi-paraphrase-tool",
+                        "name": "Semua alat Paraphrasing",
+                         "url": "/id/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat Parafrasis Rusia",
-                        "url": "/id/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat parafrasis Spanyol",
-                        "url": "/id/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Bahasa Inggris ke Hindi Mengetik",
@@ -37,12 +26,7 @@
                         "url": "/id/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alat Parafrase Jerman",
-                        "url": "/id/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Alat hitung kata",

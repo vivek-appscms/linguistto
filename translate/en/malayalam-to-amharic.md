@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ml
 to: am
-langName : malayalam-to
+langname: malayalam-to
 permalink: /malayalam-to-amharic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml&&am
 ---
 {% include section/translateinto.html %}

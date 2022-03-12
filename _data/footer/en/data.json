@@ -21,6 +21,10 @@
   ],
   "product": [
     {
+      "name": "All Paraphrasing tools",
+      "url": "/all-paraphrase-pages"
+    },
+    {
       "name": "Paraphrasing tool",
       "url": "/paraphrasing-tool"
     },

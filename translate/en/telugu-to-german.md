@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: de
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-german-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&de
 ---
 {% include section/translateinto.html %}

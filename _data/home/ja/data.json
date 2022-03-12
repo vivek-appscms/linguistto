@@ -31,6 +31,13 @@
             "url": "/ja/hindi-paraphrase-tool"
         },
         {
+            "name": "すべての言い換えツール",
+            "url": "/ja/all-paraphrase-pages",
+            "description": "プロフェッショナル向けすべての言い換えツール",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "スペイン語言い換えツール",
             "description": "専門家のためのスペイン語言い換えツール",
             "color": "#0e6d6d",

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: en
 to: fr
-langName : english-to
+langname: english-to
 permalink: /english-to-french-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fr
 ---
 {% include section/translateinto.html %}

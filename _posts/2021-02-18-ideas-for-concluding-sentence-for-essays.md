@@ -4,7 +4,7 @@ categories:
 - general
 title: "  Ideas for concluding sentence for essays"
 layout: post
-hero: ''
+author: Anushka
 image: "/uploads/o.png"
 comments: false
 

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pa
 to: ga
-langName : punjabi-to
+langname: punjabi-to
 permalink: /punjabi-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pa&&ga
 ---
 {% include section/translateinto.html %}

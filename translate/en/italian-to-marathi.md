@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: it
 to: mr
-langName : italian-to
+langname: italian-to
 permalink: /italian-to-marathi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&it&&mr
 ---
 {% include section/translateinto.html %}

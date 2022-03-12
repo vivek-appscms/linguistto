@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ta
 to: fa
-langName : tamil-to
+langname: tamil-to
 permalink: /tamil-to-farsi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ta&&fa
 ---
 {% include section/translateinto.html %}

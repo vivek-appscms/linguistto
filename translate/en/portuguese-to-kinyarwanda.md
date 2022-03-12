@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: rw
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt&&rw
 ---
 {% include section/translateinto.html %}

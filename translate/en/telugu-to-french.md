@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: fr
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-french-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&fr
 ---
 {% include section/translateinto.html %}

@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Using Our Text Difference Checker to Find Differences Between Texts
 layout: post
-hero: Anushka
+author: Anushka
 image: "/uploads/ct-dc1.png"
 comments: false
 

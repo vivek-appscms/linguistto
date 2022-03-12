@@ -5,24 +5,12 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "解釋工具",
+                "categoryName": "其他工具",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "印地語解釋工具",
-                        "url": "/zh-tw/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "俄語解釋工具",
-                        "url": "/zh-tw/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "西班牙語翻譯工具",
-                        "url": "/zh-tw/spanish-paraphrase-tool",
+                        "name": "所有解釋工具",
+                        "url": "/zh-TW/all-paraphrase-pages",
                         "hover": "blue"
                     },
                     {
@@ -37,12 +25,7 @@
                         "url": "/zh-tw/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "德語解釋工具",
-                        "url": "/zh-tw/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "字數計數工具",
