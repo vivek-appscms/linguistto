@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-vietnamese-sentence-translation
 translatein: latin_to_vietnamese
 folderName : translate
-lang: la
+lang: en
 from: la
 to: vi
 langname: latin-to

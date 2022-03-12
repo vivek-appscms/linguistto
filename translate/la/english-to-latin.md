@@ -3,7 +3,7 @@ layout: home
 fileName: english-to-latin-sentence-translation
 translatein: english_to_latin
 folderName : translate
-lang: la
+lang: en
 from: en
 to: la
 langname: english-to

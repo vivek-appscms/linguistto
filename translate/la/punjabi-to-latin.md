@@ -3,7 +3,7 @@ layout: home
 fileName: punjabi-to-latin-sentence-translation
 translatein: punjabi_to_latin
 folderName : translate
-lang: la
+lang: en
 from: pa
 to: la
 langname: punjabi-to

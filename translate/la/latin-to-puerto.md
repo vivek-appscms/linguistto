@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-puerto-sentence-translation
 translatein: latin_to_puerto
 folderName : translate
-lang: la
+lang: en
 from: la
 to: es
 langname: latin-to

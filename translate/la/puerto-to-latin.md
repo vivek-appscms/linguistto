@@ -3,7 +3,7 @@ layout: home
 fileName: puerto-to-latin-sentence-translation
 translatein: puerto_to_latin
 folderName : translate
-lang: la
+lang: en
 from: es
 to: la
 langname: puerto-to

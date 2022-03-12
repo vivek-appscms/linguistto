@@ -3,7 +3,7 @@ layout: home
 fileName: kinyarwanda-to-latin-sentence-translation
 translatein: kinyarwanda_to_latin
 folderName : translate
-lang: la
+lang: en
 from: rw
 to: la
 langname: kinyarwanda-to

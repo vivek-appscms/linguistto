@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-amharic-sentence-translation
 translatein: latin_to_amharic
 folderName : translate
-lang: la
+lang: en
 from: la
 to: am
 langname: latin-to

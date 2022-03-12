@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-tamil-sentence-translation
 translatein: latin_to_tamil
 folderName : translate
-lang: la
+lang: en
 from: la
 to: ta
 langname: latin-to

@@ -3,7 +3,7 @@ layout: home
 fileName: gujarati-to-latin-sentence-translation
 translatein: gujarati_to_latin
 folderName : translate
-lang: la
+lang: en
 from: gu
 to: la
 langname: gujarati-to

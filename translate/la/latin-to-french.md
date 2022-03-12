@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-french-sentence-translation
 translatein: latin_to_french
 folderName : translate
-lang: la
+lang: en
 from: la
 to: fr
 langname: latin-to

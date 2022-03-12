@@ -3,7 +3,7 @@ layout: home
 fileName: arabic-to-latin-sentence-translation
 translatein: arabic_to_latin
 folderName : translate
-lang: la
+lang: en
 from: ar
 to: la
 langname: arabic-to

@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-urdu-sentence-translation
 translatein: latin_to_urdu
 folderName : translate
-lang: la
+lang: en
 from: la
 to: ur
 langname: latin-to

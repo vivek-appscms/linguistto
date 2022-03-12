@@ -3,7 +3,7 @@ layout: home
 fileName: italian-to-latin-sentence-translation
 translatein: italian_to_latin
 folderName : translate
-lang: la
+lang: en
 from: it
 to: la
 langname: italian-to

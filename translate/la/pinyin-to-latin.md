@@ -3,7 +3,7 @@ layout: home
 fileName: pinyin-to-latin-sentence-translation
 translatein: pinyin_to_latin
 folderName : translate
-lang: la
+lang: en
 from: zh
 to: la
 langname: pinyin-to

@@ -3,7 +3,7 @@ layout: home
 fileName: irish-to-latin-sentence-translation
 translatein: irish_to_latin
 folderName : translate
-lang: la
+lang: en
 from: ga
 to: la
 langname: irish-to

@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-japanese-sentence-translation
 translatein: latin_to_japanese
 folderName : translate
-lang: la
+lang: en
 from: la
 to: ja
 langname: latin-to

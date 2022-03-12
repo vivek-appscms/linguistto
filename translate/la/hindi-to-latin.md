@@ -3,7 +3,7 @@ layout: home
 fileName: hindi-to-latin-sentence-translation
 translatein: hindi_to_latin
 folderName : translate
-lang: la
+lang: en
 from: hi
 to: la
 langname: hindi-to

@@ -3,7 +3,7 @@ layout: home
 fileName: filipino-to-latin-sentence-translation
 translatein: filipino_to_latin
 folderName : translate
-lang: la
+lang: en
 from: fil
 to: la
 langname: filipino-to

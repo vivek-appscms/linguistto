@@ -3,7 +3,7 @@ layout: home
 fileName: malayalam-to-latin-sentence-translation
 translatein: malayalam_to_latin
 folderName : translate
-lang: la
+lang: en
 from: ml
 to: la
 langname: malayalam-to

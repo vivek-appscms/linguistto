@@ -3,7 +3,7 @@ layout: home
 fileName: portuguese-to-latin-sentence-translation
 translatein: portuguese_to_latin
 folderName : translate
-lang: la
+lang: en
 from: pt
 to: la
 langname: portuguese-to

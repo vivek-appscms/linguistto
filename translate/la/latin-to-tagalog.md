@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-tagalog-sentence-translation
 translatein: latin_to_tagalog
 folderName : translate
-lang: la
+lang: en
 from: la
 to: tl
 langname: latin-to

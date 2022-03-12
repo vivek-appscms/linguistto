@@ -3,7 +3,7 @@ layout: home
 fileName: latin-to-marathi-sentence-translation
 translatein: latin_to_marathi
 folderName : translate
-lang: la
+lang: en
 from: la
 to: mr
 langname: latin-to

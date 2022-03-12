@@ -3,7 +3,7 @@ layout: home
 fileName: german-to-latin-sentence-translation
 translatein: german_to_latin
 folderName : translate
-lang: la
+lang: en
 from: de
 to: la
 langname: german-to

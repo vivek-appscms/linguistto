@@ -3,7 +3,7 @@ layout: home
 fileName: spanish-to-latin-sentence-translation
 translatein: spanish_to_latin
 folderName : translate
-lang: la
+lang: en
 from: es
 to: la
 langname: spanish-to
