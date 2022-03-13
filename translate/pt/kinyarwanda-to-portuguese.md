@@ -9,6 +9,6 @@ to: pt
 langname: kinyarwanda-to
 permalink: /pt/kinyarwanda-to-portuguese-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&pt
+matchurls: en&&pt
 ---
 {% include section/translateinto.html %}

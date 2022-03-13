@@ -9,6 +9,6 @@ to: es
 langname: latin-to
 permalink: /latin-to-puerto-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&es
+matchurls: en&&es
 ---
 {% include section/translateinto.html %}

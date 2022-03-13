@@ -9,6 +9,6 @@ to: la
 langname: portuguese-to
 permalink: /pt/portuguese-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&pt&&la
+matchurls: en&&pt
 ---
 {% include section/translateinto.html %}

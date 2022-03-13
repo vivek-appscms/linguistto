@@ -9,6 +9,6 @@ to: fil
 langname: french-to
 permalink: /french-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&fr&&fil
+matchurls: en&&fr
 ---
 {% include section/translateinto.html %}

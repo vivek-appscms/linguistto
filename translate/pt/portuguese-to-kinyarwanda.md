@@ -9,6 +9,6 @@ to: rw
 langname: portuguese-to
 permalink: /pt/portuguese-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&pt&&rw
+matchurls: en&&pt
 ---
 {% include section/translateinto.html %}

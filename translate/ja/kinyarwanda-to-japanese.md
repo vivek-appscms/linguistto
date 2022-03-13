@@ -9,6 +9,6 @@ to: ja
 langname: kinyarwanda-to
 permalink: /ja/kinyarwanda-to-japanese-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&ja
+matchurls: en&&ja
 ---
 {% include section/translateinto.html %}

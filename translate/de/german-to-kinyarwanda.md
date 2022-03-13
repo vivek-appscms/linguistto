@@ -9,6 +9,6 @@ to: rw
 langname: german-to
 permalink: /de/german-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&de&&rw
+matchurls: en&&de
 ---
 {% include section/translateinto.html %}

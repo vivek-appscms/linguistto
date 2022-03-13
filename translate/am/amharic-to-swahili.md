@@ -9,6 +9,6 @@ to: sw
 langname: amharic-to
 permalink: /am/amharic-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&am&&sw
+matchurls: en&&am
 ---
 {% include section/translateinto.html %}

@@ -9,6 +9,6 @@ to: rw
 langname: vietnamese-to
 permalink: /vi/vietnamese-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&vi&&rw
+matchurls: en&&vi
 ---
 {% include section/translateinto.html %}

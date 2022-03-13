@@ -9,6 +9,6 @@ to: zh
 langname: latin-to
 permalink: /latin-to-pinyin-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&zh
+matchurls: en&&zh
 ---
 {% include section/translateinto.html %}

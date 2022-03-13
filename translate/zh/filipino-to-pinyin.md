@@ -9,6 +9,6 @@ to: zh
 langname: filipino-to
 permalink: /zh/filipino-to-pinyin-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&zh
+matchurls: en&&zh
 ---
 {% include section/translateinto.html %}

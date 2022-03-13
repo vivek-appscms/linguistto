@@ -9,6 +9,6 @@ to: sw
 langname: kinyarwanda-to
 permalink: /kinyarwanda-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&sw
+matchurls: en
 ---
 {% include section/translateinto.html %}

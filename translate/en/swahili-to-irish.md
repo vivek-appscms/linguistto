@@ -9,6 +9,6 @@ to: ga
 langname: swahili-to
 permalink: /swahili-to-irish-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&ga
+matchurls: en&&ga
 ---
 {% include section/translateinto.html %}

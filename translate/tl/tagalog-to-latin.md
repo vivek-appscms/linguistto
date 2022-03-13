@@ -9,6 +9,6 @@ to: la
 langname: tagalog-to
 permalink: /tl/tagalog-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&tl&&la
+matchurls: en&&tl
 ---
 {% include section/translateinto.html %}

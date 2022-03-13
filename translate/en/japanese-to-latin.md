@@ -9,6 +9,6 @@ to: la
 langname: japanese-to
 permalink: /japanese-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&ja&&la
+matchurls: en&&ja
 ---
 {% include section/translateinto.html %}

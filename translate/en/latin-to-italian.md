@@ -9,6 +9,6 @@ to: it
 langname: latin-to
 permalink: /latin-to-italian-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&it
+matchurls: en&&it
 ---
 {% include section/translateinto.html %}

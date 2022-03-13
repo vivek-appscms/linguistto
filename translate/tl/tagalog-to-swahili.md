@@ -9,6 +9,6 @@ to: sw
 langname: tagalog-to
 permalink: /tl/tagalog-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&tl&&sw
+matchurls: en&&tl
 ---
 {% include section/translateinto.html %}

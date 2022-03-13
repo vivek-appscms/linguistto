@@ -9,6 +9,6 @@ to: ja
 langname: filipino-to
 permalink: /filipino-to-japanese-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&ja
+matchurls: en&&ja
 ---
 {% include section/translateinto.html %}

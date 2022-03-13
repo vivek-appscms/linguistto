@@ -9,6 +9,6 @@ to: ta
 langname: filipino-to
 permalink: /filipino-to-tamil-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&ta
+matchurls: en&&ta
 ---
 {% include section/translateinto.html %}

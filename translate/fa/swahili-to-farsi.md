@@ -9,6 +9,6 @@ to: fa
 langname: swahili-to
 permalink: /fa/swahili-to-farsi-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&fa
+matchurls: en&&fa
 ---
 {% include section/translateinto.html %}

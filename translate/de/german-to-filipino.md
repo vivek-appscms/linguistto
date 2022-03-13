@@ -9,6 +9,6 @@ to: fil
 langname: german-to
 permalink: /de/german-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&de&&fil
+matchurls: en&&de
 ---
 {% include section/translateinto.html %}

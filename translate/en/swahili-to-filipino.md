@@ -9,6 +9,6 @@ to: fil
 langname: swahili-to
 permalink: /swahili-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&fil
+matchurls: en
 ---
 {% include section/translateinto.html %}

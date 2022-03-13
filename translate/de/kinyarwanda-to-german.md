@@ -9,6 +9,6 @@ to: de
 langname: kinyarwanda-to
 permalink: /de/kinyarwanda-to-german-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&de
+matchurls: en&&de
 ---
 {% include section/translateinto.html %}

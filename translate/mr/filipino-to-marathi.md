@@ -9,6 +9,6 @@ to: mr
 langname: filipino-to
 permalink: /mr/filipino-to-marathi-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&mr
+matchurls: en&&mr
 ---
 {% include section/translateinto.html %}

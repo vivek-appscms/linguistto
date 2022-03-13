@@ -9,6 +9,6 @@ to: rw
 langname: amharic-to
 permalink: /am/amharic-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&am&&rw
+matchurls: en&&am
 ---
 {% include section/translateinto.html %}

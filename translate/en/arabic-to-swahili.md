@@ -9,6 +9,6 @@ to: sw
 langname: arabic-to
 permalink: /arabic-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&ar&&sw
+matchurls: en&&ar
 ---
 {% include section/translateinto.html %}

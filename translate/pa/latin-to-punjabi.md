@@ -9,6 +9,6 @@ to: pa
 langname: latin-to
 permalink: /pa/latin-to-punjabi-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&pa
+matchurls: en&&pa
 ---
 {% include section/translateinto.html %}

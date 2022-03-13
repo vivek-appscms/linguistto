@@ -9,6 +9,6 @@ to: ml
 langname: filipino-to
 permalink: /filipino-to-malayalam-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&ml
+matchurls: en&&ml
 ---
 {% include section/translateinto.html %}

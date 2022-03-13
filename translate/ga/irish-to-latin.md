@@ -9,6 +9,6 @@ to: la
 langname: irish-to
 permalink: /ga/irish-to-latin-sentence-translation
 tool: sentence-translations
-matchurls: en&&ga&&la
+matchurls: en&&ga
 ---
 {% include section/translateinto.html %}

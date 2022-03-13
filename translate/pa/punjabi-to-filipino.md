@@ -9,6 +9,6 @@ to: fil
 langname: punjabi-to
 permalink: /pa/punjabi-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&pa&&fil
+matchurls: en&&pa
 ---
 {% include section/translateinto.html %}

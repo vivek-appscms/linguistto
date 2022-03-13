@@ -9,6 +9,6 @@ to: rw
 langname: tamil-to
 permalink: /ta/tamil-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&ta&&rw
+matchurls: en&&ta
 ---
 {% include section/translateinto.html %}

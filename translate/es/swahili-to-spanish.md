@@ -9,6 +9,6 @@ to: es
 langname: swahili-to
 permalink: /es/swahili-to-spanish-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&es
+matchurls: en&&es
 ---
 {% include section/translateinto.html %}

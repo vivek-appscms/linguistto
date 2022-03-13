@@ -9,6 +9,6 @@ to: ar
 langname: kinyarwanda-to
 permalink: /ar/kinyarwanda-to-arabic-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&ar
+matchurls: en&&ar
 ---
 {% include section/translateinto.html %}

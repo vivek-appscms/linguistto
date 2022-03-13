@@ -9,6 +9,6 @@ to: ga
 langname: filipino-to
 permalink: /ga/filipino-to-irish-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&ga
+matchurls: en&&ga
 ---
 {% include section/translateinto.html %}

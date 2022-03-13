@@ -9,6 +9,6 @@ to: fil
 langname: vietnamese-to
 permalink: /vietnamese-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&vi&&fil
+matchurls: en&&vi
 ---
 {% include section/translateinto.html %}

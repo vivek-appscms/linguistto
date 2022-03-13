@@ -9,6 +9,6 @@ to: pt
 langname: filipino-to
 permalink: /pt/filipino-to-portuguese-sentence-translation
 tool: sentence-translations
-matchurls: en&&fil&&pt
+matchurls: en&&pt
 ---
 {% include section/translateinto.html %}

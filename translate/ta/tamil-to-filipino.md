@@ -9,6 +9,6 @@ to: fil
 langname: tamil-to
 permalink: /ta/tamil-to-filipino-sentence-translation
 tool: sentence-translations
-matchurls: en&&ta&&fil
+matchurls: en&&ta
 ---
 {% include section/translateinto.html %}

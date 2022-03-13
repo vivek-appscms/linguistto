@@ -9,6 +9,6 @@ to: sw
 langname: marathi-to
 permalink: /mr/marathi-to-swahili-sentence-translation
 tool: sentence-translations
-matchurls: en&&mr&&sw
+matchurls: en&&mr
 ---
 {% include section/translateinto.html %}

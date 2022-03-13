@@ -9,6 +9,6 @@ to: rw
 langname: pinyin-to
 permalink: /zh/pinyin-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-matchurls: en&&zh&&rw
+matchurls: en&&zh
 ---
 {% include section/translateinto.html %}

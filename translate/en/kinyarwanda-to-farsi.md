@@ -9,6 +9,6 @@ to: fa
 langname: kinyarwanda-to
 permalink: /kinyarwanda-to-farsi-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&fa
+matchurls: en&&fa
 ---
 {% include section/translateinto.html %}

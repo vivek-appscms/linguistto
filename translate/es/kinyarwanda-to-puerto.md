@@ -9,6 +9,6 @@ to: es
 langname: kinyarwanda-to
 permalink: /es/kinyarwanda-to-puerto-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&es
+matchurls: en&&es
 ---
 {% include section/translateinto.html %}

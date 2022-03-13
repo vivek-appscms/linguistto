@@ -9,6 +9,6 @@ to: ur
 langname: swahili-to
 permalink: /ur/swahili-to-urdu-sentence-translation
 tool: sentence-translations
-matchurls: en&&sw&&ur
+matchurls: en&&ur
 ---
 {% include section/translateinto.html %}

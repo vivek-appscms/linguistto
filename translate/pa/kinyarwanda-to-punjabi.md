@@ -9,6 +9,6 @@ to: pa
 langname: kinyarwanda-to
 permalink: /pa/kinyarwanda-to-punjabi-sentence-translation
 tool: sentence-translations
-matchurls: en&&rw&&pa
+matchurls: en&&pa
 ---
 {% include section/translateinto.html %}

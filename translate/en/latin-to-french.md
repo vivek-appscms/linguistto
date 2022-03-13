@@ -9,6 +9,6 @@ to: fr
 langname: latin-to
 permalink: /latin-to-french-sentence-translation
 tool: sentence-translations
-matchurls: en&&la&&fr
+matchurls: en&&fr
 ---
 {% include section/translateinto.html %}
