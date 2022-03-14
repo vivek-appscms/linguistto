@@ -4,7 +4,6 @@ categories: []
 title: Importance of unique content in seo, and how paraphrasing tool can help
 layout: post
 author: ankita
-hero: ''
 image: "/uploads/p-2.png"
 comments: false
 

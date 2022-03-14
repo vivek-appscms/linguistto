@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: zh
 to: te
-langName : pinyin-to
+langname: pinyin-to
 permalink: /pinyin-to-telugu-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&zh&&te
 ---
 {% include section/translateinto.html %}

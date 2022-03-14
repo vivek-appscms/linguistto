@@ -1,0 +1,70 @@
+{
+    "Language":"Gaeilge",
+    "htmlLangAtt": "ga",
+    "h1": "kinyarwanda le haistriúchán Gaeilge",
+    "h2": "An Aistriúchán Pianbhreithe is Fearr",
+    "TITLE": "kinyarwanda to irish sentence translation | Aistrigh do abairtí ar líne saor in aisce",
+    "META": "Aistrigh do chuid abairtí ó kinyarwanda go Gaeilge láithreach saor in aisce. Níl aon teorainneacha úsáide againn. Bain triail as saor in aisce!",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "kinyarwanda Meandaracha le haistriúchán Gaeilge",
+            "content": "an uirlis seo a chur i láthair tú bunachar sonraí iomlán do Láithreach a thuiscint kinyarwanda chun aistriúchán sentance Gaeilge. Chun toradh tapa agus cruinn a chlóscríobh ach an seoltóir i tiontaire sentance agus toradh a fháil ar do fingertips le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "kinyarwanda chun aistriúchán Gaeilge abairt ar líne",
+            "content": "Faigh do ábhar aistrithe ar líne kinyarwanda go Gaeilge. Tuiscint a fháil ar an téacs teanga iasachta láithreach gan aon am agus iarracht."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Pianbhreith aistritheoir kinyarwanda chun na Gaeilge i roinnt céimeanna",
+            "content": "Tá sé níos éasca ná mar a cheap tú. Just a chóipeáil do pharagraph agus transalation i kinyarwanda a fháil chun na Gaeilge i cúpla soicind."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "kinyarwanda ar líne saor in aisce le haistriúchán Gaeilge",
+            "content": "Aistritheoir ar líne saor in aisce a shábháil ar do chuid ama agus airgead a kinyarwanda transalate go Gaeilis. ní mór dúinn dírithe nár chóir an bhrí agus mothúcháin a bheith caillte agus aistriú an téacs i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Faigh torthaí tapaidh agus inmhianaithe kinyarwanda chun na Gaeilge",
+            "content": "Transalator ar líne do kinyarwanda chun Gaeilge a professionalize do airteagal cosúil le ceann dúchais. Tá Aistriúchán Pianbhreithe deartha go sonrach chun an teachtaireacht a thuiscint in aon teanga"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tá an Uirlis líofa i kinyarwanda d'aistritheoirí Pianbhreithe Éireannacha.",
+            "content": "Ag cur gnéithe cultúrtha agus teanga san áireamh d'aistriúchán pianbhreithe ar kinyarwanda go Gaeilge. Ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistriúchán Pianbhreithe i kinyarwanda chun do ábhar a dhéanamh gairmiúil",
+            "content": "Uirlis aistriúcháin abairtí ilteangach chun abairtí a aistriú chuig teanga ar bith a d'fhéadfadh a bheith ina kinyarwanda go Gaeilge. Níl ort ach an abairt a chlóscríobh i tiontaire pianbhreithe agus toradh a fháil ar do mhéar le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Déanann an tArduirlis seo ailt, scéalta agus dánta i kinyarwanda a thiontú go Gaeilge gan brí agus mothúchán a scaoileadh agus an téacs á aistriú i dteanga eile.",
+            "content": "Ceachtar is alt nó scéalta a aistrímid kinyarwanda go Gaeilge. Ní dhéanann an uirlis seo focal a aistriú de réir focal. Le bogearraí cliste, cinnteoireachta a chinneann sé na focail atá le húsáid agus cé na cinn atá le dí-rialú. dhírigh muid nár cheart an bhrí agus na mothúcháin a chailleadh agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistrímid Sleachta kinyarwanda go Gaeilge, agus vice versa, agus an bhrí a choinneáil gan athrú.",
+            "content": "Uaireanta athraíonn Sleachta ag am an athraithe i kinyarwanda go Gaeilge. Is é cuspóir an Aistriúcháin Pianbhreithe go sonrach an bhrí fíor a choinneáil gan athrú. Le AI chun cinn ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

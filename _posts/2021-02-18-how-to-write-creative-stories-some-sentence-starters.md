@@ -4,7 +4,7 @@ categories:
 - general
 title: How to write creative stories - some sentence starters
 layout: post
-hero: ''
+author: Anushka
 image: "/uploads/9.png"
 comments: false
 

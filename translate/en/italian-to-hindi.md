@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: it
 to: hi
-langName : italian-to
+langname: italian-to
 permalink: /italian-to-hindi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&it&&hi
 ---
 {% include section/translateinto.html %}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: gu
 to: sw
-langName : gujarati-to
+langname: gujarati-to
 permalink: /gujarati-to-swahili-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&gu
 ---
 {% include section/translateinto.html %}

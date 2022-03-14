@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: sw
 to: ga
-langName : swahili-to
+langname: swahili-to
 permalink: /swahili-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga
 ---
 {% include section/translateinto.html %}

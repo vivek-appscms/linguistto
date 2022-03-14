@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Top 15 best online random word generator tools
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/djnq.png"
 comments: false
 

@@ -31,6 +31,13 @@
             "url": "/pl/hindi-paraphrase-tool"
         },
         {
+            "name": "Wszystkie narzędzia do parafrazowania",
+            "url": "/pl/all-paraphrase-pages",
+            "description": "Wszystkie narzędzia do parafrazowania dla profesjonalistów",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "Narzędzie hiszpańsko-parafrazowe",
             "description": "Hiszpańskie narzędzie do parafrazowania dla profesjonalistów",
             "color": "#0e6d6d",

@@ -3,7 +3,6 @@ tags: []
 categories: []
 title: Ways to become a good content writer
 layout: post
-hero: ''
 image: "/uploads/p.png"
 author: ankita
 comments: false

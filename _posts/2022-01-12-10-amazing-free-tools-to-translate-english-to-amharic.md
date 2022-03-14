@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: 10 amazing free tools to translate English to Amharic
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/dnqj.png"
 comments: false
 

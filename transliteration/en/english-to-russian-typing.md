@@ -6,6 +6,6 @@ language: ru
 folderName : transliteration
 lang: en
 permalink: /english-to-russian-typing
-nointernationalization: true
+matchurls: en&&ru
 ---
 {% include section/translation.html %}

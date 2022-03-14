@@ -3,7 +3,6 @@ tags: []
 categories: []
 title: Ways in which paraphrasing tools help content writers?
 layout: post
-hero: ''
 image: "/uploads/sita.png"
 author: ankita
 comments: false

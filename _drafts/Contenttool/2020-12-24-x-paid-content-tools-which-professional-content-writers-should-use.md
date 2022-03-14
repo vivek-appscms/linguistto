@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Top paid content tools which professional content writers should use
 layout: post
-hero: ''
+
 image: "/uploads/output-4.png"
 author: ankita
 comments: false

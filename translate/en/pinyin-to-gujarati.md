@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: zh
 to: gu
-langName : pinyin-to
+langname: pinyin-to
 permalink: /pinyin-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&zh&&gu
 ---
 {% include section/translateinto.html %}

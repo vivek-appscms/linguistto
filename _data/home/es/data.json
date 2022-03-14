@@ -31,6 +31,13 @@
             "url": "/es/hindi-paraphrase-tool"
         },
         {
+            "name": "Todas las herramientas de paráfrasis",
+            "url": "/es/all-paraphrase-pages",
+            "description": "Todas las herramientas de paráfrasis para profesionales",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "herramienta de paráfrasis en español",
             "description": "Herramienta de paráfrasis en español para profesionales",
             "color": "#0e6d6d",

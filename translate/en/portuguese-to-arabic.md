@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: ar
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-arabic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt&&ar
 ---
 {% include section/translateinto.html %}

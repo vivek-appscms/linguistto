@@ -31,6 +31,13 @@
             "url": "/uk/hindi-paraphrase-tool"
         },
         {
+            "name": "All Paraphrasing tools",
+            "url": "/uk/all-paraphrase-pages",
+            "description": "Всі інструменти для перефразовування для професіоналів",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "спаниш-парафраза-інструмент",
             "description": "Іспанський інструмент для перефразовування для професіоналів",
             "color": "#0e6d6d",

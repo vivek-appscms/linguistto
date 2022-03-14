@@ -6,6 +6,6 @@ language: hi
 folderName : transliteration
 lang: en
 permalink: /hindi-to-english-typing
-nointernationalization: true
+matchurls: en&&hi
 ---
 {% include section/translateintoenglish.html %}

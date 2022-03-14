@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ga
 to: es
-langName : irish-to
+langname: irish-to
 permalink: /irish-to-puerto-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga&&es
 ---
 {% include section/translateinto.html %}

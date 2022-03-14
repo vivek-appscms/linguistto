@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: mr
 to: de
-langName : marathi-to
+langname: marathi-to
 permalink: /marathi-to-german-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&mr&&de
 ---
 {% include section/translateinto.html %}

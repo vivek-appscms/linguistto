@@ -21,84 +21,8 @@
     ],
     "product": [
         {
-            "name": "Paraphrasing aracı",
-            "url": "/tr/paraphrasing-tool"
-        },
-        {
-            "name": "Almanca Paraphrase aracı",
-            "url": "/tr/german-paraphrase-tool"
-        },
-        {
-            "name": "Hintçe Paraphrase aracı",
-            "url": "/tr/hindi-paraphrase-tool"
-        },
-        {
-            "name": "Rusça Paraphrase aracı",
-            "url": "/tr/russian-paraphrase-tool"
-        },
-        {
-            "name": "İspanyolca Parafrase aracı",
-            "url": "/tr/spanish-paraphrase-tool"
-        },
-        {
-            "name": "Korece Parafrase aracı",
-            "url": "/tr/korean-paraphrase-tool"
-        },
-        {
-            "name": "Danca Parafrase aracı",
-            "url": "/tr/danish-paraphrase-tool"
-        },
-        {
-            "name": "İtalyanca Parafrase aracı",
-            "url": "/tr/italian-paraphrase-tool"
-        },
-        {
-            "name": "Lehçe Parafrase aracı",
-            "url": "/tr/polish-paraphrase-tool"
-        },
-        {
-            "name": "İsveççe Parafrase aracı",
-            "url": "/tr/swedish-paraphrase-tool"
-        },
-        {
-            "name": "Tay Parafrası-aracı",
-            "url": "/tr/thai-paraphrase-tool"
-        },
-        {
-            "name": "Japonca-parafras-aracı",
-            "url": "/tr/japanese-paraphrase-tool"
-        },
-        {
-            "name": "Arapça parafras-aracı",
-            "url": "/tr/arabic-paraphrase-tool"
-        },
-        {
-            "name": "Kategori: Ukranca Parafras-Aracı",
-            "url": "/tr/ukranian-paraphrase-tool"
-        },
-        {
-            "name": "Çince-parafras-aracı",
-            "url": "/tr/chinese-paraphrase-tool"
-        },
-        {
-            "name": "Endonezya-parafras-aracı",
-            "url": "/tr/indonesian-paraphrase-tool"
-        },
-        {
-            "name": "vietnamese-parafras-aracı",
-            "url": "/tr/vietnamese-paraphrase-tool"
-        },
-        {
-            "name": "Fransızca-parafras-aracı",
-            "url": "/tr/french-paraphrase-tool"
-        },
-        {
-            "name": "Hollanda-Parafras-aracı",
-            "url": "/tr/dutch-paraphrase-tool"
-        },
-        {
-            "name": "Portekizce-parametre aracı",
-            "url": "/tr/portuguese-paraphrase-tool"
+            "name": "Tüm Paraphrasing araçları",
+            "url": "/tr/all-paraphrase-pages"
         },
         {
             "name": "Çevriyazım aracı",

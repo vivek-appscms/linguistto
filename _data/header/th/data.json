@@ -5,26 +5,15 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "เครื่องมือถอดความถวม",
+                "categoryName": "เครื่องมืออื่นๆ",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความหมายภาษาฮินดี",
-                        "url": "/th/hindi-paraphrase-tool",
+                        "name": "เครื่องมือถอดความทั้งหมด",
+            "url": "/th/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความภาษารัสเซีย",
-                        "url": "/th/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความภาษาสเปน",
-                        "url": "/th/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "ภาษาอังกฤษเป็นภาษาฮินดี พิมพ์",
@@ -37,12 +26,7 @@
                         "url": "/th/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "เครื่องมือถอดความภาษาเยอรมัน",
-                        "url": "/th/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "เครื่องมือนับคำ",

@@ -31,6 +31,13 @@
             "url": "/hi/hindi-paraphrase-tool"
         },
         {
+            "name": "सभी पैराफ़्रेसिंग टूल",
+            "url": "/hi/all-paraphrase-pages",
+            "description": "पेशेवरों के लिए सभी पैराफ़्रेसिंग टूल",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "स्पेनिश-पैराफ्रेज़-टूल",
             "description": "पेशेवरों के लिए स्पेनिश पैराफ्रासिंग टूल",
             "color": "#0e6d6d",

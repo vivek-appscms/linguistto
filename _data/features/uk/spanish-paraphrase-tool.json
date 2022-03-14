@@ -8,6 +8,152 @@
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
+"megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "інструменти перефразовування",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Арабський інструмент перефразування",
+                        "url": "/uk/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Китайський інструмент перефразовування",
+                        "url": "/uk/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Датський інструмент перефразовування",
+                        "url": "/uk/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Арабський інструмент перефразування",
+                        "url": "/uk/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент для перефразування англійською мовою",
+                        "url": "/uk/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Французький інструмент перефразування",
+                        "url": "/uk/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "інструменти перефразовування",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Німецький інструмент перефразовування",
+                        "url": "/uk/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент для перефразування хінді",
+                        "url": "/uk/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Індонезійський інструмент для перефразовування",
+                        "url": "/uk/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Італійський інструмент перефразовування",
+                        "url": "/uk/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Японський інструмент перефразовування",
+                        "url": "/uk/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Корейський інструмент перефразовування",
+                        "url": "/uk/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Польський інструмент перефразовування",
+                        "url": "/uk/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "інструменти перефразовування",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Португальський інструмент перефразовування",
+                        "url": "/uk/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Російський інструмент перефразовування",
+                        "url": "/uk/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Іспанський інструмент для перефразування",
+                        "url": "/uk/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Шведський інструмент перефразування",
+                        "url": "/uk/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Тайський інструмент перефразування",
+                        "url": "/uk/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Турецький інструмент для перефразовування",
+                        "url": "/uk/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Український інструмент перефразовування",
+                        "url": "/uk/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "В'єтнамський інструмент перефразування",
+                        "url": "/uk/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

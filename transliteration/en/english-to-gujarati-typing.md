@@ -6,6 +6,6 @@ language: gu
 folderName : transliteration
 lang: en
 permalink: /english-to-gujarati-typing
-nointernationalization: true
+matchurls: en&&gu
 ---
 {% include section/translation.html %}

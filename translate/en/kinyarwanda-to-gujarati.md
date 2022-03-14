@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: gu
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&gu
 ---
 {% include section/translateinto.html %}

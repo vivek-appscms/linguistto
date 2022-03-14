@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: vi
-langName : spanish-to
+langname: spanish-to
 permalink: /spanish-to-vietnamese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es&&vi
 ---
 {% include section/translateinto.html %}

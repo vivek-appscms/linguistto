@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: zh
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt&&zh
 ---
 {% include section/translateinto.html %}

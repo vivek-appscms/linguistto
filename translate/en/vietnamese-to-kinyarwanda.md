@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: rw
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi
 ---
 {% include section/translateinto.html %}

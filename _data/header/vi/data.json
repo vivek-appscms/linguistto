@@ -5,24 +5,13 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "công cụ paraphrasing",
+                "categoryName": "Các công cụ khác",
                 "links": [
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Công cụ Paraphrase tiếng Hin-ddi",
-                        "url": "/vi/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Công cụ Paraphrase Nga",
-                        "url": "/vi/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Công cụ Paraphrase Tây Ban Nha",
-                        "url": "/vi/spanish-paraphrase-tool",
+                        "name": "Tất cả các công cụ Paraphrasing",
+            "url": "/vi/all-paraphrase-pages",
                         "hover": "blue"
                     },
                     {
@@ -37,12 +26,7 @@
                         "url": "/vi/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Công cụ Paraphrase tiếng Đức",
-                        "url": "/vi/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Công cụ đếm từ",

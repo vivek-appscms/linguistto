@@ -1,0 +1,88 @@
+{
+    "links": [
+        {
+            "name": "Arabisches Paraphrasierungswerkzeug",
+            "url": "/de/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Chinesisches Paraphrasierungswerkzeug",
+            "url": "/de/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Dänisches Paraphrasier-Tool",
+            "url": "/de/danish-paraphrase-tool"
+        },
+        {
+            "name": "Arabisches Paraphrasierungswerkzeug",
+            "url": "/de/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Englisches Paraphrasierungs-Tool",
+            "url": "/de/paraphrasing-tool"
+        },
+        {
+            "name": "Französisches Paraphrasierwerkzeug",
+            "url": "/de/french-paraphrase-tool"
+        },
+        {
+            "name": "Deutsche Paraphrasierung",
+            "url": "/de/german-paraphrase-tool"
+        },
+        {
+            "name": "Paraphrasierungs-Tool für Hindi",
+            "url": "/de/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Indonesisches Paraphrasierungs-Tool",
+            "url": "/de/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "Italienisches Paraphrasierungs-Tool",
+            "url": "/de/italian-paraphrase-tool"
+        },
+        {
+            "name": "Japanisches Paraphrasierungswerkzeug",
+            "url": "/de/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Koreanisches Paraphrasierungs-Tool",
+            "url": "/de/korean-paraphrase-tool"
+        },
+        {
+            "name": "Polnisches Paraphrasierungswerkzeug",
+            "url": "/de/polish-paraphrase-tool"
+        },
+        {
+            "name": "Portugiesisches Paraphrasier-Tool",
+            "url": "/de/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Russisches Paraphrasierungswerkzeug",
+            "url": "/de/russian-paraphrase-tool"
+        },
+        {
+            "name": "Spanisches Paraphrasier-Tool",
+            "url": "/de/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Schwedisches Paraphrasier-Tool",
+            "url": "/de/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Thai Paraphrasierung",
+            "url": "/de/thai-paraphrase-tool"
+        },
+        {
+            "name": "Türkisches Paraphrasierungswerkzeug",
+            "url": "/de/turkish-paraphrase-tool"
+        },
+        {
+            "name": "Uranisches Paraphrasierungswerkzeug",
+            "url": "/de/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Vietnamesisches Paraphrasierungs-Tool",
+            "url": "/de/vietnamese-paraphrase-tool"
+        }
+    ]
+}

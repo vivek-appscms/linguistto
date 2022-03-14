@@ -6,6 +6,6 @@ language: ur
 folderName : transliteration
 lang: en
 permalink: /english-to-urdu-typing
-nointernationalization: true
+matchurls: en&&ur
 ---
 {% include section/translation.html %}

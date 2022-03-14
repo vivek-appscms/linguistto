@@ -5,24 +5,13 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "інструмент перефразовування",
+                "categoryName": "Інші інструменти",
                 "links": [
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Інструмент «Парафраз з хінді»",
-                        "url": "/uk/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Інструмент «Перефраза Російська»",
-                        "url": "/uk/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Іспанський інструмент парафраз",
-                        "url": "/uk/spanish-paraphrase-tool",
+                        "name": "Всі інструменти для перефразування",
+                        "url": "/uk/all-paraphrase-pages",
                         "hover": "blue"
                     },
                     {
@@ -37,12 +26,7 @@
                         "url": "/uk/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Німецький інструмент парафраз",
-                        "url": "/uk/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Інструмент підрахунку слів",

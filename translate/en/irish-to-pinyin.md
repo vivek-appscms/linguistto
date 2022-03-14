@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ga
 to: zh
-langName : irish-to
+langname: irish-to
 permalink: /irish-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga&&zh
 ---
 {% include section/translateinto.html %}

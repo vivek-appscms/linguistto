@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ga
 to: rw
-langName : irish-to
+langname: irish-to
 permalink: /irish-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ga
 ---
 {% include section/translateinto.html %}

@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ja
 to: fil
-langName : japanese-to
+langname: japanese-to
 permalink: /japanese-to-filipino-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ja
 ---
 {% include section/translateinto.html %}

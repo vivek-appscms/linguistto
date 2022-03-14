@@ -3,7 +3,6 @@ tags: []
 categories: []
 title: Best free Paraphrasing Tools which you can use
 layout: post
-hero: ''
 image: '/uploads/r-2.png'
 author: ankita
 comments: false

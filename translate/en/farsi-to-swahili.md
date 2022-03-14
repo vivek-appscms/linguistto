@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fa
 to: sw
-langName : farsi-to
+langname: farsi-to
 permalink: /farsi-to-swahili-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fa
 ---
 {% include section/translateinto.html %}

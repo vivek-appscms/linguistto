@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: sw
 to: ml
-langName : swahili-to
+langname: swahili-to
 permalink: /swahili-to-malayalam-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ml
 ---
 {% include section/translateinto.html %}

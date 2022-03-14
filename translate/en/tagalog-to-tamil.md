@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: tl
 to: ta
-langName : tagalog-to
+langname: tagalog-to
 permalink: /tagalog-to-tamil-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&tl&&ta
 ---
 {% include section/translateinto.html %}

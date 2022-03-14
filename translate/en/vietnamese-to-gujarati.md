@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: vi
 to: gu
-langName : vietnamese-to
+langname: vietnamese-to
 permalink: /vietnamese-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&vi&&gu
 ---
 {% include section/translateinto.html %}

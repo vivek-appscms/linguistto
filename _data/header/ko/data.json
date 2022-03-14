@@ -5,44 +5,22 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "의역 도구",
+                "categoryName": "기타 도구",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "힌디어 의역 도구",
-                        "url": "/ko/hindi-paraphrase-tool",
+                        "name": "모든 의역 도구",
+                        "url": "/ko/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "러시아어 의역 도구",
-                        "url": "/ko/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "스페인어 의역 도구",
-                        "url": "/ko/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                 
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "영어에서 힌디어로 타이핑",
                         "url": "/ko/english-to-hindi-typing",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "영어에서 벵골어 타이핑",
-                        "url": "/ko/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "독일어 의역 도구",
-                        "url": "/ko/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "단어 수 도구",

@@ -3,7 +3,6 @@ tags: []
 categories: []
 title: Plagiarism vs paraphrasing ?
 layout: post
-hero: ''
 image: '/uploads/ki.png'
 author: ankita
 comments: false

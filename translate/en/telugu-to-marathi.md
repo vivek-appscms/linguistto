@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: mr
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-marathi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&mr
 ---
 {% include section/translateinto.html %}

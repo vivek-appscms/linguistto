@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: Tips & tricks to generate random letters in excel quickly
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/doqd.png"
 comments: false
 

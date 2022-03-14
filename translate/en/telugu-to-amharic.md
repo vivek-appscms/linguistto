@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: am
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-amharic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&am
 ---
 {% include section/translateinto.html %}

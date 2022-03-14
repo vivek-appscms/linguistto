@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: tl
 to: am
-langName : tagalog-to
+langname: tagalog-to
 permalink: /tagalog-to-amharic-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&tl&&am
 ---
 {% include section/translateinto.html %}

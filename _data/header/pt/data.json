@@ -5,26 +5,9 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "ferramenta de parafraseamento",
+                "categoryName": "Outras ferramentas",
                 "links": [
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Ferramenta de paráfrase hindi",
-                        "url": "/pt/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Ferramenta de paráfrase russa",
-                        "url": "/pt/russian-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Ferramenta de paráfrase espanhola",
-                        "url": "/pt/spanish-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Inglês para hindi Digitando",
@@ -39,8 +22,8 @@
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Ferramenta de paráfrase alemã",
-                        "url": "/pt/german-paraphrase-tool",
+                        "name": "Todas as ferramentas de parafraseamento",
+                        "url": "/pt/all-paraphrase-pages",
                         "hover": "blue"
                     },
                     {

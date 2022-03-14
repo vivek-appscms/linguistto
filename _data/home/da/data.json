@@ -31,6 +31,13 @@
             "url": "/da/hindi-paraphrase-tool"
         },
         {
+            "name": "Alle omskrivning værktøjer",
+            "url": "/da/all-paraphrase-pages",
+            "description": "Alle omskrivning værktøjer til fagfolk",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "spansk-parafrase-værktøj",
             "description": "Spansk omskrivning værktøj til fagfolk",
             "color": "#0e6d6d",

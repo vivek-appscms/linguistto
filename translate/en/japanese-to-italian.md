@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ja
 to: it
-langName : japanese-to
+langname: japanese-to
 permalink: /japanese-to-italian-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ja&&it
 ---
 {% include section/translateinto.html %}

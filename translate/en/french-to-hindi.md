@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fr
 to: hi
-langName : french-to
+langname: french-to
 permalink: /french-to-hindi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fr&&hi
 ---
 {% include section/translateinto.html %}

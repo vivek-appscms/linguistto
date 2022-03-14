@@ -1,0 +1,219 @@
+{
+    "logo": "/img/logo.png",
+    "heading": "",
+    "company": [
+        {
+            "name": "વિશે",
+            "url": "/about"
+        },
+        {
+            "name": "નિયમો અને શરતો",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "મદદ",
+            "url": "/help"
+        },
+        {
+            "name": "બ્લોગ",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "પરાકાષ્ટા સાધન",
+            "url": "/gu/paraphrasing-tool"
+        },
+        {
+            "name": "જર્મન પેરાફ્રેઝ ટૂલ",
+            "url": "/gu/german-paraphrase-tool"
+        },
+        {
+            "name": "હિન્દી પેરાફ્રેઝ ટૂલ",
+            "url": "/gu/hindi-paraphrase-tool"
+        },
+        {
+            "name": "રશિયન પેરાફ્રેઝ ટૂલ",
+            "url": "/gu/russian-paraphrase-tool"
+        },
+        {
+            "name": "સ્પેનિશ પેરાફ્રેઝ ટૂલ",
+            "url": "/gu/spanish-paraphrase-tool"
+        },
+        {
+            "name": "કોરિયન પેરાફ્રેઝ ટૂલ",
+            "url": "/gu/korean-paraphrase-tool"
+        },
+        {
+            "name": "ડેનિશ પેરાફ્રેઝ ટૂલ",
+            "url": "/gu/danish-paraphrase-tool"
+        },
+        {
+            "name": "ઇટાલિયન પેરાફ્રેઝ સાધન",
+            "url": "/gu/italian-paraphrase-tool"
+        },
+        {
+            "name": "પોલીશ પેરાફ્રેઝ સાધન",
+            "url": "/gu/polish-paraphrase-tool"
+        },
+        {
+            "name": "સ્વીડિશ પેરાફ્રેઝ સાધન",
+            "url": "/gu/swedish-paraphrase-tool"
+        },
+        {
+            "name": "થઇ-ઉપજ સાધન",
+            "url": "/gu/thai-paraphrase-tool"
+        },
+        {
+            "name": "જાપાનીઝ-પરાક્રમ-સાધન",
+            "url": "/gu/japanese-paraphrase-tool"
+        },
+        {
+            "name": "અરબી ઉપમા સાધન",
+            "url": "/gu/arabic-paraphrase-tool"
+        },
+        {
+            "name": "યુક્રેનિયન-પેરાફેરસ સાધન",
+            "url": "/gu/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "ચિની ઉપજ સાધન",
+            "url": "/gu/chinese-paraphrase-tool"
+        },
+        {
+            "name": "ઇન્ડોનેશિયન ઉપજ સાધન",
+            "url": "/gu/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "વિયેતનામો-ઉપમા સાધન",
+            "url": "/gu/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "ફ્રેન્ચ ઉપનામ સાધન",
+            "url": "/gu/french-paraphrase-tool"
+        },
+        {
+            "name": "ડચ-ઉપજ સાધન",
+            "url": "/gu/dutch-paraphrase-tool"
+        },
+        {
+            "name": "પોર્ટુગીઝ-ઉપમા સાધન",
+            "url": "/gu/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "લિવ્યંતરણ સાધન",
+            "url": "/gu/english-to-hindi-typing "
+        },
+        {
+            "name": "ટાઇપિંગ પૃષ્ઠો",
+            "url": "/gu/all-typing-pages"
+        },
+        {
+            "name": "ઇંગલિશ માટે બાંગ્લા ટાઇપિંગ",
+            "url": "/gu/bangla-transliteration-tool"
+        },
+        {
+            "name": "શબ્દ ગણતરી સાધન",
+            "url": "/gu/word-count-tool"
+        },
+        {
+            "name": "અક્ષર ગણતરી સાધન",
+            "url": "/gu/character-count-tool"
+        },
+        {
+            "name": "વાક્ય અનુવાદ",
+            "url": "/gu/sentence-translation"
+        },
+        {
+            "name": "મેટા અને શીર્ષક તપાસનાર",
+            "url": "/gu/meta-and-title-checker"
+        },
+        {
+            "name": "રેન્ડમ વિશેષણ જનરેટર",
+            "url": "/gu/random-adjective-generator"
+        },
+        {
+            "name": "ટેક્સ્ટ તફાવત તપાસનાર",
+            "url": "/gu/text-difference-checker"
+        },
+        {
+            "name": "રેન્ડમ સંજ્ઞા જનરેટર",
+            "url": "/gu/random-noun-generator"
+        },
+        {
+            "name": "રેન્ડમ ફકરો જનરેટર",
+            "url": "/gu/random-paragraph-generator"
+        },
+        {
+            "name": "રેન્ડમ લેટર જનરેટર",
+            "url": "/gu/random-letter-generator"
+        },
+        {
+            "name": "રેન્ડમ વાક્ય જનરેટર",
+            "url": "/gu/random-sentence-generator"
+        },
+        {
+            "name": "સર્પ સિમ્યુલેટર",
+            "url": "/gu/serp-simulator"
+        },
+        {
+            "name": "વેબસાઇટ શબ્દ ગણતરી",
+            "url": "/gu/website-word-count"
+        },
+        {
+            "name": "રેન્ડમ શબ્દ જનરેટર",
+            "url": "/gu/random-word-generator"
+        },
+        {
+            "name": "ફકરો રીરાઇટર",
+            "url": "/gu/paragraph-rewriter"
+        },
+        {
+            "name": "ટેક્સ્ટ રીરાઇટર",
+            "url": "/gu/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "એબીસી"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "એબીસી"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "એબીસી"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "એબીસી"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "એબીસી"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "નિયમો અને શરતો",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ગોપનીયતા નીતિ",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "અમારો સંપર્ક કરો",
+            "url": "/contact"
+        }
+    ]
+}

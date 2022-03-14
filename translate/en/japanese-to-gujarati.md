@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ja
 to: gu
-langName : japanese-to
+langname: japanese-to
 permalink: /japanese-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ja&&gu
 ---
 {% include section/translateinto.html %}

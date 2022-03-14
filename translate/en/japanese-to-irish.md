@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ja
 to: ga
-langName : japanese-to
+langname: japanese-to
 permalink: /japanese-to-irish-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ja&&ga
 ---
 {% include section/translateinto.html %}

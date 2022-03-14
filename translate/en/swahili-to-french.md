@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: sw
 to: fr
-langName : swahili-to
+langname: swahili-to
 permalink: /swahili-to-french-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fr
 ---
 {% include section/translateinto.html %}

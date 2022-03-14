@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ar
 to: hi
-langName : arabic-to
+langname: arabic-to
 permalink: /arabic-to-hindi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ar&&hi
 ---
 {% include section/translateinto.html %}

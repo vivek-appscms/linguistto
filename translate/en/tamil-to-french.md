@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ta
 to: fr
-langName : tamil-to
+langname: tamil-to
 permalink: /tamil-to-french-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ta&&fr
 ---
 {% include section/translateinto.html %}

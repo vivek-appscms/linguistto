@@ -6,6 +6,6 @@ language: ko
 folderName : transliteration
 lang: en
 permalink: /english-to-korean-typing
-nointernationalization: true
+matchurls: en&&ko
 ---
 {% include section/translation.html %} -->

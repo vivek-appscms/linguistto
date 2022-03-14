@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: te
 to: gu
-langName : telugu-to
+langname: telugu-to
 permalink: /telugu-to-gujarati-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&te&&gu
 ---
 {% include section/translateinto.html %}

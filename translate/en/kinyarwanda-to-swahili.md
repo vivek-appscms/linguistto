@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: sw
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-swahili-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en
 ---
 {% include section/translateinto.html %}

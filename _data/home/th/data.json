@@ -31,6 +31,13 @@
             "url": "/th/hindi-paraphrase-tool"
         },
         {
+            "name": "เครื่องมือถอดความทั้งหมด",
+            "url": "/th/all-paraphrase-pages",
+            "description": "เครื่องมือถอดเสียงทั้งหมดสำหรับมืออาชีพ",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "เครื่องมือถอดความภาษาสเปน",
             "description": "เครื่องมือถอดความภาษาสเปนสำหรับมืออาชีพ",
             "color": "#0e6d6d",

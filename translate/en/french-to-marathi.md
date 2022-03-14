@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: fr
 to: mr
-langName : french-to
+langname: french-to
 permalink: /french-to-marathi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&fr&&mr
 ---
 {% include section/translateinto.html %}

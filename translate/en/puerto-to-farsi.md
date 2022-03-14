@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: fa
-langName : puerto-to
+langname: puerto-to
 permalink: /puerto-to-farsi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es&&fa
 ---
 {% include section/translateinto.html %}

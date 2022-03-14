@@ -8,6 +8,152 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "paraphrasing tools",
+        "links": [
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Arabic paraphrasing tool",
+            "url": "/arabic-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Chinese paraphrasing tool",
+            "url": "/chinese-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Danish paraphrasing tool",
+            "url": "/danish-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Arabic paraphrasing tool",
+            "url": "/dutch-paraphrase-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "English paraphrasing tool",
+            "url": "/paraphrasing-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "French paraphrasing tool",
+            "url": "/french-paraphrase-tool",
+            "hover": "blue"
+          }
+        ]
+      },
+      {
+        "categoryName": "paraphrasing tools",
+        "links": [
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "German paraphrasing tool",
+            "url": "/german-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Hindi paraphrasing tool",
+            "url": "/hindi-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Indonesian paraphrasing tool",
+            "url": "/indonesian-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Italian paraphrasing tool",
+            "url": "/italian-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Japanese paraphrasing tool",
+            "url": "/japanese-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Korean paraphrasing tool",
+            "url": "/korean-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Polish paraphrasing tool",
+            "url": "/polish-paraphrase-tool",
+            "hover":"blue"
+          }
+        ]
+      },
+      {
+        "categoryName": "paraphrasing tools",
+        "links": [
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Portuguese paraphrasing tool",
+            "url": "/portuguese-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Russian paraphrasing tool",
+            "url": "/russian-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Spanish paraphrasing tool",
+            "url": "/spanish-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Swedish paraphrasing tool",
+            "url": "/swedish-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Thai paraphrasing tool",
+            "url": "/thai-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Turkish paraphrasing tool",
+            "url": "/turkish-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Ukranian paraphrasing tool",
+            "url": "/ukranian-paraphrase-tool",
+            "hover":"blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Vietnamese paraphrasing tool",
+            "url": "/vietnamese-paraphrase-tool",
+            "hover":"blue"
+          }
+        ]
+      }
+    ]
+  },
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
@@ -100,7 +246,5 @@
       "answer": "It is common for people to use paraphrasing as a way to improve their writing. It's important to keep in mind that summarising and paraphrasing is not the same thing.<br>Every day, most people have a hard time coming up with new ideas. Finding a fresh take on an old idea might be challenging at times. Teachers are unable to offer their students correct historical facts. As a result of their lack of resources, website owners and content creators face a wide range of content development issues on a daily basis. It's not uncommon for journalists to rewrite their stories to emphasize certain details or paint a different picture of a particular episode. Bloggers have to be extremely choosy in what they publish because of the intense competition on the internet. Consequently, they are forced to study for long periods of time to ensure that the material is accurate and free of plagiarism.<br>These kinds of difficulties can be alleviated by using the english paraphrasing tool. It's better to paraphrase than to memorize. In tests, it helps pupils recall the primary idea when paraphrasing. A manual paraphrase is different from an online one. Tools have been developed by developers that can instantly translate a piece of text. Those who are in a hurry and have a lot of work to complete where the target audience for this product. They can just copy and paste a piece of text into the tool and let it do the work for them."
     }
   ],
-  "csscdns":[
-    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-  ]
+  "csscdns": ["<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"]
 }

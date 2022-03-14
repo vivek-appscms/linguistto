@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: mr
 to: pa
-langName : marathi-to
+langname: marathi-to
 permalink: /marathi-to-punjabi-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&mr&&pa
 ---
 {% include section/translateinto.html %}

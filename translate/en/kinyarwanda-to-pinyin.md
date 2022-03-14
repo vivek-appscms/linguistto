@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: rw
 to: zh
-langName : kinyarwanda-to
+langname: kinyarwanda-to
 permalink: /kinyarwanda-to-pinyin-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&zh
 ---
 {% include section/translateinto.html %}

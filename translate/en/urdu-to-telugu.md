@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: ur
 to: te
-langName : urdu-to
+langname: urdu-to
 permalink: /urdu-to-telugu-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&ur&&te
 ---
 {% include section/translateinto.html %}

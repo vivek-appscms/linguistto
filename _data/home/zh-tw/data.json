@@ -31,6 +31,13 @@
             "url": "/zh-TW/hindi-paraphrase-tool"
         },
         {
+            "name": "所有解釋工具",
+            "url": "/zh-TW/all-paraphrase-pages",
+            "description": "專業人士的所有解釋工具",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "西班牙語解釋-工具",
             "description": "針對專業人士的西班牙語翻譯工具",
             "color": "#0e6d6d",

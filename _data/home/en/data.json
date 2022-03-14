@@ -31,6 +31,13 @@
       "url": "/hindi-paraphrase-tool"
     },
     {
+      "name": "All Paraphrasing tools",
+      "url": "/all-paraphrase-pages",
+      "description": "All Paraphrasing tools for professionals",
+      "color": "#33cccc",
+      "icon": "/assets/img/german.svg"
+    },
+    {
       "name": "spanish-paraphrase-tool",
       "description": "Spanish Paraphrasing tool for professionals",
       "color": "#0e6d6d",

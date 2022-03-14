@@ -5,18 +5,12 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "paraphrasieren",
+                "categoryName": "Andere Tools",
                 "links": [
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Hindi-Paraphrase-Werkzeug",
-                        "url": "/de/hindi-paraphrase-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Russisches Paraphrasen-Werkzeug",
-                        "url": "/de/russian-paraphrase-tool",
+                        "name": "Paraphrasing tool",
+                        "url": "/da/paraphrasing-tool",
                         "hover": "blue"
                     },
                     {
@@ -31,18 +25,7 @@
                         "url": "/de/english-to-hindi-typing",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Englisch zu Bangla Typing",
-                        "url": "/de/bangla-transliteration-tool",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Deutsche Paraphrase",
-                        "url": "/de/german-paraphrase-tool",
-                        "hover": "blue"
-                    },
+                    
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Wortzähl-Tool",

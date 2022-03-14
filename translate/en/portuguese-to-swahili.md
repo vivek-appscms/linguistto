@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: sw
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-swahili-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt
 ---
 {% include section/translateinto.html %}

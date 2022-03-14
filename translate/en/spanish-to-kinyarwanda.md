@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: rw
-langName : spanish-to
+langname: spanish-to
 permalink: /spanish-to-kinyarwanda-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es
 ---
 {% include section/translateinto.html %}

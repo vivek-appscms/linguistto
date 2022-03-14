@@ -6,6 +6,6 @@ language: ar
 folderName : transliteration
 lang: en
 permalink: /english-to-arabic-typing
-nointernationalization: true
----
+matchurls: en&&ar
+--- 
 {% include section/translation.html %}

@@ -31,6 +31,13 @@
             "url": "/vi/hindi-paraphrase-tool"
         },
         {
+            "name": "All Paraphrasing tools",
+            "url": "/vi/all-paraphrase-pages",
+            "description": "Tất cả các công cụ Paraphrasing cho các chuyên gia",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
             "name": "Tây Ban Nha-paraphrase-công cụ",
             "description": "Công cụ diễn giải tiếng Tây Ban Nha cho các chuyên gia",
             "color": "#0e6d6d",

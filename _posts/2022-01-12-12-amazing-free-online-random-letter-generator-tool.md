@@ -3,7 +3,7 @@ tags: []
 categories: []
 title: 12 amazing free online random letter generator tool
 layout: post
-hero: Nikita
+author: Nikita
 image: "/uploads/ndoqe.png"
 comments: false
 

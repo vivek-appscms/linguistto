@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: hi
 to: vi
-langName : hindi-to
+langname: hindi-to
 permalink: /hindi-to-vietnamese-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&hi&&vi
 ---
 {% include section/translateinto.html %}

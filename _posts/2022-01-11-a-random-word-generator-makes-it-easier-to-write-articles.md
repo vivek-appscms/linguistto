@@ -4,8 +4,9 @@ categories: []
 title: A random word generator makes it easier to write articles
 layout: post
 hero: Nikita
-image: "/uploads/output-13.png"
+image: "/uploads/newjo.png"
 comments: false
+description: ''
 
 ---
 The English language is the international language. There are more English speakers who learned the language as a second language than native speakers. It's fascinating!

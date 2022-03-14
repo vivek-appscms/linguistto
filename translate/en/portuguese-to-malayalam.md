@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: pt
 to: ml
-langName : portuguese-to
+langname: portuguese-to
 permalink: /portuguese-to-malayalam-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&pt&&ml
 ---
 {% include section/translateinto.html %}

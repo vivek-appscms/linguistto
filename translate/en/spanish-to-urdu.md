@@ -6,9 +6,9 @@ folderName : translate
 lang: en
 from: es
 to: ur
-langName : spanish-to
+langname: spanish-to
 permalink: /spanish-to-urdu-sentence-translation
 tool: sentence-translations
-nointernationalization: true
+matchurls: en&&es&&ur
 ---
 {% include section/translateinto.html %}
