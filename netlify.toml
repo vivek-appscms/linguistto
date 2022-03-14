@@ -88,3 +88,21 @@
   to = "https://contenttool-newtools-main.netlify.app//sitemap.xml"
   force = true
   status = 200
+
+[[redirects]]
+  from = "/multi-lingual-keyboard"
+  to = "https://keyboard-main.netlify.app/allkeyboards"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/multi-lingual-keyboard/sitemap.xml"
+  to = "https://keyboard-main.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/multi-lingual-keyboard*"
+  to = "https://keyboard-main.netlify.app/:splat"
+  force = true
+  status = 200
