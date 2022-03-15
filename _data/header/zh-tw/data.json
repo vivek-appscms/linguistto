@@ -10,7 +10,7 @@
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "所有解釋工具",
-                        "url": "/zh-TW/all-paraphrase-pages",
+                        "url": "/zh-tw/all-paraphrase-pages",
                         "hover": "blue"
                     },
                     {
@@ -25,7 +25,7 @@
                         "url": "/zh-tw/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "字數計數工具",

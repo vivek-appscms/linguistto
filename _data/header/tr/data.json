@@ -10,7 +10,7 @@
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Tüm Paraphrasing araçları",
-            "url": "/tr/all-paraphrase-pages",
+                         "url": "/tr/all-paraphrase-pages",
                         "hover": "blue"
                     },
                   
@@ -26,7 +26,7 @@
                         "url": "/tr/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                   
+                 
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Kelime sayımı aracı",
