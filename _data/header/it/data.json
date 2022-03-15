@@ -26,12 +26,7 @@
                         "url": "/it/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tastiere in tutte le lingue",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Mengetik halaman",

@@ -95,10 +95,6 @@
         {
             "name": "Regrabadora de texto",
             "url": "/es/text-rewriter"
-        },
-        {
-            "name": "Teclados en todos los idiomas",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

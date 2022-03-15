@@ -27,12 +27,6 @@
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alle sprog Tastaturer",
-                        "url": "/da/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Værktøjet Word tæller",
                         "url": "/da/word-count-tool",
                         "hover": "blue"

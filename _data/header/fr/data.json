@@ -26,12 +26,7 @@
                         "url": "/fr/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Claviers dans toutes les langues",
-                        "url": "/fr/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Outil de comptage de mots",

@@ -95,9 +95,6 @@
         {
             "name": "टेक्स्ट रीराइटर",
             "url": "/hi/text-rewriter"
-        } ,{
-            "name": "सभी भाषाएँ कीबोर्ड",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

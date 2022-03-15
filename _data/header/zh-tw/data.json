@@ -25,12 +25,7 @@
                         "url": "/zh-tw/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "所有語言鍵盤",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "字數計數工具",

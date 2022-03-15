@@ -24,12 +24,6 @@
                         "name": "ሁሉም የማብራሪያ መሳሪያዎች",
                         "url": "/all-paraphrase-pages",
                         "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "ሁሉም ቋንቋዎች ቁልፍ ሰሌዳዎች",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
                     }
                 ]
             },

@@ -92,10 +92,7 @@
         {
             "name": "मजकूर पुनर्लेखक",
             "url": "/mr/text-rewriter"
-        } , {
-            "name": "सर्व भाषा कीबोर्ड",
-            "url": "/multi-lingual-keyboard/allkeyboards"
-        }
+        } 
     ],
     "networkSites": [],
     "social": [

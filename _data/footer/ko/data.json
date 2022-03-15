@@ -95,10 +95,6 @@
         {
             "name": "텍스트 리라이터",
             "url": "/ko/text-rewriter"
-        },
-        {
-            "name": "모든 언어 키보드",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

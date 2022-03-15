@@ -20,12 +20,7 @@
                         "url": "/nl/english-to-hindi-typing",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Toetsenborden voor alle talen",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Engels naar bangla typen",

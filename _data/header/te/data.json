@@ -19,11 +19,6 @@
                         "name": "ఇంగ్లీష్ టు బంగ్లా టైపింగ్",
                         "url": "/te/bangla-transliteration-tool",
                         "hover": "blue"
-                    }, {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "అన్ని భాషలు కీబోర్డులు",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
                     }
                 ]
             },

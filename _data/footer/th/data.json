@@ -95,10 +95,6 @@
         {
             "name": "เขียนข้อความใหม่",
             "url": "/th/text-rewriter"
-        },
-        {
-            "name": "คีย์บอร์ดทุกภาษา",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

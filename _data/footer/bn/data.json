@@ -92,9 +92,6 @@
         {
             "name": "টেক্সট রিরাইটার",
             "url": "/bn/text-rewriter"
-        },{
-            "name": "সকল ভাষার কীবোর্ড",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

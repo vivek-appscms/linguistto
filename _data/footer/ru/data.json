@@ -95,10 +95,6 @@
         {
             "name": "Рерайтер текста",
             "url": "/ru/text-rewriter"
-        },
-        {
-            "name": "Клавиатуры на всех языках",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

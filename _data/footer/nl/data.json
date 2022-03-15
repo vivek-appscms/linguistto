@@ -95,10 +95,6 @@
         {
             "name": "Tekst-herschrijver",
             "url": "/nl/text-rewriter"
-        },
-        {
-            "name": "Toetsenborden voor alle talen",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

@@ -20,12 +20,7 @@
                         "url": "/zh/english-to-hindi-typing",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "所有语言键盘",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                   
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "英语到孟加拉语打字",

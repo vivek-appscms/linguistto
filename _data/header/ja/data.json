@@ -13,12 +13,7 @@
                         "url": "/ja/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "全言語キーボード",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                 
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "英語からヒンディー語タイピング",

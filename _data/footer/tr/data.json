@@ -95,9 +95,6 @@
         {
             "name": "Metin Yeniden Yazıcı",
             "url": "/tr/text-rewriter"
-        } ,{
-            "name": "Tüm Diller Klavyeler",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

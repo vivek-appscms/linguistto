@@ -28,12 +28,6 @@
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "คีย์บอร์ดทุกภาษา",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
                         "name": "เครื่องมือนับคำ",
                         "url": "/th/word-count-tool",
                         "hover": "blue"

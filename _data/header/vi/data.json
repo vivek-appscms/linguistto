@@ -50,11 +50,6 @@
                         "name": "Văn bản Rewriter",
                         "url": "/vi/text-rewriter",
                         "hover": "blue"
-                    }, {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Tất cả các ngôn ngữ bàn phím",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
                     }
                 ]
             },

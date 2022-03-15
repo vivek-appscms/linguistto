@@ -13,12 +13,7 @@
                         "url": "/da/paraphrasing-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Alle Sprachtastaturen",
-                        "url": "/de/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Spanisches Paraphrase-Tool",

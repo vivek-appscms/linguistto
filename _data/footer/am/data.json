@@ -95,10 +95,6 @@
         {
             "name": "የጽሑፍ ዳግም መጻፊያ",
             "url": "/am/text-rewriter"
-        },
-        {
-            "name": "ሁሉም ቋንቋዎች ቁልፍ ሰሌዳዎች",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

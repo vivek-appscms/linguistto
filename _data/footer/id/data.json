@@ -95,9 +95,6 @@
         {
             "name": "Rewriter Teks",
             "url": "/id/text-rewriter"
-        },{
-            "name": "Semua Bahasa Keyboard",
-            "url": "/id/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

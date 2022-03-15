@@ -95,9 +95,6 @@
         {
             "name": "Redaktor tekstu",
             "url": "/pl/text-rewriter"
-        }, {
-            "name": "Klawiatury wszystkich języków",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

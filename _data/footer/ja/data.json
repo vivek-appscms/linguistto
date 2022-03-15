@@ -95,9 +95,6 @@
         {
             "name": "テキストリライター",
             "url": "/ja/text-rewriter"
-        },  {
-            "name": "全言語キーボード",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

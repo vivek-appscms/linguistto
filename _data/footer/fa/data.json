@@ -171,10 +171,6 @@
         {
             "name": "بازنویسی متن",
             "url": "/fa/text-rewriter"
-        },
-        {
-            "name": "صفحه کلید همه زبان ها",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

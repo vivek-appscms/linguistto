@@ -92,10 +92,6 @@
         {
             "name": "టెక్స్ట్ రీరైటర్",
             "url": "/te/text-rewriter"
-        },
-        {
-            "name": "అన్ని భాషలు కీబోర్డులు",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

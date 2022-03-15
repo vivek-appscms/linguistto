@@ -18,11 +18,6 @@
                         "name": "انگریزی کرنے بنگلہ ٹائپنگ",
                         "url": "/ur/bangla-transliteration-tool",
                         "hover": "blue"
-                    } ,{
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "تمام زبانیں کی بورڈز",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
                     }
                 ]
             },

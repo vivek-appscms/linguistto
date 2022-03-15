@@ -92,10 +92,6 @@
         {
             "name": "ടെക്സ്റ്റ് റീറൈറ്റർ",
             "url": "/ml/text-rewriter"
-        },
-        {
-            "name": "എല്ലാ ഭാഷകളും കീബോർഡുകൾ",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

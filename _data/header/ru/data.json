@@ -26,12 +26,7 @@
                         "url": "/ru/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                    {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Клавиатуры на всех языках",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                  
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Инструмент подсчета слов",

@@ -18,11 +18,6 @@
                         "name": "ഇംഗ്ലീഷ് മുതൽ ബംഗ്ലാ ടൈപ്പിംഗ്",
                         "url": "/ml/bangla-transliteration-tool",
                         "hover": "blue"
-                    }, {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "എല്ലാ ഭാഷകളും കീബോർഡുകൾ",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
                     }
                 ]
             },

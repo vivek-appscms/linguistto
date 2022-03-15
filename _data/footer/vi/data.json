@@ -83,10 +83,6 @@
         {
             "name": "Văn bản Rewriter",
             "url": "/vi/text-rewriter"
-        },
-        {
-            "name": "Tất cả các ngôn ngữ bàn phím",
-            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

@@ -24,12 +24,7 @@
                         "name": "Espanyol Paraphrase tool",
                         "url": "/tl/spanish-paraphrase-tool",
                         "hover": "blue"
-                    }, {
-                        "iconSrc": "/assets/img/germanblack.svg",
-                        "name": "Lahat ng Mga Keyboard ng Wika",
-                        "url": "/multi-lingual-keyboard/allkeyboards",
-                        "hover": "blue"
-                    },
+                    }, 
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Tagalog to hindi Typing",
