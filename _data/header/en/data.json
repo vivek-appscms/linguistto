@@ -18,6 +18,12 @@
             "name": "English to hindi Typing",
             "url": "/english-to-hindi-typing",
             "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "All Languages Keyboards",
+            "url": "/multi-lingual-keyboard/allkeyboards",
+            "hover": "blue"
           }
           
         ]

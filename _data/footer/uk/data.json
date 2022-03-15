@@ -95,6 +95,9 @@
         {
             "name": "Текст Рерайтер",
             "url": "/uk/text-rewriter"
+        },{
+            "name": "Усі мови Клавіатури",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

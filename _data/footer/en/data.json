@@ -175,6 +175,10 @@
     {
       "name": "Text Rewriter",
       "url": "/text-rewriter"
+    },
+    {
+      "name": "All Languages Keyboards",
+      "url": "/multi-lingual-keyboard/allkeyboards"
     }
   ],
   "networkSites": [],

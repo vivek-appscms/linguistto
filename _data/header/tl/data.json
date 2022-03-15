@@ -24,7 +24,7 @@
                         "name": "Espanyol Paraphrase tool",
                         "url": "/tl/spanish-paraphrase-tool",
                         "hover": "blue"
-                    },
+                    }, 
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Tagalog to hindi Typing",
