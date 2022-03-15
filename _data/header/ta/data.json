@@ -19,6 +19,12 @@
                         "name": "பங்களா தட்டச்சு செய்ய ஆங்கிலம்",
                         "url": "/ta/bangla-transliteration-tool",
                         "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "அனைத்து மொழிகளும் கீபோர்ட்",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     }
                 ]
             },

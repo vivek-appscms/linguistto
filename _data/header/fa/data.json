@@ -19,6 +19,11 @@
                         "name": "تایپ انگلیسی به هندی",
                         "url": "/fa/english-to-hindi-typing",
                         "hover": "blue"
+                    },   {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "صفحه کلید همه زبان ها",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",

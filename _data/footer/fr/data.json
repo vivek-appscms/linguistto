@@ -95,6 +95,10 @@
         {
             "name": "Réécriture de texte",
             "url": "/fr/text-rewriter"
+        },
+        {
+            "name": "Claviers dans toutes les langues",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

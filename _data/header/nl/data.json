@@ -22,6 +22,12 @@
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Toetsenborden voor alle talen",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Engels naar bangla typen",
                         "url": "/nl/bangla-transliteration-tool",
                         "hover": "blue"

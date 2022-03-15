@@ -95,6 +95,10 @@
         {
             "name": "Tekst brænder",
             "url": "/da/text-rewriter"
+        }, 
+         {
+            "name": "Alle sprog Tastaturer",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

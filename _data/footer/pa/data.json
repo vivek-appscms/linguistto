@@ -92,6 +92,9 @@
         {
             "name": "ਪਾਠ ਰੀਰਾਈਟਰ",
             "url": "/pa/text-rewriter"
+        }, {
+            "name": "ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਕੀਬੋਰਡ",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

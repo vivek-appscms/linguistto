@@ -91,6 +91,10 @@
         {
             "name": "متن ری رائٹر",
             "url": "/ur/text-rewriter"
+        },
+        {
+            "name": "تمام زبانیں کی بورڈز",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

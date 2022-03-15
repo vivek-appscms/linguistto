@@ -95,6 +95,9 @@
         {
             "name": "Reescritor de texto",
             "url": "/pt/text-rewriter"
+        },{
+            "name": "Teclados em todos os idiomas",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

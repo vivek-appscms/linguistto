@@ -20,7 +20,12 @@
             "url": "/es/english-to-hindi-typing",
             "hover": "blue"
           },
-        
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Teclados en todos los idiomas",
+            "url": "/multi-lingual-keyboard/allkeyboards",
+            "hover": "blue"
+        },
           {
             "iconSrc": "/assets/img/germanblack.svg",
             "name": "Herramienta de recuento de palabras",

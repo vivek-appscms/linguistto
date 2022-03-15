@@ -20,7 +20,12 @@
                         "url": "/ko/english-to-hindi-typing",
                         "hover": "blue"
                     },
-                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "모든 언어 키보드",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
+                    },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "단어 수 도구",

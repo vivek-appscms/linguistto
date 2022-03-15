@@ -26,6 +26,12 @@
                         "url": "/uk/bangla-transliteration-tool",
                         "hover": "blue"
                     },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Усі мови Клавіатури",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
+                    },
                     
                     {
                         "iconSrc": "/assets/img/germanblack.svg",

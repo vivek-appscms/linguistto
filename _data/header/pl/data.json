@@ -19,6 +19,11 @@
                         "name": "Angielski do Bangla Typing",
                         "url": "/pl/bangla-transliteration-tool",
                         "hover": "blue"
+                    },  {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Klawiatury wszystkich języków",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",

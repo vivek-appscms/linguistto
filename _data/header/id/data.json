@@ -13,7 +13,12 @@
                          "url": "/id/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Semua Bahasa Keyboard",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
+                    },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Bahasa Inggris ke Hindi Mengetik",

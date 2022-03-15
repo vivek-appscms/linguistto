@@ -19,6 +19,12 @@
                         "name": "বাংলা থেকে বাংলা টাইপিং",
                         "url": "/bn/bangla-transliteration-tool",
                         "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "সকল ভাষার কীবোর্ড",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     }
                 ]
             },

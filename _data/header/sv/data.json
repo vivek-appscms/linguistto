@@ -10,10 +10,15 @@
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Alla parafraseringsverktyg",
-            "url": "/sv/all-paraphrase-pages",
+                         "url": "/sv/all-paraphrase-pages",
                         "hover": "blue"
                     },
-                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Alla språk Tangentbord",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
+                    },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "Swedish to hindi Typing",

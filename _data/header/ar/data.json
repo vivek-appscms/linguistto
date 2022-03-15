@@ -21,6 +21,12 @@
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "لوحات مفاتيح جميع اللغات",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
                         "name": "أداة عدد الكلمات",
                         "url": "/ar/word-count-tool",
                         "hover": "blue"

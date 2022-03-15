@@ -95,6 +95,9 @@
         {
             "name": "إعادة كتابة النص",
             "url": "/ar/text-rewriter"
+        }, {
+            "name": "لوحات مفاتيح جميع اللغات",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

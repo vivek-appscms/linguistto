@@ -30,6 +30,11 @@
                         "name": "ઇંગલિશ માટે હિન્દી ટાઇપિંગ",
                         "url": "/gu/english-to-hindi-typing",
                         "hover": "blue"
+                    }, {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "બધી ભાષાઓ કીબોર્ડ",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",

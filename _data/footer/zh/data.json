@@ -95,6 +95,10 @@
         {
             "name": "文本重写器",
             "url": "/zh/text-rewriter"
+        },
+        {
+            "name": "所有语言键盘",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

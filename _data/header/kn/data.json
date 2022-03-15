@@ -19,6 +19,11 @@
                         "name": "ಇಂಗ್ಲೀಷ್ ಗೆ ಬಾಂಗ್ಲಾ ಟೈಪಿಂಗ್",
                         "url": "/kn/bangla-transliteration-tool",
                         "hover": "blue"
+                    },   {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ಎಲ್ಲಾ ಭಾಷೆಗಳ ಕೀಬೋರ್ಡ್ಗಳು",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     }
                 ]
             },

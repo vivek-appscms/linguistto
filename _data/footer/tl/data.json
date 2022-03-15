@@ -171,6 +171,10 @@
         {
             "name": "Teksto Rewriter",
             "url": "/tl/text-rewriter"
+        },
+        {
+            "name": "Lahat ng Mga Keyboard ng Wika",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

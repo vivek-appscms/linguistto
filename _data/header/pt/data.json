@@ -19,6 +19,11 @@
                         "name": "Inglês para bangla Digitando",
                         "url": "/pt/bangla-transliteration-tool",
                         "hover": "blue"
+                    },{
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Teclados em todos os idiomas",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",

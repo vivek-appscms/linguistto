@@ -92,6 +92,10 @@
         {
             "name": "உரை ரீரைட்டர்",
             "url": "/ta/text-rewriter"
+        },
+        {
+            "name": "அனைத்து மொழிகளும் கீபோர்ட்",
+            "url": "/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],

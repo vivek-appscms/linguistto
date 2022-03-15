@@ -26,7 +26,12 @@
             "url": "/hi/bangla-transliteration-tool",
             "hover": "blue"
           },
-          
+          {
+              "iconSrc": "/assets/img/germanblack.svg",
+              "name": "सभी भाषाएँ कीबोर्ड",
+              "url": "/multi-lingual-keyboard/allkeyboards",
+              "hover": "blue"
+          },
           {
             "iconSrc": "/assets/img/germanblack.svg",
             "name": "वर्ड काउंट टूल",

@@ -19,6 +19,11 @@
                         "name": "ਪੰਜਾਬੀ ਟਾਈਪਿੰਗ ਲਈ ਅੰਗਰੇਜ਼ੀ",
                         "url": "/pa/bangla-transliteration-tool",
                         "hover": "blue"
+                    }, {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਕੀਬੋਰਡ",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     }
                 ]
             },

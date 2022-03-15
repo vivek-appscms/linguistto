@@ -19,6 +19,11 @@
                         "name": "इंग्रजी ते बांगला टायपिंग",
                         "url": "/mr/bangla-transliteration-tool",
                         "hover": "blue"
+                    } ,{
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "सर्व भाषा कीबोर्ड",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
                     }
                 ]
             },

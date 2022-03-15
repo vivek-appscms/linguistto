@@ -10,7 +10,7 @@
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "เครื่องมือถอดความทั้งหมด",
-            "url": "/th/all-paraphrase-pages",
+                        "url": "/th/all-paraphrase-pages",
                         "hover": "blue"
                     },
                    
@@ -26,7 +26,12 @@
                         "url": "/th/bangla-transliteration-tool",
                         "hover": "blue"
                     },
-                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "คีย์บอร์ดทุกภาษา",
+                        "url": "/multi-lingual-keyboard/allkeyboards",
+                        "hover": "blue"
+                    },
                     {
                         "iconSrc": "/assets/img/germanblack.svg",
                         "name": "เครื่องมือนับคำ",

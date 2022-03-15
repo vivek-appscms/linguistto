@@ -95,6 +95,9 @@
         {
             "name": "Text-Umschreiber",
             "url": "/de/text-rewriter"
+        },{
+            "name": "Alle Sprachtastaturen",
+            "url": "/de/multi-lingual-keyboard/allkeyboards"
         }
     ],
     "networkSites": [],
