@@ -3,48 +3,48 @@
   
 [[redirects]]
   from = "/newtoolsapi/*"
-  to = "https://website-tools-web.netlify.app/.netlify/functions/:splat"
+  to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/:splat"
   force = true
   status = 200  
    
 [[redirects]]
   from = "/getSentencess"
-  to = "https://website-tools-web.netlify.app/sentences.json"
+  to = "https://contenttool-newtools-main.netlify.app/sentences.json"
   force = true
   status = 200
 
 [[redirects]] 
   from = "/getRandomParagraph" 
-  to = "https://website-tools-web.netlify.app/paragraph.json" 
+  to = "https://contenttool-newtools-main.netlify.app/paragraph.json" 
   force = true 
   status = 200
 
 [[redirects]]
   from = "/multi-lingual-keyboard"
-  to = "https://multi-keyboards.netlify.app/allkeyboards"
+  to = "https://keyboard-main.netlify.app/allkeyboards"
   force = true
   status = 200
 
 [[redirects]]
   from = "/multi-lingual-keyboard/sitemap.xml"
-  to = "https://multi-keyboards.netlify.app/sitemap.xml"
+  to = "https://keyboard-main.netlify.app/sitemap.xml"
   force = true
   status = 200
 
 [[redirects]]
   from = "/multi-lingual-keyboard*"
-  to = "https://multi-keyboards.netlify.app/:splat"
+  to = "https://keyboard-main.netlify.app/:splat"
   force = true
   status = 200
 
 [[redirects]]
   from = "/tools/sitemap.xml"
-  to = "https://website-tools-web.netlify.app/sitemap.xml"
+  to = "https://contenttool-newtools-main.netlify.app/sitemap.xml"
   force = true
   status = 200
 
 [[redirects]]
   from = "/*"
-  to = "https://website-tools-web.netlify.app/:splat"
+  to = "https://contenttool-newtools-main.netlify.app/:splat"
   force = false
   status = 200
