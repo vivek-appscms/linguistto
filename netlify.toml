@@ -3,37 +3,37 @@
   
 [[redirects]]
   from = "/newtoolsapi/*"
-  to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/:splat"
+  to = "https://website-tools-web.netlify.app/.netlify/functions/:splat"
   force = true
   status = 200  
    
 [[redirects]]
   from = "/getSentencess"
-  to = "https://contenttool-newtools-main.netlify.app/sentences.json"
+  to = "https://website-tools-web.netlify.app/sentences.json"
   force = true
   status = 200
 
 [[redirects]] 
   from = "/getRandomParagraph" 
-  to = "https://contenttool-newtools-main.netlify.app/paragraph.json" 
+  to = "https://website-tools-web.netlify.app/paragraph.json" 
   force = true 
   status = 200
 
 [[redirects]]
   from = "/multi-lingual-keyboard"
-  to = "https://keyboard-main.netlify.app/allkeyboards"
+  to = "https://multi-keyboards.netlify.app/allkeyboards"
   force = true
   status = 200
 
 [[redirects]]
   from = "/multi-lingual-keyboard/sitemap.xml"
-  to = "https://keyboard-main.netlify.app/sitemap.xml"
+  to = "https://multi-keyboards.netlify.app/sitemap.xml"
   force = true
   status = 200
 
 [[redirects]]
   from = "/multi-lingual-keyboard*"
-  to = "https://keyboard-main.netlify.app/:splat"
+  to = "https://multi-keyboards.netlify.app/:splat"
   force = true
   status = 200
 
