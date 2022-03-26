@@ -5,7 +5,6 @@ title: 12 paid paraphrasing tools which you can consider
 layout: post
 author: Anushka
 image: '/uploads/output-5.png'
-author: ankita
 comments: false
 ---
 
