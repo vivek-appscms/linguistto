@@ -365,6 +365,7 @@ li.col-md-3.conver-list a {
   height: 41px;
   margin-bottom: 0;
   position: relative;
+  background: none;
 }
 .settings__image:hover{
   background-color: #f7f8f9;
@@ -456,18 +457,16 @@ button.click {
   border-radius: 48px !important;
 }
 @media (max-width: 768px){
+  .settings__image{
+    height: 21px;
+  }
   button.click {
    width: 90%;
   }
   .click_div {
-    position: absolute;
-    top: 850px;
-    right: 0;
-    width: 100%;
+   display: none;
 }
-.word-count{
-  padding-bottom: 49px;
-}
+
 .settings__list {
     display: flex;
     justify-content: space-evenly;
@@ -488,9 +487,6 @@ button.click {
 }
 .CodeMirror-code{
   text-align: start;
-}
-.CodeMirror {
-  height: 377px !important;
 }
 @media (max-width: 963px) {
   button.click {
@@ -607,7 +603,10 @@ ul.details-list li {
   width: 54px;
 }
 .setting_button i{
-  color: rgb(103,102,117,0.8);
+  color: #60a6e9;
+}
+button.convert_button {
+  border-width: 3px;
 }
 .keyword__content {
   background: #fff;

@@ -18,6 +18,15 @@
         <div class="hr">
             <hr class="hr-css" />
         </div>
+        <div class="row" style="justify-content: center;width: 100%;">  
+            <div class="col-md-1"></div>
+            <div class="col-md-2">
+                <button onclick="inputHandle('transliterateButton')" class="convert_button btn btn-outline-primary">
+                transliterate
+                </button>
+            </div>
+        </div>
+
         <div class="row">  
             <div class="col-md-1">
                 <div class="setting_div">
@@ -34,7 +43,7 @@
                     </div>
                     <div class="setting_button">
                         <div id="fontsize_button" onmouseover="display_flex('font_size')"
-                            onmouseout="display_none('font_size')" class="settings__image"><b style="color: rgb(103,102,117,0.8);">T</b></div>
+                            onmouseout="display_none('font_size')" class="settings__image"><b style="color: #60a6e9;">T</b></div>
                         <ul class="settings__options" id="font_size"
                             style="display: none; flex-direction: row; justify-content: space-around;">
                             <li class="settings__option text" ><button type="button"
@@ -47,7 +56,7 @@
                     </div>
                     <div class="setting_button">
                         <div id="fontfamily_button" onmouseover="display_flex('font_familty')"
-                            onmouseout="display_none('font_familty')" class="settings__image"><b style="color: rgb(103,102,117,0.8);">Aa</b></div>
+                            onmouseout="display_none('font_familty')" class="settings__image"><b style="color: #60a6e9;">Aa</b></div>
                         <ul class="settings__options" id="font_familty"
                             style="display: none; flex-direction: row; justify-content: space-around;">
                             <li class="settings__option text" style="font-family: roboto mono,monospace;"><button
@@ -124,15 +133,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-2">
-                <button onclick="inputHandle('transliterateButton')" class="ml-2"
-                style="font-size:14px; font-weight:normal; height:30px">
-                transliterate
-                </button>
             </div>
         </div>
     </div>

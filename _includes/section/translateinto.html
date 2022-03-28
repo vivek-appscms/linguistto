@@ -16,6 +16,11 @@
             <hr class="hr-css" />
         </div>
         <div class="col-md-12 typing-main-div">
+            <div class="row" style="width: 100%; justify-content: center;">
+                <button type="button"  onclick="getInputValue();" class="convert_button btn btn-outline-primary">translate</button>
+            </div>
+        </div>
+        <div class="col-md-12 typing-main-div">
             <div class="row">
                 <div class="col-md-12 justify-content-center">
                     <div class="setting_div">
@@ -32,7 +37,7 @@
                         </div>
                         <div class="setting_button">
                             <div id="fontsize_button" onmouseover="display_flex('font_size')"
-                                onmouseout="display_none('font_size')" class="settings__image"><b style="color: rgb(103,102,117,0.8);">T</b></div>
+                                onmouseout="display_none('font_size')" class="settings__image"><b style="color: #60a6e9;">T</b></div>
                             <ul class="settings__options" id="font_size"
                                 style="display: none; flex-direction: row; justify-content: space-around;">
                                 <li class="settings__option text" ><button type="button"
@@ -45,7 +50,7 @@
                         </div>
                         <div class="setting_button">
                             <div id="fontfamily_button" onmouseover="display_flex('font_familty')"
-                                onmouseout="display_none('font_familty')" class="settings__image"><b style="color: rgb(103,102,117,0.8);">Aa</b></div>
+                                onmouseout="display_none('font_familty')" class="settings__image"><b style="color: #60a6e9;">Aa</b></div>
                             <ul class="settings__options" id="font_familty"
                                 style="display: none; flex-direction: row; justify-content: space-around;">
                                 <li class="settings__option text" style="font-family: roboto mono,monospace;"><button
@@ -108,7 +113,7 @@
                             </div>
                         </div>
                     </div>  
-                  <div class="click_div"><button onclick="getInputValue();" class="click"><i style="color: white;" class="fas fa-language"></i></button></div>
+                  <div class="click_div"><button class="click"><i style="color: white;" class="fa-solid fa-right-left"></i></button></div>
                 </div>
                 <div class="col-md-6 mb-3">
                     <div class="paraphrase-div">
