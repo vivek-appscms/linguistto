@@ -33,7 +33,7 @@
 
 [[redirects]]
   from = "/multi-lingual-keyboard*"
-  to = "https://keyboard-main.netlify.app/:splat"
+  to = "https://keyboard-main.netlify.app/multi-lingual-keyboard/:splat"
   force = true
   status = 200
 
