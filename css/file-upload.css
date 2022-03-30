@@ -448,11 +448,9 @@ p.settings__description {
   z-index: 9;
 }
 button.click {
-  /* position: absolute;
-  top: 200px;
-  right: -50px; */
   z-index: 1;
   border: none;
+  background: #60a6e9;
   padding-top: 7px;
   border-radius: 48px !important;
 }
