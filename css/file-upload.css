@@ -461,7 +461,7 @@ button.click {
 @media (max-width: 768px){
   .eh-30 {
     text-align: center;
-    padding-right: 0;
+    padding-right: 0 !important;
   }
   .settings__image{
     height: 21px;
