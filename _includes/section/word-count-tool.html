@@ -3,16 +3,14 @@
 <!-- {{page.fileName}} -->
 
 
-
+<link href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.css' rel='stylesheet'>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/mode/javascript/javascript.js'></script>
 <script src="https://accounts.google.com/gsi/client" async defer></script>
-{%- if page.tool -%}
-{%- include Rating/structureddata.html -%}
-{%- endif -%}
-
 <div class="container">
     <div class="main-heading">
         <!-- <h1 class="col-md-10 text-left">Word Count Tool </h1> -->
-        <div class="col-md-12 col-lg-12" style="border-top: 7px solid rgba(0,0,0,.1);">
+        <div class="col-md-12 col-lg-12" style="border-top: 7px solid rgb(103,102,117,0.8);">
             <div class="word-count-main">
                 <div class="word-count">
                     <ul class="count-top-bar">
@@ -33,10 +31,11 @@
                             <span id="paragraphCount">0</span>
                         </li>
                     </ul>
-                    <label class="w-100">
+                    <div class="string-div">
+                        <p>paste or type text to count words</p>
                         <textarea class="mt-3 counter-input" id="input-string"
                             placeholder="Type or paste your text"></textarea>
-                    </label>
+                    </div>
                 </div>
             </div>
         </div>

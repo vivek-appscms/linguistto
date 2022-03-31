@@ -51,6 +51,23 @@ i {
   margin-right: -15px;
   margin-left: -15px;
 }
+.string-div {
+  width: 100%;
+  padding-top: 9px;
+  color: #fff;
+  background-color: rgb(103,102,117,0.8);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.CodeMirror {
+  border: 3px solid rgb(103,102,117,0.8);
+  border-radius: 3px;
+  }
+  .string-div p {
+  color: white;
+  padding-left: 20px;
+  padding-top: 5px;
+  }
 .how-to-text {
   position: relative;
   min-height: 1px;
@@ -234,7 +251,7 @@ a {
   font-size: 18px;
 }
 .count-top-bar li span {
-  color: #9b5cf5;
+  color: rgb(103,102,117,0.8);
   font-size: 25px;
   font-weight: 700;
 }

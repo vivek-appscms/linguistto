@@ -7,11 +7,18 @@
 {% assign lname = page.langname %}
 {% assign lang = keyName | split: '_to_' %}
 
-
+<link href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.css' rel='stylesheet'>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/mode/javascript/javascript.js'></script>
 <div class="container">
     <div class="main">
         <div class="hr">
             <hr class="hr-css" />
+        </div>
+        <div class="col-md-12 typing-main-div">
+            <div class="row" style="width: 100%; justify-content: center;">
+                <button type="button"  onclick="getInputValue();" class="convert_button btn btn-outline-primary">translate</button>
+            </div>
         </div>
         <div class="col-md-12 typing-main-div">
             <div class="row">
@@ -30,22 +37,20 @@
                         </div>
                         <div class="setting_button">
                             <div id="fontsize_button" onmouseover="display_flex('font_size')"
-                                onmouseout="display_none('font_size')" class="settings__image"><img src="/Tt.png"
-                                    height="12" width="18"></div>
+                                onmouseout="display_none('font_size')" class="settings__image"><b style="color: #60a6e9;">T</b></div>
                             <ul class="settings__options" id="font_size"
                                 style="display: none; flex-direction: row; justify-content: space-around;">
-                                <li class="settings__option text" style="font-size: small;"><button type="button"
-                                        onclick="font_size_fun('small')">T</button></li>
-                                <li class="settings__option text" style="font-size: medium;"><button type="button"
-                                        onclick="font_size_fun('medium')">T</button></li>
-                                <li class="settings__option text" style="font-size: large;"><button type="button"
-                                        onclick="font_size_fun('large')">T</button></li>
+                                <li class="settings__option text" ><button type="button"
+                                        onclick="font_size_fun('small')" style="font-size: small;">T</button></li>
+                                <li class="settings__option text" ><button type="button"
+                                        onclick="font_size_fun('medium')" style="font-size: medium;">T</button></li>
+                                <li class="settings__option text" ><button type="button"
+                                        onclick="font_size_fun('large')" style="font-size: large;">T</button></li>
                             </ul>
                         </div>
                         <div class="setting_button">
                             <div id="fontfamily_button" onmouseover="display_flex('font_familty')"
-                                onmouseout="display_none('font_familty')" class="settings__image"><img src="/Aa.png"
-                                    height="12" width="18"></div>
+                                onmouseout="display_none('font_familty')" class="settings__image"><b style="color: #60a6e9;">Aa</b></div>
                             <ul class="settings__options" id="font_familty"
                                 style="display: none; flex-direction: row; justify-content: space-around;">
                                 <li class="settings__option text" style="font-family: roboto mono,monospace;"><button
@@ -62,7 +67,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row col-md-12 d-flex justify-content-center">
+            <div class="row col-md-12 d-flex justify-content-center">   
                 <div class="col-md-6 mb-3">
                     <div class="word-count">
                         <ul class="count-top-bar">
@@ -83,11 +88,10 @@
                                 <span id="paragraphCount1">0</span>
                             </li>
                         </ul>
-                        <div>Enter sentence in {{lang[0] | downcase}} to be translated</div>
-                        <textarea class="mt-3 input-string" id="input-string" value=""></textarea>
-                        <button onclick="getInputValue();" class="buttonClass ml-2">
-                            Translate
-                        </button>
+                        <div class="string-div">
+                            <div class="main_content">Enter sentence in {{lang[0] | downcase}} to be translated</div>
+                        <textarea class="mt-3 input-string" id="input-string"></textarea>
+                       </div>
                         <ul class="details-list" style="border: none;">
                             <li>
                                 <p>Reading Time</p><span class="read-time" id="readtime1">0 min</span>
@@ -109,12 +113,11 @@
                             </div>
                         </div>
                     </div>  
+                    <div class="click_div"><button class="click"><i style="color: white;" class="fa-solid fa-arrow-right"></i></button></div>  
                 </div>
                 <div class="col-md-6 mb-3">
                     <div class="paraphrase-div">
                         <div class="word-count">
-                            <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 translation-copy-btn"
-                                onclick="clipboardHandler('output-string')"><i class="fas fa-copy"></i></p>
                             <ul class="count-top-bar">
                                 <li class="borderStyle">
                                     <p>Words</p>
@@ -133,12 +136,12 @@
                                     <span id="paragraphCount2">0</span>
                                 </li>
                             </ul>
-                            <div>Output sentence in {{lang[1] | downcase}} will be shown here</div>
-                            <textarea class="paraphrase-output" id="output-string" value=""
+                            <div class="string-div">
+                                <div class="main_content">Output sentence in {{lang[1] | downcase}} will be shown here</div>
+                                <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 translation-copy-btn"><button  title="copy !" onclick="clipboardHandler()" id="copy"><i class="fas fa-copy"></i></button></p>
+                            <textarea class="paraphrase-output" id="output-string"
                                 onkeyup="paraprashstyle()"></textarea>
-                                <button onclick="resetInputValue();" class="buttonClass ml-2">
-                                    Reset
-                                </button>
+                            </div>
                             <ul class="details-list" style="border: none;">
                                 <li>
                                     <p>Reading Time</p><span class="read-time" id="readtime2">0 min</span>
