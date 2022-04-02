@@ -2,14 +2,21 @@ var strOutput = []
 const getScript = document.currentScript
 const from = getScript.dataset.from
 const to = getScript.dataset.to
+var textarea1 = document.getElementById("input-string");
+var textarea2 = document.getElementById("output-string");
+var input_editor,output_editor;
+input_editor = CodeMirror.fromTextArea(textarea1,{
+  lineNumbers: true,
+  mode: "text/x-csrc"
+});
+output_editor = CodeMirror.fromTextArea(textarea2,{
+  lineNumbers: true,
+  mode: "text/x-csrc"
+});
 // console.log(from, to)
 async function getapi(url) {
-  document.querySelector('.buttonClass').innerText = 'Please wait..'
   const response = await fetch(url)
   let data = await response.json()
-
-  document.querySelector('.buttonClass').innerText = 'Translate'
-
   if (data) {
     data &&
       data[0].map((item) => {
@@ -22,25 +29,22 @@ async function getapi(url) {
 }
 async function getInputValue() {
   strOutput = []
-  var inputString = document.getElementById('input-string').value
+  var inputString = input_editor.getValue();
   if (inputString) {
     var outputStr = await translateFunction(inputString, from, to)
-    document.getElementById('output-string').value = outputStr.replace(
+    var filnal_cotnent = outputStr.replace(
       /['",]+/g,
       ''
     )
+    output_editor.setValue(filnal_cotnent);
+    paraprashstyle();
+    word_count();
   } else {
     console.clear()
   }
-  paraprashstyle();
-  word_count();
+
 }
 
-// reset input fiels
-function resetInputValue() {
-  document.getElementById('input-string').value = ''
-  document.getElementById('output-string').value = ''
-}
 async function translateFunction(string, sl, tl) {
   try {
     const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${tl}&dt=t&q='${string}'`
@@ -58,16 +62,18 @@ async function translateFunction(string, sl, tl) {
 
 //////////////////
 // clipboard
-function clipboardHandler(id) {
-  let copyTextarea = document.getElementById(id);
-  copyTextarea.focus();
-  copyTextarea.select();
-  try {
-      document.execCommand('copy');
-  } catch (err) {
-      console.log('Oops, unable to copy');
-  }
+function clipboardHandler() {
+  const el = document.createElement("textarea");
+  el.value = output_editor.getValue();
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand("copy");
+  document.getElementById("copy").title="copid !"
 };
+setTimeout(() => {
+  document.getElementById("copy").title="copy !"
+}, 5000);
+
 //.netlify/functions/paraphrase/
 //http://127.0.0.1:9000/paraphrase/
 
@@ -95,17 +101,19 @@ if(document.getElementById(active_button).style.display == 'flex'){
   }
 }
 function font_size_fun(size){
-document.getElementById("input-string").style.fontSize = size
-document.getElementById("output-string").style.fontSize = size
+  for (let i_six = 0; i_six < document.querySelectorAll(".CodeMirror-line span").length; i_six++) {
+    document.querySelectorAll(".CodeMirror-line span")[i_six].style.fontSize = size;
+  } 
 }
 function font_family_fun(family){
-document.getElementById("input-string").style.fontFamily = family
-document.getElementById("output-string").style.fontFamily = family
+  for (let i_fam = 0; i_fam < document.querySelectorAll(".CodeMirror-line span").length; i_fam++) {
+    document.querySelectorAll(".CodeMirror-line span")[i_fam].style.fontFamily = family;
+  } 
 }
 
 document.getElementById("clear_button").addEventListener("click", ()=>{
-document.getElementById("input-string").value = ""
-document.getElementById("output-string").value = ""
+  input_editor.setValue(' ') 
+  output_editor.setValue(' ')
 document.getElementById("tbody1").innerHTML=""
 document.getElementById("tbody2").innerHTML=""
 document.getElementById("wordCount1").innerHTML=0
@@ -117,12 +125,12 @@ document.getElementById("sentenceCount2").innerHTML=0
 document.getElementById("paragraphCount1").innerHTML=0
 document.getElementById("paragraphCount2").innerHTML=0
 document.getElementById("readtime1").innerHTML='0 min'
-document.getElementById("readtime1").innerHTML='0 min'
-document.getElementById("speaktime2").innerHTML='0 min'
+document.getElementById("readtime2").innerHTML='0 min'
+document.getElementById("speaktime1").innerHTML='0 min'
 document.getElementById("speaktime2").innerHTML='0 min'
 }); 
 
-var input = document.querySelector('#input-string'),
+var input = input_editor.getValue(),
 characterCount1 = document.querySelector('#characterCount1'),
 characterCount2 = document.querySelector('#characterCount2'),
 wordCount1 = document.querySelector('#wordCount1'),
@@ -131,11 +139,11 @@ sentenceCount1 = document.querySelector('#sentenceCount1'),
 sentenceCount2 = document.querySelector('#sentenceCount2'),
 paragraphCount1 = document.querySelector('#paragraphCount1'),
 paragraphCount2 = document.querySelector('#paragraphCount2'),
-input1 = document.querySelector('#output-string')
+input1 = output_editor.getValue();
 
-input.addEventListener('keyup', function() {
-characterCount1.innerHTML = input.value.length;
-var words = input.value.match(/\b[-?(\w+)?]+\b/gi);
+input_editor.on("keyup",  function() {
+characterCount1.innerHTML = input_editor.getValue().length;
+var words = input_editor.getValue().match(/\b[-?(\w+)?]+\b/gi);
 if (words) {
   wordCount1.innerHTML = words.length;
 const wordsPerMinute = 200; // Average case.
@@ -155,13 +163,13 @@ document.getElementById("speaktime1").innerText = `${result2}`;
   wordCount1.innerHTML = 0;
 }
 if (words) {
-  var sentences = input.value.split(/[.|!|?]+/g);
+  var sentences = input.split(/[.|!|?]+/g);
   sentenceCount1.innerHTML = sentences.length - 1;
 } else {
   sentenceCount1.innerHTML = 0;
 }
 if (words) {
-  var paragraphs = input.value.replace(/\n$/gm, '').split(/\n/);
+  var paragraphs = input.replace(/\n$/gm, '').split(/\n/);
   paragraphCount1.innerHTML = paragraphs.length;
 } else {
   paragraphCount1.innerHTML = 0;
@@ -170,8 +178,8 @@ if (words) {
 
 
 function paraprashstyle(){
-  characterCount2.innerHTML = input1.value.length;
-  var words = input1.value.match(/\b[-?(\w+)?]+\b/gi);
+  characterCount2.innerHTML = output_editor.getValue().length;
+  var words = output_editor.getValue().match(/\b[-?(\w+)?]+\b/gi);
   if (words) {
     wordCount2.innerHTML = words.length;
   const wordsPerMinute = 200; // Average case.
@@ -191,21 +199,21 @@ function paraprashstyle(){
     wordCount2.innerHTML = 0;
   }
   if (words) {
-    var sentences = input1.value.split(/[.|!|?]+/g);
+    var sentences = input1.split(/[.|!|?]+/g);
     sentenceCount2.innerHTML = sentences.length - 1;
   } else {
     sentenceCount2.innerHTML = 0;
   }
   if (words) {
-    var paragraphs = input1.value.replace(/\n$/gm, '').split(/\n/);
+    var paragraphs = input1.replace(/\n$/gm, '').split(/\n/);
     paragraphCount2.innerHTML = paragraphs.length;
   } else {
     paragraphCount2.innerHTML = 0;
   }
 }
-document.getElementById("output-string").addEventListener("keyup",()=>{
-  characterCount2.innerHTML = input1.value.length;
-  var words = input1.value.match(/\b[-?(\w+)?]+\b/gi);
+output_editor.on("keyup", ()=>{
+  characterCount2.innerHTML = input1.length;
+  var words = input1.match(/\b[-?(\w+)?]+\b/gi);
   if (words) {
     wordCount2.innerHTML = words.length;
   const wordsPerMinute = 200; // Average case.
@@ -225,17 +233,18 @@ document.getElementById("output-string").addEventListener("keyup",()=>{
     wordCount2.innerHTML = 0;
   }
   if (words) {
-    var sentences = input1.value.split(/[.|!|?]+/g);
+    var sentences = input1.split(/[.|!|?]+/g);
     sentenceCount2.innerHTML = sentences.length - 1;
   } else {
     sentenceCount2.innerHTML = 0;
   }
   if (words) {
-    var paragraphs = input1.value.replace(/\n$/gm, '').split(/\n/);
+    var paragraphs = input1.replace(/\n$/gm, '').split(/\n/);
     paragraphCount2.innerHTML = paragraphs.length;
   } else {
     paragraphCount2.innerHTML = 0;
   }
+  word_count()
 })
 
 function word_count() {
@@ -247,7 +256,7 @@ function word_count() {
   let keys = [];
   var wordcount = [];
   var tbody = document.getElementById("tbody2");
-  var wordcount = document.getElementById("output-string").value;
+  var wordcount = output_editor.getValue(); 
   var token = wordcount.split(" ");
   for (let i = 0; i < token.length; i++) {
     var word = token[i].toLowerCase();
@@ -285,7 +294,7 @@ function word_count() {
     }
   }
 }
-document.getElementById("input-string").onkeyup = function (e) {
+input_editor.on("keyup", ()=>{
   // if (e.keyCode == 32) {
     for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
       document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
@@ -295,7 +304,7 @@ document.getElementById("input-string").onkeyup = function (e) {
     let keys = [];
     var wordcount = [];
     var tbody = document.getElementById("tbody1");
-    var wordcount = document.getElementById("input-string").value;
+    var wordcount = input_editor.getValue();
     var token = wordcount.split(" ");
     for (let i = 0; i < token.length; i++) {
       var word = token[i].toLowerCase();
@@ -332,8 +341,8 @@ document.getElementById("input-string").onkeyup = function (e) {
       }
     }
   // }
-};
-document.getElementById("output-string").onkeyup = function (e) {
+})
+output_editor.on("keyup", ()=>{
   // if (e.keyCode == 32) {
     for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
       document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
@@ -343,7 +352,7 @@ document.getElementById("output-string").onkeyup = function (e) {
     let keys = [];
     var wordcount = [];
     var tbody = document.getElementById("tbody2");
-    var wordcount = document.getElementById("output-string").value;
+    var wordcount = output_editor.getValue();
     var token = wordcount.split(" ");
     for (let i = 0; i < token.length; i++) {
       var word = token[i].toLowerCase();
@@ -380,4 +389,4 @@ document.getElementById("output-string").onkeyup = function (e) {
       }
     // }
   }
-};
+})

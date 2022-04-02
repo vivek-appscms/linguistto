@@ -1,12 +1,22 @@
 const getScript = document.currentScript;
 const language = getScript.dataset.language;
+
+var textarea1 = document.getElementById("input-string");
+var input_editor;
+input_editor = CodeMirror.fromTextArea(textarea1,{
+  lineNumbers: true,
+  mode: "text/x-csrc"
+});
+
 function inputHandle(event) {
-    let inputString = document.getElementById("input-string")
-    if (inputString.value[inputString.value.length - 1] == " " || event == "transliterateButton") {
-        fetch(`https://www.google.com/inputtools/request?text=${inputString.value}&ime=transliteration_en_${language}`)
+    let inputString = input_editor.getValue();
+
+    if (inputString[inputString.length - 1] == " " || event == "transliterateButton") {
+        fetch(`https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${language}`)
             .then(res => res.json())
             .then(result => {
-                inputString.value = result[1][0][1][0]
+                  var relt = result[1][0][1][0]
+                input_editor.setValue(relt)
             })
     }
 	for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
@@ -17,7 +27,7 @@ function inputHandle(event) {
 	  let keys = [];
 	  var wordcount = [];
 	  var tbody = document.getElementById("tbody");
-	  var wordcount = document.getElementById("input-string").value;
+	  var wordcount = input_editor.getValue();
 	  var token = wordcount.split(" ");
 	  for (let i = 0; i < token.length; i++) {
 		var word = token[i].toLowerCase();
@@ -55,18 +65,19 @@ function inputHandle(event) {
 	  }
 }
 
-//////
-// clipboard
-function clipboardHandler(id) {
-    let copyTextarea = document.getElementById(id);
-    copyTextarea.focus();
-    copyTextarea.select();
-    try {
-        document.execCommand('copy');
-    } catch (err) {
-        console.log('Oops, unable to copy');
-    }
-};
+
+////
+//clipboard
+
+function clipboardHandler() {
+    const el = document.createElement("textarea");
+    el.value = input_editor.getValue();
+    document.body.appendChild(el);
+    el.select();
+    document.execCommand("copy");
+    document.getElementById("copy").title="copid !"
+  };
+
 function active_buttonkk(active_button){
 	if(document.getElementById(active_button).style.display == 'none'){
 		document.getElementById(active_button).style.display = 'block';
@@ -90,14 +101,17 @@ function display_none(active_button){
 	  }
 }
 function font_size_fun(size){
-	document.getElementById("input-string").style.fontSize = size
-}
-function font_family_fun(family){
-	document.getElementById("input-string").style.fontFamily = family
-}
-
+    for (let i_six = 0; i_six < document.querySelectorAll(".CodeMirror-line span").length; i_six++) {
+      document.querySelectorAll(".CodeMirror-line span")[i_six].style.fontSize = size;
+    } 
+  }
+  function font_family_fun(family){
+    for (let i_fam = 0; i_fam < document.querySelectorAll(".CodeMirror-line span").length; i_fam++) {
+      document.querySelectorAll(".CodeMirror-line span")[i_fam].style.fontFamily = family;
+    } 
+  }
 document.getElementById("clear_button").addEventListener("click", ()=>{
-	document.getElementById("input-string").value = ""
+	input_editor.setValue('')
 	document.getElementById("tbody").innerHTML=""
 	document.getElementById("wordCount").innerHTML=0
 	document.getElementById("characterCount").innerHTML=0
@@ -107,15 +121,25 @@ document.getElementById("clear_button").addEventListener("click", ()=>{
 	document.getElementById("speaktime").innerHTML='0 min'
 }); 
  
-var input = document.querySelector('#input-string'),
+var input = input_editor,
   characterCount = document.querySelector('#characterCount'),
   wordCount = document.querySelector('#wordCount'),
   sentenceCount = document.querySelector('#sentenceCount'),
   paragraphCount = document.querySelector('#paragraphCount')
 
-input.addEventListener('keyup', function() {
-  characterCount.innerHTML = input.value.length;
-  var words = input.value.match(/\b[-?(\w+)?]+\b/gi);
+  input_editor.on("keyup",  function() {
+    let inputString = input_editor.getValue();
+
+    if (inputString[inputString.length - 1] == " " || event == "transliterateButton") {
+        fetch(`https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${language}`)
+            .then(res => res.json())
+            .then(result => {
+                  var relt = result[1][0][1][0]
+                input_editor.setValue(relt)
+            })
+    }
+  characterCount.innerHTML = input.getValue().length;
+  var words = input.getValue().match(/\b[-?(\w+)?]+\b/gi);
   if (words) {
     wordCount.innerHTML = words.length;
 	const wordsPerMinute = 200; // Average case.
@@ -135,13 +159,13 @@ input.addEventListener('keyup', function() {
     wordCount.innerHTML = 0;
   }
   if (words) {
-    var sentences = input.value.split(/[.|!|?]+/g);
+    var sentences = input.getValue().split(/[.|!|?]+/g);
     sentenceCount.innerHTML = sentences.length - 1;
   } else {
     sentenceCount.innerHTML = 0;
   }
   if (words) {
-    var paragraphs = input.value.replace(/\n$/gm, '').split(/\n/);
+    var paragraphs = input.getValue().replace(/\n$/gm, '').split(/\n/);
     paragraphCount.innerHTML = paragraphs.length;
   } else {
     paragraphCount.innerHTML = 0;
@@ -156,7 +180,7 @@ function word_count(){
 	let keys = []
 	var wordcount = [];
 	var tbody = document.getElementById("tbody");
-	var wordcount = document.getElementById("input-string").value;
+	var wordcount = input_editor.getValue();
 	var token = wordcount.split(' ');
 	for (let i = 0; i < token.length; i++) {
 	 var word = token[i].toLowerCase();

@@ -289,12 +289,6 @@ button.ml-2 {
   height: 450px;
   width: 100%;
 }
-textarea {
-  width: 100%;
-  border-radius: 11px;
-  outline: 0;
-  padding: 3%;
-}
 button {
   height: 40px;
   padding: 0 25px;
@@ -302,7 +296,7 @@ button {
   border-radius: 10px!important;
   font-weight: 500;
   line-height: 1.2;
-  background: #60A6E9;
+  background: rgb(103,102,117,0.8);
   color: #fff;
 }
 
@@ -352,7 +346,7 @@ li.col-md-3.conver-list a {
 .setting_div {
   display: flex;
   flex-direction: column;
-  border: 2px solid #60A6E9;
+  border: 2px solid rgb(103,102,117,0.8);
   width: 40px;
 }
 .setting_button {
@@ -371,13 +365,14 @@ li.col-md-3.conver-list a {
   height: 41px;
   margin-bottom: 0;
   position: relative;
+  background: none;
 }
 .settings__image:hover{
   background-color: #f7f8f9;
 }
 .settings__options {
   background-color: #fff;
-  border: 1px solid #60A6E9;
+  border: 1px solid rgb(103,102,117,0.8);
   border-radius: 0.25em;
   display: flex;
   height: 2em;
@@ -394,8 +389,8 @@ li.col-md-3.conver-list a {
 }
 .settings__options:before {
   background-color: #fff;
-  border-bottom: 1px solid #60A6E9;
-  border-left: 1px solid #60A6E9;
+  border-bottom: 1px solid rgb(103,102,117,0.8);
+  border-left: 1px solid rgb(103,102,117,0.8);
   border-right: 1px solid transparent;
   border-top: 1px solid transparent;
   content: "";
@@ -446,7 +441,38 @@ p.settings__description {
 .count-top-bar1 li {
   padding: 0 20px;
 }
-@media (max-width: 575.98px){
+.click_div {
+  position: absolute;
+  top: 250px;
+  right: -41px;
+  z-index: 9;
+}
+.eh-30{
+  text-align: end;
+  padding-right: 30px;
+}
+button.click {
+  z-index: 1;
+  border: none;
+  background: #60a6e9;
+  padding-top: 7px;
+  border-radius: 48px !important;
+}
+@media (max-width: 768px){
+  .eh-30 {
+    text-align: center;
+    padding-right: 0 !important;
+  }
+  .settings__image{
+    height: 21px;
+  }
+  button.click {
+   width: 90%;
+  }
+  .click_div {
+   display: none;
+}
+
 .settings__list {
     display: flex;
     justify-content: space-evenly;
@@ -465,7 +491,13 @@ p.settings__description {
   top: 300px;
 }
 }
+.CodeMirror-code{
+  text-align: start;
+}
 @media (max-width: 963px) {
+  button.click {
+    top: 362px;
+  }
   .count-top-bar {
     flex-wrap: wrap;
   }
@@ -521,18 +553,18 @@ ul li {
   color: #222;
 }
 .count-top-bar li span {
-  color: #60A6E9;
+  color: #222;
   font-weight: 700;
 }
 ul li span {
   position: relative!important;
 }
 .typing-main-div i {
-  color: #60A6E9;
+  color: white;
 }
 .text:hover {
   background-color: #f7f8f9;
-  color: #60A6E9;
+  color: rgb(103,102,117,0.8);
 }
 .settings__option button {
   background: transparent;
@@ -543,7 +575,7 @@ ul li span {
   padding-bottom: 20px;
 }
 .settings__option button:active{
-    color: #60A6E9;
+    color: rgb(103,102,117,0.8);
 }
 ul.details-list li {
   display: flex;
@@ -561,7 +593,7 @@ ul.details-list li {
   margin: 1px 0;
   padding: 43px 25px 9px;
   list-style: none;
-  border: 1px solid #60A6E9;
+  border: 1px solid rgb(103,102,117,0.8);
   background: #fff;
 }
 .details-list li {
@@ -577,11 +609,15 @@ ul.details-list li {
   width: 54px;
 }
 .setting_button i{
-  color: #60A6E9;
+  color: #60a6e9;
+}
+button.convert_button {
+  border-width: 3px;
+  text-transform: capitalize;
 }
 .keyword__content {
   background: #fff;
-  border: 1px solid #60A6E9;
+  border: 1px solid rgb(103,102,117,0.8);
   margin-top: 1px;
   display: flex;
   justify-content: center;
@@ -589,13 +625,18 @@ ul.details-list li {
 }
 .translation-copy-btn{
   position: absolute;
-  right: 31px;
-  top: 164px;
+  right: 0px;
+  top: 126px;
   font-size: 20px;
+  z-index: 1;
+}
+.translation-copy-btn button {
+  background: transparent;
+  border: none;
 }
 .keyword__content1{
   background: #fff;
-  border: 1px solid #60A6E9;
+  border: 1px solid rgb(103,102,117,0.8);
   margin-top: 1px;
   display: flex;
   justify-content: center;
@@ -604,4 +645,23 @@ ul.details-list li {
 }
 td {
   padding: 0 44px;
+}
+.string-div {
+  width: 100%;
+  padding-top: 9px;
+  color: #fff;
+  background-color: rgb(103,102,117,0.8);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.main_content {
+  text-align: start;
+  padding-left: 19px;
+  padding-bottom: 11px;
+}
+textarea {
+  width: 100%;
+  border-radius: 11px;
+  outline: 0;
+  padding: 3%;
 }

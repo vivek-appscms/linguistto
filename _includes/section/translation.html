@@ -1,24 +1,44 @@
-
 {% assign keyName = page.translatein %}
 {% assign langName = page.langName %}
 {% assign language = page.language %}
 
+
+<style>
+    .translation-copy-btn {
+        top: 5px;
+        right: -26px;
+    }
+
+    .string-div p {
+        color: white;
+    }
+</style>
 <div class="container">
     <div class="main">
         <div class="hr">
             <hr class="hr-css" />
         </div>
-        <div class="row">
-            <div class="col-md-12" style="text-align: start;"><p>Type in english and it will be transliterated to {{keyName}}</p></div>
+
+        <div class="col-md-12 typing-main-div">
+            <div class="row col-md-12 d-flex justify-content-center">
+                <div class="col-md-6 eh-30">
+                    <button onclick="inputHandle('transliterateButton')" class="convert_button btn btn-outline-primary">
+                        transliterate
+                    </button>
+                </div>
+                <div class="col-md-6"></div>
+            </div>
         </div>
-        <div class="row">  
+
+        <div class="row">
             <div class="col-md-1">
                 <div class="setting_div">
-                    
+
                     <div class="setting_button">
                         <div id="clear_button" onmouseover="active_buttonkk('clear_text')"
                             onmouseout="diavtivate_button('clear_text')" class="settings__image">
-                            <i class='fas fa-trash-alt'></i></div>
+                            <i class='fas fa-trash-alt'></i>
+                        </div>
                         <ul class="settings__options" id="clear_text" style="display: none;">
                             <li class="settings__option">
                                 <p class="settings__description" id="active_text">Clear Text</p>
@@ -27,20 +47,22 @@
                     </div>
                     <div class="setting_button">
                         <div id="fontsize_button" onmouseover="display_flex('font_size')"
-                            onmouseout="display_none('font_size')" class="settings__image"><i style="font-family: fangsong; color: #60A6E9; font-size: 20px; font-weight: 800px;" >T</i></div>
+                            onmouseout="display_none('font_size')" class="settings__image"><b
+                                style="color: #60a6e9;">T</b></div>
                         <ul class="settings__options" id="font_size"
                             style="display: none; flex-direction: row; justify-content: space-around;">
-                            <li class="settings__option text" style="font-size: small;"><button type="button"
-                                    onclick="font_size_fun('small')">T</button></li>
-                            <li class="settings__option text" style="font-size: medium;"><button type="button"
-                                    onclick="font_size_fun('medium')">T</button></li>
-                            <li class="settings__option text" style="font-size: large;"><button type="button"
-                                    onclick="font_size_fun('large')">T</button></li>
+                            <li class="settings__option text"><button type="button" onclick="font_size_fun('small')"
+                                    style="font-size: small;">T</button></li>
+                            <li class="settings__option text"><button type="button" onclick="font_size_fun('medium')"
+                                    style="font-size: medium;">T</button></li>
+                            <li class="settings__option text"><button type="button" onclick="font_size_fun('large')"
+                                    style="font-size: large;">T</button></li>
                         </ul>
                     </div>
                     <div class="setting_button">
                         <div id="fontfamily_button" onmouseover="display_flex('font_familty')"
-                            onmouseout="display_none('font_familty')" class="settings__image"><i class="fa-solid fa-font"></i></div>
+                            onmouseout="display_none('font_familty')" class="settings__image"><b
+                                style="color: #60a6e9;">Aa</b></div>
                         <ul class="settings__options" id="font_familty"
                             style="display: none; flex-direction: row; justify-content: space-around;">
                             <li class="settings__option text" style="font-family: roboto mono,monospace;"><button
@@ -48,7 +70,8 @@
                             </li>
                             <li class="settings__option text" style="font-family: mr-eaves-modern,sans-serif;">
                                 <button type="button"
-                                    onclick="font_family_fun('mr-eaves-modern,sans-serif')">As</button></li>
+                                    onclick="font_family_fun('mr-eaves-modern,sans-serif')">As</button>
+                            </li>
                             <li class="settings__option text" style="font-family: serif;"><button type="button"
                                     onclick="font_family_fun('serif')">As</button></li>
                         </ul>
@@ -78,10 +101,16 @@
                                         <span id="paragraphCount">0</span>
                                     </li>
                                 </ul>
-                                <label class="w-100">
+                                <div class="string-div">
+                                    <div class="col-md-12" style="text-align: start;">
+                                        <p>Type in english and it will be transliterated to {{keyName}}</p>
+                                        <p class="float-left m-0 ml-3 mb-1 p-0 pb-1 px-3 translation-copy-btn"><button
+                                                title="copy !" onclick="clipboardHandler()" id="copy"><i
+                                                    class="fas fa-copy"></i></button></p>
+                                    </div>
                                     <textarea onkeyup="inputHandle()" class="mt-3 transliteration-input"
-                                    id="input-string"></textarea>
-                                </label>
+                                        id="input-string"></textarea>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -114,17 +143,10 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-2">
-                <button onclick="inputHandle('transliterateButton')" class="ml-2"
-                style="font-size:14px; font-weight:normal; height:30px">
-                transliterate
-                </button>
-            </div>
-        </div>
     </div>
 </div>
-
 <script src="https://accounts.google.com/gsi/client" async defer></script>
-<script src="/js/translator.js" data-language="{{page.language}}" ></script>
+<link href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.css' rel='stylesheet'>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/mode/javascript/javascript.js'></script>
+<script src="/js/translator.js" data-language="{{page.language}}"></script>
