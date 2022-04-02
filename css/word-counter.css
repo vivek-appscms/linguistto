@@ -296,6 +296,10 @@ a {
   padding: 5px;
   font-size: 17px;
 }
+button.convert_button {
+  border-width: 3px;
+  text-transform: capitalize;
+}
 .rating-value {
   line-height: 24px;
   font-size: 16px;
@@ -305,8 +309,15 @@ a {
   color: rgb(33, 33, 33);
   padding: 6px;
 }
-
+.eh-30 {
+  text-align: end;
+  padding-right: 30px;
+}
 @media (max-width: 767.98px) {
+  .eh-30 {
+    text-align: center;
+    padding-right: 0;
+  }
   .count-top-bar {
     flex-wrap: wrap;
   }

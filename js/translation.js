@@ -248,7 +248,6 @@ output_editor.on("keyup", ()=>{
 })
 
 function word_count() {
-  debugger
   for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
     document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
   }

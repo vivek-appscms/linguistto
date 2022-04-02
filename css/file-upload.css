@@ -447,6 +447,10 @@ p.settings__description {
   right: -41px;
   z-index: 9;
 }
+.eh-30{
+  text-align: end;
+  padding-right: 30px;
+}
 button.click {
   z-index: 1;
   border: none;
@@ -455,6 +459,10 @@ button.click {
   border-radius: 48px !important;
 }
 @media (max-width: 768px){
+  .eh-30 {
+    text-align: center;
+    padding-right: 0 !important;
+  }
   .settings__image{
     height: 21px;
   }
@@ -605,6 +613,7 @@ ul.details-list li {
 }
 button.convert_button {
   border-width: 3px;
+  text-transform: capitalize;
 }
 .keyword__content {
   background: #fff;
