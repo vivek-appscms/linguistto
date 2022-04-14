@@ -57,7 +57,10 @@
             "لنسخ النص، انقر فوق الزر «نسخ» والصقه في المكان الذي تريده."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ]
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
+    "/js/translator.js"
+   ]
 }

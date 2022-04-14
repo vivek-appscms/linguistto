@@ -1,0 +1,65 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "h1": "Excelente herramienta para transliterar rápidamente texto al español",
+    "h2": "Para escribir palabras de letras en español, ingrese las letras que desea escribir en el campo de cuadro provisto.",
+    "TITLE": "Transliterar texto a español: la mejor herramienta para transliterar fácilmente texto en inglés a español",
+    "META": "Translitera tu texto al español al instante. Esta herramienta en línea gratuita de transliteración de inglés a español le permite copiar el texto transliterado sin ningún requisito de inicio de sesión.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "keywords": "Transliteración del inglés al español en línea",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Completamente seguro",
+            "content": "Cuando utiliza la herramienta en línea de transliteración de inglés a español, las bases de datos que contienen los datos que ingresa no almacenan ni envían su información a ninguna otra fuente. Otra ventaja de usar esta aplicación es que sus datos se mantienen privados y que la calidad de su trabajo no se ve comprometida. Cuando su artículo se transliteró, la herramienta lo protege y lo elimina del sistema. Esto nos permite ofrecer una protección completa a todos nuestros clientes, lo que hace que nuestra herramienta en línea de transliteración de inglés a español sea completamente confiable y sin riesgos para usar en cualquier situación, en cualquier momento del día o de la noche."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Sencillo de usar",
+            "content": "Esta herramienta en línea de transliteración de inglés a español es muy fácil de usar. Para empezar, la interfaz de usuario es clara y directa. No hay necesidad de preguntarse por dónde empezar porque todo está en un solo lugar. Además, nuestra herramienta en línea de transliteración de inglés a español no tiene publicidad, lo que resulta en una mejor experiencia de usuario."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "No hay problemas de compatibilidad.",
+            "content": "Esta herramienta en línea gratuita de transliteración de inglés a español funciona con todos los sistemas operativos y navegadores. La herramienta en línea de transliteración de inglés a español en este sitio web es un servicio basado en la web al que se puede acceder desde cualquier computadora o dispositivo móvil con conexión a Internet. Se admiten Chrome, Safari, Firefox, Microsoft Edge y otros navegadores populares. Como resultado, puede realizar la conversión utilizando la herramienta en línea de transliteración del inglés al español en una computadora de escritorio, un iPad, una tableta o un teléfono móvil, según sus preferencias. No se le pedirá que compre o instale ningún software o complemento adicional en su computadora si utiliza nuestro servicio web para parafrasear sus artículos."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "No hay necesidad de descargas adicionales",
+            "content": "No le pedimos que descargue ni instale ningún software en su computadora o dispositivo móvil para hacer uso de nuestro servicio en línea de transliteración de inglés a español. Nuestra herramienta en línea de transliteración de inglés a español está completamente basada en el navegador, y puede acceder a nuestro sitio web en cualquier momento simplemente colocando la URL de nuestro sitio web en su navegador y utilizando la herramienta según sea necesario."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "No necesitas iniciar sesión nunca",
+            "content": "Nuestra herramienta en línea de transliteración de inglés a español es completamente gratuita y no requiere que nos proporcione ninguna información personal, como su dirección de correo electrónico o contraseña. Nuestro servicio es completamente gratuito. Debido a que nuestra herramienta en línea de transliteración de inglés a español se guarda localmente en su navegador web, no es necesario descargar software ni registrarse en un servicio."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Es totalmente gratuito",
+            "content": "Puede utilizar nuestra herramienta en línea de transliteración de inglés a español en cualquier momento. Nuestro servicio de transliteración de inglés a español es completamente gratuito. No necesita registrarse ni iniciar sesión para utilizar nuestro servicio. Si trabajas lo suficiente, puedes transcribir un número infinito de artículos en un solo día. No hay limitaciones en cuanto a lo que puede hacer. Puedes volver a subir tu contenido tantas veces como quieras. Se pueden transcribir varios párrafos en una sola sesión. Simplemente transliterar el párrafo para determinar cuánto tiempo se tarda en completarse."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/img/typing.png",
+        "heading": "Para usar esta herramienta en línea de transliteración de inglés a español, siga estos pasos:",
+        "steps": [
+            "Abra nuestra herramienta en línea de transliteración de inglés a español",
+            "Con un teclado inglés, escriba sus palabras en español y presione la barra espaciadora; las palabras escritas en inglés se convertirán a español.",
+            "Haz clic en el botón «transliterar».",
+            "Para copiar el texto, haz clic en el botón «Copiar» y pégalo donde quieras."
+        ]
+    },
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],"jsfilepaths":[
+    "/js/translator.js"
+  ]
+}

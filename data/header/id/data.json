@@ -1,0 +1,140 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Alat Lainnya",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Semua alat Paraphrasing",
+                         "url": "/id/all-paraphrase-pages",
+                        "hover": "blue"
+                    },
+                  
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Bahasa Inggris ke Hindi Mengetik",
+                        "url": "/id/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Bahasa Inggris ke Bangla Mengetik",
+                        "url": "/id/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Alat hitung kata",
+                        "url": "/id/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Alat hitung karakter",
+                        "url": "/id/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Penulis Ulang Paragraf",
+                        "url": "/id/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rewriter Teks",
+                        "url": "/id/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Alat Lainnya",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Terjemahan kalimat",
+                        "url": "/id/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Pemeriksa meta dan judul",
+                        "url": "/id/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Generator kata sifat acak",
+                        "url": "/id/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Pemeriksa perbedaan teks",
+                        "url": "/id/text-difference-checker",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Alat Lainnya",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Generator kata benda acak",
+                        "url": "/id/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Generator paragraf acak",
+                        "url": "/id/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Generator huruf acak",
+                        "url": "/id/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Generator kalimat acak",
+                        "url": "/id/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Serp simulator",
+                        "url": "/id/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Jumlah kata situs web",
+                        "url": "/id/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Generator kata acak",
+                        "url": "/id/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

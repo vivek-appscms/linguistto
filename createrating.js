@@ -1,9 +1,17 @@
 const fs = require('fs')
 const axios = require('axios')
+const fsExtra = require("fs-extra")
 const data = fs.readFileSync('./_data/rating/rating.json', {
   encoding: 'utf8',
   flag: 'r',
 })
+// copying _data folder in root/
+
+let source = '_data'
+let destination = 'data'
+fsExtra.copy(source, destination, function (err) {
+  console.log('Copy completed!')
+});
 const parseData = JSON.parse(data)
 const ratingJson = []
 const generateFile = (data) => {

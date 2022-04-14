@@ -66,5 +66,8 @@
     ],
     "csscdns": [
         "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
     ]
 }

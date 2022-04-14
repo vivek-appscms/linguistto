@@ -22,7 +22,7 @@
         <div class="col-md-12 typing-main-div">
             <div class="row col-md-12 d-flex justify-content-center">
                 <div class="col-md-6 eh-30">
-                    <button onclick="inputHandle('transliterateButton')" class="convert_button btn btn-outline-primary">
+                    <button id="btn" class="convert_button btn btn-outline-primary">
                         transliterate
                     </button>
                 </div>
@@ -108,7 +108,7 @@
                                                 title="copy !" onclick="clipboardHandler()" id="copy"><i
                                                     class="fas fa-copy"></i></button></p>
                                     </div>
-                                    <textarea onkeyup="inputHandle()" class="mt-3 transliteration-input"
+                                    <textarea class="mt-3 transliteration-input"
                                         id="input-string"></textarea>
                                 </div>
                             </div>
@@ -135,7 +135,7 @@
                             </div>
                             <div class="keyword-tabs-content">
                                 <table cellspacing="15">
-                                    <tbody id="tbody"></tbody>
+                                    <tbody id="tbody1"></tbody>
                                 </table>
                             </div>
                         </div>
@@ -149,4 +149,12 @@
 <link href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.css' rel='stylesheet'>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/mode/javascript/javascript.js'></script>
-<script src="/js/translator.js" data-language="{{page.language}}"></script>
+<span id="get-value" data-language="{{page.language}}"></span>
+<script>
+    var textarea1 = document.getElementById("input-string");
+    var input_editor;
+    input_editor = CodeMirror.fromTextArea(textarea1, {
+        lineNumbers: true,
+        mode: "text/x-csrc"
+    });
+</script>

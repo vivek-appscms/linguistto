@@ -1,0 +1,88 @@
+{
+    "links": [
+        {
+            "name": "Инструмент перефразирования арабского языка",
+            "url": "/ru/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Китайский инструмент перефразирования",
+            "url": "/ru/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Датский инструмент перефразирования",
+            "url": "/ru/danish-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент перефразирования арабского языка",
+            "url": "/ru/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент перефразирования английского языка",
+            "url": "/ru/paraphrasing-tool"
+        },
+        {
+            "name": "Французский инструмент перефразирования",
+            "url": "/ru/french-paraphrase-tool"
+        },
+        {
+            "name": "Немецкий инструмент перефразирования",
+            "url": "/ru/german-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент перефразирования хинди",
+            "url": "/ru/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Индонезийский инструмент перефразирования",
+            "url": "/ru/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "Итальянский инструмент перефразирования",
+            "url": "/ru/italian-paraphrase-tool"
+        },
+        {
+            "name": "Японский инструмент перефразирования",
+            "url": "/ru/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Корейский инструмент перефразирования",
+            "url": "/ru/korean-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент перефразирования польского языка",
+            "url": "/ru/polish-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент перефразирования португальского языка",
+            "url": "/ru/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Русский инструмент перефразирования",
+            "url": "/ru/russian-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент для перефразирования испанского языка",
+            "url": "/ru/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Шведский инструмент перефразирования",
+            "url": "/ru/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Тайское средство перефразирования",
+            "url": "/ru/thai-paraphrase-tool"
+        },
+        {
+            "name": "Турецкий инструмент перефразирования",
+            "url": "/ru/turkish-paraphrase-tool"
+        },
+        {
+            "name": "Украинский инструмент перефразирования",
+            "url": "/ru/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Инструмент перефразирования вьетнамского языка",
+            "url": "/ru/vietnamese-paraphrase-tool"
+        }
+    ]
+}

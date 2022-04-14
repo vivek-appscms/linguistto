@@ -1,0 +1,118 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Smartest tools for Content writers",
+  "h2": "Multilingual tools for paraphrasing content, sentence translation and transliteration based typing tools.",
+  "TITLE": "Contenttool - Smartest tools for content professionals",
+  "META": "Contenttools.io provides smartest tools for day to day usage by content professionals.",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "features": [
+    {
+      "name": "Paraphrasing tool",
+      "description": "Paraphrasing tool for professionals",
+      "color": "#8080ff",
+      "icon": "/assets/img/paraprashing.svg",
+      "url": "/paraphrasing-tool"
+    },
+    {
+      "name": "German Paraphrase tool",
+      "description": "German Paraphrasing tool for professionals",
+      "color": "#a7a7cd",
+      "icon": "/assets/img/german.svg",
+      "url": "/german-paraphrase-tool"
+    },
+    {
+      "name": "Hindi Paraphrase tool",
+      "description": "Hindi Paraphrasing tool for professionals",
+      "color": "#2c3774",
+      "icon": "/assets/img/hindi.svg",
+      "url": "/hindi-paraphrase-tool"
+    },
+    {
+      "name": "All Paraphrasing tools",
+      "url": "/all-paraphrase-pages",
+      "description": "All Paraphrasing tools for professionals",
+      "color": "#33cccc",
+      "icon": "/assets/img/german.svg"
+    },
+    {
+      "name": "spanish-paraphrase-tool",
+      "description": "Spanish Paraphrasing tool for professionals",
+      "color": "#0e6d6d",
+      "icon": "/assets/img/spanish.svg",
+      "url": "/spanish-paraphrase-tool"
+    },
+    {
+      "name": "Russian Paraphrase tool",
+      "description": "Russian Paraphrasing tool for professionals",
+      "color": "#33cccc",
+      "icon": "/assets/img/rishain.svg",
+      "url": "/russian-paraphrase-tool"
+    },
+    {
+      "name": "Transliteration tool",
+      "description": "English to hindi Typing",
+      "color": "#a7a7cd",
+      "icon": "/assets/img/hindi.svg",
+      "url": "/english-to-hindi-typing"
+    },
+    {
+      "name": "English to bangla Typing",
+      "description": "Online English to bangla Typing",
+      "color": "#33cccc",
+      "icon": "/assets/img/german.svg",
+      "url": "/bangla-transliteration-tool"
+    },
+    {
+      "name": "Word count tool",
+      "description": "Online Word Count Tool",
+      "color": "#4373fc",
+      "icon": "/assets/img/paraprashing.svg ",
+      "url": "/word-count-tool"
+    },
+    {
+      "name": "Character count tool",
+      "description": "Online Character Count Tool",
+      "color": "#0e6d6d",
+      "icon": "/assets/img/paraprashing.svg",
+      "url": "/character-count-tool"
+    },
+    {
+      "name": "Sentence translation",
+      "description": "Online X to Y sentence translation",
+      "color": "#2c3774",
+      "icon": "/assets/img/german.svg",
+      "url": "/sentence-translation"
+    },
+    {
+      "name": "Summary generator",
+      "description": "Best free online summary generator",
+      "color": "#2c3774",
+      "icon": "/assets/summary.svg",
+      "url": "/summary-generator"
+  },
+    {
+      "name": "Paragraph Rewriter",
+      "description": "online paragraph rewriter for quality content",
+      "color": "#8080ff",
+      "icon": "/assets/images/rewriting.svg",
+      "url": "/paragraph-rewriter"
+    },
+    {
+      "name": "Text Rewriter",
+      "description": "Excellent text rewriter tool",
+      "color": "#0e6d6d",
+      "icon": "/assets/images/rewriting.svg",
+      "url": "/text-rewriter"
+    },
+    {
+      "name": "Typing pages",
+      "description": "Excellent Typing tools",
+      "color": "#a7a7cd",
+      "icon": "/img/typing.svg",
+      "url": "/all-typing-pages"
+    }
+  ]
+}

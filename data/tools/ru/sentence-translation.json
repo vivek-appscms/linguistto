@@ -1,0 +1,15 @@
+{
+    "Language": "Русский",
+    "htmlLangAtt": "ru",
+    "h1": "Список переводов",
+    "h2": "",
+    "TITLE": "Contenttool — самые умные инструменты для профессионалов в области контента",
+    "META": "Считайте слова в скопированном тексте или в качестве текста. Получайте мгновенные и точные результаты",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

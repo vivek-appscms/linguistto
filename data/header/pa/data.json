@@ -1,0 +1,139 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "ਹੋਰ ਸੰਦ",
+                "links": [
+                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਹਿੰਦੀ ਟਾਈਪਿੰਗ ਲਈ ਅੰਗਰੇਜ਼ੀ",
+                        "url": "/pa/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਪੰਜਾਬੀ ਟਾਈਪਿੰਗ ਲਈ ਅੰਗਰੇਜ਼ੀ",
+                        "url": "/pa/bangla-transliteration-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "ਹੋਰ ਸੰਦ",
+                "links": [
+                    {
+                        "name": "ਟਾਈਪਿੰਗ ਪੰਨੇ",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/pa/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਵਾਕ ਅਨੁਵਾਦ",
+                        "url": "/pa/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਮੈਟਾ ਅਤੇ ਸਿਰਲੇਖ ਜਾਂਚਕਰਤਾ",
+                        "url": "/pa/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਰੈਂਡਮ ਵਿਸ਼ੇਸ਼ਣ ਜਨਰੇਟਰ",
+                        "url": "/pa/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਟੈਕਸਟ ਫਰਕ ਜਾਂਚਕਰਤਾ",
+                        "url": "/pa/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਸ਼ਬਦ ਗਿਣਤੀ ਸੰਦ ਹੈ",
+                        "url": "/pa/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਅੱਖਰ ਗਿਣਤੀ ਸੰਦ ਹੈ",
+                        "url": "/pa/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਪੈਰਾ ਰੀਰਾਈਟਰ",
+                        "url": "/pa/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਪਾਠ ਰੀਰਾਈਟਰ",
+                        "url": "/pa/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "ਹੋਰ ਸੰਦ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਬੇਤਰਤੀਬੇ ਨਾਮ ਜਰਨੇਟਰ",
+                        "url": "/pa/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਬੇਤਰਤੀਬੇ ਪੈਰਾ ਜਰਨੇਟਰ",
+                        "url": "/pa/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਬੇਤਰਤੀਬੇ ਪੱਤਰ ਤਿਆਰ ਕਰਨ ਵਾਲਾ",
+                        "url": "/pa/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਬੇਤਰਤੀਬੇ ਵਾਕ ਜਨਰੇਟਰ",
+                        "url": "/pa/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਸਰਪ ਸਿਮੂਲੇਟਰ",
+                        "url": "/pa/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਵੈੱਬਸਾਈਟ ਸ਼ਬਦ ਦੀ ਗਿਣਤੀ",
+                        "url": "/pa/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ਬੇਤਰਤੀਬੇ ਸ਼ਬਦ ਜਨਰੇਟਰ",
+                        "url": "/pa/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "ਬਲੌਗ",
+            "url": "/blog"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "Om",
+            "url": "/about"
+        },
+        {
+            "name": "Vilkår og betingelser",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Hjælp",
+            "url": "/help"
+        },
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Alle omskrivning værktøjer",
+            "url": "/da/all-paraphrase-pages"
+        },
+        {
+            "name": "Værktøjet Transliteration",
+            "url": "/da/english-to-hindi-typing "
+        },
+        {
+            "name": "Indtastning af sider",
+            "url": "/da/all-typing-pages"
+        },
+        {
+            "name": "Engelsk to bangla Typing",
+            "url": "/da/bangla-transliteration-tool"
+        },
+        {
+            "name": "Værktøjet Word tæller",
+            "url": "/da/word-count-tool"
+        },
+        {
+            "name": "Værktøjet Tæller",
+            "url": "/da/character-count-tool"
+        },
+        {
+            "name": "Sætning oversættelse",
+            "url": "/da/sentence-translation"
+        },
+        {
+            "name": "Meta og titel checker",
+            "url": "/da/meta-and-title-checker"
+        },
+        {
+            "name": "Tilfældig adjektiv generator",
+            "url": "/da/random-adjective-generator"
+        },
+        {
+            "name": "Tekst forskel checker",
+            "url": "/da/text-difference-checker"
+        },
+        {
+            "name": "Tilfældig navneord generator",
+            "url": "/da/random-noun-generator"
+        },
+        {
+            "name": "Tilfældig afsnit generator",
+            "url": "/da/random-paragraph-generator"
+        },
+        {
+            "name": "Tilfældig bogstav generator",
+            "url": "/da/random-letter-generator"
+        },
+        {
+            "name": "Tilfældig sætning generator",
+            "url": "/da/random-sentence-generator"
+        },
+        {
+            "name": "Serp simulator",
+            "url": "/da/serp-simulator"
+        },
+        {
+            "name": "Hjemmeside ord tæller",
+            "url": "/da/website-word-count"
+        },
+        {
+            "name": "Tilfældig ordgenerator",
+            "url": "/da/random-word-generator"
+        },
+        {
+            "name": "Afsnit brænder",
+            "url": "/da/paragraph-rewriter"
+        },
+        {
+            "name": "Tekst brænder",
+            "url": "/da/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Vilkår og betingelser",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Privatlivspolitik",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Kontakt os",
+            "url": "/contact"
+        }
+    ]
+}

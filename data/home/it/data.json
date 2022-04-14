@@ -1,0 +1,118 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "h1": "Gli strumenti più intelligenti per gli scrittori di contenuti",
+    "h2": "Strumenti multilingue per parafrasare contenuti, strumenti di digitazione basati sulla traduzione di frasi e sulla traslitterazione.",
+    "TITLE": "Contenttool: gli strumenti più intelligenti per i professionisti dei contenuti",
+    "META": "ContentTools.io fornisce gli strumenti più intelligenti per l'uso quotidiano da parte dei professionisti dei contenuti.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "Strumento parafrasi",
+            "description": "Strumento di parafrasi per professionisti",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/it/paraphrasing-tool"
+        },
+        {
+            "name": "Strumento parafrasi tedesco",
+            "description": "Strumento di parafrasi tedesco per professionisti",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/it/german-paraphrase-tool"
+        },
+        {
+            "name": "Strumento parafrasi hindi",
+            "description": "Strumento di parafrasi in hindi per professionisti",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/it/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Tutti gli strumenti per parafrasi",
+            "url": "/it/all-paraphrase-pages",
+            "description": "Tutti gli strumenti di parafrasi per professionisti",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
+            "name": "strumento-parafrasi spagnolo",
+            "description": "Strumento di parafrasi in spagnolo per professionisti",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/it/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Strumento Parafrasi russo",
+            "description": "Strumento di parafrasi russo per professionisti",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/it/russian-paraphrase-tool"
+        },
+        {
+            "name": "Strumento di traslitterazione",
+            "description": "Digitazione da inglese a hindi",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/it/english-to-hindi-typing"
+        },
+        {
+            "name": "Dattilografia da inglese a beng",
+            "description": "Dattilografia online da inglese a beng",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/it/bangla-transliteration-tool"
+        },
+        {
+            "name": "Strumento di conteggio delle parole",
+            "description": "Strumento di conteggio parole online",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg ",
+            "url": "/it/word-count-tool"
+        },
+        {
+            "name": "Strumento conteggio caratteri",
+            "description": "Strumento di conteggio dei caratteri online",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/it/character-count-tool"
+        },
+        {
+            "name": "Traduzione di frasi",
+            "description": "Online X to Y traduzione frasi",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/it/sentence-translation"
+        },
+        {
+            "name": "Generatore di sommari",
+            "description": "Il miglior generatore di riepilogo online gratuito",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/it/summary-generator"
+        },
+        {
+            "name": "Paragrafo Rewriter",
+            "description": "riscrittura di paragrafi online per contenuti di qualità",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/it/paragraph-rewriter"
+        },
+        {
+            "name": "Testo Rewriter",
+            "description": "Ottimo strumento di riscrittura del testo",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/it/text-rewriter"
+        },
+        {
+            "name": "Digitazione di pagine",
+            "description": "Ottimo strumento di digitazione",
+            "color": "#a7a7cd",
+            "icon": "/img/typing.svg",
+            "url": "/it/all-typing-pages"
+        }
+    ]
+}

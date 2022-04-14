@@ -1,0 +1,219 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "Tungkol",
+            "url": "/about"
+        },
+        {
+            "name": "Mga tuntunin at kundisyon",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Tulong",
+            "url": "/help"
+        },
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Paraphrasing tool",
+            "url": "/tl/paraphrasing-tool"
+        },
+        {
+            "name": "Aleman Paraphrase tool",
+            "url": "/tl/german-paraphrase-tool"
+        },
+        {
+            "name": "Hindi Paraphrase tool",
+            "url": "/tl/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Russian Paraphrase tool",
+            "url": "/tl/russian-paraphrase-tool"
+        },
+        {
+            "name": "Espanyol Paraphrase tool",
+            "url": "/tl/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Korean Paraphrase tool",
+            "url": "/tl/korean-paraphrase-tool"
+        },
+        {
+            "name": "Danish Paraphrase tool",
+            "url": "/tl/danish-paraphrase-tool"
+        },
+        {
+            "name": "Italyano Paraphrase tool",
+            "url": "/tl/italian-paraphrase-tool"
+        },
+        {
+            "name": "Polish Paraphrase tool",
+            "url": "/tl/polish-paraphrase-tool"
+        },
+        {
+            "name": "Swedish Paraphrase tool",
+            "url": "/tl/swedish-paraphrase-tool"
+        },
+        {
+            "name": "Thai-paraphrase-tool",
+            "url": "/tl/thai-paraphrase-tool"
+        },
+        {
+            "name": "Hapon-paraphrase-tool",
+            "url": "/tl/japanese-paraphrase-tool"
+        },
+        {
+            "name": "Arabic-paraphrase-tool",
+            "url": "/tl/arabic-paraphrase-tool"
+        },
+        {
+            "name": "Ukranian-paraphrase-tool",
+            "url": "/tl/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "Chinese-paraphrase-tool",
+            "url": "/tl/chinese-paraphrase-tool"
+        },
+        {
+            "name": "Indonesian-paraphrase-tool",
+            "url": "/tl/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "Vietnamese-paraphrase-tool",
+            "url": "/tl/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "French-paraphrase-tool",
+            "url": "/tl/french-paraphrase-tool"
+        },
+        {
+            "name": "Olandes - paraphrase-tool",
+            "url": "/tl/dutch-paraphrase-tool"
+        },
+        {
+            "name": "Portuges - Paraphrase-tool",
+            "url": "/tl/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "Kagamitang transliterasyon",
+            "url": "/tl/english-to-hindi-typing "
+        },
+        {
+            "name": "Pag-type ng mga pahina",
+            "url": "/tl/all-typing-pages"
+        },
+        {
+            "name": "Tagalog to bangla Typing",
+            "url": "/tl/bangla-transliteration-tool"
+        },
+        {
+            "name": "Tool sa bilang ng salita",
+            "url": "/tl/word-count-tool"
+        },
+        {
+            "name": "Tool ng bilang ng character",
+            "url": "/tl/character-count-tool"
+        },
+        {
+            "name": "Pagsasalin ng pangungusap",
+            "url": "/tl/sentence-translation"
+        },
+        {
+            "name": "Checker ng meta at pamagat",
+            "url": "/tl/meta-and-title-checker"
+        },
+        {
+            "name": "Random na pang-uri generator",
+            "url": "/tl/random-adjective-generator"
+        },
+        {
+            "name": "Checker ng pagkakaiba ng teksto",
+            "url": "/tl/text-difference-checker"
+        },
+        {
+            "name": "Random noun generator",
+            "url": "/tl/random-noun-generator"
+        },
+        {
+            "name": "Random talata generator",
+            "url": "/tl/random-paragraph-generator"
+        },
+        {
+            "name": "Random na generator ng titik",
+            "url": "/tl/random-letter-generator"
+        },
+        {
+            "name": "Random na pangungusap generator",
+            "url": "/tl/random-sentence-generator"
+        },
+        {
+            "name": "Serp simulator",
+            "url": "/tl/serp-simulator"
+        },
+        {
+            "name": "Bilang ng salita ng website",
+            "url": "/tl/website-word-count"
+        },
+        {
+            "name": "Random na salitang generator",
+            "url": "/tl/random-word-generator"
+        },
+        {
+            "name": "Rewriter ng Parapo",
+            "url": "/tl/paragraph-rewriter"
+        },
+        {
+            "name": "Teksto Rewriter",
+            "url": "/tl/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Mga tuntunin at kundisyon",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Patakaran sa Privacy",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Makipag-ugnay sa Amin",
+            "url": "/contact"
+        }
+    ]
+}

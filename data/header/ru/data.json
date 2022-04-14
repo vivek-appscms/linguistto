@@ -1,0 +1,140 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Другие инструменты",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Все инструменты перефразирования",
+                         "url": "/ru/all-paraphrase-pages",
+                        "hover": "blue"
+                    },
+                  
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Набор текста с английского на хинди",
+                        "url": "/ru/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Набирать текст с английского на бангла",
+                        "url": "/ru/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                  
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Инструмент подсчета слов",
+                        "url": "/ru/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Инструмент подсчета символов",
+                        "url": "/ru/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Переписатель абзацев",
+                        "url": "/ru/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Рерайтер текста",
+                        "url": "/ru/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Другие инструменты",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Перевод предложений",
+                        "url": "/ru/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Мета и проверка заголовков",
+                        "url": "/ru/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор случайных прилагательных",
+                        "url": "/ru/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Проверка различий в тексте",
+                        "url": "/ru/text-difference-checker",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Другие инструменты",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор случайных существительных",
+                        "url": "/ru/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор случайных абзацев",
+                        "url": "/ru/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор случайных писем",
+                        "url": "/ru/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор случайных предложений",
+                        "url": "/ru/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Симулятор поисковой выдачи",
+                        "url": "/ru/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Количество слов на сайте",
+                        "url": "/ru/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор случайных слов",
+                        "url": "/ru/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Блог",
+            "url": "/blog"
+        }
+    ]
+}
