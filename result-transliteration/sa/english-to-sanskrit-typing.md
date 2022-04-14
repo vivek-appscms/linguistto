@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-sanskrit-typing
 translatein: sanskrit
 language: sa

@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: devanagari-to-english-typing
 translatein: devanagari
 language: hi

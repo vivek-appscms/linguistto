@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-marathi-typing
 translatein: marathi
 language: mr

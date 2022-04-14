@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-bangla-typing
 folderName : transliteration
 translatein: bangla

@@ -1,5 +1,5 @@
 <!-- --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-german-typing
 translatein: german
 language: de

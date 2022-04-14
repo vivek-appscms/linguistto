@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-telugu-typing
 translatein: telugu
 language: te

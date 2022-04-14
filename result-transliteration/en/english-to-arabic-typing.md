@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-arabic-typing
 translatein: arabic
 language: ar

@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-kannada-typing
 translatein: kannada
 language: kn

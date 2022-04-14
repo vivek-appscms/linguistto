@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-gujarati-typing
 translatein: gujarati
 language: gu

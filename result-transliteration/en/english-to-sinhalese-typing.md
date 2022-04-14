@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-sinhalese-typing
 translatein: sinhalese
 language: si

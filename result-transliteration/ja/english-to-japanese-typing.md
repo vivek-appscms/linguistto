@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-japanese-typing
 translatein: japanese
 language: ja

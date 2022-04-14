@@ -1,5 +1,5 @@
 <!-- --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-french-typing
 translatein: french
 language: fr

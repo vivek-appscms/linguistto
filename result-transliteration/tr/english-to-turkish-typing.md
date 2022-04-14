@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-turkish-typing
 translatein: turkish
 language: tr

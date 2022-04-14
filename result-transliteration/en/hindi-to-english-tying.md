@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: hindi-to-english-typing
 translatein: hindi
 language: hi

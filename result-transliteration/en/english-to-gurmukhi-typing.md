@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-gurmukhi-typing
 translatein: gurmukhi
 language: pa

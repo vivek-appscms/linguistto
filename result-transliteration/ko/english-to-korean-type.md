@@ -1,5 +1,5 @@
 <!-- --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-korean-typing
 translatein: korean
 language: ko

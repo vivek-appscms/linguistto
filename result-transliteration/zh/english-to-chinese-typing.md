@@ -1,5 +1,5 @@
 <!-- --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-chinese-typing
 translatein: chinese
 language: zh

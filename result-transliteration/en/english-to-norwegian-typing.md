@@ -1,5 +1,5 @@
 <!-- --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-norwegian-typing
 translatein: norwegian
 language: no

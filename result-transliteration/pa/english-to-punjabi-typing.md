@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-punjabi-typing
 translatein: punjabi
 language: pa

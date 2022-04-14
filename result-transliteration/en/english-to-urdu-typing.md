@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-urdu-typing
 translatein: urdu
 language: ur

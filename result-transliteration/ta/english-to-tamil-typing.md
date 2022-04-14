@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-tamil-typing
 translatein: tamil
 language: ta

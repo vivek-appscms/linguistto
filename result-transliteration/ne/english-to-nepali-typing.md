@@ -1,5 +1,5 @@
 --- 
-layout: home 
+layout: homeResultPage 
 fileName: english-to-nepali-typing
 translatein: nepali
 language: ne
