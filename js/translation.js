@@ -8,7 +8,7 @@ function translatecontentNext(){
     console.error("failed")
   } else {
     localStorage.setItem('translation_content', input_editor.getValue());
-    window.location = window.location.href  + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
+    window.location = window.location.href + "/" + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
   }
 }
 

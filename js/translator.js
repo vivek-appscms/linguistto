@@ -63,7 +63,7 @@ function font_size_fun(size){
   }
 document.getElementById("clear_button").addEventListener("click", ()=>{
 	input_editor.setValue('')
-	document.getElementById("tbody1").innerHTML=""
+	document.getElementById("tbody").innerHTML=""
 	document.getElementById("wordCount").innerHTML=0
 	document.getElementById("characterCount").innerHTML=0
 	document.getElementById("sentenceCount").innerHTML=0
@@ -124,11 +124,11 @@ var input = input_editor,
 	for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
 	  document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
 	}
-	document.getElementById("tbody1").innerHTML = "";
+	document.getElementById("tbody").innerHTML = "";
 	let counts = [];
 	let keys = [];
 	var wordcount = [];
-	var tbody = document.getElementById("tbody1");
+	var tbody = document.getElementById("tbody");
 	var wordcount = input_editor.getValue();
 	var token = wordcount.split(" ");
 	for (let i = 0; i < token.length; i++) {
@@ -170,11 +170,11 @@ var input = input_editor,
 ///////
 function word_count(){
 	document.getElementsByClassName("keyword__placeholder-text")[0].style.display="none"
-	document.getElementById("tbody1").innerHTML = ''
+	document.getElementById("tbody").innerHTML = ''
 	let counts = []
 	let keys = []
 	var wordcount = [];
-	var tbody = document.getElementById("tbody1");
+	var tbody = document.getElementById("tbody");
 	var wordcount = input_editor.getValue();
 	var token = wordcount.split(' ');
 	for (let i = 0; i < token.length; i++) {
