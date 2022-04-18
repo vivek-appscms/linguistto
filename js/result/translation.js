@@ -1,7 +1,5 @@
 var strOutput = []
 var input_editor_contnet = localStorage.getItem('translation_content');
-
-console.log(localStorage.getItem('translation_content'))
 const getScript = document.getElementById("get-value")
 const from = getScript.dataset.from
 const to = getScript.dataset.to
@@ -21,6 +19,22 @@ async function getapi(url) {
   return strOutput
 }
 input_editor.setValue(input_editor_contnet);
+async function translatecontent(){
+  strOutput = []
+  var inputString = input_editor.getValue();
+  if (inputString) {
+    var outputStr = await translateFunction(inputString, from, to)
+    var filnal_cotnent = outputStr.replace(
+      /['",]+/g,
+      ''
+    )
+    output_editor.setValue(filnal_cotnent);
+    paraprashstyle();
+    word_count();
+  } else {
+    console.clear()
+  }
+}
 async function getInputValue() {
   strOutput = []
   var inputString = input_editor_contnet;
@@ -54,6 +68,7 @@ async function translateFunction(string, sl, tl) {
 }
 
 getInputValue();
+
 //////////////////
 // clipboard
 function clipboardHandler() {

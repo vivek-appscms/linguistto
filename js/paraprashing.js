@@ -1,19 +1,16 @@
-const button_ = document.getElementById('btn')
 let script_ = document.currentScript
 let fileName_ = script_.dataset.filename
 const params_ = new URLSearchParams(window.location.search)
 
-button_.addEventListener("click", (e) => {
-  e.preventDefault()
+
+function getInputValueNext(e){
   if (input_editor.getValue() == '') {
     console.error("failed")
   } else {
     localStorage.setItem('paraprash_content', input_editor.getValue().replace(/\/$/, ""));
-    window.location = window.location.href + "/" + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
+    window.location = window.location.href  + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
   }
-})
-
-
+}
 
 
 function active_buttonkk(active_button){

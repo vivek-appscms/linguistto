@@ -1,17 +1,16 @@
-const button_ = document.getElementById('btn')
+
 let script_ = document.currentScript
 let fileName_ = script_.dataset.filename
 const params_ = new URLSearchParams(window.location.search)
 
-button_.addEventListener("click", (e) => {
-  e.preventDefault()
+function translatecontentNext(){
   if (input_editor.getValue() == '') {
     console.error("failed")
   } else {
     localStorage.setItem('translation_content', input_editor.getValue());
-    window.location = window.location.href  + "/" + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
+    window.location = window.location.href  + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
   }
-})
+}
 
 
 

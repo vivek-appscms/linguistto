@@ -45,6 +45,44 @@ async function getInputValue() {
   paraphraseControler(inputString, languageList);
 } 
 
+function handleparaprashing(){
+  let languageList = [
+    "sq",
+    "am",
+    "ar",
+    "zh",
+    "da",
+    "gu",
+    "hy",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "la",
+    "ms",
+    "ne",
+    "pa",
+    "sq",
+    "ta",
+    "te",
+    "zh",
+    "ur",
+  ];
+  let inputString = input_editor.getValue()
+
+  for (let i = languageList.length - 1; i > 0; i--) {
+    const randomNum = Math.floor(Math.random() * i);
+    const temp = languageList[i];
+    languageList[i] = languageList[randomNum];
+    languageList[randomNum] = temp;
+  }
+
+  languageList[0] = initaillanguage;
+  languageList[5] = initaillanguage;
+  languageList[10] = initaillanguage;
+  languageList[15] = initaillanguage;
+  paraphraseControler(inputString, languageList);  
+}
 //control paraphrase
 async function paraphraseControler(string, lang) {
   let paraphrase = string;

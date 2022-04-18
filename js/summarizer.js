@@ -10,6 +10,6 @@ button_.addEventListener("click", (e) => {
   } else {
     localStorage.setItem('summary_content', document.getElementById("input").value);
     localStorage.setItem('summary_title_content', document.getElementById("title").value);
-    window.location = window.location.href  + "/" + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
+    window.location = window.location.href  + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
   }
 })

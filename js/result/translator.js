@@ -15,7 +15,6 @@ function getapi() {
       var relt = result[1][0][1][0];
       input_editor.setValue(relt);
     });
-  console.log(input_editor.getValue());
 }
 getapi();
 function handleInput() {
@@ -60,11 +59,11 @@ function handleInput() {
       a
     ].style.display = "none";
   }
-  document.getElementById("tbody1").innerHTML = "";
+  document.getElementById("tbody").innerHTML = "";
   let counts = [];
   let keys = [];
   var wordcount = [];
-  var tbody = document.getElementById("tbody1");
+  var tbody = document.getElementById("tbody");
   var wordcount = input_editor.getValue();
   var token = wordcount.split(" ");
   for (let i = 0; i < token.length; i++) {
@@ -101,6 +100,20 @@ function handleInput() {
       console.log(keys);
     }
   }
+}
+function transliterate_content(){
+  let inputString = input_editor.getValue();
+  fetch(
+    `https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${lang_}`
+  )
+    .then((res) => res.json())
+    .then((result) => {
+      var relt = result[1][0][1][0];
+      input_editor.setValue(relt);
+    });
+  setTimeout(() => {
+    handleInput();
+  }, 1000);
 }
 setTimeout(() => {
   handleInput();

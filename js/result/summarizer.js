@@ -10,11 +10,28 @@ $('#title').val(title)
                         returnCount: 3
                     });
                 var summary = summarizer.summarize(title, value);
+                if(summary.length !=0){
                 summary.forEach(function (sentence) {
-                    $(".teasers").append("<li>" + sentence + "</li>");
+                    $(".teasers").append("<li>" + sentence + "</li>");    
                 });
+            }else{
+                $(".teasers").append("<p style='color:#ffc107;text-align: start;'>please add at least one sentence here</p>");
+            }
                 $(".title").text(title);
         });
+        function split(){
+            $(".teasers").html("");
+            var summarizer = new JsSummarize();
+            var summary = summarizer.summarize(title, $('#input').val());
+            if(summary.length !=0){
+            summary.forEach(function (sentence) {
+                $(".teasers").append("<li>" + sentence + "</li>");    
+            });
+        }else{
+            $(".teasers").append("<p style='color:#ffc107;text-align: start;'>please add at least one sentence here</p>");
+        }
+            $(".title").text(title);
+        }
     // clipboard
     let copy_btn = document.querySelector('.tooltiptext')
     function CopyContent() {
@@ -22,6 +39,7 @@ $('#title').val(title)
         navigator.clipboard.writeText(Copy_value.textContent);
         copy_btn.innerHTML = "copied!";
     };
+   
     setInterval(() => {
         copy_btn.innerHTML = "copy";
     }, 10000);
