@@ -1,0 +1,131 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "Giới thiệu",
+            "url": "/about"
+        },
+        {
+            "name": "Điều khoản và điều kiện",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Trợ giúp",
+            "url": "/help"
+        },
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Tất cả các công cụ Paraphrasing",
+            "url": "/vi/all-paraphrase-pages"
+        },
+        {
+            "name": "Công cụ đếm từ",
+            "url": "/vi/word-count-tool"
+        },
+        {
+            "name": "Công cụ đếm ký tự",
+            "url": "/vi/character-count-tool"
+        },
+        {
+            "name": "Bản dịch câu",
+            "url": "/vi/sentence-translation"
+        },
+        {
+            "name": "Meta và trình kiểm tra tiêu đề",
+            "url": "/vi/meta-and-title-checker"
+        },
+        {
+            "name": "Trình tạo tính từ ngẫu nhiên",
+            "url": "/vi/random-adjective-generator"
+        },
+        {
+            "name": "Trình kiểm tra sự khác biệt văn bản",
+            "url": "/vi/text-difference-checker"
+        },
+        {
+            "name": "Random noun",
+            "url": "/vi/random-noun-generator"
+        },
+        {
+            "name": "Trình tạo đoạn ngẫu nhiên",
+            "url": "/vi/random-paragraph-generator"
+        },
+        {
+            "name": "Trình tạo thư ngẫu nhiên",
+            "url": "/vi/random-letter-generator"
+        },
+        {
+            "name": "Trình tạo câu ngẫu nhiên",
+            "url": "/vi/random-sentence-generator"
+        },
+        {
+            "name": "Giả lập Serp",
+            "url": "/vi/serp-simulator"
+        },
+        {
+            "name": "Đếm từ trang web",
+            "url": "/vi/website-word-count"
+        },
+        {
+            "name": "Trình tạo từ ngẫu nhiên",
+            "url": "/vi/random-word-generator"
+        },
+        {
+            "name": "Viết lại đoạn văn",
+            "url": "/vi/paragraph-rewriter"
+        },
+        {
+            "name": "Văn bản Rewriter",
+            "url": "/vi/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Điều khoản và điều kiện",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Chính sách quyền riêng tư",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Liên hệ với chúng tôi",
+            "url": "/contact"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "ਬਾਰੇ",
+            "url": "/about"
+        },
+        {
+            "name": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ਮਦਦ",
+            "url": "/help"
+        },
+        {
+            "name": "ਬਲੌਗ",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+     
+        {
+            "name": "ਲਿਪੀ ਸੰਦ",
+            "url": "/pa/english-to-hindi-typing "
+        },
+        {
+            "name": "ਟਾਈਪਿੰਗ ਪੰਨੇ",
+            "url": "/pa/all-typing-pages"
+        },
+        {
+            "name": "ਪੰਜਾਬੀ ਟਾਈਪਿੰਗ ਲਈ ਅੰਗਰੇਜ਼ੀ",
+            "url": "/pa/bangla-transliteration-tool"
+        },
+        {
+            "name": "ਸ਼ਬਦ ਗਿਣਤੀ ਸੰਦ ਹੈ",
+            "url": "/pa/word-count-tool"
+        },
+        {
+            "name": "ਅੱਖਰ ਗਿਣਤੀ ਸੰਦ ਹੈ",
+            "url": "/pa/character-count-tool"
+        },
+        {
+            "name": "ਵਾਕ ਅਨੁਵਾਦ",
+            "url": "/pa/sentence-translation"
+        },
+        {
+            "name": "ਮੈਟਾ ਅਤੇ ਸਿਰਲੇਖ ਜਾਂਚਕਰਤਾ",
+            "url": "/pa/meta-and-title-checker"
+        },
+        {
+            "name": "ਰੈਂਡਮ ਵਿਸ਼ੇਸ਼ਣ ਜਨਰੇਟਰ",
+            "url": "/pa/random-adjective-generator"
+        },
+        {
+            "name": "ਟੈਕਸਟ ਫਰਕ ਜਾਂਚਕਰਤਾ",
+            "url": "/pa/text-difference-checker"
+        },
+        {
+            "name": "ਬੇਤਰਤੀਬੇ ਨਾਮ ਜਰਨੇਟਰ",
+            "url": "/pa/random-noun-generator"
+        },
+        {
+            "name": "ਬੇਤਰਤੀਬੇ ਪੈਰਾ ਜਰਨੇਟਰ",
+            "url": "/pa/random-paragraph-generator"
+        },
+        {
+            "name": "ਬੇਤਰਤੀਬੇ ਪੱਤਰ ਤਿਆਰ ਕਰਨ ਵਾਲਾ",
+            "url": "/pa/random-letter-generator"
+        },
+        {
+            "name": "ਬੇਤਰਤੀਬੇ ਵਾਕ ਜਨਰੇਟਰ",
+            "url": "/pa/random-sentence-generator"
+        },
+        {
+            "name": "ਸਰਪ ਸਿਮੂਲੇਟਰ",
+            "url": "/pa/serp-simulator"
+        },
+        {
+            "name": "ਵੈੱਬਸਾਈਟ ਸ਼ਬਦ ਦੀ ਗਿਣਤੀ",
+            "url": "/pa/website-word-count"
+        },
+        {
+            "name": "ਬੇਤਰਤੀਬੇ ਸ਼ਬਦ ਜਨਰੇਟਰ",
+            "url": "/pa/random-word-generator"
+        },
+        {
+            "name": "ਪੈਰਾ ਰੀਰਾਈਟਰ",
+            "url": "/pa/paragraph-rewriter"
+        },
+        {
+            "name": "ਪਾਠ ਰੀਰਾਈਟਰ",
+            "url": "/pa/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "ਏਬੀਸੀ"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "ਏਬੀਸੀ"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "ਏਬੀਸੀ"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "ਏਬੀਸੀ"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "ਏਬੀਸੀ"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ਪਰਾਈਵੇਟ ਨੀਤੀ",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+            "url": "/contact"
+        }
+    ]
+}

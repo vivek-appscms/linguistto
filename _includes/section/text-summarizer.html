@@ -13,7 +13,7 @@
                     <br>
                     <button style="font-size:14px;
                             font-weight:normal; height:30px ; outline:none;
-                            border:none;" id="split">
+                            border:none; background-color: #60a6e9;" id="split">
                         Summarize
                     </button>
                 </div>
@@ -37,33 +37,3 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="/js/lib/tokenizer/tokenizer.js" type="text/javascript"></script>
 <script src="/js/js-summarize.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-    $(window).ready(
-        function () {
-            $('#split').on('click', function () {
-                $(".teasers").html("");
-                var summarizer = new JsSummarize(
-                    {
-                        returnCount: 3
-                    });
-                var summary = summarizer.summarize($('#title').val(), $('#input').val());
-                summary.forEach(function (sentence) {
-                    $(".teasers").append("<li>" + sentence + "</li>");
-                });
-                $(".title").text($("#title").val());
-            });
-
-        });
-    // clipboard
-    let copy_btn = document.querySelector('.tooltiptext')
-    function CopyContent() {
-        var Copy_value = document.getElementById("result");
-        navigator.clipboard.writeText(Copy_value.textContent);
-        copy_btn.innerHTML = "copied!";
-    };
-    setInterval(() => {
-        copy_btn.innerHTML = "copy";
-    }, 1000);
-</script>

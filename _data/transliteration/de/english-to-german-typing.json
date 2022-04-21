@@ -57,7 +57,10 @@
             "Um den Text zu kopieren, klicken Sie auf die Schaltfläche „Kopieren“ und fügen Sie ihn an der gewünschten Stelle ein."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ]
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
+    "/js/translator.js"
+   ]
 }

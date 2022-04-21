@@ -1,69 +1,20 @@
-const getScript = document.currentScript;
-const language = getScript.dataset.language;
+const _getScript = document.getElementById("get-value");
+const language_ = _getScript.dataset.language;
+const button_ = document.getElementById('btn')
+let script_ = document.currentScript
+let fileName_ = script_.dataset.filename
+const params_ = new URLSearchParams(window.location.search)
 
-var textarea1 = document.getElementById("input-string");
-var input_editor;
-input_editor = CodeMirror.fromTextArea(textarea1,{
-  lineNumbers: true,
-  mode: "text/x-csrc"
-});
+button_.addEventListener("click", (e) => {
+  e.preventDefault()
+  if (input_editor.getValue() == '') {
+    console.error("failed")
+  } else {
+    localStorage.setItem('translitration_content', input_editor.getValue());
+    window.location = window.location.href  + "/" + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
+  }
+})
 
-function inputHandle(event) {
-    let inputString = input_editor.getValue();
-
-    if (inputString[inputString.length - 1] == " " || event == "transliterateButton") {
-        fetch(`https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${language}`)
-            .then(res => res.json())
-            .then(result => {
-                  var relt = result[1][0][1][0]
-                input_editor.setValue(relt)
-            })
-    }
-	for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
-		document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
-	  }
-	  document.getElementById("tbody").innerHTML = "";
-	  let counts = [];
-	  let keys = [];
-	  var wordcount = [];
-	  var tbody = document.getElementById("tbody");
-	  var wordcount = input_editor.getValue();
-	  var token = wordcount.split(" ");
-	  for (let i = 0; i < token.length; i++) {
-		var word = token[i].toLowerCase();
-		if (!/\d+/.test(word)) {
-		  if (counts[word] === undefined) {
-			counts[word] = 1;
-			keys.push(word);
-		  } else {
-			counts[word] = counts[word] + 1;
-		  }
-		}
-	  }
-	  console.log(keys);
-	  keys.sort(compare);
-	  function compare(a, b) {
-		var countA = counts[a];
-		var countB = counts[b];
-		return countB - countA;
-	  }
-	  for (let i = 0; i < keys.length; i++) {
-		let key = keys[i];
-		if (!key == "") {
-		  let tr = document.createElement("tr");
-		  let td = document.createElement("td");
-		  let td2 = document.createElement("td");
-  
-		  td.innerHTML = `${key}`;
-		  td2.innerHTML = `${counts[key]}`;
-  
-		  tr.appendChild(td);
-		  tr.appendChild(td2);
-		  tbody.appendChild(tr);
-		  console.log(keys);
-		}
-	  }
-}
 
 
 ////
@@ -131,7 +82,7 @@ var input = input_editor,
     let inputString = input_editor.getValue();
 
     if (inputString[inputString.length - 1] == " " || event == "transliterateButton") {
-        fetch(`https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${language}`)
+        fetch(`https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${language_}`)
             .then(res => res.json())
             .then(result => {
                   var relt = result[1][0][1][0]
@@ -170,6 +121,50 @@ var input = input_editor,
   } else {
     paragraphCount.innerHTML = 0;
   }
+	for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
+	  document.getElementsByClassName("keyword__placeholder-text")[a].style.display = "none";
+	}
+	document.getElementById("tbody").innerHTML = "";
+	let counts = [];
+	let keys = [];
+	var wordcount = [];
+	var tbody = document.getElementById("tbody");
+	var wordcount = input_editor.getValue();
+	var token = wordcount.split(" ");
+	for (let i = 0; i < token.length; i++) {
+	  var word = token[i].toLowerCase();
+	  if (!/\d+/.test(word)) {
+		if (counts[word] === undefined) {
+		  counts[word] = 1;
+		  keys.push(word);
+		} else {
+		  counts[word] = counts[word] + 1;
+		}
+	  }
+	}
+	console.log(keys);
+	keys.sort(compare);
+	function compare(a, b) {
+	  var countA = counts[a];
+	  var countB = counts[b];
+	  return countB - countA;
+	}
+	for (let i = 0; i < keys.length; i++) {
+	  let key = keys[i];
+	  if (!key == "") {
+		let tr = document.createElement("tr");
+		let td = document.createElement("td");
+		let td2 = document.createElement("td");
+
+		td.innerHTML = `${key}`;
+		td2.innerHTML = `${counts[key]}`;
+
+		tr.appendChild(td);
+		tr.appendChild(td2);
+		tbody.appendChild(tr);
+		console.log(keys);
+	  }
+	}
 });
 
 ///////
@@ -217,5 +212,4 @@ function word_count(){
 		console.log(keys)
 	  }
 	}
-
 }

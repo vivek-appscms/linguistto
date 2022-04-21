@@ -57,7 +57,10 @@
             "Para copiar el texto, haz clic en el botón «Copiar» y pégalo donde quieras."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ]
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
+    "/js/translator.js"
+   ]
 }

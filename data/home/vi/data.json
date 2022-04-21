@@ -1,0 +1,118 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "h1": "Công cụ thông minh nhất cho người viết nội dung",
+    "h2": "Các công cụ đa ngôn ngữ để diễn giải nội dung, dịch câu và các công cụ gõ dựa trên phiên âm.",
+    "TITLE": "Contenttool - Công cụ thông minh nhất cho các chuyên gia nội dung",
+    "META": "Contenttools.io cung cấp các công cụ thông minh nhất để sử dụng hàng ngày bởi các chuyên gia nội dung.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "Công cụ Paraphrasing",
+            "description": "Công cụ diễn giải cho các chuyên gia",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/vi/paraphrasing-tool"
+        },
+        {
+            "name": "Công cụ Paraphrase tiếng Đức",
+            "description": "Công cụ Paraphrasing Đức cho các chuyên gia",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/vi/german-paraphrase-tool"
+        },
+        {
+            "name": "Công cụ Paraphrase tiếng Hin-ddi",
+            "description": "Công cụ Paraphrasing tiếng Hin-ddi cho các chuyên gia",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/vi/hindi-paraphrase-tool"
+        },
+        {
+            "name": "All Paraphrasing tools",
+            "url": "/vi/all-paraphrase-pages",
+            "description": "Tất cả các công cụ Paraphrasing cho các chuyên gia",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
+            "name": "Tây Ban Nha-paraphrase-công cụ",
+            "description": "Công cụ diễn giải tiếng Tây Ban Nha cho các chuyên gia",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/vi/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Công cụ Paraphrase Nga",
+            "description": "Công cụ Paraphrasing của Nga cho các chuyên gia",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/vi/russian-paraphrase-tool"
+        },
+        {
+            "name": "Công cụ phiên âm",
+            "description": "Gõ tiếng Anh sang tiếng Hin-ddi",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/vi/english-to-hindi-typing"
+        },
+        {
+            "name": "Gõ tiếng Anh đến bangla",
+            "description": "Trực tuyến tiếng Anh đến bangla Typing",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/vi/bangla-transliteration-tool"
+        },
+        {
+            "name": "Công cụ đếm từ",
+            "description": "Công cụ đếm từ trực tuyến",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg ",
+            "url": "/vi/word-count-tool"
+        },
+        {
+            "name": "Công cụ đếm ký tự",
+            "description": "Công cụ đếm nhân vật trực tuyến",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/vi/character-count-tool"
+        },
+        {
+            "name": "Bản dịch câu",
+            "description": "Dịch câu X sang Y trực tuyến",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/vi/sentence-translation"
+        },
+        {
+            "name": "Máy phát điện tóm tắt",
+            "description": "Trình tạo tóm tắt trực tuyến miễn phí tốt nhất",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/vi/summary-generator"
+        },
+        {
+            "name": "Viết lại đoạn văn",
+            "description": "viết lại đoạn văn trực tuyến cho nội dung chất lượng",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/vi/paragraph-rewriter"
+        },
+        {
+            "name": "Văn bản Rewriter",
+            "description": "Công cụ viết lại văn bản tuyệt vời",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/vi/text-rewriter"
+        },
+        {
+            "name": "Gõ trang",
+            "description": "Công cụ gõ tuyệt vời",
+            "color": "#a7a7cd",
+            "icon": "/img/typing.svg",
+            "url": "/vi/all-typing-pages"
+        }
+    ]
+}

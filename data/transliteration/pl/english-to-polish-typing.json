@@ -1,0 +1,65 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "h1": "Doskonałe narzędzie do szybkiej transliteracji tekstu na język polski",
+    "h2": "Aby wpisać polskie słowa literowe, wprowadź litery, które chcesz wpisać w polu.",
+    "TITLE": "Transliteracja tekstu na język polski - najlepsze narzędzie do łatwej transliteracji tekstu angielskiego na polski",
+    "META": "Natychmiast prześlij swój tekst do języka polskiego. To bezpłatne narzędzie online transliteracji angielsko-polskiej pozwala na kopiowanie tekstu transliterackiego bez konieczności logowania.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "keywords": "Transliteracja angielsko-polska online",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Całkowicie bezpieczne",
+            "content": "W przypadku korzystania z narzędzia online transliteracji angielsko-polskiej bazy danych, które zawierają wprowadzone dane, nie przechowują ani nie wysyłają Twoich informacji do żadnego innego źródła. Kolejną zaletą korzystania z tej aplikacji jest to, że Twoje dane są prywatne i że jakość pracy nie jest zagrożona. Gdy Twój artykuł jest transliterowany, narzędzie zabezpiecza go i usuwa z systemu. Dzięki temu możemy zapewnić pełną ochronę wszystkim naszym klientom, dzięki czemu nasze narzędzie online transliteracji angielsko-polskiej jest całkowicie niezawodne i wolne od ryzyka w każdej sytuacji, o każdej porze dnia i nocy."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Prosty w obsłudze",
+            "content": "To angielskie na polskie narzędzie transliteracji online jest bardzo łatwe w użyciu. Na początek interfejs użytkownika jest jasny i prosty. Nie ma potrzeby pytać od czego zacząć, ponieważ wszystko jest w jednym miejscu. Ponadto nasze narzędzie online do transliteracji angielsko-polskiej jest wolne od reklam, co daje lepsze wrażenia użytkownika."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Nie ma problemów ze zgodnością.",
+            "content": "To darmowe narzędzie online transliteracji angielsko-polskiej współpracuje ze wszystkimi systemami operacyjnymi i przeglądarkami. Narzędzie online transliteracji angielsko-polskiej na tej stronie internetowej jest usługą internetową, do której można uzyskać dostęp z dowolnego komputera lub urządzenia mobilnego z połączeniem internetowym. Obsługiwane są Chrome, Safari, Firefox, Microsoft Edge i wiele innych popularnych przeglądarek. W rezultacie można przeprowadzić konwersję za pomocą angielskiego na polską transliterację narzędzia online na komputerze stacjonarnym, iPadzie, tablecie lub telefonie komórkowym, w zależności od preferencji. Nie będziesz musiał kupować ani instalować żadnego dodatkowego oprogramowania lub wtyczek na swoim komputerze, jeśli korzystasz z naszej usługi internetowej do parafrazowania swoich artykułów."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Nie ma potrzeby żadnych dodatkowych plików do pobrania",
+            "content": "Nie prosimy o pobieranie ani instalowanie żadnego oprogramowania na Twoim komputerze lub urządzeniu mobilnym w celu skorzystania z naszej usługi online transliteracji angielsko-polskiej. Nasze narzędzie online transliteracji angielsko-polskiej jest całkowicie oparte na przeglądarce i możesz uzyskać dostęp do naszej strony internetowej w każdej chwili, po prostu umieszczając adres URL naszej strony w przeglądarce i korzystając z narzędzia w razie potrzeby."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Nigdy nie potrzebujesz żadnego logowania",
+            "content": "Nasze narzędzie online transliteracji angielsko-polskiej jest całkowicie bezpłatne i nie wymaga od Ciebie podania nam żadnych danych osobowych, takich jak adres e-mail czy hasło. Nasza usługa jest całkowicie bezpłatna. Ponieważ nasze narzędzie online transliteracji angielsko-polskiej jest zapisywane lokalnie w przeglądarce internetowej, nie ma potrzeby pobierania oprogramowania ani zapisywania się do usługi."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "To jest całkowicie za darmo",
+            "content": "Możesz w każdej chwili korzystać z naszego angielskiego na polską transliterację narzędzia online. Nasza usługa transliteracji angielsko-polskiej jest całkowicie darmowa. Nie musisz się rejestrować ani logować, aby korzystać z naszego serwisu. Jeśli pracujesz wystarczająco ciężko, możesz transliterować nieskończoną liczbę artykułów w ciągu jednego dnia. Nie ma ograniczeń co do tego, co możesz zrobić. Możesz ponownie przesyłać swoje treści tyle razy, ile chcesz. Kilka akapitów można transliterować w jednej sesji. Wystarczy przetłumaczyć akapit, aby określić, ile czasu zajmuje jego ukończenie."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/img/typing.png",
+        "heading": "Aby użyć tego angielskiego na polską transliterację narzędzia online, wykonaj następujące kroki:",
+        "steps": [
+            "Otwórz nasze narzędzie online transliteracji angielsko-polskiej",
+            "Za pomocą klawiatury angielskiej wpisz swoje polskie słowa i naciśnij spację, a twoje angielskie wpisane słowa zostaną przekonwertowane na polski.",
+            "Kliknij przycisk „Transliterate”.",
+            "Aby skopiować tekst, kliknij przycisk „Kopiuj” i wklej go tam, gdzie chcesz."
+        ]
+    },
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],"jsfilepaths":[
+    "/js/translator.js"
+  ]
+}

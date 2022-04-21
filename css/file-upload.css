@@ -641,7 +641,7 @@ button.convert_button {
   display: flex;
   justify-content: center;
   padding-top: 20px;
-  height: 448px;
+  min-height: 448px;
 }
 td {
   padding: 0 44px;

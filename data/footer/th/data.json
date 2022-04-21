@@ -1,0 +1,143 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "เกี่ยวกับ",
+            "url": "/about"
+        },
+        {
+            "name": "ข้อกำหนดและเงื่อนไข",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "ความช่วยเหลือ",
+            "url": "/help"
+        },
+        {
+            "name": "บล็อก",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "เครื่องมือถอดความทั้งหมด",
+            "url": "/th/all-paraphrase-pages"
+        },
+        {
+            "name": "เครื่องมือทับศัพท์",
+            "url": "/th/english-to-hindi-typing "
+        },
+        {
+            "name": "การพิมพ์หน้า",
+            "url": "/th/all-typing-pages"
+        },
+        {
+            "name": "ภาษาอังกฤษไปบางลา พิมพ์ดีด",
+            "url": "/th/bangla-transliteration-tool"
+        },
+        {
+            "name": "เครื่องมือนับคำ",
+            "url": "/th/word-count-tool"
+        },
+        {
+            "name": "เครื่องมือนับอักขระ",
+            "url": "/th/character-count-tool"
+        },
+        {
+            "name": "การแปลประโยค",
+            "url": "/th/sentence-translation"
+        },
+        {
+            "name": "Meta และตัวตรวจสอบชื่อ",
+            "url": "/th/meta-and-title-checker"
+        },
+        {
+            "name": "เครื่องกำเนิดไฟฟ้าคำคุณศัพท์แบบสุ่ม",
+            "url": "/th/random-adjective-generator"
+        },
+        {
+            "name": "ตัวตรวจสอบความแตกต่างของข้อความ",
+            "url": "/th/text-difference-checker"
+        },
+        {
+            "name": "เครื่องกำเนิดคำนามแบบสุ่ม",
+            "url": "/th/random-noun-generator"
+        },
+        {
+            "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
+            "url": "/th/random-paragraph-generator"
+        },
+        {
+            "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
+            "url": "/th/random-letter-generator"
+        },
+        {
+            "name": "เครื่องกำเนิดประโยคแบบสุ่ม",
+            "url": "/th/random-sentence-generator"
+        },
+        {
+            "name": "จำลอง Serp",
+            "url": "/th/serp-simulator"
+        },
+        {
+            "name": "จำนวนคำในเว็บไซต์",
+            "url": "/th/website-word-count"
+        },
+        {
+            "name": "เครื่องกำเนิดคำแบบสุ่ม",
+            "url": "/th/random-word-generator"
+        },
+        {
+            "name": "ย่อหน้า Rewriter",
+            "url": "/th/paragraph-rewriter"
+        },
+        {
+            "name": "เขียนข้อความใหม่",
+            "url": "/th/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "เอบีซี"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "ข้อกำหนดและเงื่อนไข",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "นโยบายความเป็นส่วนตัว",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "ติดต่อเรา",
+            "url": "/contact"
+        }
+    ]
+}

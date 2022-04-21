@@ -1,0 +1,140 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "பற்றி",
+            "url": "/about"
+        },
+        {
+            "name": "விதிமுறைகள் மற்றும் நிபந்தனைகள்",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "உதவி",
+            "url": "/help"
+        },
+        {
+            "name": "வலைப்பதிவு",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+      
+        {
+            "name": "ஒலிபெயர்ப்புக் கருவி",
+            "url": "/ta/english-to-hindi-typing "
+        },
+        {
+            "name": "தட்டச்சு பக்கங்கள்",
+            "url": "/ta/all-typing-pages"
+        },
+        {
+            "name": "பங்களா தட்டச்சு செய்ய ஆங்கிலம்",
+            "url": "/ta/bangla-transliteration-tool"
+        },
+        {
+            "name": "வார்த்தை எண்ணிக்கை கருவி",
+            "url": "/ta/word-count-tool"
+        },
+        {
+            "name": "எழுத்து எண்ணிக்கை கருவி",
+            "url": "/ta/character-count-tool"
+        },
+        {
+            "name": "வாக்கிய மொழிபெயர்ப்பு",
+            "url": "/ta/sentence-translation"
+        },
+        {
+            "name": "மெட்டா மற்றும் தலைப்பு சரிபார்ப்பு",
+            "url": "/ta/meta-and-title-checker"
+        },
+        {
+            "name": "ரேண்டம் உரிச்சொல் ஜெனரேட்டர்",
+            "url": "/ta/random-adjective-generator"
+        },
+        {
+            "name": "உரை வேறுபாடு சரிபார்ப்பு",
+            "url": "/ta/text-difference-checker"
+        },
+        {
+            "name": "ரேண்டம் பெயர்ச்சொல் ஜெனரேட்டர்",
+            "url": "/ta/random-noun-generator"
+        },
+        {
+            "name": "ரேண்டம் பத்தி ஜெனரேட்டர்",
+            "url": "/ta/random-paragraph-generator"
+        },
+        {
+            "name": "சீரற்ற கடிதம் ஜெனரேட்டர்",
+            "url": "/ta/random-letter-generator"
+        },
+        {
+            "name": "ரேண்டம் தண்டனை ஜெனரேட்டர்",
+            "url": "/ta/random-sentence-generator"
+        },
+        {
+            "name": "செர்ப் சிமுலேட்டர்",
+            "url": "/ta/serp-simulator"
+        },
+        {
+            "name": "வலைத்தள சொல் எண்ணிக்கை",
+            "url": "/ta/website-word-count"
+        },
+        {
+            "name": "ரேண்டம் சொல் ஜெனரேட்டர்",
+            "url": "/ta/random-word-generator"
+        },
+        {
+            "name": "பத்தி ரீரைட்டர்",
+            "url": "/ta/paragraph-rewriter"
+        },
+        {
+            "name": "உரை ரீரைட்டர்",
+            "url": "/ta/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "ஏபிசி"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "ஏபிசி"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "ஏபிசி"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "ஏபிசி"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "ஏபிசி"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "விதிமுறைகள் மற்றும் நிபந்தனைகள்",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "தனியுரிமைக் கொள்கை",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "எங்களை தொடர்பு",
+            "url": "/contact"
+        }
+    ]
+}

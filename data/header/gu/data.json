@@ -1,0 +1,252 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "ઉપમા સાધન",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "હિન્દી પેરાફ્રેઝ ટૂલ",
+                        "url": "/gu/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "રશિયન પેરાફ્રેઝ ટૂલ",
+                        "url": "/gu/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "સ્પેનિશ પેરાફ્રેઝ ટૂલ",
+                        "url": "/gu/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ઇંગલિશ માટે હિન્દી ટાઇપિંગ",
+                        "url": "/gu/english-to-hindi-typing",
+                        "hover": "blue"
+                    }, 
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ઇંગલિશ માટે બાંગ્લા ટાઇપિંગ",
+                        "url": "/gu/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "જર્મન પેરાફ્રેઝ ટૂલ",
+                        "url": "/gu/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "કોરિયન પેરાફ્રેઝ ટૂલ",
+                        "url": "/gu/korean-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ડેનિશ પેરાફ્રેઝ ટૂલ",
+                        "url": "/gu/danish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ઇટાલિયન પેરાફ્રેઝ સાધન",
+                        "url": "/gu/italian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "પોલીશ પેરાફ્રેઝ સાધન",
+                        "url": "/gu/polish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "સ્વીડિશ પેરાફ્રેઝ સાધન",
+                        "url": "/gu/swedish-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "થઇ-ઉપજ સાધન",
+                        "url": "/gu/thai-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "જાપાનીઝ-પરાક્રમ-સાધન",
+                        "url": "/gu/japanese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "અરબી ઉપમા સાધન",
+                        "url": "/gu/arabic-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "યુક્રેનિયન-પેરાફેરસ સાધન",
+                        "url": "/gu/ukranian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ચિની ઉપજ સાધન",
+                        "url": "/gu/chinese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ઇન્ડોનેશિયન ઉપજ સાધન",
+                        "url": "/gu/indonesian-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "વિયેતનામો-ઉપમા સાધન",
+                        "url": "/gu/vietnamese-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ફ્રેન્ચ ઉપનામ સાધન",
+                        "url": "/gu/french-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "ડચ-ઉપજ સાધન",
+                        "url": "/gu/dutch-paraphrase-tool"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "name": "પોર્ટુગીઝ-ઉપમા સાધન",
+                        "url": "/gu/portuguese-paraphrase-tool"
+                    }
+                ]
+            },
+            {
+                "categoryName": "અન્ય સાધનો",
+                "links": [
+                    {
+                        "name": "ટાઇપિંગ પૃષ્ઠો",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/gu/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "વાક્ય અનુવાદ",
+                        "url": "/gu/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "મેટા અને શીર્ષક તપાસનાર",
+                        "url": "/gu/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "રેન્ડમ વિશેષણ જનરેટર",
+                        "url": "/gu/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ટેક્સ્ટ તફાવત તપાસનાર",
+                        "url": "/gu/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "શબ્દ ગણતરી સાધન",
+                        "url": "/gu/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "અક્ષર ગણતરી સાધન",
+                        "url": "/gu/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ફકરો રીરાઇટર",
+                        "url": "/gu/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ટેક્સ્ટ રીરાઇટર",
+                        "url": "/gu/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "અન્ય સાધનો",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "રેન્ડમ સંજ્ઞા જનરેટર",
+                        "url": "/gu/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "રેન્ડમ ફકરો જનરેટર",
+                        "url": "/gu/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "રેન્ડમ લેટર જનરેટર",
+                        "url": "/gu/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "રેન્ડમ વાક્ય જનરેટર",
+                        "url": "/gu/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "સર્પ સિમ્યુલેટર",
+                        "url": "/gu/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "વેબસાઇટ શબ્દ ગણતરી",
+                        "url": "/gu/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "રેન્ડમ શબ્દ જનરેટર",
+                        "url": "/gu/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "બ્લોગ",
+            "url": "/blog"
+        }
+    ]
+}
