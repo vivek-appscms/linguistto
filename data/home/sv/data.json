@@ -1,0 +1,118 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "h1": "Smartaste verktygen för innehållsskribenter",
+    "h2": "Flerspråkiga verktyg för att parafrasera innehåll, meningsöversättning och translittereringsbaserade skrivverktyg.",
+    "TITLE": "Contenttool - Smartaste verktygen för innehållsproffs",
+    "META": "ContentTools.io tillhandahåller smartaste verktyg för daglig användning av innehållsproffs.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "Verktyg för parafrasering",
+            "description": "Parafraseringsverktyg för proffs",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/sv/paraphrasing-tool"
+        },
+        {
+            "name": "Verktyget Tyskt parafras",
+            "description": "Tyska parafraseringsverktyg för proffs",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/sv/german-paraphrase-tool"
+        },
+        {
+            "name": "Verktyget Hindi Parafras",
+            "description": "Hindi parafraseringsverktyg för proffs",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/sv/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Alla parafraseringsverktyg",
+            "url": "/sv/all-paraphrase-pages",
+            "description": "Alla parafraseringsverktyg för proffs",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
+            "name": "spansk-parafras-verktyg",
+            "description": "Spanska parafraseringsverktyg för proffs",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/sv/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Ryskt parafrasverktyg",
+            "description": "Ryska parafraseringsverktyg för proffs",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/sv/russian-paraphrase-tool"
+        },
+        {
+            "name": "Translittereringsverktyg",
+            "description": "Swedish to hindi Typing",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/sv/english-to-hindi-typing"
+        },
+        {
+            "name": "Swedish to bangla Typing",
+            "description": "Online Engelska till Bangla Typing",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/sv/bangla-transliteration-tool"
+        },
+        {
+            "name": "Verktyg för antal ord",
+            "description": "Online verktyg för Word Count",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg ",
+            "url": "/sv/word-count-tool"
+        },
+        {
+            "name": "Verktyg för antal tecken",
+            "description": "Verktyg för teckenräkning online",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/sv/character-count-tool"
+        },
+        {
+            "name": "Översättning av mening",
+            "description": "Online X till Y mening översättning",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/sv/sentence-translation"
+        },
+        {
+            "name": "Sammanfattning generator",
+            "description": "Bästa gratis online sammanfattning generator",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/sv/summary-generator"
+        },
+        {
+            "name": "Omskrivning av stycke",
+            "description": "online paragraf rewriter för kvalitetsinnehåll",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/sv/paragraph-rewriter"
+        },
+        {
+            "name": "Text Rewriter",
+            "description": "Utmärkt verktyg för textrewriter",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/sv/text-rewriter"
+        },
+        {
+            "name": "Skriva sidor",
+            "description": "Utmärkt skrivverktyg",
+            "color": "#a7a7cd",
+            "icon": "/img/typing.svg",
+            "url": "/sv/all-typing-pages"
+        }
+    ]
+}
