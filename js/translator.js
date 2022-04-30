@@ -7,14 +7,13 @@ const params_ = new URLSearchParams(window.location.search)
 
 button_.addEventListener("click", (e) => {
   e.preventDefault()
-  if (input_editor.getValue() == '') {
+  if (document.getElementById("input-string").value == '') {
     console.error("failed")
   } else {
-    localStorage.setItem('translitration_content', input_editor.getValue());
+    localStorage.setItem('translitration_content', document.getElementById("input-string").value);
     window.location = window.location.href  + "/" + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
   }
 })
-
 
 
 ////
@@ -22,7 +21,7 @@ button_.addEventListener("click", (e) => {
 
 function clipboardHandler() {
     const el = document.createElement("textarea");
-    el.value = input_editor.getValue();
+    el.value = document.getElementById("input-string").value
     document.body.appendChild(el);
     el.select();
     document.execCommand("copy");
@@ -52,17 +51,14 @@ function display_none(active_button){
 	  }
 }
 function font_size_fun(size){
-    for (let i_six = 0; i_six < document.querySelectorAll(".CodeMirror-line span").length; i_six++) {
-      document.querySelectorAll(".CodeMirror-line span")[i_six].style.fontSize = size;
-    } 
-  }
-  function font_family_fun(family){
-    for (let i_fam = 0; i_fam < document.querySelectorAll(".CodeMirror-line span").length; i_fam++) {
-      document.querySelectorAll(".CodeMirror-line span")[i_fam].style.fontFamily = family;
-    } 
-  }
+	document.getElementById("input-string").style.fontSize = size
+	}
+	function font_family_fun(family){
+	document.getElementById("input-string").style.fontFamily = family
+	}
+   
 document.getElementById("clear_button").addEventListener("click", ()=>{
-	input_editor.setValue('')
+	document.getElementById("input-string").value=''
 	document.getElementById("tbody").innerHTML=""
 	document.getElementById("wordCount").innerHTML=0
 	document.getElementById("characterCount").innerHTML=0
@@ -72,25 +68,25 @@ document.getElementById("clear_button").addEventListener("click", ()=>{
 	document.getElementById("speaktime").innerHTML='0 min'
 }); 
  
-var input = input_editor,
+var input = document.getElementById("input-string"),
   characterCount = document.querySelector('#characterCount'),
   wordCount = document.querySelector('#wordCount'),
   sentenceCount = document.querySelector('#sentenceCount'),
   paragraphCount = document.querySelector('#paragraphCount')
 
-  input_editor.on("keyup",  function() {
-    let inputString = input_editor.getValue();
+  document.getElementById("input-string").addEventListener("keyup",  function() {
+    let inputString = document.getElementById("input-string").value
 
     if (inputString[inputString.length - 1] == " " || event == "transliterateButton") {
         fetch(`https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${language_}`)
             .then(res => res.json())
             .then(result => {
                   var relt = result[1][0][1][0]
-                input_editor.setValue(relt)
+			 document.getElementById("input-string").value = relt;
             })
     }
-  characterCount.innerHTML = input.getValue().length;
-  var words = input.getValue().match(/\b[-?(\w+)?]+\b/gi);
+  characterCount.innerHTML = input.value.length;
+  var words = input.value.match(/\b[-?(\w+)?]+\b/gi);
   if (words) {
     wordCount.innerHTML = words.length;
 	const wordsPerMinute = 200; // Average case.
@@ -110,13 +106,13 @@ var input = input_editor,
     wordCount.innerHTML = 0;
   }
   if (words) {
-    var sentences = input.getValue().split(/[.|!|?]+/g);
+    var sentences = input.value.split(/[.|!|?]+/g);
     sentenceCount.innerHTML = sentences.length - 1;
   } else {
     sentenceCount.innerHTML = 0;
   }
   if (words) {
-    var paragraphs = input.getValue().replace(/\n$/gm, '').split(/\n/);
+    var paragraphs = input.value.replace(/\n$/gm, '').split(/\n/);
     paragraphCount.innerHTML = paragraphs.length;
   } else {
     paragraphCount.innerHTML = 0;
@@ -129,7 +125,7 @@ var input = input_editor,
 	let keys = [];
 	var wordcount = [];
 	var tbody = document.getElementById("tbody");
-	var wordcount = input_editor.getValue();
+	var wordcount = document.getElementById("input-string").value
 	var token = wordcount.split(" ");
 	for (let i = 0; i < token.length; i++) {
 	  var word = token[i].toLowerCase();
@@ -142,7 +138,6 @@ var input = input_editor,
 		}
 	  }
 	}
-	console.log(keys);
 	keys.sort(compare);
 	function compare(a, b) {
 	  var countA = counts[a];
@@ -162,7 +157,6 @@ var input = input_editor,
 		tr.appendChild(td);
 		tr.appendChild(td2);
 		tbody.appendChild(tr);
-		console.log(keys);
 	  }
 	}
 });
@@ -175,7 +169,7 @@ function word_count(){
 	let keys = []
 	var wordcount = [];
 	var tbody = document.getElementById("tbody");
-	var wordcount = input_editor.getValue();
+	var wordcount = document.getElementById("input-string").value
 	var token = wordcount.split(' ');
 	for (let i = 0; i < token.length; i++) {
 	 var word = token[i].toLowerCase();
@@ -189,7 +183,6 @@ function word_count(){
 	}
 	  
 	}
-	console.log(keys)
 	keys.sort(compare);
 	function compare(a,b){
 	  var countA = counts[a];
@@ -209,7 +202,6 @@ function word_count(){
 		tr.appendChild(td)
 		tr.appendChild(td2)
 		tbody.appendChild(tr)
-		console.log(keys)
 	  }
 	}
 }

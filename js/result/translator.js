@@ -13,13 +13,13 @@ function getapi() {
     .then((res) => res.json())
     .then((result) => {
       var relt = result[1][0][1][0];
-      input_editor.setValue(relt);
+      document.getElementById("input-string").value= relt;
     });
 }
 getapi();
 function handleInput() {
-  characterCount.innerHTML = input_editor.getValue().length;
-  var words = input_editor.getValue().split(" ")
+  characterCount.innerHTML = document.getElementById("input-string").value.length;
+  var words = document.getElementById("input-string").value.split(" ")
   if (words) {
     wordCount.innerHTML = words.length;
     const wordsPerMinute = 200; // Average case.
@@ -39,13 +39,13 @@ function handleInput() {
     wordCount.innerHTML = 0;
   }
   if (words) {
-    var sentences = input_editor.getValue().split(/[.|!|?]+/g);
+    var sentences = document.getElementById("input-string").value.split(/[.|!|?]+/g);
     sentenceCount.innerHTML = sentences.length - 1;
   } else {
     sentenceCount.innerHTML = 0;
   }
   if (words) {
-    var paragraphs = input_editor.getValue().replace(/\n$/gm, "").split(/\n/);
+    var paragraphs = document.getElementById("input-string").value.replace(/\n$/gm, "").split(/\n/);
     paragraphCount.innerHTML = paragraphs.length;
   } else {
     paragraphCount.innerHTML = 0;
@@ -64,7 +64,7 @@ function handleInput() {
   let keys = [];
   var wordcount = [];
   var tbody = document.getElementById("tbody");
-  var wordcount = input_editor.getValue();
+  var wordcount = document.getElementById("input-string").value;
   var token = wordcount.split(" ");
   for (let i = 0; i < token.length; i++) {
     var word = token[i].toLowerCase();
@@ -77,7 +77,6 @@ function handleInput() {
       }
     }
   }
-  console.log(keys);
   keys.sort(compare);
   function compare(a, b) {
     var countA = counts[a];
@@ -97,12 +96,11 @@ function handleInput() {
       tr.appendChild(td);
       tr.appendChild(td2);
       tbody.appendChild(tr);
-      console.log(keys);
     }
   }
 }
 function transliterate_content(){
-  let inputString = input_editor.getValue();
+  let inputString = document.getElementById("input-string").value;
   fetch(
     `https://www.google.com/inputtools/request?text=${inputString}&ime=transliteration_en_${lang_}`
   )
@@ -110,6 +108,7 @@ function transliterate_content(){
     .then((result) => {
       var relt = result[1][0][1][0];
       input_editor.setValue(relt);
+      document.getElementById("input-string").value= relt;
     });
   setTimeout(() => {
     handleInput();
