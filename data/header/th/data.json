@@ -1,0 +1,139 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "เครื่องมืออื่นๆ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความทั้งหมด",
+                        "url": "/th/all-paraphrase-pages",
+                        "hover": "blue"
+                    },
+                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ภาษาอังกฤษเป็นภาษาฮินดี พิมพ์",
+                        "url": "/th/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ภาษาอังกฤษไปบางลา พิมพ์ดีด",
+                        "url": "/th/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือนับคำ",
+                        "url": "/th/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือนับอักขระ",
+                        "url": "/th/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ย่อหน้า Rewriter",
+                        "url": "/th/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เขียนข้อความใหม่",
+                        "url": "/th/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "เครื่องมืออื่นๆ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "การแปลประโยค",
+                        "url": "/th/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Meta และตัวตรวจสอบชื่อ",
+                        "url": "/th/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องกำเนิดไฟฟ้าคำคุณศัพท์แบบสุ่ม",
+                        "url": "/th/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ตัวตรวจสอบความแตกต่างของข้อความ",
+                        "url": "/th/text-difference-checker",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "เครื่องมืออื่นๆ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องกำเนิดคำนามแบบสุ่ม",
+                        "url": "/th/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
+                        "url": "/th/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องกำเนิดไฟฟ้าแบบสุ่ม",
+                        "url": "/th/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องกำเนิดประโยคแบบสุ่ม",
+                        "url": "/th/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "จำลอง Serp",
+                        "url": "/th/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "จำนวนคำในเว็บไซต์",
+                        "url": "/th/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องกำเนิดคำแบบสุ่ม",
+                        "url": "/th/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "บล็อก",
+            "url": "/blog"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "इतर साधने",
+                "links": [
+                    
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "इंग्रजी ते हिंदी टायपिंग",
+                        "url": "/mr/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "इंग्रजी ते बांगला टायपिंग",
+                        "url": "/mr/bangla-transliteration-tool",
+                        "hover": "blue"
+                    } 
+                ]
+            },
+            {
+                "categoryName": "इतर साधने",
+                "links": [
+                    {
+                        "name": "टाइपिंग पृष्ठे",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/mr/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "वाक्य भाषांतर",
+                        "url": "/mr/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "मेटा आणि शीर्षक तपासक",
+                        "url": "/mr/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "अविशिष्ट विशेषण जनरेटर",
+                        "url": "/mr/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "मजकूर फरक तपासक",
+                        "url": "/mr/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "शब्द संख्या साधन",
+                        "url": "/mr/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "वर्ण संख्या साधन",
+                        "url": "/mr/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "परिच्छेद पुनर्लेखक",
+                        "url": "/mr/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "मजकूर पुनर्लेखक",
+                        "url": "/mr/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "इतर साधने",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "अविशिष्ट नाम जनरेटर",
+                        "url": "/mr/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "अविशिष्ट परिच्छेद जनरेटर",
+                        "url": "/mr/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "यादृच्छिक पत्र जनरेटर",
+                        "url": "/mr/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "अविशिष्ट वाक्य जनरेटर",
+                        "url": "/mr/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "SERP सिम्युलेटर",
+                        "url": "/mr/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "वेबसाइट शब्द संख्या",
+                        "url": "/mr/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "यादृच्छिक शब्द जनरेटर",
+                        "url": "/mr/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "ब्लॉग",
+            "url": "/blog"
+        }
+    ]
+}

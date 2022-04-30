@@ -1,0 +1,73 @@
+{
+    "Language":"Gaeilge",
+    "htmlLangAtt": "ga",
+    "h1": "aistriúchán Gaeilge go Portaingéilis",
+    "h2": "An Aistriúchán Pianbhreithe is Fearr",
+    "TITLE": "Gaeilge go Portaingéilis sentence translation | Aistrigh do abairtí ar líne saor in aisce",
+    "META": "Aistrigh d'abairtí ó Ghaeilge go Portaingéilis láithreach saor in aisce. Níl aon teorainneacha úsáide againn. Bain triail as saor in aisce!",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Gaeilge láithreach go haistriúchán abairt na Portaingéile",
+            "content": "Cuireann an uirlis seo bunachar sonraí iomlán i láthair duit le haistriúchán sentance na Portaingéile a thuiscint láithreach. Chun toradh tapa agus cruinn a chlóscríobh ach an seoltóir i tiontaire sentance agus toradh a fháil ar do fingertips le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Gaeilge go Portaingéilis sentence translation ar líne",
+            "content": "Faigh do chuid ábhair aistrithe Gaeilge ar líne go Portaingéilis. Tuiscint a fháil ar an téacs teanga iasachta láithreach gan aon am agus iarracht."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Aistritheoir pianbhreithe Gaeilge go Portaingéilis i roinnt céimeanna",
+            "content": "Tá sé níos éasca ná mar a cheap tú. Just a chóipeáil do pharagraph agus transalation i nGaeilge a fháil go dtí an bPortaingéilis i cúpla soicind."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Gaeilge ar líne saor in aisce chun aistriúchán abairt Portaingéile",
+            "content": "Aistritheoir ar líne saor in aisce chun do chuid ama agus airgid a shábháil chun an Ghaeilge a thras-salate go dtí an Portaingéilis. dhírigh muid nár cheart brí agus mothúcháin a chailleadh agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Faigh torthaí tapa agus inmhianaithe Gaeilge go Portaingéilis",
+            "content": "Trassalator ar líne don Ghaeilge go Portaingéilis chun gairmiúlacht a dhéanamh ar d'earra mar dhuine dúchais. Tá Aistriúchán Pianbhreithe deartha go sonrach chun an teachtaireacht a thuiscint in aon teanga"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tá an Uirlis seo líofa i nGaeilge d'aistritheoirí Pianbhreithe na Portaingéile.",
+            "content": "Ag cur gnéithe cultúrtha agus teanga san áireamh d'aistriúchán pianbhreithe na Gaeilge go Portaingéilis. Ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistriúchán Gaeilge go Portaingéilis chun d'ábhar gairmiúil a dhéanamh",
+            "content": "Uirlis aistriúcháin abairtí ilteangach chun abairtí a aistriú go teanga ar bith a d'fhéadfadh sé a bheith i nGaeilge go Portaingéilis. Níl ort ach an abairt a chlóscríobh i tiontaire pianbhreithe agus toradh a fháil ar do mhéar le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Déanann an tArduirlis seo ailt, scéalta agus dánta i nGaeilge a thiontú go Portaingéilis gan brí agus mothúchán a scaoileadh agus an téacs á aistriú i dteanga eile.",
+            "content": "Is alt nó scéalta é a aistrímid Gaeilge go Portaingéilis. Ní dhéanann an uirlis seo focal a aistriú de réir focal. Le bogearraí cliste, cinnteoireachta a chinneann sé na focail atá le húsáid agus cé na cinn atá le dí-rialú. dhírigh muid nár cheart an bhrí agus na mothúcháin a chailleadh agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistrímid Sleachta Gaeilge go Portaingéilis, agus vice versa, agus an bhrí a choinneáil gan athrú.",
+            "content": "Uaireanta athraíonn athfhriotail nuair a athraítear an Ghaeilge go Portaingéilis. Is é cuspóir an Aistriúcháin Pianbhreithe go sonrach an bhrí fíor a choinneáil gan athrú. Le AI chun cinn ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
+    ]
+}

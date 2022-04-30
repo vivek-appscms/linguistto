@@ -1,0 +1,55 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "h1": "Use la reescritura de párrafos en línea gratuita para obtener contenido de calidad.",
+    "h2": "La solución definitiva para sus problemas de escritura",
+    "TITLE": "Reescritura de párrafos: la mejor herramienta para reescribir un número ilimitado de documentos. ",
+    "META": "La reescritura avanzada de párrafos basada en la web es un lugar perfecto para que reescribas o parafrasees los artículos. Nuestra herramienta ofrece la verdadera esencia del tema. La herramienta más eficaz para minimizar todos los riesgos de plagio y errores gramaticales.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Fácil de usar",
+            "content": "Paragraph Rewriter es fácil de usar. Si tiene un párrafo que necesita reescribir, puede simplemente copiarlo y pegarlo en nuestro reescritor de párrafos y la herramienta hará el trabajo por usted."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Resultados instantáneos",
+            "content": "Los resultados se muestran tan pronto como hace clic en Parafrasear y no tiene que esperar a que se generen los resultados."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Plataforma cruzada",
+            "content": "Nuestro sitio web es independiente de la plataforma. Funciona tanto en sistemas operativos Windows como iOS y se puede usar sin necesidad de descargas."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Seguro y protegido",
+            "content": "Nuestra reescritura de párrafos es completamente segura de usar y produce resultados reales y precisos de manera consistente. «Resultados precisos» significa que cada contenido modificado no solo está libre de plagio, sino que también es más fácil de leer y comprender. Aumentará el alcance y la participación de su contenido debido a su singularidad y efectividad. Entonces, ¿qué tienes que perder? Pruébalo ahora mismo y diviértete reescribiendo."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Contenido único y libre de plagio",
+            "content": "Es, sin duda, el mejor spinner de párrafos gratuito y profesional disponible en Internet. ¡Funciona de manera admirable y nunca decepciona a sus consumidores cuando se trata de producir contenido original libre de plagio y problemas de duplicación! Después de revisar su párrafo con nuestra herramienta, puede verificar su originalidad y distinción ejecutando su documento a través de su verificador de plagio."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "De uso gratuito",
+            "content": "¿Hay algo más emocionante que descubrir un spinner de texto que sea completamente gratuito? ¿No es eso exactamente lo que todos buscan? Las funciones de nuestra herramienta de reescritura de párrafos son completamente gratuitas, por lo que no hay razón para no utilizarlas."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "h1": "Ausgezeichnetes Tool zum schnellen Transliterieren von Text nach Gernam",
+    "h2": "Um deutsche Buchstabenwörter einzugeben, geben Sie die Buchstaben, die Sie eingeben möchten, in das dafür vorgesehene Feld ein.",
+    "TITLE": "Transliterate Text nach Gernam - Das beste Tool, um englischen Text einfach nach Gernam zu transkribieren",
+    "META": "Transliterieren Sie Ihren Text sofort in die deutsche Sprache. Mit diesem kostenlosen Online-Tool zur Transliteration von Englisch nach Gernam können Sie den Transliterattext ohne Anmeldung kopieren.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "keywords": "Transliteration von Englisch nach Deutsch online",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Vollständig sicher",
+            "content": "Wenn Sie das Online-Tool zur Transliteration von Englisch nach Gernam verwenden, speichern oder senden die Datenbanken, die die von Ihnen eingegebenen Daten enthalten, Ihre Informationen nicht an eine andere Quelle. Ein weiterer Vorteil der Verwendung dieser Anwendung besteht darin, dass Ihre Daten vertraulich behandelt werden und dass die Qualität Ihrer Arbeit nicht beeinträchtigt wird. Wenn Ihr Artikel transkribiert wird, sichert das Tool ihn und entfernt ihn aus dem System. Auf diese Weise können wir allen unseren Kunden umfassenden Schutz bieten und unser Online-Transliterationstool für die Transliteration von Englisch nach Gernam in jeder Situation und zu jeder Tages- und Nachtzeit absolut zuverlässig und risikofrei verwenden können."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Einfach zu benutzen",
+            "content": "Dieses Online-Tool zur Transliteration von Englisch nach Gernam ist sehr einfach zu bedienen. Für den Anfang ist die Benutzeroberfläche klar und unkompliziert. Sie müssen sich nicht fragen, wo Sie anfangen sollen, da sich alles an einem Ort befindet. Darüber hinaus ist unser Online-Tool zur Transliteration von Englisch nach Gernam werbefrei, was zu einer besseren Benutzererfahrung führt."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Es gibt keine Kompatibilitätsprobleme.",
+            "content": "Dieses kostenlose Online-Tool zur Transliteration von Englisch nach Gernam funktioniert mit allen Betriebssystemen und Browsern. Das Online-Tool zur Transliteration von Englisch nach Gernam auf dieser Website ist ein webbasierter Dienst, auf den von jedem Computer oder Mobilgerät mit Internetverbindung aus zugegriffen werden kann. Chrome, Safari, Firefox, Microsoft Edge und eine Reihe anderer gängiger Browser werden unterstützt. Infolgedessen können Sie die Konvertierung mit dem Online-Transliterationstool für die Transliteration von Englisch nach Gernam auf einem Desktop-Computer, einem iPad, einem Tablet oder einem Mobiltelefon durchführen, je nach Ihren Wünschen. Sie müssen keine zusätzliche Software oder Plugins auf Ihrem Computer kaufen oder installieren, wenn Sie unseren Webservice verwenden, um Ihre Artikel zu paraphrasieren."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Es sind keine zusätzlichen Downloads erforderlich",
+            "content": "Wir bitten Sie nicht, Software auf Ihren Computer oder Ihr Mobilgerät herunterzuladen oder zu installieren, um unseren Online-Service zur Transliteration von Englisch nach Gernam nutzen zu können. Unser Online-Tool zur Transliteration von Englisch nach Gernam ist vollständig browserbasiert. Sie können jederzeit auf unsere Website zugreifen, indem Sie einfach die URL unserer Website in Ihren Browser eingeben und das Tool nach Bedarf verwenden."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Sie benötigen nie ein Login",
+            "content": "Unser Online-Tool zur Transliteration von Englisch nach Gernam ist völlig kostenlos und erfordert nicht, dass Sie uns persönliche Informationen wie Ihre E-Mail-Adresse oder Ihr Passwort zur Verfügung stellen. Unser Service ist völlig kostenlos. Da unser Online-Tool zur Transliteration von Englisch nach Gernam lokal in Ihrem Webbrowser gespeichert ist, müssen Sie keine Software herunterladen oder sich für einen Dienst anmelden."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Es ist völlig kostenlos",
+            "content": "Sie können unser Online-Tool zur Transliteration von Englisch nach Gernam jederzeit verwenden. Unser Transliterationsservice von Englisch nach Gernam ist völlig kostenlos. Sie müssen sich nicht registrieren oder anmelden, um unseren Service nutzen zu können. Wenn Sie hart genug arbeiten, können Sie eine unendliche Anzahl von Artikeln an einem einzigen Tag transkribieren. Es gibt keine Einschränkungen für das, was Sie tun können. Es steht Ihnen frei, Ihre Inhalte so oft Sie möchten erneut hochzuladen. In einer einzigen Sitzung können mehrere Absätze transkribiert werden. Transkribieren Sie einfach den Absatz, um festzustellen, wie lange es dauert, bis er abgeschlossen ist."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/img/typing.png",
+        "heading": "Gehen Sie folgendermaßen vor, um dieses Online-Tool zur Transliteration von Englisch nach Gernam zu verwenden:",
+        "steps": [
+            "Öffnen Sie unser Online-Tool zur Transliteration von Englisch nach Deutsch",
+            "Geben Sie mit einer englischen Tastatur Ihre Gernam-Wörter ein und drücken Sie die Leertaste. Ihre englischen Wörter werden in Gernam umgewandelt.",
+            "Klicken Sie auf die Schaltfläche „Transliterieren“.",
+            "Um den Text zu kopieren, klicken Sie auf die Schaltfläche „Kopieren“ und fügen Sie ihn an der gewünschten Stelle ein."
+        ]
+    },
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
+    "/js/translator.js"
+   ]
+}

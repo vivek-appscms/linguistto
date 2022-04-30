@@ -1,0 +1,202 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "h1": "Ferramenta de parafraseamento em inglês online gratuita",
+    "h2": "Reescreva seu conteúdo em inglês usando nossa melhor ferramenta online.",
+    "TITLE": "Ferramenta de parafraseamento em inglês para todos - Ferramenta online gratuita para reescrever conteúdo",
+    "META": "Parafraseie seu texto para inglês instantaneamente. Para obter várias variantes parafraseadas do seu conteúdo, use esta ferramenta gratuita de parafraseamento em inglês.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+  "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "ferramentas de parafraseamento",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento árabe",
+                        "url": "/pt/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento chinesa",
+                        "url": "/pt/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento dinamarquesa",
+                        "url": "/pt/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento árabe",
+                        "url": "/pt/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento em inglês",
+                        "url": "/pt/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento francesa",
+                        "url": "/pt/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "ferramentas de parafraseamento",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento alemã",
+                        "url": "/pt/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento hindi",
+                        "url": "/pt/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento indonésia",
+                        "url": "/pt/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento italiana",
+                        "url": "/pt/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento japonesa",
+                        "url": "/pt/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento coreana",
+                        "url": "/pt/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento polonesa",
+                        "url": "/pt/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "ferramentas de parafraseamento",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento em português",
+                        "url": "/pt/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento russa",
+                        "url": "/pt/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento em espanhol",
+                        "url": "/pt/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento sueca",
+                        "url": "/pt/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento tailandesa",
+                        "url": "/pt/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento turca",
+                        "url": "/pt/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento ucraniana",
+                        "url": "/pt/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ferramenta de parafraseamento vietnamita",
+                        "url": "/pt/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Simples de usar",
+            "content": "Esta ferramenta de parafrasear em inglês é muito simples de usar. Para começar, a interface do usuário é simples e direta. Como tudo está em um só lugar, você não precisa se perguntar por onde começar. Além disso, nossa ferramenta de parafraseamento em inglês é livre de anúncios, proporcionando uma experiência de usuário mais agradável para o usuário final."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Livre de custos",
+            "content": "Nossa ferramenta de paráfrase em inglês é totalmente gratuita. Não é necessário pagar para usar nossa ferramenta de parafraseamento em inglês. Para usar nosso serviço, você não precisa se registrar ou fazer login. Em um único dia, você pode parafrasear um número ilimitado de artigos. Isso também não tem limites. Você tem a opção de atualizar seu conteúdo quantas vezes quiser. Você pode reescrever vários parágrafos de uma só vez. A única coisa que você notará é a quantidade de tempo que leva para parafrasear o parágrafo."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% seguro",
+            "content": "Os bancos de dados da ferramenta de parafraseamento em inglês não armazenam ou transmitem seus dados para nenhuma outra fonte quando você os usa. Outro benefício de usar essa ferramenta é que seus dados permanecem secretos e a qualidade do seu trabalho não é comprometida. Depois que seu artigo for parafraseado, a ferramenta exclui com segurança seus dados no local. Como resultado, podemos oferecer segurança completa a todos os nossos clientes, tornando nossa ferramenta de parafraseamento em inglês confiável e sem riscos para uso em qualquer situação."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Sem problemas de compatibilidade",
+            "content": "Os usuários não terão problemas de compatibilidade ao usar esta ferramenta de parafraseamento em inglês. A ferramenta de parafraseamento em inglês deste portal da web é um serviço online que pode ser acessado de qualquer dispositivo. Ele funciona com uma variedade de navegadores populares, incluindo Chrome, Safari, Firefox, Microsoft Edge e outros. Quando você usa a ferramenta de parafraseamento em inglês, ela se ajusta automaticamente a qualquer tamanho de tela, permitindo que você a use em seu computador desktop, tablet ou celular, dependendo de suas preferências. Você não precisará comprar um dispositivo específico ou instalar plug-ins para parafrasear seus artigos usando este serviço online."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Estrutura de sentenças aprimorada",
+            "content": "A parafraseamento manual pode ter uma influência negativa na legibilidade do seu texto devido à complexidade envolvida. A ferramenta de parafraseamento em inglês, por outro lado, pode produzir frases que não quebram a estrutura geral do seu material. Essa ferramenta de parafraseamento em inglês mantém o leitor engajado e ajuda você a alcançar os resultados desejados."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Três maneiras de obter o resultado da faráfrase",
+            "content": "Uma das grandes características desta ferramenta de parafraseamento em inglês é que você pode obter seus resultados de três maneiras diferentes, o que o distingue de outras ferramentas de parafraseamento em vez de obter um resultado. Você pode reescrever seu conteúdo de três maneiras diferentes e escolher qualquer uma delas para torná-lo incrível."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

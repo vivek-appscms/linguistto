@@ -1,0 +1,219 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "درباره",
+            "url": "/about"
+        },
+        {
+            "name": "شرایط و ضوابط",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "راهنما",
+            "url": "/help"
+        },
+        {
+            "name": "بلاگ",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "ابزار بازسازینگ",
+            "url": "/fa/paraphrasing-tool"
+        },
+        {
+            "name": "ابزار پارافراز آلمانی",
+            "url": "/fa/german-paraphrase-tool"
+        },
+        {
+            "name": "ابزار پارافراسی هندی",
+            "url": "/fa/hindi-paraphrase-tool"
+        },
+        {
+            "name": "ابزار تفسیر روسی",
+            "url": "/fa/russian-paraphrase-tool"
+        },
+        {
+            "name": "ابزار تفسیر اسپانیایی",
+            "url": "/fa/spanish-paraphrase-tool"
+        },
+        {
+            "name": "ابزار پارافراسی کره‌ای",
+            "url": "/fa/korean-paraphrase-tool"
+        },
+        {
+            "name": "ابزار پارافراز دانمارکی",
+            "url": "/fa/danish-paraphrase-tool"
+        },
+        {
+            "name": "ابزار پارافراز ایتالیایی",
+            "url": "/fa/italian-paraphrase-tool"
+        },
+        {
+            "name": "ابزار پارافراز لهستانی",
+            "url": "/fa/polish-paraphrase-tool"
+        },
+        {
+            "name": "ابزار پارافراسی سوئدی",
+            "url": "/fa/swedish-paraphrase-tool"
+        },
+        {
+            "name": "ابزار تایی-پارافراس-ابزار",
+            "url": "/fa/thai-paraphrase-tool"
+        },
+        {
+            "name": "ابزار ژاپنی - پاراگراف",
+            "url": "/fa/japanese-paraphrase-tool"
+        },
+        {
+            "name": "ابزار عربی-تفسیر",
+            "url": "/fa/arabic-paraphrase-tool"
+        },
+        {
+            "name": "ابزار اوکرانیایی-پارافاراس-ابزار",
+            "url": "/fa/ukranian-paraphrase-tool"
+        },
+        {
+            "name": "چینی-ابزار",
+            "url": "/fa/chinese-paraphrase-tool"
+        },
+        {
+            "name": "اندونزی-پارافاراس-ابزار",
+            "url": "/fa/indonesian-paraphrase-tool"
+        },
+        {
+            "name": "ابزار ویتنامی",
+            "url": "/fa/vietnamese-paraphrase-tool"
+        },
+        {
+            "name": "ابزار فرانسوی",
+            "url": "/fa/french-paraphrase-tool"
+        },
+        {
+            "name": "هلندی پارافراس-ابزار",
+            "url": "/fa/dutch-paraphrase-tool"
+        },
+        {
+            "name": "پرتغالی-پاراگراف ابزار",
+            "url": "/fa/portuguese-paraphrase-tool"
+        },
+        {
+            "name": "ابزار ترانسلیتراسیون",
+            "url": "/fa/english-to-hindi-typing "
+        },
+        {
+            "name": "تایپ صفحات",
+            "url": "/fa/all-typing-pages"
+        },
+        {
+            "name": "انگلیسی به bangla تایپ",
+            "url": "/fa/bangla-transliteration-tool"
+        },
+        {
+            "name": "ابزار شمارش کلمه",
+            "url": "/fa/word-count-tool"
+        },
+        {
+            "name": "ابزار شمارش کاراکتر",
+            "url": "/fa/character-count-tool"
+        },
+        {
+            "name": "ترجمه جمله",
+            "url": "/fa/sentence-translation"
+        },
+        {
+            "name": "متا و جستجوگر عنوان",
+            "url": "/fa/meta-and-title-checker"
+        },
+        {
+            "name": "مولد صفت تصادفی",
+            "url": "/fa/random-adjective-generator"
+        },
+        {
+            "name": "جستجوگر تفاضل متن",
+            "url": "/fa/text-difference-checker"
+        },
+        {
+            "name": "مولد اسمی تصادفی",
+            "url": "/fa/random-noun-generator"
+        },
+        {
+            "name": "مولد پاراگراف تصادفی",
+            "url": "/fa/random-paragraph-generator"
+        },
+        {
+            "name": "مولد حرف تصادفی",
+            "url": "/fa/random-letter-generator"
+        },
+        {
+            "name": "مولد جمله تصادفی",
+            "url": "/fa/random-sentence-generator"
+        },
+        {
+            "name": "شبیه‌ساز سرپ",
+            "url": "/fa/serp-simulator"
+        },
+        {
+            "name": "شمارش کلمات وب سایت",
+            "url": "/fa/website-word-count"
+        },
+        {
+            "name": "مولد کلمه تصادفی",
+            "url": "/fa/random-word-generator"
+        },
+        {
+            "name": "بازنویس بند",
+            "url": "/fa/paragraph-rewriter"
+        },
+        {
+            "name": "بازنویسی متن",
+            "url": "/fa/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "ABC"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "ABC"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "ABC"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "ABC"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "ABC"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "شرایط و ضوابط",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "سیاست حفظ حریم خصوصی",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "تماس با ما",
+            "url": "/contact"
+        }
+    ]
+}

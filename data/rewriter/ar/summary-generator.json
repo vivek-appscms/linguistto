@@ -1,0 +1,62 @@
+{
+    "Language": "العربية",
+    "htmlLangAtt": "ar",
+    "h1": "أفضل مولد ملخص مجاني على الإنترنت",
+    "h2": "قم بتلخيص أي مقال بنقرة واحدة.",
+    "TITLE": "مولد الملخص - أفضل أداة تلخيص لاستخراج أهم الجمل.",
+    "META": "قم بإنشاء ملخص سريع باستخدام مولد ملخص متقدم. استخدم منشئ الملخص المجاني عبر الإنترنت لتلخيص وتحليل واستنتاج المستند الخاص بك بنقرة واحدة فقط.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+     "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/summarizer.js"
+  ]
+}

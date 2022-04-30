@@ -1,0 +1,62 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "h1": "Trình tạo tóm tắt trực tuyến miễn phí tốt nhất",
+    "h2": "Tóm tắt bất kỳ bài viết nào trong một cú nhấp chuột.",
+    "TITLE": "Trình tạo tóm tắt- Công cụ tóm tắt tốt nhất để trích xuất các câu quan trọng nhất.",
+    "META": "Tạo một bản tóm tắt nhanh với trình tạo tóm tắt nâng cao. Sử dụng trình tạo tóm tắt trực tuyến miễn phí của chúng tôi để tóm tắt, phân tích và đưa ra kết luận cho tài liệu của bạn chỉ bằng một cú nhấp chuột.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+     "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/summary.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/summarizer.js"
+  ]
+}

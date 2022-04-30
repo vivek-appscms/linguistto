@@ -1,0 +1,202 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "h1": "Darmowe narzędzie do parafrazowania koreańskiego",
+    "h2": "Przepisz swoje koreańskie treści za pomocą naszego najlepszego narzędzia online.",
+    "TITLE": "Koreańskie narzędzie do parafrazowania dla każdego - Darmowe narzędzie online do przepisywania treści",
+    "META": "Natychmiast parafrazuj tekst w języku koreańskim. Aby uzyskać wiele sparafrazowanych wariantów treści, użyj tego bezpłatnego koreańskiego narzędzia do parafrazowania.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+  "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "narzędzia do parafrazowania",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Narzędzie parafrazowania arabskiego",
+                        "url": "/pl/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Chińskie narzędzie do parafrazowania",
+                        "url": "/pl/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Duńskie narzędzie do parafrazowania",
+                        "url": "/pl/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Narzędzie parafrazowania arabskiego",
+                        "url": "/pl/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Angielskie narzędzie parafrazowania",
+                        "url": "/pl/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Francuskie narzędzie parafrazowania",
+                        "url": "/pl/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "narzędzia do parafrazowania",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Niemieckie narzędzie do parafrazowania",
+                        "url": "/pl/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Narzędzie do parafrazowania hindi",
+                        "url": "/pl/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Indonezyjskie narzędzie do parafrazowania",
+                        "url": "/pl/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Włoskie narzędzie do parafrazowania",
+                        "url": "/pl/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Japońskie narzędzie do parafrazowania",
+                        "url": "/pl/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Koreańskie narzędzie do parafrazowania",
+                        "url": "/pl/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Polskie narzędzie do parafrazowania",
+                        "url": "/pl/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "narzędzia do parafrazowania",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Portugalskie narzędzie do parafrazowania",
+                        "url": "/pl/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Rosyjskie narzędzie do parafrazowania",
+                        "url": "/pl/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Hiszpańskie narzędzie do parafrazowania",
+                        "url": "/pl/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Szwedzkie narzędzie parafrazujące",
+                        "url": "/pl/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Tajskie narzędzie do parafrazowania",
+                        "url": "/pl/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Turecka parafrazacja",
+                        "url": "/pl/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Urańskie narzędzie do parafrazowania",
+                        "url": "/pl/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Wietnamskie narzędzie do parafrazowania",
+                        "url": "/pl/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Prosty w obsłudze",
+            "content": "To koreańskie narzędzie parafrazujące jest bardzo proste w użyciu. Na początek interfejs użytkownika jest prosty i prosty. Ponieważ wszystko jest w jednym miejscu, nie będziesz musiał się zastanawiać od czego zacząć. Ponadto nasze koreańskie narzędzie do parafrazowania jest wolne od reklam, zapewniając użytkownikowi końcowemu przyjemniejsze wrażenia użytkownika."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Bezpłatnie",
+            "content": "Nasze koreańskie narzędzie parafrazowe jest całkowicie bezpłatne w użyciu. Nie trzeba płacić za korzystanie z naszego koreańskiego narzędzia do parafrazowania. Aby korzystać z naszej usługi, nie musisz się rejestrować ani logować. W ciągu jednego dnia możesz parafrazować nieograniczoną liczbę artykułów. To też nie ma granic. Masz możliwość odświeżenia zawartości tyle razy, ile chcesz. Możesz przepisać kilka akapitów w jednym posiedzeniu. Jedyne, co zauważysz, to ilość czasu potrzebnego na parafrazowanie akapitu."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% bezpieczne",
+            "content": "Bazy danych koreańskiego narzędzia do parafrazowania nie przechowują ani nie przesyłają danych do żadnego innego źródła podczas korzystania z nich. Kolejną zaletą korzystania z tego narzędzia jest to, że Twoje dane pozostają tajne, a jakość pracy nie jest zagrożona. Gdy artykuł zostanie sparafrazowany, narzędzie bezpiecznie usuwa Twoje dane na miejscu. Dzięki temu możemy zaoferować wszystkim naszym klientom pełne bezpieczeństwo, dzięki czemu nasze koreańskie narzędzie parafrazowania jest niezawodne i wolne od ryzyka w każdej sytuacji."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Brak problemów ze zgodnością",
+            "content": "Użytkownicy nie będą mieli problemów ze zgodnością podczas korzystania z tego koreańskiego narzędzia parafrazowania. Koreańskie narzędzie do parafrazowania tego portalu internetowego jest usługą online, do której można uzyskać dostęp z dowolnego urządzenia. Działa z wieloma popularnymi przeglądarkami, w tym Chrome, Safari, Firefox, Microsoft Edge i innymi. Podczas korzystania z koreańskiego narzędzia parafrazowania automatycznie dostosowuje się do dowolnego rozmiaru ekranu, umożliwiając korzystanie z niego na komputerze stacjonarnym, tablecie lub telefonie komórkowym, w zależności od preferencji użytkownika. Nie będziesz musiał kupować określonego urządzenia ani instalować żadnych wtyczek w celu parafrazowania artykułów za pomocą tej usługi online."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Ulepszona struktura zdania",
+            "content": "Ręczne parafrazowanie może mieć negatywny wpływ na czytelność tekstu ze względu na złożoność zaangażowany. koreańskie narzędzie parafrazujące, z drugiej strony, może produkować zdania, które nie łamią ogólnej struktury materiału. To koreańskie narzędzie parafrazujące utrzymuje czytelnik zaangażowany i pomaga osiągnąć pożądane rezultaty."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Trzy sposoby, aby uzyskać wynik farafrazowania",
+            "content": "Jedną z głównych cech tego koreańskiego narzędzia do parafrazowania jest to, że można uzyskać wyniki na trzy różne sposoby, co odróżnia je od innych narzędzi parafrazujących w tym, zamiast uzyskać jeden wynik. Możesz przepisać swoje treści na trzy różne sposoby i wybrać jeden z nich, aby uczynić go niesamowitym."
+        }
+    ],
+   
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

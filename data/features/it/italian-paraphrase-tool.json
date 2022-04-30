@@ -1,0 +1,202 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "h1": "Strumento di parafrasi italiano online gratuito",
+    "h2": "Riscrivi i tuoi contenuti italiani utilizzando il nostro miglior strumento online.",
+    "TITLE": "Strumento di parafrasi italiano per tutti - Strumento online gratuito per riscrivere i contenuti",
+    "META": "Parafrasando istantaneamente il tuo testo in italiano. Per ottenere più varianti parafrasate dei tuoi contenuti, usa questo strumento gratuito di parafrasi in italiano.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+"megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "strumenti parafrasi",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento per parafrasi in arabo",
+                        "url": "/it/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi cinese",
+                        "url": "/it/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi danese",
+                        "url": "/it/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento per parafrasi in arabo",
+                        "url": "/it/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi inglese",
+                        "url": "/it/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi francese",
+                        "url": "/it/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "strumenti parafrasi",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi tedesco",
+                        "url": "/it/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi hindi",
+                        "url": "/it/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi indonesiano",
+                        "url": "/it/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi italiano",
+                        "url": "/it/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi giapponese",
+                        "url": "/it/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi coreano",
+                        "url": "/it/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi polacco",
+                        "url": "/it/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "strumenti parafrasi",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi portoghese",
+                        "url": "/it/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi russo",
+                        "url": "/it/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi spagnolo",
+                        "url": "/it/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi svedese",
+                        "url": "/it/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi tailandese",
+                        "url": "/it/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi turco",
+                        "url": "/it/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento di parafrasi ucraino",
+                        "url": "/it/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Strumento parafrasi vietnamita",
+                        "url": "/it/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Semplice da usare",
+            "content": "Questo strumento di parafrasi italiano è molto semplice da usare. Per iniziare, l'interfaccia utente è semplice e semplice. Poiché tutto è in un unico posto, non dovrai chiederti da dove cominciare. Inoltre, il nostro strumento di parafrasi italiano è privo di pubblicità, offrendo un'esperienza utente più piacevole per l'utente finale."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Senza costi",
+            "content": "Il nostro strumento parafrasi italiano è completamente gratuito. Non è necessario pagare per utilizzare il nostro strumento di parafrasi italiano. Per utilizzare il nostro servizio, non è necessario registrarsi o accedere. In un solo giorno, puoi parafrasare un numero illimitato di articoli. Anche questo non ha limiti. Hai la possibilità di aggiornare i tuoi contenuti tutte le volte che vuoi. È possibile riscrivere diversi paragrafi in una sola seduta. L'unica cosa che noterai è il tempo necessario per parafrasare il paragrafo."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% sicuro",
+            "content": "I database dello strumento di parafrasi italiano non memorizzano o trasmettono i tuoi dati a nessun'altra fonte quando li utilizzi. Un altro vantaggio dell'utilizzo di questo strumento è che i tuoi dati rimangono segreti e la qualità del tuo lavoro non viene compromessa. Una volta che il tuo articolo è stato parafrasato, lo strumento cancella in modo sicuro i tuoi dati sul posto. Di conseguenza, possiamo offrire una sicurezza completa a tutti i nostri clienti, rendendo il nostro strumento di parafrasi italiano affidabile e privo di rischi da utilizzare in qualsiasi situazione."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Nessun problema di compatibilità",
+            "content": "Gli utenti non avranno problemi di compatibilità quando utilizzano questo strumento di parafrasi italiano. Lo strumento di parafrasi italiano di questo portale web è un servizio online a cui è possibile accedere da qualsiasi dispositivo. Funziona con una varietà di browser popolari, tra cui Chrome, Safari, Firefox, Microsoft Edge e altri. Quando si utilizza lo strumento di parafrasi italiano, si adatta automaticamente a qualsiasi dimensione dello schermo, permettendoti di usarlo sul tuo computer desktop, tablet o telefono cellulare, a seconda delle tue preferenze. Non ti verrà richiesto di acquistare un dispositivo specifico o installare alcun plug-in per parafrasare i tuoi articoli utilizzando questo servizio online."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Struttura della frase migliorata",
+            "content": "La parafrasi manuale potrebbe avere un'influenza negativa sulla leggibilità del testo a causa della complessità implicata. lo strumento di parafrasi italiano, d'altra parte, può produrre frasi che non rompono la struttura complessiva del tuo materiale. Questo strumento di parafrasi italiano mantiene il lettore impegnato e ti aiuta a raggiungere i risultati desiderati."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tre modi per ottenere il risultato della farafrasi",
+            "content": "Una delle grandi caratteristiche di questo strumento di parafrasi italiano è che puoi ottenere i tuoi risultati in tre modi diversi, il che lo distingue dagli altri strumenti di parafrasi in quanto invece di ottenere un risultato. Puoi riscrivere i tuoi contenuti in tre modi diversi e sceglierne uno qualsiasi per renderlo fantastico."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

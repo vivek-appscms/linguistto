@@ -1,0 +1,202 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "h1": "เครื่องมือถอดความขัดเงาออนไลน์ฟรี",
+    "h2": "เขียนเนื้อหาใหม่ของคุณโดยใช้เครื่องมือออนไลน์ที่ดีที่สุดของเรา",
+    "TITLE": "เครื่องมือถอดความภาษาโปแลนด์สำหรับทุกคน - เครื่องมือออนไลน์ฟรีสำหรับการเขียนเนื้อหาใหม่",
+    "META": "ถอดข้อความของคุณให้ขัดทันทีหากต้องการรับรูปแบบการถอดความหลากหลายของเนื้อหาของคุณ ให้ใช้เครื่องมือถอดความขัดสีฟรีนี้",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+"megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "เครื่องมือถอดความ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาอาหรับ",
+                        "url": "/th/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาจีน",
+                        "url": "/th/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาเดนมาร์ก",
+                        "url": "/th/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาอาหรับ",
+                        "url": "/th/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาอังกฤษ",
+                        "url": "/th/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาฝรั่งเศส",
+                        "url": "/th/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "เครื่องมือถอดความ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาเยอรมัน",
+                        "url": "/th/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาฮินดี",
+                        "url": "/th/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาอินโดนีเซีย",
+                        "url": "/th/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาอิตาลี",
+                        "url": "/th/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาญี่ปุ่น",
+                        "url": "/th/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาเกาหลี",
+                        "url": "/th/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดเสียงโปแลนด์",
+                        "url": "/th/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "เครื่องมือถอดความ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาโปรตุเกส",
+                        "url": "/th/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษารัสเซีย",
+                        "url": "/th/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาสเปน",
+                        "url": "/th/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาสวีเดน",
+                        "url": "/th/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาไทย",
+                        "url": "/th/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาตุรกี",
+                        "url": "/th/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาอูครานเนียน",
+                        "url": "/th/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "เครื่องมือถอดความภาษาเวียดนาม",
+                        "url": "/th/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "ใช้งานง่าย",
+            "content": "เครื่องมือถอดความขัดนี้ใช้งานง่ายมากในการเริ่มต้นส่วนติดต่อผู้ใช้จะตรงไปตรงมาและเรียบง่ายเพราะทุกอย่างอยู่ในที่เดียว คุณไม่ต้องสงสัยเลยว่าจะเริ่มตรงไหนยิ่งไปกว่านั้น เครื่องมือถอดความขัดเงาของเรายังไม่มีโฆษณา มอบประสบการณ์การใช้งานที่น่าพอใจยิ่งขึ้นสำหรับผู้ใช้ปลายทาง"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "ไม่เสียค่าใช้จ่าย",
+            "content": "เครื่องมือถอดความขัดเงาของเราสามารถใช้ได้ฟรีไม่จำเป็นต้องจ่ายเงินเพื่อใช้เครื่องมือถอดความขัดเงาของเราในการใช้บริการของเรา คุณไม่จำเป็นต้องลงทะเบียนหรือลงชื่อเข้าใช้ในหนึ่งวันคุณสามารถแปลบทความได้ไม่ จำกัด จำนวนนั่นก็ไม่มีขอบเขตคุณมีตัวเลือกในการรีเฟรชเนื้อหาของคุณหลายครั้งตามที่คุณต้องการคุณสามารถเขียนย่อหน้าหลายย่อหน้าในหนึ่งนั่งสิ่งเดียวที่คุณจะสังเกตเห็นคือระยะเวลาที่ใช้ในการถอดคำย่อหน้า"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "ปลอดภัย 100%",
+            "content": "ฐานข้อมูลของเครื่องมือ paraphrasing โปแลนด์ไม่เก็บ หรือส่งข้อมูลของคุณไปยังแหล่งอื่น ๆ เมื่อคุณใช้ประโยชน์อีกประการหนึ่งของการใช้เครื่องมือนี้คือข้อมูลของคุณยังคงเป็นความลับและคุณภาพของงานของคุณจะไม่ถูกบุกรุกเมื่อบทความของคุณได้รับการถอดความแล้ว เครื่องมือจะลบข้อมูลของคุณอย่างปลอดภัยในทันทีด้วยเหตุนี้เราจึงสามารถนำเสนอบริการความปลอดภัยที่สมบูรณ์ให้กับลูกค้าของเราทั้งหมด ทำให้เครื่องมือถอดเสียงแบบขัดเงาของเราเชื่อถือได้และปราศจากความเสี่ยงที่จะใช้ในทุกสถานการณ์"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "ไม่มีปัญหาความเข้ากันได้",
+            "content": "ผู้ใช้จะไม่มีปัญหาความเข้ากันได้เมื่อใช้เครื่องมือถอดรหัสขัดนี้เครื่องมือถอดความขัดเงาของเว็บพอร์ทัลนี้เป็นบริการออนไลน์ที่สามารถเข้าถึงได้จากอุปกรณ์ใด ๆมันทำงานร่วมกับความหลากหลายของเบราว์เซอร์ยอดนิยม, รวมถึง Chrome, Safari, Firefox, Microsoft Edge และอื่น ๆเมื่อคุณใช้เครื่องมือถอดความขัดสี เครื่องมือจะปรับให้เข้ากับขนาดหน้าจอโดยอัตโนมัติเพื่อให้คุณสามารถใช้บนเดสก์ท็อปคอมพิวเตอร์แท็บเล็ตหรือโทรศัพท์มือถือได้ ทั้งนี้ขึ้นอยู่กับความชอบของคุณคุณไม่จำเป็นต้องซื้ออุปกรณ์เฉพาะหรือติดตั้งปลั๊กอินใด ๆ เพื่อถอดความบทความของคุณโดยใช้บริการออนไลน์นี้"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "ปรับปรุงโครงสร้างประโยค",
+            "content": "ถอดความด้วยตนเองอาจจะมีอิทธิพลเชิงลบต่อการอ่านข้อความของคุณเพราะความซับซ้อนที่เกี่ยวข้อง. เครื่องมือถอดความขัด, อย่างไรก็ตาม, สามารถผลิตประโยคที่ไม่ทำลายโครงสร้างโดยรวมของวัสดุของคุณ.เครื่องมือถอดความขัดนี้ช่วยให้ผู้อ่านมีส่วนร่วมและช่วยให้คุณบรรลุผลลัพธ์ที่คุณต้องการ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "สามวิธีในการได้รับผลจากการฟาดโผน",
+            "content": "หนึ่งในคุณสมบัติที่ยอดเยี่ยมของเครื่องมือถอดความขัดสีนี้คือการที่คุณจะได้ผลลัพธ์ของคุณในสามวิธีที่แตกต่างกันซึ่งแตกต่างจากเครื่องมือถอดความอื่น ๆ แทนที่จะได้รับหนึ่งผลลัพธ์คุณสามารถเขียนเนื้อหาของคุณใหม่ได้สามวิธี และเลือกวิธีใดวิธีหนึ่งเพื่อทำให้เนื้อหานั้นยอดเยี่ยม"
+        }
+    ],
+  
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

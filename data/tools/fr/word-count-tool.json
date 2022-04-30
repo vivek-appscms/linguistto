@@ -1,0 +1,71 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "h1": "Outil de comptage de mots",
+    "h2": "",
+    "TITLE": "Outil gratuit de comptage de mots, aucune limite d'utilisation - Contenttool - Les outils les plus intelligents pour les professionnels du contenu",
+    "META": "Comptez les mots dans votre texte copié ou en tant que type. Obtenez des résultats instantanés et précis.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Facile à connaître le nombre de mots de votre article en ligne",
+            "content": "Copiez votre article de votre document et obtenez votre résultat instantanément en nombre de mots."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Caractéristique de notre nombre de mots ?",
+            "content": "La méthode du comptage des mots est assez facile à utiliser. Vous pouvez saisir votre texte directement dans la zone. Ou si vous utilisez un traitement de texte ou une application en ligne, telle que Google Documents, pour écrire votre texte, vous pouvez facilement le copier et le coller dans une zone de texte."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Lorsque la traduction n'est pas suffisante pour votre article, il s'agit de rechercher le mot exact",
+            "content": "vous pouvez opter pour un compteur de mots où vous pouvez connaître la longueur de votre article avec une précision de 100% du nombre de mots"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Comptage de mots gratuit en ligne en quelques étapes",
+            "content": "Copiez votre phrase en nombre de mots et obtenez votre résultat."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Il est plus facile de connaître vos limites en nombre de mots en ligne",
+            "content": "il y a généralement des limites ou des minimums pour les devoirs. Il en va de même pour les demandes d'admission à l'université. Le respect de ces critères peut avoir un impact majeur sur la façon dont cette écriture est notée et révisée, et cela montre si vous êtes capable ou non de suivre les instructions de base. word counter peut vous assurer que vous ne dépassez pas accidentellement les limites ou que vous ne parvenez pas à atteindre les minimums qui peuvent être préjudiciables à ces affectations."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Précision gratuite du nombre de mots et résultat rapide en quelques étapes",
+            "content": "Nous offrons une précision de 100% avec un résultat rapide, il suffit de copier votre texte et d'obtenir votre résultat instantanément en nombre de mots."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Vérifiez que votre CV contient un nombre de mots pertinent",
+            "content": "Connaître le nombre de mots dans votre CV peut être nécessaire pour que les chercheurs d'emploi obtiennent tous les détails que vous souhaitez sur une seule page."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Lorsque la légende de votre tweet recherche le mot exact, vous êtes au bon endroit.",
+            "content": "La restriction de caractères de Twitter est un vestige des débuts de l'application alors que les tweets ont été envoyés sous forme de textes, qui avaient été limités à cent soixante caractères. Il a réfléchi à la réalité qui apparaît comme l'une des caractéristiques déterminantes du produit."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "introduction au nombre de mots",
+            "content": "La restriction de caractères de Twitter est un vestige des débuts de l'application alors que les tweets ont été envoyés sous forme de textes, qui avaient été limités à cent soixante caractères. Il a réfléchi à la réalité qui apparaît comme l'une des caractéristiques déterminantes du produit."
+        }
+    ],
+
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

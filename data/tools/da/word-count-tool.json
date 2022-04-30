@@ -1,0 +1,71 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "h1": "Værktøjet Tæller",
+    "h2": "",
+    "TITLE": "Gratis ordtællingsværktøj, ingen brugsgrænser - Contenttool — Smarteste værktøjer til indholdsprofessionelle",
+    "META": "Tæl ord i din kopierede tekst eller som din type. Få øjeblikkelige og præcise resultater.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Let at vide om din artikel ord tæller online",
+            "content": "Kopier din artikel fra dit dokument og få dit resultat øjeblikkeligt ordtælling."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Funktion af vores ord tæller?",
+            "content": "Ordet tæller metode er temmelig nem at bruge. Du kan skrive din tekst direkte i feltet. Eller hvis du bruger et tekstbehandlingsprogram eller en onlineapplikation, f.eks. Google Documents, til at skrive dit stykke, kan du nemt kopiere og indsætte det i en tekstboks."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Når transalation ikke er nok til din artikel, Det er på udkig efter eksakt ord",
+            "content": "du kan gå til ordtæller, hvor du kan vide om længden af din artikel med 100% nøjagtighed af ordtælling"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Gratis ord tæller online i få trin",
+            "content": "Kopier din sætning i ordtælling og få dit resultat."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Det gør lettere at kende dine grænser i ord tæller i online",
+            "content": "der er normalt grænser eller minimumsbeløb for lektieopgaver. Det samme gælder ofte for college applikationer. At overholde disse kan have en stor indflydelse på, hvordan denne skrivning er gradueret og gennemgået, og det viser, om du er i stand til at følge grundlæggende retninger. ordtæller kan sikre, at du ikke ved et uheld går over grænser eller undlader at opfylde minimumskrav, der kan være til skade for disse opgaver."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Gratis ordtælling nøjagtighed og hurtigt resultat på få trin",
+            "content": "Vi giver 100% nøjagtighed med hurtigt resultat bare kopiere din tekst og få dit øjeblikkeligt resultat i ordtælling"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tjek dit CV, at det har relevant ordtælling",
+            "content": "At kende antallet af ord i dit CV kan være nødvendigt for jobsøgende at få alle de detaljer, du ønsker på en enkelt side."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Når din tweet billedtekst er på udkig efter nøjagtige ord, du er på rette sted",
+            "content": "Twitters karakter begrænsning er en holdover fra appens tidlige dage, mens tweets er blevet sendt som tekster, som var blevet begrænset til hundrede tres tegn. Det har tænkt på den virkelighed, der fremstår som en af produktets definerende egenskaber."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "ord tæller introduktion",
+            "content": "Twitters karakter begrænsning er en holdover fra appens tidlige dage, mens tweets er blevet sendt som tekster, som var blevet begrænset til hundrede tres tegn. Det har tænkt på den virkelighed, der fremstår som en af produktets definerende egenskaber."
+        }
+    ],
+    
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

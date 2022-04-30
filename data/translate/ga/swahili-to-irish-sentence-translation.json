@@ -1,0 +1,73 @@
+{
+    "Language":"Gaeilge",
+    "htmlLangAtt": "ga",
+    "h1": "aistriúchán Gaeilge a swahili",
+    "h2": "An Aistriúchán Pianbhreithe is Fearr",
+    "TITLE": "Svahaílis go Gaeilge sentence translation | Aistrigh do abairtí ar líne saor in aisce",
+    "META": "Aistrigh do chuid abairtí ó shlóílis go Gaeilge láithreach saor in aisce. Níl aon teorainneacha úsáide againn. Bain triail as saor in aisce!",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Svahaílis láithreach don aistriúchán Gaeilge",
+            "content": "Cuireann an uirlis seo bunachar sonraí iomlán i láthair duit le haistriúchán Gaeilge a thuiscint láithreach. Chun toradh tapa agus cruinn a chlóscríobh ach an seoltóir i tiontaire sentance agus toradh a fháil ar do fingertips le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "aistriúchán Gaeilge ar líne",
+            "content": "Faigh do chuid ábhair aistrithe ar líne go Gaeilge. Tuiscint a fháil ar an téacs teanga iasachta láithreach gan aon am agus iarracht."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Aistritheoir pianbhreithe Svahaílis go Gaeilge i roinnt céimeanna",
+            "content": "Tá sé níos éasca ná mar a cheap tú. Just a chóipeáil do pharagraph agus a fháil transalation i Svahaílis go Gaeilge i cúpla soicind."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Svahaílis ar líne saor in aisce le haistriúchán Gaeilge",
+            "content": "Aistritheoir ar líne saor in aisce chun do chuid ama agus airgid a shábháil chun swahili a thrassalate go Gaeilis. ní mór dúinn dírithe nár chóir an bhrí agus na mothúcháin a chailliúint agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Torthaí tapa agus inmhianaithe a fháil ar an nGaeilge",
+            "content": "Trassalator ar líne le haghaidh Svahaílis go Gaeilge chun gairmiúlacht a dhéanamh ar do alt cosúil le ceann dúchais. Tá Aistriúchán Pianbhreithe deartha go sonrach chun an teachtaireacht a thuiscint in aon teanga"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tá an Uirlis líofa i Svahaílis d'aistritheoirí Pianbhreithe Éireannacha.",
+            "content": "Ag cur gnéithe cultúrtha agus teanga san áireamh d'aistriúchán pianbhreithe na Svahaílis go Gaeilge. Ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistriúchán Pianbhreithe i Svahaílis go Gaeilge chun d'ábhar a dhéanamh gairmiúil",
+            "content": "Uirlis aistriúcháin ilteangach abairtí chun abairtí a aistriú go teanga ar bith a d'fhéadfadh sé a bheith ina teanga go Gaeilge. Níl ort ach an abairt a chlóscríobh i tiontaire pianbhreithe agus toradh a fháil ar do mhéar le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Déanann an tArduirlis seo ailt, scéalta agus dánta a thiontú go Gaeilge gan brí agus mothúchán a scaoileadh agus an téacs á aistriú i dteanga eile.",
+            "content": "Is alt nó scéalta é a aistrímid Svahaílis go Gaeilge. Ní dhéanann an uirlis seo focal a aistriú de réir focal. Le bogearraí cliste, cinnteoireachta a chinneann sé na focail atá le húsáid agus cé na cinn atá le dí-rialú. dhírigh muid nár cheart an bhrí agus na mothúcháin a chailleadh agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistrímid Sleachta swahili go Gaeilge, agus vice versa, agus an bhrí a choinneáil gan athrú.",
+            "content": "Uaireanta athraíonn athfhriotail ag am an athraithe i Svahaílis go Gaeilge. Is é cuspóir an Aistriúcháin Pianbhreithe go sonrach an bhrí fíor a choinneáil gan athrú. Le AI chun cinn ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
+    ]
+}

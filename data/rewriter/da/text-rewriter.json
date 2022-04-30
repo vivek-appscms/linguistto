@@ -1,0 +1,55 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "h1": "Fremragende tekst omskriver værktøj",
+    "h2": "Generer højkvalitets, plagieringsfri unikt indhold med tekstbrænder",
+    "TITLE": "Tekst brænder- Perfekt tekst brænder til at omskrive noget indhold på en frisk måde.",
+    "META": "Bedste tekst brænder for at gøre dit indhold unikt med et enkelt klik. Spar din tid ved at bruge det mest betroede tekstomskriverværktøj og formidle information på den bedste måde.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Enkel at bruge",
+            "content": "Vores gratis Text Rewriter værktøj er meget enkel at bruge. Du behøver ikke engang at tilmelde dig. Det gør processen med at omskrive sætningerne ligetil og enkel.\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Nøjagtige resultater",
+            "content": "Vores hjemmeside behandler dit lydspor virkelig hurtigt.Resultaterne er nøjagtige og dermed brugeren er helt tilfreds"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Cross-plateForm",
+            "content": "Tekst rewriter værktøj er kompatibel med ethvert operativsystem, ligesom Windows/Mac/Linux/Android/iPhone.\n\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Sikker og troværdig",
+            "content": "Der er ingen server involveret, og dermed dine data er sikre\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Hurtig og effektiv",
+            "content": "Webstedet orocesses de data, der er fanget virkelig hurtigt og effektivt. Du kan få dit job gjort på ingen tid\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Ingen filer er uoloaded",
+            "content": "Aoolikeringen fungerer comoletely på din browser uden at involvere nogen server. Derfor er dine data sikre\n"
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

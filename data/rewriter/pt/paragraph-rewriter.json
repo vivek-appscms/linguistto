@@ -1,0 +1,55 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "h1": "Use o reescritor de parágrafos online gratuito para obter conteúdo de qualidade.",
+    "h2": "Solução definitiva para seus problemas de escrita",
+    "TITLE": "Reescritor de parágrafos - Melhor ferramenta para reescrever um número ilimitado de documentos. ",
+    "META": "O reescritor avançado de parágrafos baseado na web é um lugar perfeito para você reescrever ou parafrasear os artigos. Nossa ferramenta oferece a verdadeira essência do tópico. A ferramenta mais eficaz para minimizar todos os riscos de plágio e erros gramaticais.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Simples de usar",
+            "content": "O Paragraph Rewriter é simples de usar. Se você tem um parágrafo que precisa reescrever, basta copiá-lo e colá-lo em nosso reescritor de parágrafos e a ferramenta fará o trabalho por você."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Resultados instantâneos",
+            "content": "Os resultados são exibidos assim que você clica em Paráfrase e você não precisa esperar pela geração dos resultados."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Plataforma cruzada",
+            "content": "Nosso site é independente de plataforma. Ele funciona nos sistemas operacionais Windows e iOS e pode ser usado sem a necessidade de downloads."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Seguro e protegido",
+            "content": "Nosso reescritor de parágrafos é totalmente seguro de usar e produz resultados reais e precisos de forma consistente. “Resultados precisos” significa que cada conteúdo alterado não é apenas livre de plágio, mas também mais fácil de ler e compreender. Isso aumentará o alcance e o engajamento do seu conteúdo devido à sua singularidade e eficácia. Então, o que você tem a perder? Experimente agora mesmo e divirta-se reescrevendo."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Conteúdo exclusivo e sem plágio",
+            "content": "É, sem dúvida, o melhor spinner de parágrafos gratuito e profissional disponível na internet. Ele tem um desempenho admirável e nunca decepciona seus consumidores quando se trata de produzir conteúdo original, livre de problemas de plágio e duplicação! Depois de revisar seu parágrafo com nossa ferramenta, você pode verificar a originalidade e a distinção executando seu documento por meio do verificador de plágio."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Grátis para usar",
+            "content": "Existe algo mais empolgante do que descobrir um girador de texto totalmente gratuito? Não é exatamente isso que todo mundo está procurando? Os recursos de nossa ferramenta de reescrita de parágrafos são totalmente gratuitos, portanto, não há razão para não utilizá-la."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}
