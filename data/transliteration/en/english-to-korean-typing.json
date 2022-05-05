@@ -103,10 +103,10 @@
       "answer": "When characters from one language are translated into characters from another, they are pronounced in the target language. This is called transcription. As a result, different rules can be used for the same source language depending on the target language (e.g., German or English). The transcription has the advantage of allowing everyone who speaks the target language to correctly read the converted words of the source language. One disadvantage is that transcription is not always easily inverted. For example, the Text Converter supports Cyrillic transcription rules for English and German.<br>On the other hand, when using transliteration, each character of the source language is assigned to a different unique character of the target language, allowing for an exact inversion to be achieved. It is possible to use a combination of characters (for example, KA for Hiragana) and diacritic (for example, for Cyrillic) when the source language contains more characters than the target language. Despite the fact that the pronunciation is not as important in transliteration as it is in transcription, it is often possible to recognize the pronunciation by the character that was used. Some ISO transliterations are supported by the Text Converter, including Cyrillic-Latin (ISO 9), Arabic-Latin (ISO 233), Hebrew-Latin (ISO 259), Greek-Latin (ISO 843), Japanese-Latin (ISO 3602), Georgic-Latin (ISO 9984), and Thai-Latin (ISO 11940).<br>As a result, the distinction between transcription and transliteration is that transcription reflects the phonetic articulation of words, whereas transliteration does not. Transliteration, on the other hand, is used when a word is transferred from one writing system to another. In the transcription, the Arabic word كتب for books is 'kataba' and in the transliteration, it is 'ktb'."
   }
   ],
-  "csscdns":[
+    "csscdns":[
     "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
   ],
-    "jsfilepaths":[
+  "jsfilepaths":[
     "/js/translator.js"
-  ]
+   ]
 }

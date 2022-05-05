@@ -285,9 +285,11 @@ button.ml-2 {
   color: rgba(0, 0, 0, 0.44);
   font-size: 13px;
 }
-.input-string {
+.input-string,.paraphrase-output {
   height: 450px;
+  border-radius: 0 !important;
   width: 100%;
+  margin-bottom: -7px;
 }
 button {
   height: 40px;
@@ -310,7 +312,7 @@ button {
   height:  450px;
   width: 100%;
   margin-top: 1rem;
-  padding: 30px 20px;
+  padding: 14px 20px;
 }
 .hr-css {
   height: 7px;
@@ -328,6 +330,8 @@ a {
 }
 .counter-input, .transliteration-input {
   height: 400px;
+  margin-bottom: -7px;
+  border-radius: 0 !important;
 }
 .sup-h2 {
   font-size: 40px;
@@ -444,7 +448,7 @@ p.settings__description {
 .click_div {
   position: absolute;
   top: 250px;
-  right: -41px;
+  right: -35px;
   z-index: 9;
 }
 .eh-30{
@@ -657,7 +661,6 @@ td {
 .main_content {
   text-align: start;
   padding-left: 19px;
-  padding-bottom: 11px;
 }
 textarea {
   width: 100%;

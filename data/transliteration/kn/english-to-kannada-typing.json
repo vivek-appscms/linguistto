@@ -57,9 +57,10 @@
             "ಪಠ್ಯವನ್ನು ನಕಲಿಸಲು, 'ನಕಲು' ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಿಮಗೆ ಎಲ್ಲಿ ಬೇಕೋ ಅದನ್ನು ಅಂಟಿಸಿ."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ],"jsfilepaths":[
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
     "/js/translator.js"
-  ]
+   ]
 }

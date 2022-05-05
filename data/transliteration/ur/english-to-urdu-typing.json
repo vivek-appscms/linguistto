@@ -57,9 +57,10 @@
             "متن کاپی کرنے کے لئے، 'کاپی' کے بٹن پر کلک کریں اور اسے پیسٹ کریں جہاں آپ چاہتے ہیں."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ],"jsfilepaths":[
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
     "/js/translator.js"
-  ]
+   ]
 }

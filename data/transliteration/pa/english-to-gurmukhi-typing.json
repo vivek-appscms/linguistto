@@ -57,9 +57,10 @@
             "ਟੈਕਸਟ ਦੀ ਨਕਲ ਕਰਨ ਲਈ, 'ਕਾਪੀ ਕਰੋ' ਬਟਨ ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਇਸ ਨੂੰ ਪੇਸਟ ਕਰੋ ਜਿੱਥੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ],"jsfilepaths":[
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
     "/js/translator.js"
-  ]
+   ]
 }
