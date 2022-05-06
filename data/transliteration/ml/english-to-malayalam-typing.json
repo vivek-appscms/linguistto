@@ -57,9 +57,10 @@
             "ടെക്സ്റ്റ് പകർത്തുന്നതിന്, 'പകർത്തുക' ബട്ടൺ ക്ലിക്കുചെയ്ത് നിങ്ങൾക്ക് ആവശ്യമുള്ളിടത്ത് ഒട്ടിക്കുക."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ],"jsfilepaths":[
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
     "/js/translator.js"
-  ]
+   ]
 }

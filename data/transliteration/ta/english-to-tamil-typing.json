@@ -57,9 +57,10 @@
             "உரையை நகலெடுக்க, 'நகல்' பொத்தானைக் கிளிக் செய்து, அதை நீங்கள் விரும்பும் இடத்தில் ஒட்டவும்."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ],"jsfilepaths":[
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
     "/js/translator.js"
-  ]
+   ]
 }

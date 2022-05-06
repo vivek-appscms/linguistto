@@ -57,9 +57,10 @@
             "వచనాన్ని కాపీ చేయడానికి, 'కాపీ' బటన్ను క్లిక్ చేసి, మీకు కావలసిన చోట అతికించండి."
         ]
     },
-    "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
-    ],"jsfilepaths":[
+    "csscdns":[
+    "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+  ],
+  "jsfilepaths":[
     "/js/translator.js"
-  ]
+   ]
 }

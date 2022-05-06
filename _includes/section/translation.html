@@ -11,6 +11,7 @@
 
     .string-div p {
         color: white;
+        margin-bottom: 0 !important;
     }
 </style>
 <div class="container">
@@ -146,15 +147,4 @@
     </div>
 </div>
 <script src="https://accounts.google.com/gsi/client" async defer></script>
-<link href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.css' rel='stylesheet'>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/mode/javascript/javascript.js'></script>
 <span id="get-value" data-language="{{page.language}}"></span>
-<script>
-    var textarea1 = document.getElementById("input-string");
-    var input_editor;
-    input_editor = CodeMirror.fromTextArea(textarea1, {
-        lineNumbers: true,
-        mode: "text/x-csrc"
-    });
-</script>
