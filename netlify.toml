@@ -48,3 +48,23 @@
   to = "https://contenttool-newtools-main.netlify.app/:splat"
   force = false
   status = 200
+  
+  
+  
+[[redirects]]
+  from = "/font-styles"
+  to = "https://contenttool-fontstyles.netlify.app/"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/font-styles/sitemap.xml"
+  to = "https://contenttool-fontstyles.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/font-styles*"
+  to = "https://contenttool-fontstyles.netlify.app/font-styles/:splat"
+  force = true
+  status = 200
