@@ -179,6 +179,10 @@
     {
       "name": "All Languages Keyboards",
       "url": "/multi-lingual-keyboard/allkeyboards"
+    },
+    {
+      "name": "Custom font based text generator",
+      "url": "/font-styles"
     }
   ],
   "networkSites": [],
