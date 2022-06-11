@@ -113,6 +113,27 @@
       "color": "#a7a7cd",
       "icon": "/img/typing.svg",
       "url": "/all-typing-pages"
+    },
+    {
+      "description": "Excellent font based text generator",
+      "name": "Custom font based text generator",
+      "url": "/font-styles",
+      "color": "#0e6d6d",
+      "icon": "/img/start.svg"
+    },
+    {
+      "description": "Excellent All Languages Keyboards",
+      "name": "All Languages Keyboards",
+      "url": "/multi-lingual-keyboard/allkeyboards",
+      "color": "#33cccc",
+      "icon": "/img/typing.svg"
+    },
+    {
+      "name": "Lorem ipsum generator",
+      "url": "/lorem-ipsum-generator",
+      "description": "Free online lorem ipsum generator",
+      "color": "#33cccc",
+      "icon": "/img/typing.svg"
     }
   ]
 }
