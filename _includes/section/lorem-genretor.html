@@ -1,0 +1,57 @@
+<div class="container">
+     <div class="generator">
+          <div class="generator-head">
+               <form id="loremGenerator-form">
+                    <div class="gen-value">
+                         <input name="gen_count" id="gen_count" type="number" class="form-control" min="1" max="150"
+                              value="4">
+                    </div>
+
+                    <div>
+                         <select name="gen_options" id="loremoption" class="select">
+                              <option value="paras">paragraphs</option>
+                              <option value="words">words</option>
+                              <option value="bytes">bytes</option>
+                              <option value="lists">lists</option>
+                         </select>
+                    </div>
+                    <button type="button" id="lorem-gen-btn" onclick="OpenNewParagraph()" class="btn">generate</button>
+               </form>
+
+               <button type="button" id="copy-btn" class="btn">
+                    <span>copy</span>
+                    <i class="fa-solid fa-copy"></i>
+               </button>
+          </div>
+
+          <div class="generator-body">
+               <div class="row d-flex mt-5" id="lorem-gen-content">
+                         <p class="col-md-12 txt-secondary">Proin velit velit, vehicula at congue non, vulputate quis
+                              odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+                              curae; Integer dignissim facilisis nisl ultricies ultricies. Fusce sit amet facilisis
+                              nisl, nec tincidunt quam. Suspendisse euismod, est non tincidunt porta, lacus velit
+                              lobortis velit, rhoncus feugiat eros lectus nec orci. Nullam ac tristique odio. Duis id
+                              sem ac neque convallis mattis. Fusce ullamcorper lacus felis, sed imperdiet nisi sagittis
+                              non.</p>
+                         <p class="col-md-12 txt-secondary">Quisque nisl sapien, convallis vel pulvinar congue, pharetra
+                              id urna. In mattis porta justo eu hendrerit. Quisque eleifend eros nec lacus aliquam, a
+                              aliquet quam pellentesque. Ut at dignissim metus, vel varius erat. Duis facilisis commodo
+                              accumsan. In mi velit, consequat eu placerat pretium, placerat sed eros. Pellentesque
+                              risus diam, imperdiet fringilla dolor ut, vulputate feugiat ante. Pellentesque lacinia
+                              pellentesque mi sollicitudin feugiat. Maecenas at ultrices felis. Fusce blandit accumsan
+                              tristique. Suspendisse quis velit ut lectus molestie accumsan eget ut justo.</p>
+                         <p class="col-md-12 txt-secondary">Vestibulum at erat sed velit tempor lacinia. Vestibulum ac
+                              commodo lacus, id mattis sapien. Nullam semper dignissim ipsum, ut faucibus mi consectetur
+                              non. Nullam in blandit est, at volutpat odio. Quisque pretium quis tellus sit amet
+                              blandit. Pellentesque mattis finibus velit suscipit ullamcorper. Maecenas vitae ante sed
+                              magna lobortis tincidunt. Suspendisse mollis placerat facilisis. Ut eleifend finibus
+                              vehicula.</p>
+                         <p class="col-md-12 txt-secondary">Proin pellentesque facilisis dictum. Mauris consectetur
+                              risus nec risus iaculis, vitae ultrices urna vestibulum. Nunc interdum consequat justo,
+                              malesuada semper risus condimentum at. In et enim vulputate, porta massa tristique,
+                              faucibus mi. Integer a lacus ornare, luctus lacus nec, pulvinar ligula. Phasellus risus
+                              arcu, lobortis id finibus a, dignissim nec sem. Sed lacinia vel purus quis mattis.</p>
+               </div>
+          </div>
+     </div>
+</div>
