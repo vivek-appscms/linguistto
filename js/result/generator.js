@@ -20,7 +20,11 @@ let count = count_,
     }
    }
 };
-   
+function copyToClipboard() {
+  let copyText = document.getElementById("lorem-gen-content").textContent;
+  navigator.clipboard.writeText(copyText);
+}
+
 function getloremValues() {
   loremGenContent.innerHTML =
     '<div class="loaderarea"><img class="loader" src="/spinner-loading (1).gif" width="200px" height="150px" alt=""></div>';
