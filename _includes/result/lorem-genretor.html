@@ -1,0 +1,34 @@
+<div class = "container">
+     <div class = "generator">
+     <div class = "generator-head">
+          <form id = "loremGenerator-form">
+               <div class = "gen-value">
+                    <input name = "gen_count" id="gen_count" type = "number" class = "form-control" min = "1" max = "150" value = "4">
+               </div>
+
+               <div>
+                    <select name = "gen_options" id="loremoption" class = "select">
+                         <option value = "paras">paragraphs</option>
+                         <option value = "words">words</option>
+                         <option value = "bytes">bytes</option>
+                         <option value = "lists">lists</option>
+                    </select>
+               </div>
+               <button type = "button" id = "lorem-gen-btn" class = "btn">generate</button>
+          </form>
+
+          <button type = "button" id = "copy-btn" class = "btn">
+               <span>copy</span>
+               <i class = "fa-solid fa-copy"></i>
+          </button>
+     </div>
+
+     <div class = "generator-body">
+          <div class="row d-flex mt-5" id = "lorem-gen-content">
+               <div class="loaderarea">
+               <img class="loader" src="/spinner-loading (1).gif" width="200px" height="150px" alt="">
+               </div>
+          </div>
+     </div>
+     </div>
+</div>
