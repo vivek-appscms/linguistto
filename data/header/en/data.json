@@ -128,8 +128,20 @@
           },
           {
             "iconSrc": "/assets/img/germanblack.svg",
+              "name": "Lorem ipsum generator",
+              "url": "/lorem-ipsum-generator",
+               "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
             "name": "Random word generator",
             "url": "/random-word-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/img/black-start.svg",
+              "name": "Custom font based text generator",
+              "url": "/font-styles",
             "hover": "blue"
           }
         ]

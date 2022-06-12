@@ -1,0 +1,54 @@
+{
+     "Language": "English",
+     "htmlLangAtt": "en",
+     "h1": "Lorem ipsum generator",
+     "h2": "Online lorem ipsum generator for free",
+     "TITLE": "Free Lorem ipsum generator online tool in 2022",
+     "META": "Use our free lorem ipsum generator tool online to create dummy text used in design when creating content.",
+     "TEXTUAL_CONTENT": [
+       {
+         "priority": 1,
+         "logoUrl": "/assets/bulb.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/guaranty.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/support.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/protect.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/easy.svg",
+         "header": "",
+         "content": ""
+       },
+       {
+         "priority": 1,
+         "logoUrl": "/assets/cloud.svg",
+         "header": "",
+         "content": ""
+       }
+     ],
+   
+     "csscdns":[
+       "<link rel=\"stylesheet\" href=\"/css/generator.css\" />"
+       
+     ],
+     "jsfilepaths":[
+      "/js/generator.js"
+    ]
+   }
