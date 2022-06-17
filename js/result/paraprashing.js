@@ -6,6 +6,12 @@ document.getElementById("input-string").value = input_editor_contnet;
 //  paraprashstyle();
 //     word_count();
 // document.getElementsByClassName("typing-main-div")[0].style.display="none";
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PV4JQX539L');
 async function getInputValue() {
   let languageList = [
     "sq",
