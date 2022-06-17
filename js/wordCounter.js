@@ -39,7 +39,6 @@ input_editor.on("keyup",  function() {
   // sentence count	using ./!/? as sentense separators
   if (words) {
     var sentences = input_editor.getValue().split(/[.|!|?]+/g);
-    console.log(sentences);
     sentenceCount.innerHTML = sentences.length - 1;
   } else {
     sentenceCount.innerHTML = 0;

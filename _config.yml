@@ -29,7 +29,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
-production_google_analytics: 'UA-179965937-6'
+production_google_analytics: 'UA-225358821-2'
 development_google_analytics: ''
 disqus:
   shortname: contenttool-io
