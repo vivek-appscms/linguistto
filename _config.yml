@@ -29,9 +29,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
-production_google_analytics: 'G-PV4JQX539L'
+production_google_analytics: 'UA-179965937-6'
 development_google_analytics: ''
-disqus: 
+disqus:
   shortname: contenttool-io
 hero: product_fixed_image
 exclude:
