@@ -110,6 +110,9 @@ function transliterate_content(){
       input_editor.setValue(relt);
       document.getElementById("input-string").value= relt;
     });
+    gtag('event', 'page_view', {
+      page_location: window.location.pathname + location.search,
+    })
   setTimeout(() => {
     handleInput();
   }, 1000);

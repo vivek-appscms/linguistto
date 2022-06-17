@@ -159,6 +159,9 @@ async function paraphraseControler(string, lang) {
     }
     paraprashstyle();
     word_count();
+    gtag('event', 'page_view', {
+      page_location: window.location.pathname + location.search,
+    })
   }
 }
 getInputValue();

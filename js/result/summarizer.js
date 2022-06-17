@@ -30,6 +30,9 @@ $('#title').val(title)
         }else{
             $(".teasers").append("<p style='color:#ffc107;text-align: start;'>please add at least one sentence here</p>");
         }
+        gtag('event', 'page_view', {
+            page_location: window.location.pathname + location.search,
+          })
             $(".title").text(title);
         }
     // clipboard
