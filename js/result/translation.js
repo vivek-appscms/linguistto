@@ -33,6 +33,9 @@ async function translatecontent(){
   } else {
     console.clear()
   }
+  gtag('event', 'page_view', {
+    page_location: window.location.pathname + location.search,
+  })
 }
 async function getInputValue() {
   strOutput = []

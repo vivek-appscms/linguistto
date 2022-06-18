@@ -5,7 +5,6 @@ const loremGenContent = document.getElementById("lorem-gen-content");
 const param = new URLSearchParams(window.location.search)
 let count_ = param.get('count')
 let option_ = param.get('option')
-console.log(count_,option_)
 let count = count_,
   option = option_,
   tempLoremCount = 0,
@@ -31,6 +30,9 @@ function getloremValues() {
   count = parseInt(loremGenForm.gen_count.value);
   option = loremGenForm.gen_options.value;
   validateContent();
+  gtag('event', 'page_view', {
+    page_location: window.location.pathname + location.search,
+  })
   let url = `../lorem.json`;
   fetchContent(url);
 }

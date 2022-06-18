@@ -6,6 +6,7 @@ document.getElementById("input-string").value = input_editor_contnet;
 //  paraprashstyle();
 //     word_count();
 // document.getElementsByClassName("typing-main-div")[0].style.display="none";
+
 async function getInputValue() {
   let languageList = [
     "sq",
@@ -159,6 +160,9 @@ async function paraphraseControler(string, lang) {
     }
     paraprashstyle();
     word_count();
+    gtag('event', 'page_view', {
+      page_location: window.location.pathname + location.search,
+    })
   }
 }
 getInputValue();
