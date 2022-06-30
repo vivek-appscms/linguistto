@@ -290,6 +290,7 @@ button.ml-2 {
   border-radius: 0 !important;
   width: 100%;
   margin-bottom: -7px;
+  border:1px solid rgba(0,0,0,0.1)
 }
 button {
   height: 40px;
@@ -312,7 +313,7 @@ button {
   height:  450px;
   width: 100%;
   margin-top: 1rem;
-  padding: 14px 20px;
+  /* padding: 14px 20px; */
 }
 .hr-css {
   height: 7px;
@@ -462,7 +463,29 @@ button.click {
   padding-top: 7px;
   border-radius: 48px !important;
 }
+.paraphrase-button{
+  margin-bottom: 0;
+}
+
 @media (max-width: 768px){
+  
+  #scrollToTop{
+    display:block !important;
+padding-left: 12px;
+  }
+  #scrollToTop:hover{
+   transform: translateY(-5px);
+  }
+  button{
+    padding: 0;
+  }
+  .commonStyle{
+    padding: 0;
+    margin:0;
+  }
+  .input-string,.paraphrase-output{
+    height:350px
+  }
   .eh-30 {
     text-align: center;
     padding-right: 0 !important;
@@ -477,12 +500,20 @@ button.click {
    display: none;
 }
 
+.word-count{
+  padding: 0;
+  margin: 10px auto;
+}
 .settings__list {
     display: flex;
     justify-content: space-evenly;
 }
+
+.count-top-bar,.settings-container,.details-list,.sidebar__keywords{
+  display: none;
+}
 .setting_div {
-  display: flex;
+  display: none;
   justify-content: space-evenly;
   flex-direction: revert;
   width: 100%;
@@ -492,7 +523,7 @@ button.click {
   flex-direction: column;
 }
 .translation-copy-btn{
-  top: 300px;
+  top: 18px !important;
 }
 }
 .CodeMirror-code{
@@ -615,9 +646,26 @@ ul.details-list li {
 .setting_button i{
   color: #60a6e9;
 }
+.spinner{
+  width: 20px;
+  height: 20px;
+}
 button.convert_button {
-  border-width: 3px;
+  /* border-width: 3px; */
   text-transform: capitalize;
+  width: 120px;
+  /* height: 50px; */
+  box-shadow: unset;
+  background-color: #007bff;
+  color:#fff;
+}
+button.convert_button:active{
+  color: #007bff;
+  background-color: #007bff;
+  box-shadow: unset !important;
+}
+button.convert_button:focus{
+  box-shadow: unset !important;
 }
 .keyword__content {
   background: #fff;
@@ -625,7 +673,7 @@ button.convert_button {
   margin-top: 1px;
   display: flex;
   justify-content: center;
-  padding-top: 20px;
+  padding: 5px;
 }
 .translation-copy-btn{
   position: absolute;
@@ -652,7 +700,7 @@ td {
 }
 .string-div {
   width: 100%;
-  padding-top: 9px;
+  /* padding-top: 9px; */
   color: #fff;
   background-color: rgb(103,102,117,0.8);
   border-top-left-radius: 10px;
@@ -661,10 +709,11 @@ td {
 .main_content {
   text-align: start;
   padding-left: 19px;
+  text-transform: capitalize;
 }
 textarea {
   width: 100%;
   border-radius: 11px;
   outline: 0;
-  padding: 3%;
+  padding: 5px 15px;
 }
