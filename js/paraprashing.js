@@ -14,7 +14,7 @@ function getInputValueNext(e) {
     console.error("failed")
   } else {
     localStorage.setItem('paraprash_content', document.getElementById("input-string").value.replace(/\/$/, ""));
-    window.location = window.location.href + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
+    window.location = window.location.href + "/" + "result" + '?' + '&fileName' + "=" + btoa(fileName_);
   }
 }
 
