@@ -3,6 +3,39 @@ var input_editor_contnet = localStorage.getItem('paraprash_content');
 const getScripts_ = document.currentScript;
 const initaillanguage = getScripts_.dataset.language;
 document.getElementById("input-string").value = input_editor_contnet;
+
+function myFunction(x) {
+  if (x.matches) { // If media query matches
+    let myElement = document.querySelector('.paraphrase-output');
+    let topPos = myElement.offsetTop + 540;
+    const scrollingElement = (document.scrollingElement || document.body);
+    scrollingElement.scroll({ top: topPos, behavior: 'smooth' });
+
+
+    document.querySelector("#scrollToTop").addEventListener("click", () => {
+      const scrollingElement = (document.scrollingElement || document.body);
+      scrollingElement.scroll({ top: 0, behavior: 'smooth' });
+    })
+    document.querySelector(".convert_button").addEventListener("click", () => {
+      const scrollingElement = (document.scrollingElement || document.body);
+      scrollingElement.scroll({ top: topPos, behavior: 'smooth' });
+    })
+  }
+}
+
+var x = window.matchMedia("(max-width: 700px)")
+myFunction(x)
+x.addListener(myFunction)
+
+
+
+
+
+
+
+
+
+
 //  paraprashstyle();
 //     word_count();
 // document.getElementsByClassName("typing-main-div")[0].style.display="none";
@@ -44,9 +77,9 @@ async function getInputValue() {
   languageList[10] = initaillanguage;
   languageList[15] = initaillanguage;
   paraphraseControler(inputString, languageList);
-} 
+}
 
-function handleparaprashing(){
+function handleparaprashing() {
   let languageList = [
     "sq",
     "am",
@@ -82,21 +115,22 @@ function handleparaprashing(){
   languageList[5] = initaillanguage;
   languageList[10] = initaillanguage;
   languageList[15] = initaillanguage;
-  paraphraseControler(inputString, languageList);  
+  paraphraseControler(inputString, languageList);
 }
 //control paraphrase
 async function paraphraseControler(string, lang) {
   let paraphrase = string;
-   
+
   //for 3 output - start position, end position and option number
   showParaphrase(0, 5, 1);
   async function showParaphrase(start, end, option) {
-    document.getElementById("paraphrase-output-1").value= "paraphrasing in progress...";
+    document.getElementById("paraphrase-output-1").value = "paraphrasing in progress...";
     try {
       for (let i = start; i < end; i++) {
-        const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${
-          lang[i]
-        }&tl=${lang[i + 1]}&dt=t&q=${paraphrase}`;
+        document.querySelector('.button-txt').innerHTML = ''
+        document.querySelector(".spinner").classList.add('spinner-border')
+        const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${lang[i]
+          }&tl=${lang[i + 1]}&dt=t&q=${paraphrase}`;
         const response = await fetch(api_url);
         let data = await response.json();
         let strOutput = [];
@@ -108,6 +142,8 @@ async function paraphraseControler(string, lang) {
         }
         strOutput = strOutput.toString();
         paraphrase = strOutput.replace(/['",]+/g, "");
+        document.querySelector('.button-txt').innerHTML = 'Paraphrase'
+        document.querySelector(".spinner").classList.remove('spinner-border')
         if (i == end - 1) {
           let inputWords = document.getElementById("input-string").value
             .toLowerCase()
@@ -119,15 +155,14 @@ async function paraphraseControler(string, lang) {
               differentWordCount++;
             }
           });
-          document.getElementById("paraphrase-output-1").value=paraphrase;
-          }
+          document.getElementById("paraphrase-output-1").value = paraphrase;
+        }
       }
     } catch (error) {
       try {
         for (let i = start; i < end; i++) {
-          const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${
-            lang[i]
-          }&tl=${lang[i + 1]}&dt=t&q=${paraphrase}`;
+          const api_url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${lang[i]
+            }&tl=${lang[i + 1]}&dt=t&q=${paraphrase}`;
           const response = await fetch(api_url);
           let data = await response.json();
           let strOutput = [];
@@ -154,12 +189,13 @@ async function paraphraseControler(string, lang) {
           }
         }
       } catch (error) {
-        document.getElementById("paraphrase-output-1").value= "We are facing some issues at this time. Please try again after 20 minutes";
+        document.getElementById("paraphrase-output-1").value = "We are facing some issues at this time. Please try again after 20 minutes";
         console.log(error);
       }
     }
     paraprashstyle();
     word_count();
+
     gtag('event', 'page_view', {
       page_location: window.location.pathname + location.search,
     })
@@ -172,7 +208,7 @@ function clipboardHandler() {
   document.body.appendChild(el);
   el.select();
   document.execCommand("copy");
-  document.getElementById("copy").title="copid !"
+  document.getElementById("copy").title = "copid !"
 };
 
 // // .netlify/functions/paraphrase/
@@ -187,7 +223,7 @@ function word_count() {
   let keys = [];
   var wordcount = [];
   var tbody = document.getElementById("tbody2");
-  var wordcount = document.getElementById("paraphrase-output-1").value; 
+  var wordcount = document.getElementById("paraphrase-output-1").value;
   var token = wordcount.split(" ");
   for (let i = 0; i < token.length; i++) {
     var word = token[i].toLowerCase();

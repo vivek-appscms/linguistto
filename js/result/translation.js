@@ -3,6 +3,30 @@ var input_editor_contnet = localStorage.getItem('translation_content');
 const getScript = document.getElementById("get-value")
 const from = getScript.dataset.from
 const to = getScript.dataset.to
+const spinner = document.querySelector(".spinner")
+
+function myFunction(x) {
+  if (x.matches) { // If media query matches
+    let myElement = document.querySelector('.paraphrase-output');
+    let topPos = myElement.offsetTop + 540;
+    const scrollingElement = (document.scrollingElement || document.body);
+    scrollingElement.scroll({ top: topPos, behavior: 'smooth' });
+
+    document.querySelector("#scrollToTop").addEventListener("click", () => {
+      const scrollingElement = (document.scrollingElement || document.body);
+      scrollingElement.scroll({ top: 0, behavior: 'smooth' });
+    })
+
+    document.querySelector(".convert_button").addEventListener("click", () => {
+      const scrollingElement = (document.scrollingElement || document.body);
+      scrollingElement.scroll({ top: topPos, behavior: 'smooth' });
+    })
+  }
+}
+
+var x = window.matchMedia("(max-width: 700px)")
+myFunction(x)
+x.addListener(myFunction)
 
 async function getapi(url) {
   const response = await fetch(url)
@@ -18,8 +42,10 @@ async function getapi(url) {
   return strOutput
 }
 document.getElementById("input-string").value = input_editor_contnet;
-async function translatecontent(){
+async function translatecontent() {
   strOutput = []
+  document.querySelector('.button-txt').innerHTML = ''
+  spinner.classList.add('spinner-border')
   var inputString = document.getElementById("input-string").value
   if (inputString) {
     var outputStr = await translateFunction(inputString, from, to)
@@ -30,6 +56,8 @@ async function translatecontent(){
     document.getElementById("output-string").value = filnal_cotnent;
     paraprashstyle();
     word_count();
+    document.querySelector('.button-txt').innerHTML = 'translate'
+    spinner.classList.remove('spinner-border')
   } else {
     console.clear()
   }
@@ -75,14 +103,14 @@ getInputValue();
 // clipboard
 function clipboardHandler() {
   const el = document.createElement("textarea");
-  el.value = document.getElementById("output-string")
+  el.value = document.getElementById("output-string").value
   document.body.appendChild(el);
   el.select();
   document.execCommand("copy");
-  document.getElementById("copy").title="copid !"
+  document.getElementById("copy").title = "copid !"
 };
 setTimeout(() => {
-  document.getElementById("copy").title="copy !"
+  document.getElementById("copy").title = "copy !"
 }, 5000);
 function word_count() {
   for (let a = 0; a < document.getElementsByClassName("keyword__placeholder-text").length; a++) {
@@ -93,7 +121,7 @@ function word_count() {
   let keys = [];
   var wordcount = [];
   var tbody = document.getElementById("tbody2");
-  var wordcount =  document.getElementById("output-string").value
+  var wordcount = document.getElementById("output-string").value
   var token = wordcount.split(" ");
   for (let i = 0; i < token.length; i++) {
     var word = token[i].toLowerCase();

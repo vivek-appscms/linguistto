@@ -15,7 +15,7 @@ theme: appscms-tools-theme
 url: https://Contenttool.io
 twitter_username: Contenttool
 github_username: Contenttool
-favicon: img/favicon.png
+favicon: /img/favicon.png
 paginate: '12'
 pwa: true
 pwalogo: /picture.png
