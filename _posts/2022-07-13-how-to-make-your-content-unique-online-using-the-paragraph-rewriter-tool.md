@@ -1,10 +1,15 @@
 ---
 tags: []
 categories: []
-description: ''
+description: This article will tell you how to make your content unique online, using
+  the paragraph rewriter tool. Why is content so important? Content is one of the
+  most important parts of your website, it is what your users will interact with.
+  Smallseotool has a simple interface. All you need to do is enter your text and press
+  the "spin" button. The software will create an entirely new and unique content that
+  is similar to your original text.
 title: How to make your content unique online, using the paragraph rewriter tool?
 layout: post
-hero: ''
+hero: Balark
 image: "/uploads/output-2.png"
 comments: false
 
