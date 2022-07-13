@@ -1,10 +1,13 @@
 ---
 tags: []
 categories: []
-description: ''
+description: Why are you re-inventing the wheel? Let's face it, you have a lot of
+  work to do. So, why do you want to waste your time creating new content when you
+  can just use Smallseotools to automatically paraphrase your content and make it
+  unique? Read more here.
 title: What are the finest paraphrase tools to make your content unique?
 layout: post
-hero: ''
+hero: Balark
 image: "/uploads/output.png"
 comments: false
 
