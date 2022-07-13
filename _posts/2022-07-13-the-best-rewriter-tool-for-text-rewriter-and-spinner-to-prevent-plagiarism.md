@@ -1,10 +1,12 @@
 ---
 tags: []
 categories: []
-description: ''
+description: Smallseotools is a free online tool will help you write better, more
+  SEO friendly content in seconds, with the help of an best SEO tool that will help
+  you to write unique content. Read more to start spinning the words.
 title: The best rewriter tool for text rewriter and spinner to prevent plagiarism
 layout: post
-hero: ''
+hero: Balark
 image: "/uploads/output-7-1.png"
 comments: false
 
