@@ -37,4 +37,4 @@ const generateFile = (data) => {
       })
   })
 }
-generateFile(parseData)
+// generateFile(parseData)
