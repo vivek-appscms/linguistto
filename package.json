@@ -10,10 +10,7 @@
   "author": "Harshit Raghav",
   "license": "-",
   "devDependencies": {
-    "browser-sync": "^2.23.5",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.1.0",
-    "gulp-sass": "^3.1.0"
+    "browser-sync": "^2.23.5"
   },
   "keywords": [
     "jekyll",
@@ -25,8 +22,8 @@
   "dependencies": {
     "axios": "^0.21.4",
     "front-matter": "^4.0.2",
-    "netlify-lambda": "^2.0.15",
     "metadata-scraper": "^0.2.23",
+    "netlify-lambda": "^2.0.15",
     "txtgen": "^2.2.8",
     "url-metadata": "^2.5.0"
   }
