@@ -28,6 +28,7 @@
     "netlify-lambda": "^2.0.15",
     "metadata-scraper": "^0.2.23",
     "txtgen": "^2.2.8",
-    "url-metadata": "^2.5.0"
+    "url-metadata": "^2.5.0",
+    "fs-extra": "^10.0.1"
   }
 }
