@@ -36,18 +36,21 @@ const data = [
 // If you want iteration from last item
 
 function getCombn(data) {
-for (let i = data.length - 1; i >= 0; i--) {
-for (let j = i - 1; j >= 0; j--) {
+  for (let i = 0; i < data.length - 1; i++) {
+    // console.log(data.length)
+    // This is where you'll capture that last value
+    for (let j = i + 1; j < data.length; j++) {
       var value = `${data[i].value}`;
       var value2 = `${data[j].value}`;
       var lang = `${data[i].lang}`;
+      const nameCapitalized = value.charAt(0).toUpperCase() + value.slice(1)
       const dataToGenerate = {
         Language: "English",
         htmlLangAtt: "en",
-        h1: `${value} to ${value2} sentence translation`,
+        h1: `${nameCapitalized} to ${value2} sentence translation`,
         h2: `Enter the text and get the most accurate ${value} to ${value2} sentence or phrase translation`,
-        title: `${value} to ${value2} sentence translation | Translate your sentences online free`,
-        meta: `Translate your sentences from ${value} to ${value2} instantly for free. We have no usage limits. Try out for free !`,
+        TITLE: `${nameCapitalized} to ${value2} sentence translation | Translate your sentences online free`,
+        META: `Translate your sentences from ${value} to ${value2} instantly for free. We have no usage limits. Try out for free !`,
         imgwidth: "40px",
         imgheight: "40px",
         imgalt: "altvalue",
