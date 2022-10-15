@@ -22,7 +22,7 @@ The physical size of the film region in between the sprocket perforations dictat
 
 The Academy aperture is 22 mm 16 mm (0.866 in 0.630 in) or 1.375:1 since there is a space set aside for the conventional optical soundtrack and the frame size is shrunk to preserve an image that is wider than tall.
 
-**Why is Athe spect Ratio important?**
+**Why is aspect ratio important?**
 
 1\. **For technical reasons** - When you submit your photos online, you'll need to understand aspect ratios. For instance, when you see your Facebook profile picture on a device like your phone as opposed to your desktop, the aspect ratio would be different. The numerous social networking sites or website builders will oblige you to fit your photographs within predetermined aspect ratios as a result. You should align your profile photo's aspect ratio with their recommended one if you don't want it to appear distorted, stretched, or cropped (see our section on social media below for a list of aspect ratios a few social networking sites prefer).
 
