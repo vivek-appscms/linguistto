@@ -12,6 +12,12 @@
   to = "https://contenttool-newtools-main.netlify.app/sentences.json"
   force = true
   status = 200
+   
+[[redirects]]
+  from = "/getWords"
+  to = "https://contenttool-newtools-main.netlify.app/words.json"
+  force = true
+  status = 200
 
 [[redirects]] 
   from = "/getRandomParagraph" 
