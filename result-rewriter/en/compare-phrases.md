@@ -5,6 +5,7 @@ folderName : tool
 lang: en
 permalink: /compare-phrases/result
 sitemap: false
+tool: compare-phrases
 nointernationalization: true
 ---
 {% include result/compare-phrases.html %}
