@@ -1,7 +1,7 @@
 ---
 layout: homeResultPage
 fileName: compare-phrases
-folderName : translate
+folderName : tool
 lang: en
 permalink: /compare-phrases/result
 sitemap: false

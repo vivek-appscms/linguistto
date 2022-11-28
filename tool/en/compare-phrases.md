@@ -1,7 +1,7 @@
 ---
 layout: home
 fileName: compare-phrases
-folderName : translate
+folderName : tool
 lang: en
 permalink: /compare-phrases
 nointernationalization: true
