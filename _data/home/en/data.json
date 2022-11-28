@@ -134,6 +134,13 @@
       "description": "Free online lorem ipsum generator",
       "color": "#33cccc",
       "icon": "/img/typing.svg"
+    },
+    {
+      "name": "Text compare online",
+      "url": "/compare-phrases",
+      "description": "Free online text compare online",
+      "color": "#0e6d6d",
+      "icon": "/assets/images/rewriting.svg"
     }
   ]
 }
