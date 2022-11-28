@@ -1,0 +1,61 @@
+{
+     "Language": "English",
+     "htmlLangAtt": "en",
+     "h1": "Text compare online for free",
+     "h2": "Enter the text below and click on compare button",
+     "TITLE": "Text compare online - Compare your test online for free",
+     "META": "Meet the most incredible approach to emphasise contrasts in your writing! It is definitely a simple online tool for comparing text in the most effective way. It gives every user a hassle-free experience when comparing content online.",
+     "imgwidth": "40px",
+     "imgheight": "40px",
+     "imgalt": "altvalue",
+     "TEXTUAL_CONTENT": [
+         {
+             "priority": 1,
+             "logoUrl": "/assets/bulb.svg",
+             "header": "",
+             "content": ""
+         },
+         {
+             "priority": 1,
+             "logoUrl": "/assets/guaranty.svg",
+             "header": "",
+             "content": ""
+         },
+         {
+             "priority": 1,
+             "logoUrl": "/assets/support.svg",
+             "header": "",
+             "content": ""
+         },
+         {
+             "priority": 1,
+             "logoUrl": "/assets/protect.svg",
+             "header": "",
+             "content": ""
+         },
+         {
+             "priority": 1,
+             "logoUrl": "/assets/easy.svg",
+             "header": "",
+             "content": ""
+         },
+         {
+             "priority": 1,
+             "logoUrl": "/assets/cloud.svg",
+             "header": "",
+             "content": ""
+         }
+     ],
+     "FAQ": [
+         {
+             "question": "",
+             "answer": ""
+         }
+     ],
+     "csscdns": [
+         "<link rel=\"stylesheet\" href=\"/css/compare.css\" />"
+     ],
+     "jsfilepaths":[
+         "/js/compare.js"
+     ]
+ }
