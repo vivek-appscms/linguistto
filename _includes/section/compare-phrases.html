@@ -1,0 +1,59 @@
+<div class="container" style="     padding: 32px 20px;
+border-radius: 6px;
+box-shadow: 0 16px 24px 2px rgb(0 0 0 / 14%), 0 6px 30px 5px rgb(0 0 0 / 12%), 0 8px 10px -5px rgb(0 0 0 / 20%);">
+     <div class="alert alert-danger error" role="alert" style="display: none;">
+          please select both files ...
+     </div>
+     <div class="row">
+          <div class="col-md-6">
+               <div class="select">
+                    <button type="button" data-set="file1" class="chose active">File</button>
+                    <button type="button" data-set="url1" class="chose">Url</button>
+               </div>
+               <div class="filearea" style="display: block;" id="filearea">
+                    <div class="imd_div"><img src="/img/sprite-dashboard-icons.png" height="150" width="70" alt="">
+                    </div>
+                    <input type="file" name="firstfile" id="firstfile" accept="text/plain"
+                         style="opacity: 0;z-index: 9;">
+                    <div class="btn_div">
+                         <button type="button" class="img_button">Upload files</button>
+                    </div>
+               </div>
+               <div class="click_div"><button onclick="OpenNewParagraph()" class="click"><i style="color: white;"
+                              class="fa-solid fa-arrow-right"></i></button></div>
+               <div id="a" class="urls" style="display: none;">
+                    <div class="container">
+                         <div class="material-textfield">
+                           <input placeholder=" " type="text" id="urlfirst" onkeyup="letting()">
+                           <label>Add URL to compare</label>
+                         </div>
+                    </div>
+               </div>
+          </div>
+          <div class="col-md-6">
+               <div class="select">
+                    <button type="button" data-set="file" class="chose1 active">File</button>
+                    <button type="button" data-set="url2" class="chose1">Url</button>
+               </div>
+               <div class="filearea" id="filearea1" style="display: block;">
+                    <div class="imd_div"><img src="/img/sprite-dashboard-icons.png" height="150" width="70" alt="">
+                    </div>
+                    <input type="file" name="secondtfile" id="secondtfile" accept="text/plain"
+                         style="opacity: 0;z-index: 9;">
+                    <div class="btn_div end">
+                         <button type="button" class="img_button">Upload files</button>
+                    </div>
+               </div>
+               <div id="b" class="urls" style="display: none;">
+                    <div class="container">
+                         <div class="material-textfield">
+                           <input placeholder=" " type="text" id="urlsecond" onkeyup="letting()">
+                           <label>Add URL to compare</label>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+</div>
+<span id="getvalue" data-filename="{{page.fileName}}"></span>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
