@@ -25,7 +25,6 @@
             "url": "/multi-lingual-keyboard/allkeyboards",
             "hover": "blue"
           }
-          
         ]
       },
       {
@@ -128,9 +127,9 @@
           },
           {
             "iconSrc": "/assets/img/germanblack.svg",
-              "name": "Lorem ipsum generator",
-              "url": "/lorem-ipsum-generator",
-               "hover": "blue"
+            "name": "Lorem ipsum generator",
+            "url": "/lorem-ipsum-generator",
+            "hover": "blue"
           },
           {
             "iconSrc": "/assets/img/germanblack.svg",
@@ -140,8 +139,14 @@
           },
           {
             "iconSrc": "/img/black-start.svg",
-              "name": "Custom font based text generator",
-              "url": "/font-styles",
+            "name": "Custom font based text generator",
+            "url": "/font-styles",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/notepad-black.png",
+            "name": "Online notepad",
+            "url": "/notepad",
             "hover": "blue"
           }
         ]
