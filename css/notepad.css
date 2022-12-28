@@ -3,7 +3,6 @@
     /* position: absolute; */
     top: 0;
     z-index: 99999999;
-    width: 100vw;
     color: #fff;
     left: 0;
 }
@@ -263,14 +262,14 @@ font-weight: 700;
     display: flex;
 }
 
-.flex-container{
+/* .flex-container{
         background: #F8F9FA!important;
-} 
+}  */
 
-.navbar{
+/* .navbar{
 background: #7f9fff;
 }
 
 #navbarDropdown,.navbar-toggler{
     color:white;
-}
+} */
