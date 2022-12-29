@@ -1,3 +1,6 @@
+.catPad {
+    padding: 0px 80px !important;
+}
 @media only screen and (max-width: 768px){
     .catPad {
         padding: 0px !important;
