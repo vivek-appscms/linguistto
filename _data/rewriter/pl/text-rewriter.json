@@ -1,0 +1,55 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "h1": "Doskonałe narzędzie do pisania tekstu",
+    "h2": "Generowanie wysokiej jakości, unikatowej zawartości bez plagiatów dzięki redaktorze tekstu",
+    "TITLE": "Redriter tekstu- Doskonałe redaktor tekstu, aby przepisać dowolną treść w świeży sposób.",
+    "META": "Najlepszy redaktor tekstu do tworzenia treści unikatowych za pomocą jednego kliknięcia. Oszczędzaj czas, korzystając z najbardziej zaufanego narzędzia do pisania tekstu i przekazuj informacje w najlepszy sposób.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Prosty w obsłudze",
+            "content": "Nasze darmowe narzędzie Redriter tekstu jest bardzo proste w użyciu. Nie musisz się nawet zapisywać. Sprawia, że proces parafrazowania zdań jest prosty i prosty.\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Dokładne wyniki",
+            "content": "Nasza strona przetwarza ścieżkę audio naprawdę szybko.Wyniki są dokładne, a tym samym użytkownik jest całkowicie zadowolony"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Płytka krzyżowa",
+            "content": "Narzędzie Redriter tekstu jest kompatybilne z każdym systemem operacyjnym, takim jak Windows/Mac/Linux/Android/iPhone.\n\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Bezpieczne i godne zaufania",
+            "content": "Nie ma serwera zaangażowanego, a więc Twoje dane są bezpieczne\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Szybki i wydajny",
+            "content": "Witryna orcesses dane przechwycone naprawdę szybko i sprawnie. Możesz wykonać swoją pracę w krótkim czasie\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Żadne pliki nie są ładowane",
+            "content": "Aoolication działa w przełomie w przeglądarce bez angażowania żadnego serwera. Stąd Twoje dane są bezpieczne\n"
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-tw",
+    "h1": "免費在線泰語解釋工具",
+    "h2": "使用我們最好的在線工具重寫您的泰語內容。",
+    "TITLE": "泰語翻譯工具為每個人-免費在線重寫內容工具",
+    "META": "瞬間將您的文本轉換為泰語。要獲得您的內容的多個轉換變體，請使用這個免費的泰語解釋工具。",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+   "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "解釋工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "阿拉伯語翻譯工具",
+                        "url": "/zh-TW/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "漢語解釋工具",
+                        "url": "/zh-TW/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "丹麥語翻譯工具",
+                        "url": "/zh-TW/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "阿拉伯語翻譯工具",
+                        "url": "/zh-TW/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "英語翻譯工具",
+                        "url": "/zh-TW/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "法語翻譯工具",
+                        "url": "/zh-TW/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "解釋工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "德語解釋工具",
+                        "url": "/zh-TW/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "印地語解釋工具",
+                        "url": "/zh-TW/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "印度尼西亞語解釋工具",
+                        "url": "/zh-TW/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "意大利語解釋工具",
+                        "url": "/zh-TW/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "日語解釋工具",
+                        "url": "/zh-TW/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "韓語解釋工具",
+                        "url": "/zh-TW/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "波蘭語翻譯工具",
+                        "url": "/zh-TW/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "解釋工具",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "葡萄牙語翻譯工具",
+                        "url": "/zh-TW/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "俄語解釋工具",
+                        "url": "/zh-TW/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "西班牙語翻譯工具",
+                        "url": "/zh-TW/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "瑞典語翻譯工具",
+                        "url": "/zh-TW/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "泰語解釋工具",
+                        "url": "/zh-TW/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "土耳其語解釋工具",
+                        "url": "/zh-TW/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "烏克蘭語解釋工具",
+                        "url": "/zh-TW/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "越南語解釋工具",
+                        "url": "/zh-TW/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "易於使用",
+            "content": "這個泰語解釋工具是非常簡單的使用。首先，用户界面簡單明瞭。因為一切都在一個地方，你不必懷疑從哪裏開始。此外，我們的泰語解釋工具是無廣告的，為最終用户提供更愉快的用户體驗。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "免費",
+            "content": "我們的泰語翻譯工具是完全免費使用的。這是沒有必要付費使用我們的泰語解釋工具。要使用我們的服務，您無需註冊或登錄。在一天內，您可以解釋無限數量的文章。這也是沒有界限的。您可以選擇根據需要多次刷新內容。您可以在一個座位中重寫幾個段落。您唯一會注意到的是解釋段落所需的時間。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% 安全",
+            "content": "泰語解釋工具的數據庫在您使用時不會存儲或傳輸您的數據到任何其他來源。使用此工具的另一個好處是，您的數據仍然保密，並且您的工作質量不會受到影響。一旦您的文章被解釋，該工具將安全地當場刪除您的數據。因此，我們可以為所有客户提供完整的安全性，使我們的泰語解釋工具可靠且無風險地在任何情況下使用。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "無兼容性問題",
+            "content": "用户在使用此泰語解釋工具時不會出現兼容性問題。這個門户網站的泰語解釋工具是一個可以從任何設備訪問的在線服務。它適用於各種流行的瀏覽器，包括 Chrome 瀏覽器，Safari 瀏覽器，火狐瀏覽器，微軟邊緣等。當您使用泰語轉義工具時，它會自動調整到任何屏幕尺寸，允許您在台式計算機、平板電腦或手機上使用它，具體取決於您的喜好。您不需要購買特定的設備或安裝任何插件即可使用此在線服務來解釋您的文章。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "改進的句子結構",
+            "content": "手動解釋可能會對您的文本的可讀性產生負面影響，因為涉及的複雜性。另一方面，泰語解釋工具可能會產生不破壞材料的整體結構的句子。這個泰式的解釋工具讓讀者保持參與，並幫助你達到你想要的結果。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "獲得你的藥用結果的三種方法",
+            "content": "這個泰語解釋工具的一個偉大特點是，你可以通過三種不同的方式得到你的結果，這將它與其他解釋工具區分開來，而不是得到一個結果。您可以通過三種不同的方式重寫您的內容，並選擇其中任何一種方式使其變得非常棒。"
+        }
+    ],
+
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

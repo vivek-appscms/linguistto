@@ -1,0 +1,162 @@
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "/img/logo.svg",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "Other Tools",
+        "links": [
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "All Paraphrasing tools",
+            "url": "/all-paraphrase-pages",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "English to hindi Typing",
+            "url": "/english-to-hindi-typing",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "All Languages Keyboards",
+            "url": "/multi-lingual-keyboard/allkeyboards",
+            "hover": "blue"
+          }
+        ]
+      },
+      {
+        "categoryName": "Other Tools",
+        "links": [
+          {
+            "name": "Typing pages",
+            "iconSrc": "/assets/img/germanblack.svg",
+            "hover": "blue",
+            "url": "/all-typing-pages"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Sentence translation",
+            "url": "/sentence-translation",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Meta and title checker",
+            "url": "/meta-and-title-checker",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Random adjective generator",
+            "url": "/random-adjective-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Text difference checker",
+            "url": "/text-difference-checker",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Word count tool",
+            "url": "/word-count-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Character count tool",
+            "url": "/character-count-tool",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Paragraph Rewriter",
+            "url": "/paragraph-rewriter",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Text Rewriter",
+            "url": "/text-rewriter",
+            "hover": "blue"
+          }
+        ]
+      },
+      {
+        "categoryName": "Other Tools",
+        "links": [
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Random noun generator",
+            "url": "/random-noun-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Random paragraph generator",
+            "url": "/random-paragraph-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Random letter generator",
+            "url": "/random-letter-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Random sentence generator",
+            "url": "/random-sentence-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Serp simulator",
+            "url": "/serp-simulator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Website word count",
+            "url": "/website-word-count",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Lorem ipsum generator",
+            "url": "/lorem-ipsum-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/img/germanblack.svg",
+            "name": "Random word generator",
+            "url": "/random-word-generator",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/img/black-start.svg",
+            "name": "Custom font based text generator",
+            "url": "/font-styles",
+            "hover": "blue"
+          },
+          {
+            "iconSrc": "/assets/notepad-black.png",
+            "name": "Online notepad",
+            "url": "/notepad",
+            "hover": "blue"
+          }
+        ]
+      }
+    ]
+  },
+  "navItems": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ]
+}

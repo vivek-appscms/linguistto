@@ -1,0 +1,140 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Andra verktyg",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Alla parafraseringsverktyg",
+                         "url": "/sv/all-paraphrase-pages",
+                        "hover": "blue"
+                    },
+                 
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Swedish to hindi Typing",
+                        "url": "/sv/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Swedish to bangla Typing",
+                        "url": "/sv/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                  
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verktyg för antal ord",
+                        "url": "/sv/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Verktyg för antal tecken",
+                        "url": "/sv/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Omskrivning av stycke",
+                        "url": "/sv/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Text Rewriter",
+                        "url": "/sv/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Andra verktyg",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Översättning av mening",
+                        "url": "/sv/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Meta- och titelkontroll",
+                        "url": "/sv/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig adjektiv generator",
+                        "url": "/sv/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Textskillnadskontroll",
+                        "url": "/sv/text-difference-checker",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Andra verktyg",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig substantiv generator",
+                        "url": "/sv/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig punkt",
+                        "url": "/sv/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig generator",
+                        "url": "/sv/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Slumpmässig mening",
+                        "url": "/sv/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Serp simulator",
+                        "url": "/sv/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Ordräkning på webbplatsen",
+                        "url": "/sv/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Random ordgenerator",
+                        "url": "/sv/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

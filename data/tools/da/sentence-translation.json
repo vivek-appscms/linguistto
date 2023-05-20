@@ -1,0 +1,15 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "h1": "Liste over oversættelser",
+    "h2": "",
+    "TITLE": "Contenttool - Smarteste værktøjer til indhold fagfolk",
+    "META": "Tæl ord i din kopierede tekst eller som din type. Få øjeblikkelige og præcise resultater",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/word-counter.css\" />"
+    ]
+}

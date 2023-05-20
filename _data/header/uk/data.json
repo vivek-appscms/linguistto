@@ -1,0 +1,141 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Всі інструменти для перефразування",
+                        "url": "/uk/all-paraphrase-pages",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "англійська —> хінді Набір тексту",
+                        "url": "/uk/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "англійська —> бангла Набір тексту",
+                        "url": "/uk/bangla-transliteration-tool",
+                        "hover": "blue"
+                    },
+                  
+                    
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент підрахунку слів",
+                        "url": "/uk/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Інструмент «Кількість символів»",
+                        "url": "/uk/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Переавтор абзацу",
+                        "url": "/uk/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Текст Рерайтер",
+                        "url": "/uk/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Переклад речення",
+                        "url": "/uk/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Мета і перевірка заголовків",
+                        "url": "/uk/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових прикметників",
+                        "url": "/uk/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Перевірка різниці тексту",
+                        "url": "/uk/text-difference-checker",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових іменників",
+                        "url": "/uk/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових пунктів",
+                        "url": "/uk/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових листів",
+                        "url": "/uk/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових речень",
+                        "url": "/uk/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Serp симулятор",
+                        "url": "/uk/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Кількість слів сайту",
+                        "url": "/uk/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Генератор випадкових слів",
+                        "url": "/uk/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Блог",
+            "url": "/blog"
+        }
+    ]
+}

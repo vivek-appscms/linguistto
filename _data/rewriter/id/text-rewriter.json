@@ -1,0 +1,55 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "h1": "Alat rewriter teks yang sangat baik",
+    "h2": "Menghasilkan konten unik berkualitas tinggi dan bebas plagiarisme dengan rewriter teks",
+    "TITLE": "Rewriter teks- Sempurna rewriter teks untuk menulis ulang konten apa pun dengan cara yang segar.",
+    "META": "Rewriter teks terbaik untuk membuat konten Anda unik hanya dalam satu klik. Hemat waktu Anda dengan menggunakan alat rewriter teks yang paling tepercaya dan sampaikan informasi dengan cara terbaik.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Mudah digunakan",
+            "content": "Alat Rewriter Teks gratis kami sangat mudah digunakan. Anda bahkan tidak perlu mendaftar. Itu membuat proses parafrase kalimat mudah dan sederhana.\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Hasil yang akurat",
+            "content": "Situs kami memproses track audio Anda benar-benar cepat. Hasilnya akurat dan karenanya pengguna benar-benar puas"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Cross-plateform",
+            "content": "Alat Rewriter teks kompatibel dengan sistem operasi apa pun, seperti Windows/Mac/Linux/Android/iPhone.\n\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Aman dan dapat dipercaya",
+            "content": "Tidak ada server yang terlibat dan karenanya data Anda aman\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Cepat dan efisien",
+            "content": "Situs ini orocesses data yang ditangkap sangat cepat dan efisien. Anda bisa menyelesaikan pekerjaan Anda dalam waktu singkat\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tidak ada file yang uoloaded",
+            "content": "Aoolication bekerja comoletely di browser Anda tanpa melibatkan server apa pun. Oleh karena itu data Anda aman\n"
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

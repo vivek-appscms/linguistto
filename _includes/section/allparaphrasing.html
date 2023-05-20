@@ -1,0 +1,10 @@
+{% assign boxColor = site.data.allparaphrasing.[page.lang].allparaphrasing.links %}
+<ul class="sup-ul row col-md-12">
+  {% for object in boxColor %}
+  <li class="col-md-3 conver-list">
+      <a href="{{object.url}}">
+        {{ object.name }}
+      </a>
+  </li>
+  {% endfor %}
+</ul>

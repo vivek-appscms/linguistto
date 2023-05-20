@@ -1,0 +1,55 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "h1": "Utmärkt verktyg för textrewriter",
+    "h2": "Generera högkvalitativt, plagiarismfritt unikt innehåll med textrewriter",
+    "TITLE": "Text rewriter- Perfekt text rewriter för att skriva om något innehåll på ett nytt sätt.",
+    "META": "Bästa textrewriter för att göra ditt innehåll unikt med bara ett klick. Spara tid genom att använda det mest betrodda textrewriter-verktyget och förmedla information på bästa sätt.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Enkel att använda",
+            "content": "Vår fria Text Rewriter verktyg är mycket enkel att använda. Du behöver inte ens registrera dig. Det gör processen att parafrasera meningarna enkelt och enkelt.\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Exakta resultat",
+            "content": "Vår webbplats behandlar ditt ljudspår riktigt snabbt.Resultaten är korrekta och därmed användaren är helt nöjd"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Tvärplattformsform",
+            "content": "Text Rewriter verktyg är kompatibelt med alla operativsystem, som Windows/Mac/Linux/Android/iPhone.\n\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Säker och pålitlig",
+            "content": "Det finns ingen server inblandad och därför är dina data säkra\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Snabbt och effektivt",
+            "content": "Webbplatsen orocesses de data som fångas riktigt snabbt och effektivt. Du kan få jobbet gjort på nolltid\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Inga filer är uoloaded",
+            "content": "Aoolication fungerar komoletely på din webbläsare utan att involvera någon server. Därför är dina data säkra\n"
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

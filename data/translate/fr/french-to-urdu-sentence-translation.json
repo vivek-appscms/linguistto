@@ -1,0 +1,73 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "h1": "traduction de phrase français vers ourdou",
+    "h2": "Meilleure traduction de phrases en ligne",
+    "TITLE": "Traduction de phrases du français vers l'ourdou | Traduisez vos phrases en ligne gratuitement",
+    "META": "Traduisez vos phrases du français vers l'ourdou instantanément et gratuitement. Nous n'avons aucune limite d'utilisation. Essayez-le gratuitement !",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Traduction instantanée du français vers l'ourdou",
+            "content": "cet outil vous présente une base de données complète pour comprendre instantanément la traduction du français vers l'ourdou. Pour un résultat rapide et précis, tapez simplement la phrase dans le convertisseur de phrases et obtenez le résultat du bout des doigts avec une structure grammaticale correcte."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "traduction français vers ourdou en ligne",
+            "content": "Faites traduire votre contenu en ligne du français vers l'ourdou. Comprenez le texte en langue étrangère immédiatement, sans temps ni effort."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Traducteur de phrases français vers ourdou en quelques étapes",
+            "content": "C'est plus facile que tu ne le pensais. Copiez simplement votre pharagraph et obtenez la traduction du français vers l'ourdou en quelques secondes."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "traduction gratuite en ligne du français vers l'ourdou",
+            "content": "Traducteur en ligne gratuit pour économiser votre temps et votre argent pour traduire le français en ourdou. Nous avons insisté sur le fait que le sens et les émotions ne doivent pas être perdus lors de la traduction du texte dans une autre langue."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Obtenez des résultats rapides et souhaités du français vers l'ourdou",
+            "content": "Traducteur en ligne du français vers l'ourdou pour professionnaliser votre article comme un article natif. Sentence Translation a été spécialement conçu pour faire comprendre le message dans n'importe quelle langue"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Cet outil est compétent en traducteurs de phrases du français vers l'ourdou.",
+            "content": "Prise en compte des éléments culturels et linguistiques pour la traduction des phrases du français vers l'ourdou. Il ne se contente pas de traduire une phrase, il affine davantage le contenu pour s'adapter à différents publics."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Traduction de phrases du français vers l'ourdou pour rendre votre contenu professionnel",
+            "content": "Outil de traduction de phrases multilingue pour traduire des phrases dans n'importe quelle langue, que ce soit du français vers l'ourdou. Tapez simplement la phrase dans le convertisseur de phrases et obtenez le résultat du bout des doigts avec une structure grammaticale correcte."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Cet outil avancé convertit des articles, des histoires et des poèmes en français en ourdou sans perdre de sens et d'émotion lors de la traduction du texte dans une autre langue.",
+            "content": "Soit il s'agit d'articles ou d'histoires que nous traduisons du français en ourdou. Cet outil ne traduit pas mot par mot. Avec un logiciel de prise de décision intelligent, il décide quels mots utiliser et lesquels ne pas tenir compte. Nous avons insisté sur le fait que le sens et les émotions ne doivent pas être perdus lors de la traduction du texte dans une autre langue."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Nous traduisons les citations du français en ourdou, et vice versa, tout en gardant le sens inchangé.",
+            "content": "Parfois, les citations changent au moment du passage du français à l'ourdou. L'objet de la traduction de phrases est précisément de conserver le vrai sens inchangé. Avec l'IA avancée, elle ne se contente pas de traduire les phrases, elle affine davantage le contenu pour s'adapter à différents publics."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
+    ]
+}

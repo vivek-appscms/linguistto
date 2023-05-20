@@ -1,0 +1,58 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Best Online Notepad to Keep Your Ideas Safe",
+  "img": "/assets/notepad.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
+  "variant": "primary",
+  "Keywords": "online notepad",
+  "H2": "Free Online Notepad Write Notes, Share Ideas with this Free Tool",
+  "Title": "Innovative Online Notepad with Collaborative Editing",
+  "META": "This Tool is a free collaborative notepad for your browser. It supports rich text editor and a todo list",
+  "BREADCRUMB_LABEL": "",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "",
+      "content": ""
+    }
+  ],
+
+  "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "jscdns": [
+    "<script src=\"/js/notepad.js\"></script>",
+    "<script src=\"https://cdn.ckeditor.com/4.20.0/standard/ckeditor.js\"></script>"
+  ],
+  "cssfilepaths": ["/css/notepad.css"]
+}

@@ -1,0 +1,80 @@
+[build]
+  functions = "functions" 
+  
+[[redirects]]
+  from = "/newtoolsapi/*"
+  to = "https://contenttool-newtools-main.netlify.app/.netlify/functions/:splat"
+  force = true
+  status = 200  
+   
+[[redirects]]
+  from = "/getSentencess"
+  to = "https://contenttool-newtools-main.netlify.app/sentences.json"
+  force = true
+  status = 200
+   
+[[redirects]]
+  from = "/getWords"
+  to = "https://contenttool-newtools-main.netlify.app/words.json"
+  force = true
+  status = 200
+
+[[redirects]] 
+  from = "/getRandomParagraph" 
+  to = "https://contenttool-newtools-main.netlify.app/paragraph.json" 
+  force = true 
+  status = 200
+  
+  
+
+[[redirects]]
+  from = "/font-styles"
+  to = "https://contenttool-fontstyles.netlify.app/"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/font-styles/sitemap.xml"
+  to = "https://contenttool-fontstyles.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/font-styles*"
+  to = "https://contenttool-fontstyles.netlify.app/font-styles/:splat"
+  force = true
+  status = 200  
+  
+
+[[redirects]]
+  from = "/multi-lingual-keyboard"
+  to = "https://keyboard-main.netlify.app/allkeyboards"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/multi-lingual-keyboard/sitemap.xml"
+  to = "https://keyboard-main.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/multi-lingual-keyboard*"
+  to = "https://keyboard-main.netlify.app/multi-lingual-keyboard/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/tools/sitemap.xml"
+  to = "https://contenttool-newtools-main.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "https://contenttool-newtools-main.netlify.app/:splat"
+  force = false
+  status = 200
+  
+  
+  

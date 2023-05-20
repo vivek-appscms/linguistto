@@ -1,0 +1,55 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "h1": "Uitstekende tool voor tekstherschrijver",
+    "h2": "Genereer unieke inhoud van hoge kwaliteit, plagiaatvrij met tekstherschrijver",
+    "TITLE": "Tekstreverschrijver- Perfecte tekstherschrijver om inhoud op een nieuwe manier te herschrijven.",
+    "META": "Beste tekstherschrijver om uw inhoud uniek te maken met slechts één klik. Bespaar tijd door de meest vertrouwde tekstrewritertool te gebruiken en informatie op de beste manier over te brengen.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Eenvoudig te gebruiken",
+            "content": "Onze gratis tool voor tekstrewriter is heel eenvoudig te gebruiken. Je hoeft je niet eens aan te melden. Het maakt het proces van parafraseren van de zinnen eenvoudig en eenvoudig.\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Nauwkeurige resultaten",
+            "content": "Onze site verwerkt uw audiotrack heel snel. De resultaten zijn nauwkeurig en daarom is de gebruiker volledig tevreden"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Cross-plate vorm",
+            "content": "Tekstrewriter-tool is compatibel met elk besturingssysteem, zoals Windows/Mac/Linux/Android/iPhone.\n\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Veilig en betrouwbaar",
+            "content": "Er is geen server bij betrokken en daarom zijn uw gegevens veilig\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Snel en efficiënt",
+            "content": "De site verwerkt de vastgelegde gegevens heel snel en efficiënt. Je kunt je werk in een mum van tijd klaren\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Er worden geen bestanden geüpload",
+            "content": "De applicatie werkt volledig in je browser zonder dat er een server bij betrokken is. Vandaar dat uw gegevens veilig zijn\n"
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

@@ -1,0 +1,274 @@
+.body-container{
+    /* position: absolute; */
+    top: 0;
+    z-index: 99999999;
+    color: #fff;
+    left: 0;
+}
+
+#select-editor{
+    margin-bottom: 10px;
+}
+#note-title{
+    display: block;
+    width:100%
+}
+
+.plain-text{
+    margin: 10px;
+}
+
+#btn-submit{
+border: none;
+border-radius: 10px;
+width: 100px;
+margin:20px;
+}
+
+.savedData {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 50%;
+    margin:10px;
+    height: 300px;
+}
+
+textarea{
+    width:72%;
+    border-radius: 10px;
+    border: 2px solid rgba(0,0,0,0.1);
+}
+ 
+.task-save , .task-delete{
+    background-attachment: fixed;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: 960px 24px;
+    margin-left: 5px;
+    cursor:"pointer"
+
+}
+
+#taskList {
+    background-color: #fff;
+    min-height: 200px;
+    width:100%;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+.task-text{
+    color:#9fa1aa
+}
+
+.task-item .task-checkbox{
+    width: 18px;
+    height: 18px;
+    margin: 3px 5px 0 5px!important;
+}
+
+.task-item .task-text {
+    border: 0;
+    display: inline-block;
+    margin-left: 5px;
+    padding: 2px 5px;
+    flex: 1;
+    outline: none;
+    border-bottom: 1px solid transparent;
+    font-size: 16px;
+    width: 92%;
+}
+
+.dataBtn{
+    display: flex;
+    margin: 10px 10px 0px 10px;
+
+}
+
+.notepad-img{
+    width:25px;
+    height:25px;
+}
+
+.key{
+    width:auto;
+    height:24px;
+    color: rgb(153, 153, 245)
+}
+
+.keyList {
+display: flex;
+flex-wrap: wrap;
+text-decoration: none;
+padding: 0px;
+margin: 0px;
+}
+
+#lbl-saved-notes{
+    color:rgb(17, 0, 0)
+}
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-top: 4px solid;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    color:#4684C0;
+}
+
+.dropdown-content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+    position: absolute;
+    top: -26px;
+    left: 0;
+    float: left;
+    min-width: 150px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+    box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+}
+
+.share-content{
+position: absolute;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+    position: absolute;
+    top: 90px;
+    left: 325px;
+    float: left;
+    min-width: 150px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+    box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+}
+
+
+.dropdown-content > a ,.content-edit > a{
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}
+.dropdown-content > a:hover {
+    background-color: #4684C0;
+  
+}
+
+.content-edit > a:hover {
+    background-color: #4684C0;
+  
+}
+
+.content-edit{
+    position: absolute;
+    flex-direction: column;
+    -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+    box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+    z-index: 1000;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    min-width: 150px;
+    left: -4px;
+    top: 28px;
+}
+
+.icon{
+   color: #bbabab;
+   margin-left: 10px;
+}
+
+.options{
+    display: flex;
+}
+
+#import-label{
+    font-weight: 700;
+}
+
+
+.option-lbl{
+color:#4684C0;
+font-weight: 700;
+
+}
+
+
+.option-panel{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* .option-lbl:hover{
+    background-color: #4684C0;
+    color:white
+} */
+
+.modal-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal-body >input {
+    width: 100px;
+
+}
+
+.social-site{
+    color:#4684C0
+}
+
+.share-content{
+    display: none;
+}
+.social-site:hover{
+    background-color:#4684C0;
+    color:white
+}
+
+.option-lbl:hover .share-content{
+    display: flex;
+}
+
+/* .flex-container{
+        background: #F8F9FA!important;
+}  */
+
+/* .navbar{
+background: #7f9fff;
+}
+
+#navbarDropdown,.navbar-toggler{
+    color:white;
+} */

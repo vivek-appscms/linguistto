@@ -1,0 +1,70 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "h1": "Verktyg för antal tecken",
+    "h2": "",
+    "TITLE": "Gratis teckentäkningsverktyg, inga användningsgränser - Contenttool - Smartaste verktygen för innehållsproffs",
+    "META": "Räkna tecken i den kopierade texten eller som din typ. Få omedelbara och korrekta resultat.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Lätt att veta om din artikel karaktärsräkning online",
+            "content": "Kopiera din artikel från ditt dokument och få ditt resultat direkt karaktärsräkning."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Funktionen i vår karaktärsräkning?",
+            "content": "Teckenräkningsmetoden är ganska lätt att använda. Du kan skriva texten direkt i rutan. Eller om du använder en teckenbehandlare eller en onlineapplikation, till exempel Google-dokument, för att skriva ditt verk, kan du enkelt kopiera och klistra in den i en textruta."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "När transalering är inte tillräckligt för din artikel, Det letar efter exakt karaktär",
+            "content": "du kan gå för karaktärsräknare där du kan veta om längden på din artikel med 100% noggrannhet karaktär räkna"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Gratis teckentäkning online i några få steg",
+            "content": "Kopiera din mening i karaktärsräkning och få ditt resultat."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Det gör det lättare att känna till dina gränser i karaktärsräkna i nätet",
+            "content": "Det finns vanligtvis gränser eller miniminivåer för läxor. Detsamma gäller ofta för college ansökningar. Att följa dessa kan ha en stor inverkan på hur detta skrivande graderas och granskas, och det visar om du har möjlighet att följa grundläggande riktningar. teckenräknare kan se till att du inte av misstag gå över gränser eller misslyckas med att uppfylla miniminivåer som kan vara skadliga för dessa uppdrag."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Räkning av fri karaktär och snabbt resultat i bara några steg",
+            "content": "Vi ger 100% noggrannhet med snabbt resultat bara kopiera din text och få ditt omedelbart resultat i teckentäkning"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Kontrollera ditt CV att det har relevant teckenantal",
+            "content": "Att känna till antalet tecken i ditt CV kan vara nödvändigt för arbetssökande att få alla detaljer du vill ha på en enda sida."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "När din tweet-bildtext letar efter exakt karaktär är du på rätt plats",
+            "content": "Twitters karaktärsbegränsning är en holdover från appens tidiga dagar medan tweets har skickats som texter, som hade varit begränsade till hundra sextio tecken. Man har tänkt på den verklighet som framträder som en av produktens definierande egenskaper."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "teckenträkning introduktion",
+            "content": "Character Counter är en 100% gratis online karaktärsräknare som är lätt att använda. Ofta människor väljer bekvämlighet till alla omfattande skrivdetaljer som Word Counter ger, och det är precis vad det här verktyget ger. Det anger antalet tecken och antalet meningar, vilket alltid är den enda detalj en person vill veta om sitt skrivande. Bäst av allt kommer du att få den kunskap du behöver."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Language": "தமிழ்",
+    "htmlLangAtt": "te",
+    "h1": "అనువాదాల జాబితా",
+    "h2": "",
+    "TITLE": "Contenttool - కంటెంట్ నిపుణుల కోసం స్మార్ట్ టూల్స్",
+    "META": "మీ కాపీ చేసిన వచనంలో లేదా మీ రకంగా పదాలను లెక్కించండి. తక్షణ మరియు ఖచ్చితమైన ఫలితాలను పొందండి",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
+    ]
+}

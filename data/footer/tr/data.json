@@ -1,0 +1,143 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "Hakkında",
+            "url": "/about"
+        },
+        {
+            "name": "Şartlar ve koşullar",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Yardım",
+            "url": "/help"
+        },
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Tüm Paraphrasing araçları",
+            "url": "/tr/all-paraphrase-pages"
+        },
+        {
+            "name": "Çevriyazım aracı",
+            "url": "/tr/english-to-hindi-typing "
+        },
+        {
+            "name": "Yazma sayfaları",
+            "url": "/tr/all-typing-pages"
+        },
+        {
+            "name": "Turkish to bangla Typing",
+            "url": "/tr/bangla-transliteration-tool"
+        },
+        {
+            "name": "Kelime sayımı aracı",
+            "url": "/tr/word-count-tool"
+        },
+        {
+            "name": "Karakter sayımı aracı",
+            "url": "/tr/character-count-tool"
+        },
+        {
+            "name": "Cümle çeviri",
+            "url": "/tr/sentence-translation"
+        },
+        {
+            "name": "Meta ve başlık denetleyicisi",
+            "url": "/tr/meta-and-title-checker"
+        },
+        {
+            "name": "Rastgele sıfat jeneratörü",
+            "url": "/tr/random-adjective-generator"
+        },
+        {
+            "name": "Metin farkı denetleyicisi",
+            "url": "/tr/text-difference-checker"
+        },
+        {
+            "name": "Rastgele isim jeneratörü",
+            "url": "/tr/random-noun-generator"
+        },
+        {
+            "name": "Rastgele paragraf üreteci",
+            "url": "/tr/random-paragraph-generator"
+        },
+        {
+            "name": "Rastgele harf üreteci",
+            "url": "/tr/random-letter-generator"
+        },
+        {
+            "name": "Rastgele cümle üreteci",
+            "url": "/tr/random-sentence-generator"
+        },
+        {
+            "name": "Serp simülatörü",
+            "url": "/tr/serp-simulator"
+        },
+        {
+            "name": "Web sitesi sözcük sayısı",
+            "url": "/tr/website-word-count"
+        },
+        {
+            "name": "Rastgele kelime üreteci",
+            "url": "/tr/random-word-generator"
+        },
+        {
+            "name": "Paragraf Yeniden Yazıcısı",
+            "url": "/tr/paragraph-rewriter"
+        },
+        {
+            "name": "Metin Yeniden Yazıcı",
+            "url": "/tr/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Şartlar ve koşullar",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Gizlilik Politikası",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Bize Ulaşın",
+            "url": "/contact"
+        }
+    ]
+}

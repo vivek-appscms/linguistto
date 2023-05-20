@@ -1,0 +1,143 @@
+{
+    "logo": "/img/logo.svg",
+    "heading": "",
+    "company": [
+        {
+            "name": "Sobre",
+            "url": "/about"
+        },
+        {
+            "name": "Términos y condiciones",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Ayudar",
+            "url": "/help"
+        },
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "product": [
+        {
+            "name": "Todas las herramientas de paráfrasis",
+            "url": "/es/all-paraphrase-pages"
+        },
+        {
+            "name": "Herramienta de transliteración",
+            "url": "/es/english-to-hindi-typing "
+        },
+        {
+            "name": "Páginas de escritura",
+            "url": "/es/all-typing-pages"
+        },
+        {
+            "name": "Escritura de inglés a bengalí",
+            "url": "/es/bangla-transliteration-tool"
+        },
+        {
+            "name": "Herramienta de recuento de palabras",
+            "url": "/es/word-count-tool"
+        },
+        {
+            "name": "Herramienta de recuento de caracteres",
+            "url": "/es/character-count-tool"
+        },
+        {
+            "name": "Traducción de oraciones",
+            "url": "/es/sentence-translation"
+        },
+        {
+            "name": "Comprobador de meta y título",
+            "url": "/es/meta-and-title-checker"
+        },
+        {
+            "name": "Generador de adjetivos aleatorios",
+            "url": "/es/random-adjective-generator"
+        },
+        {
+            "name": "Comprobador de diferencias de texto",
+            "url": "/es/text-difference-checker"
+        },
+        {
+            "name": "Generador de sustantivos aleatorios",
+            "url": "/es/random-noun-generator"
+        },
+        {
+            "name": "Generador de párrafos aleatorios",
+            "url": "/es/random-paragraph-generator"
+        },
+        {
+            "name": "Generador de letras aleatorias",
+            "url": "/es/random-letter-generator"
+        },
+        {
+            "name": "Generador de oraciones aleatorias",
+            "url": "/es/random-sentence-generator"
+        },
+        {
+            "name": "Simulador de serp",
+            "url": "/es/serp-simulator"
+        },
+        {
+            "name": "Recuento de palabras en",
+            "url": "/es/website-word-count"
+        },
+        {
+            "name": "Generador de palabras aleatorias",
+            "url": "/es/random-word-generator"
+        },
+        {
+            "name": "Regrabadora de párrafos",
+            "url": "/es/paragraph-rewriter"
+        },
+        {
+            "name": "Regrabadora de texto",
+            "url": "/es/text-rewriter"
+        }
+    ],
+    "networkSites": [],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": "Copyright © 2020 All rights reserved to Contenttool",
+    "legal": [
+        {
+            "name": "Términos y condiciones",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Política de privacidad",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Contacte con nosotros",
+            "url": "/contact"
+        }
+    ]
+}

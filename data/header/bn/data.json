@@ -1,0 +1,139 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "অপব্যবহার টুল",
+                "links": [
+                   
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "বাংলা থেকে হিন্দি টাইপিং",
+                        "url": "/bn/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "বাংলা থেকে বাংলা টাইপিং",
+                        "url": "/bn/bangla-transliteration-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "অন্যান্য সরঞ্জাম",
+                "links": [
+                    {
+                        "name": "টাইপিং পৃষ্ঠা",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/bn/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "বাক্য অনুবাদ",
+                        "url": "/bn/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "মেটা এবং শিরোনাম পরীক্ষক",
+                        "url": "/bn/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "র্যান্ডম বিশেষণ জেনারেটর",
+                        "url": "/bn/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "টেক্সট পার্থক্য পরীক্ষক",
+                        "url": "/bn/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "শব্দ গণনা টুল",
+                        "url": "/bn/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ক্যারেক্টার গণনা টুল",
+                        "url": "/bn/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "অনুচ্ছেদ রিরাইটার",
+                        "url": "/bn/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "টেক্সট রিরাইটার",
+                        "url": "/bn/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "অন্যান্য সরঞ্জাম",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "র্যান্ডম নাম জেনারেটর",
+                        "url": "/bn/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "এলোমেলো অনুচ্ছেদ",
+                        "url": "/bn/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "র্যান্ডম পত্র জেনারেটর",
+                        "url": "/bn/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "র্যান্ডম বাক্য উৎপাদক",
+                        "url": "/bn/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "সার্প সিমুলেটর",
+                        "url": "/bn/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ওয়েবসাইট শব্দ গণনা",
+                        "url": "/bn/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "র্যান্ডম শব্দ জেনারেটর",
+                        "url": "/bn/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "ব্লগ",
+            "url": "/blog"
+        }
+    ]
+}

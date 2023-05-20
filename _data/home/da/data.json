@@ -1,0 +1,118 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "h1": "Smarteste værktøjer til Content forfattere",
+    "h2": "Flersprogede værktøjer til omskrivning af indhold, sætning oversættelse og translitteration baserede skriveværktøjer.",
+    "TITLE": "Contenttool - Smarteste værktøjer til indhold fagfolk",
+    "META": "ContentTools.io giver smarteste værktøjer til daglig brug af indhold fagfolk.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "Omskrivning værktøj",
+            "description": "Omskrivning værktøj til fagfolk",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/da/paraphrasing-tool"
+        },
+        {
+            "name": "Tysk parafrase værktøj",
+            "description": "Tysk omskrivning værktøj til fagfolk",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/da/german-paraphrase-tool"
+        },
+        {
+            "name": "Hindi Parafrase værktøj",
+            "description": "Hindi omskrivning værktøj til fagfolk",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/da/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Alle omskrivning værktøjer",
+            "url": "/da/all-paraphrase-pages",
+            "description": "Alle omskrivning værktøjer til fagfolk",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
+            "name": "spansk-parafrase-værktøj",
+            "description": "Spansk omskrivning værktøj til fagfolk",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/da/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Russisk Parafrase værktøj",
+            "description": "Russisk omskrivning værktøj til fagfolk",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/da/russian-paraphrase-tool"
+        },
+        {
+            "name": "Værktøjet Transliteration",
+            "description": "Engelsk til hindi Typing",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/da/english-to-hindi-typing"
+        },
+        {
+            "name": "Engelsk to bangla Typing",
+            "description": "Online engelsk til Bangla Indtastning",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/da/bangla-transliteration-tool"
+        },
+        {
+            "name": "Værktøjet Word tæller",
+            "description": "Værktøj til online ordtælling",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg ",
+            "url": "/da/word-count-tool"
+        },
+        {
+            "name": "Værktøjet Tæller",
+            "description": "Værktøjet Online antal tegn",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/da/character-count-tool"
+        },
+        {
+            "name": "Sætning oversættelse",
+            "description": "Online X til Y sætning oversættelse",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/da/sentence-translation"
+        },
+        {
+            "name": "Resume generator",
+            "description": "Bedste gratis online resumé generator",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/da/summary-generator"
+        },
+        {
+            "name": "Afsnit brænder",
+            "description": "online afsnit brænder for kvalitetsindhold",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/da/paragraph-rewriter"
+        },
+        {
+            "name": "Tekst brænder",
+            "description": "Fremragende tekst omskriver værktøj",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/da/text-rewriter"
+        },
+        {
+            "name": "Indtastning af sider",
+            "description": "Fremragende Typing værktøj",
+            "color": "#a7a7cd",
+            "icon": "/img/typing.svg",
+            "url": "/da/all-typing-pages"
+        }
+    ]
+}

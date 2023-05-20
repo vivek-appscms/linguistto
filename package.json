@@ -1,24 +1,16 @@
 {
-  "name": "Appscms",
-  "version": "1.0",
-  "description": "CMS for Mobile APPs",
-  "main": "gulpfile.js",
+  "name": "linguistto-1",
+  "version": "1.0.0",
+  "description": "Contenttool.io website",
+  "main": "createentry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Harshit Raghav",
-  "license": "-",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0",
-    "browser-sync": "^2.23.5",
-    "gulp-autoprefixer": "^4.1.0"
-  },
-  "keywords": [
-    "jekyll",
-    "gulp",
-    "sass",
-    "browsersync"
-  ],
-  "homepage": "https://appscms.com"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1"
+  }
 }

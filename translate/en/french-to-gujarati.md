@@ -1,0 +1,14 @@
+---
+layout: home
+fileName: french-to-gujarati-sentence-translation
+translatein: french_to_gujarati
+folderName : translate
+lang: en
+from: fr
+to: gu
+langname: french-to
+permalink: /french-to-gujarati-sentence-translation
+tool: sentence-translations
+matchurls: en&&fr&&gu
+---
+{% include section/translateinto.html %}

@@ -1,0 +1,202 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "h1": "무료 온라인 폴란드어 의역 도구",
+    "h2": "최고의 온라인 도구를 사용하여 폴란드어 콘텐츠를 다시 작성하세요.",
+    "TITLE": "모두를위한 폴란드어 의역 도구 - 콘텐츠 재 작성을위한 무료 온라인 도구",
+    "META": "텍스트를 바꿔 즉시 다듬어 보세요.콘텐츠의 여러 변종을 얻으려면이 무료 폴란드어 의역 도구를 사용하십시오.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+"megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "의역 도구",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "아랍어 의역 도구",
+                        "url": "/ko/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "중국어 의역 도구",
+                        "url": "/ko/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "덴마크어 의역 도구",
+                        "url": "/ko/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "아랍어 의역 도구",
+                        "url": "/ko/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "영어 의역 도구",
+                        "url": "/ko/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "프랑스어 의역 도구",
+                        "url": "/ko/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "의역 도구",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "독일어 의역 도구",
+                        "url": "/ko/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "힌디어 의역 도구",
+                        "url": "/ko/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "인도네시아어 의역 도구",
+                        "url": "/ko/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "이탈리아어 의역 도구",
+                        "url": "/ko/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "일본어 의역 도구",
+                        "url": "/ko/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "한국어 의역 도구",
+                        "url": "/ko/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "폴란드어 의역 도구",
+                        "url": "/ko/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "의역 도구",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "포르투갈어 의역 도구",
+                        "url": "/ko/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "러시아어 의역 도구",
+                        "url": "/ko/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "스페인어 의역 도구",
+                        "url": "/ko/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "스웨덴어 의역 도구",
+                        "url": "/ko/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "태국어 의역 도구",
+                        "url": "/ko/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "터키어 의역 도구",
+                        "url": "/ko/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "우크라이나어 의역 도구",
+                        "url": "/ko/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "베트남어 의역 도구",
+                        "url": "/ko/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "간편한 사용",
+            "content": "이 폴란드어 의역 도구는 사용하기가 매우 간단합니다.우선 사용자 인터페이스는 간단하고 간단합니다.모든 것이 한 곳에 있기 때문에 어디서부터 시작해야할지 궁금 할 필요가 없습니다.또한 폴란드어 의역 도구는 광고가 없으므로 최종 사용자에게보다 즐거운 사용자 경험을 제공합니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "비용 무료",
+            "content": "우리의 폴란드어 의역 도구는 완전히 무료로 사용할 수 있습니다.폴란드어 의역 도구를 사용하기 위해 비용을 지불 할 필요는 없습니다.서비스를 사용하기 위해 등록하거나 로그인할 필요가 없습니다.하루 만에 기사를 무제한으로 의역 할 수 있습니다.그것도 한계가 없습니다.콘텐츠를 원하는 만큼 새로 고칠 수 있는 옵션이 있습니다.한 번에 여러 단락을 다시 쓸 수 있습니다.당신이 알아 차릴 수있는 유일한 것은 단락을 의역하는 데 걸리는 시간입니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% 보안",
+            "content": "폴란드어 의역 도구의 데이터베이스는 데이터를 사용할 때 다른 소스에 저장하거나 전송하지 않습니다.이 도구를 사용할 때의 또 다른 이점은 데이터가 비밀로 유지되고 작업 품질이 저하되지 않는다는 것입니다.논문이 의역되면 도구는 그 자리에서 데이터를 안전하게 삭제합니다.결과적으로 모든 고객에게 완벽한 보안을 제공하여 어떤 상황에서도 폴란드어 의역 도구를 신뢰할 수 있고 위험없이 사용할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "호환성 문제 없음",
+            "content": "이 폴란드어 의역 도구를 사용할 때 사용자는 호환성 문제가 없습니다.이 웹 포털의 폴란드어 의역 도구는 모든 장치에서 액세스 할 수있는 온라인 서비스입니다.크롬, 사파리, 파이어폭스, 마이크로소프트 엣지 등 다양한 인기 브라우저에서 작동합니다.폴란드어 의역 도구를 사용하면 모든 화면 크기에 맞게 자동으로 조정되므로 기본 설정에 따라 데스크톱 컴퓨터, 태블릿 컴퓨터 또는 휴대폰에서 사용할 수 있습니다.이 온라인 서비스를 사용하여 기사를 의역하기 위해 특정 장치를 구입하거나 플러그인을 설치할 필요가 없습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "문장 구조 개선",
+            "content": "수동 의역 은 관련된 복잡성 때문에 텍스트의 가독성에 부정적인 영향을 미칠 수 있습니다. 반면에 폴란드어 의역 도구는 자료의 전체 구조를 손상시키지 않는 문장을 생성 할 수 있습니다.이 폴란드어 의역 도구는 독자의 참여를 유지하고 원하는 결과를 얻을 수 있도록 도와줍니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "파라프레이징 결과를 얻는 세 가지 방법",
+            "content": "이 폴란드어 의역 도구의 가장 큰 특징 중 하나는 세 가지 방법으로 결과를 얻을 수 있다는 것입니다. 이 방법은 하나의 결과를 얻는 대신 다른 의역 도구와 구별됩니다.세 가지 방법으로 콘텐츠를 다시 작성하고 그 중 하나를 선택하여 멋지게 만들 수 있습니다."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

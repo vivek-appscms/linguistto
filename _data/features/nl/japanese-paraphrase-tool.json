@@ -1,0 +1,202 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "h1": "Gratis online Japanse parafrasering stool",
+    "h2": "Herschrijf je Japanse inhoud met onze beste online tool.",
+    "TITLE": "Japanse parafraseringstool voor iedereen - Gratis online tool voor het herschrijven van inhoud",
+    "META": "Parafraseer uw tekst onmiddellijk naar het Japans. Gebruik deze gratis Japanse parafraseringstool om meerdere geparafraseerde varianten van uw inhoud te krijgen.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+  "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "hulpmiddelen voor parafraseren",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Arabisch parafraseren",
+                        "url": "/nl/arabic-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Chinees gereedschap voor parafraseren",
+                        "url": "/nl/chinese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Deens hulpmiddel voor parafraseren",
+                        "url": "/nl/danish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Arabisch parafraseren",
+                        "url": "/nl/dutch-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Engels gereedschap voor parafraseren",
+                        "url": "/nl/paraphrasing-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Frans gereedschap voor parafraseren",
+                        "url": "/nl/french-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "hulpmiddelen voor parafraseren",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Duits gereedschap voor parafraseren",
+                        "url": "/nl/german-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Hindi parafraseren",
+                        "url": "/nl/hindi-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Indonesisch hulpmiddel voor parafraseren",
+                        "url": "/nl/indonesian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Italiaans hulpmiddel voor parafraseren",
+                        "url": "/nl/italian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Japans gereedschap voor parafraseren",
+                        "url": "/nl/japanese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Koreaanse parafraseertool",
+                        "url": "/nl/korean-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Pools gereedschap voor parafraseren",
+                        "url": "/nl/polish-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "hulpmiddelen voor parafraseren",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Portugese parafrasering stool",
+                        "url": "/nl/portuguese-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Russische parafrasering stool",
+                        "url": "/nl/russian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Spaanse parafraseertool",
+                        "url": "/nl/spanish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Zweedse parafraseertool",
+                        "url": "/nl/swedish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Thais hulpmiddel voor parafraseren",
+                        "url": "/nl/thai-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Turks hulpmiddel voor parafraseren",
+                        "url": "/nl/turkish-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Oekraïens gereedschap voor parafraseren",
+                        "url": "/nl/ukranian-paraphrase-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "Vietnamese parafraseertool",
+                        "url": "/nl/vietnamese-paraphrase-tool",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Eenvoudig te gebruiken",
+            "content": "Deze Japanse parafraseertool is heel eenvoudig te gebruiken. Om te beginnen is de gebruikersinterface eenvoudig en eenvoudig. Omdat alles op één plek is, hoef je je niet af te vragen waar je moet beginnen. Bovendien is onze Japanse parafraseringstool advertentievrij, wat de eindgebruiker een aangenamere gebruikerservaring biedt."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Gratis",
+            "content": "Onze Japanse parafrasetool is volledig gratis te gebruiken. Het is niet nodig om te betalen om onze Japanse parafraseringstool te gebruiken. Om gebruik te maken van onze service hoeft u zich niet te registreren of aan te melden. Op één dag kunt u een onbeperkt aantal artikelen parafraseren. Ook dat kent geen grenzen. Je hebt de mogelijkheid om je content zo vaak te vernieuwen als je wilt. Je kunt meerdere alinea's in één keer herschrijven. Het enige wat je opvalt, is de hoeveelheid tijd die nodig is om de paragraaf te parafraseren."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "100% veilig",
+            "content": "De databases van de Japanse parafraseringstool slaan uw gegevens niet op of verzenden uw gegevens niet naar een andere bron wanneer u ze gebruikt. Een ander voordeel van het gebruik van deze tool is dat uw gegevens geheim blijven en dat de kwaliteit van uw werk niet in het gedrang komt. Zodra uw artikel is geparafraseerd, verwijdert de tool uw gegevens ter plekke veilig. Als gevolg hiervan kunnen we al onze klanten volledige beveiliging bieden, waardoor onze Japanse parafrasing-tool betrouwbaar en risicovrij is om in elke situatie te gebruiken."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Geen compatibiliteitsproblemen",
+            "content": "Gebruikers zullen geen compatibiliteitsproblemen ondervinden bij het gebruik van deze Japanse parafraseringstool. De Japanse parafraseringstool van dit webportaal is een online service die vanaf elk apparaat toegankelijk is. Het werkt met verschillende populaire browsers, waaronder Chrome, Safari, Firefox, Microsoft Edge en andere. Wanneer u de Japanse parafraseringstool gebruikt, past deze zich automatisch aan elke schermgrootte aan, zodat u het op uw desktopcomputer, tabletcomputer of mobiele telefoon kunt gebruiken, afhankelijk van uw voorkeuren. U hoeft geen specifiek apparaat aan te schaffen of plug-ins te installeren om uw artikelen te parafraseren met behulp van deze online service."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Verbeterde zinsstructuur",
+            "content": "Handmatige parafrasering kan een negatieve invloed hebben op de leesbaarheid van uw tekst vanwege de complexiteit die ermee gepaard gaat. Japanse parafrasering tool, aan de andere kant, kan zinnen produceren die de algehele structuur van uw materiaal niet doorbreken. Deze Japanse parafraseringstool houdt de lezer betrokken en helpt u de gewenste resultaten te bereiken."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Drie manieren om je faraphrasing-resultaat te krijgen",
+            "content": "Een van de geweldige kenmerken van deze Japanse parafraseringstool is dat je je resultaten op drie verschillende manieren kunt behalen, wat het onderscheidt van andere parafraseertools in plaats van één resultaat te krijgen. Je kunt je inhoud op drie verschillende manieren herschrijven en er een kiezen om het geweldig te maken."
+        }
+    ],
+ 
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

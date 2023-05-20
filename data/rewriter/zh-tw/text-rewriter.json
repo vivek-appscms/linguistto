@@ -1,0 +1,55 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "h1": "優秀的文本重寫工具",
+    "h2": "使用文本重寫器生成高質量、無抄襲的獨特內容",
+    "TITLE": "文本重寫-完美的文本重寫以全新的方式重寫任何內容。",
+    "META": "最好的文本重寫器，使您的內容獨一無二，只需點擊一下。通過使用最值得信賴的文本重寫工具節省您的時間，並以最佳方式傳達信息。",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "易於使用",
+            "content": "我們免費的文本重寫工具使用非常簡單。你甚至不需要註冊。它使句子的解釋過程變得簡單明瞭。\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "準確的結果",
+            "content": "我們的網站處理您的音頻軌道真的很快。結果是準確的，因此用户完全滿意"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "交叉板形式",
+            "content": "文本重寫工具與任何操作系統兼容，如 Windows /MAC/Linux/Android/iPhone。\n\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "安全且值得信賴",
+            "content": "沒有涉及服務器，因此您的數據是安全的\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "快速高效",
+            "content": "該站點捕獲的數據非常快速和高效。你可以立即完成你的工作\n"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "沒有文件被 UO加載",
+            "content": "Aoolication 在您的瀏覽器上工作，而不涉及任何服務器。因此，您的數據是安全的\n"
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

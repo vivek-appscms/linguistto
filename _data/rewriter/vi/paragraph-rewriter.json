@@ -1,0 +1,55 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "h1": "Sử dụng trình viết lại đoạn văn trực tuyến miễn phí cho nội dung chất lượng.",
+    "h2": "Giải pháp cuối cùng cho các vấn đề viết của bạn",
+    "TITLE": "Đoạn viết lại- Công cụ tốt nhất để viết lại số lượng tài liệu không giới hạn. ",
+    "META": "Nâng cao web dựa trên đoạn văn viết lại là một nơi hoàn hảo để bạn có thể viết lại hoặc diễn giải các bài viết. Công cụ của chúng tôi cung cấp bản chất thực sự của chủ đề. Công cụ hiệu quả nhất để giảm thiểu tất cả các rủi ro của đạo văn và lỗi ngữ pháp.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Đơn giản để sử dụng",
+            "content": "Đoạn viết lại rất đơn giản để sử dụng. Nếu bạn có một đoạn văn mà bạn cần viết lại, bạn chỉ có thể sao chép nó và dán nó vào trình viết lại đoạn văn của chúng tôi và công cụ sẽ thực hiện công việc cho bạn."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Kết quả tức thì",
+            "content": "Kết quả được hiển thị ngay khi bạn nhấp vào Paraphrase và bạn không cần phải chờ đợi cho việc tạo ra kết quả."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Nền tảng chéo",
+            "content": "Trang web của chúng tôi là nền tảng độc lập. Nó hoạt động trên cả hệ điều hành Window và iOS và có thể được sử dụng mà không cần bất kỳ tải xuống nào."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "An toàn và an toàn",
+            "content": "Người viết lại đoạn văn của chúng tôi hoàn toàn an toàn để sử dụng và luôn tạo ra kết quả thực sự và chính xác. “Kết quả chính xác” có nghĩa là mỗi nội dung thay đổi không chỉ đạo văn mà còn dễ đọc và hiểu hơn. Nó sẽ làm tăng phạm vi tiếp cận và sự tham gia của nội dung của bạn do tính độc đáo và hiệu quả của nó. Vì vậy, bạn phải mất gì? Cung cấp cho nó một shot ngay bây giờ và vui vẻ viết lại."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Nội dung miễn phí độc đáo và đạo văn",
+            "content": "Đó là, không nghi ngờ gì nữa, spinner đoạn miễn phí và chuyên nghiệp tốt nhất có sẵn trên internet. Nó thực hiện đáng ngưỡng mộ và không bao giờ làm người tiêu dùng thất vọng khi sản xuất nội dung gốc không có vấn đề đạo văn và trùng lặp! Sau khi sửa đổi đoạn văn của bạn bằng công cụ của chúng tôi, bạn có thể xác minh tính độc đáo và tính khác biệt bằng cách chạy tài liệu của bạn thông qua trình kiểm tra đạo văn của nó."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Miễn phí để sử dụng",
+            "content": "Có điều gì thú vị hơn là khám phá một spinner văn bản hoàn toàn miễn phí để sử dụng? Đó không phải là chính xác những gì mọi người đang tìm kiếm? Các tính năng của công cụ viết lại đoạn văn của chúng tôi hoàn toàn miễn phí để sử dụng, vì vậy không có lý do gì để không sử dụng nó."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

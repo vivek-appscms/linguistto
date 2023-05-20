@@ -1,0 +1,55 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "h1": "Använd gratis online paragraf rewriter för kvalitetsinnehåll.",
+    "h2": "Ultimate lösning på dina skrivproblem",
+    "TITLE": "Styckeomskrivning- Bästa verktyget för att skriva om obegränsat antal dokument. ",
+    "META": "Avancerad webbaserad styckeomskrivning är en perfekt plats för dig att skriva om eller parafrasera artiklarna. Vårt verktyg levererar den sanna kärnan i ämnet. Det mest effektiva verktyget för att minimera alla risker för plagiat och grammatiska fel.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Enkel att använda",
+            "content": "Stycke Rewriter är enkel att använda. Om du har ett stycke som du behöver skriva om, kan du bara kopiera det och klistra in det i vårt stycke omskrivning och verktyget kommer att göra jobbet för dig."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Omedelbara resultat",
+            "content": "Resultaten visas så fort du klickar på Parafrase och du behöver inte vänta på generering av resultat."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Plattformsoberoende",
+            "content": "Vår hemsida är plattformsoberoende. Det fungerar på både Windows- och iOS-operativsystem och kan användas utan några nedladdningar krävs."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Säker och säker",
+            "content": "Vår paragraf rewriter är helt säker att använda och ger konsekvent verkliga och exakta resultat. ”Exakta resultat” innebär att varje ändrat innehåll inte bara är plagiat utan också lättare att läsa och förstå. Det kommer att öka räckvidden och engagemanget för ditt innehåll på grund av dess unika och effektivitet. Så, vad har du att förlora? Ge det en chans nu och ha kul omskrivning."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Unikt och plagiat innehåll",
+            "content": "Det är utan tvekan den bästa fria och professionella styckespinnaren som finns på internet. Den presterar beundransvärt och gör aldrig sina konsumenter besvikna när det gäller att producera originalinnehåll som är fritt från plagiat och dubbelarbete! Efter att ha reviderat din paragraf med vårt verktyg kan du verifiera originalitet och särskiljningsförmåga genom att köra ditt dokument genom dess plagiat checker."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Gratis att använda",
+            "content": "Finns det något mer spännande än att upptäcka en textspinner som är helt fri att använda? Är inte det precis vad alla söker? Funktionerna i vårt paragraf Rewriter-verktyg är helt fria att använda, så det finns ingen anledning att inte använda det."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

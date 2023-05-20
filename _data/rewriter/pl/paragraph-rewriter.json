@@ -1,0 +1,55 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "h1": "Korzystaj z darmowego redagera akapitu online, aby uzyskać wysokiej jakości treści.",
+    "h2": "Doskonałe rozwiązanie problemów z pisaniem",
+    "TITLE": "Rewriter akapitu- Najlepsze narzędzie do przepisywania nieograniczonej liczby dokumentów. ",
+    "META": "Zaawansowane pisanie akapitu opartego na sieci Web to idealne miejsce do przepisywania lub parafrazowania artykułów. Nasze narzędzie dostarcza prawdziwej istoty tematu. Najskuteczniejsze narzędzie do minimalizacji ryzyka plagiatu i błędów gramatycznych.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Prosty w obsłudze",
+            "content": "Paragraf Redriter jest prosty w użyciu. Jeśli masz akapit, który musisz przepisać, możesz go po prostu skopiować i wkleić do naszego przepisywania akapitu, a narzędzie wykona zadanie za Ciebie."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Błyskawiczne wyniki",
+            "content": "Wyniki są wyświetlane po kliknięciu na Parafrazę i nie trzeba czekać na generowanie wyników."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Cross Platform",
+            "content": "Nasza strona internetowa jest niezależna od platformy. Działa zarówno w systemach operacyjnych Windows, jak i iOS i może być używany bez konieczności pobierania plików."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Bezpieczne i bezpieczne",
+            "content": "Nasz redaktor akapitu jest całkowicie bezpieczny w użyciu i konsekwentnie daje rzeczywiste i precyzyjne wyniki. „Precyzyjne wyniki” oznacza, że każda zmieniona treść jest nie tylko pozbawiona plagiarów, ale także łatwiejsza do odczytania i zrozumienia. Zwiększy zasięg i zaangażowanie Twoich treści ze względu na jej wyjątkowość i skuteczność. Więc co masz do stracenia? Daj mu szansę i baw się dobrze na przepisywanie."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Unikalne i plagiat wolne treści",
+            "content": "Jest to bez wątpienia najlepszy darmowy i profesjonalny obrotnik akapitowy dostępny w Internecie. Działa wspaniale i nigdy nie rozczarowuje swoich konsumentów, jeśli chodzi o produkcję oryginalnych treści wolnych od plagiatu i kwestii powielania! Po skorygowaniu swojego akapitu za pomocą naszego narzędzia, możesz sprawdzić oryginalność i odmienność, uruchamiając dokument za pomocą sprawdzania plagiatu."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Bezpłatny do użytku",
+            "content": "Czy jest coś bardziej ekscytującego niż odkrycie spinner tekstu, który jest całkowicie wolny w użyciu? Czy nie tego właśnie szukają wszyscy? Funkcje naszego narzędzia do pisania akapitu są całkowicie bezpłatne, więc nie ma powodu, aby go nie używać."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

@@ -1,0 +1,72 @@
+<div class="container" id="results" style="  display:none ;   padding: 32px 20px;
+border-radius: 6px;
+box-shadow: 0 16px 24px 2px rgb(0 0 0 / 14%), 0 6px 30px 5px rgb(0 0 0 / 12%), 0 8px 10px -5px rgb(0 0 0 / 20%);">
+    <div id="settings" class="row">
+         <table class="setting-table">
+          <tr>
+               <td>
+                    <a id="updown" class="setting-btn" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                      Scan Properties <i class="fa fa-chevron-down" aria-hidden="true" id="down"></i>
+                    </a>
+               </td>
+          </tr>
+          <tr>
+               <td>
+                    <div class="collapse show" id="collapseExample">
+                         <div class="card card-body">
+                              <div class="row">
+                                   <div class="col-md-2 area">
+                                        <div id="found_result">
+                                             <h1 id="foundr">1</h1>
+                                             <div>RESULTS FOUND</div>
+                                        </div>
+                                   </div>
+                                   <div class="col-md-2 area">
+                                        <h1 id="similar">0</h1><br>
+                                        <div>SIMILAR WORDS</div>
+                                   </div>
+                                   <div class="col-md-5 area">
+                                        <div class="orriginal_words row">
+                                             <div class="ineerwords col-md-12">
+                                                  <canvas id="myChart" style="width:200px;max-width:600px"></canvas>
+                                             </div>
+                                        </div>
+                                   </div>
+                                   <div class="col-md-3 area">
+                                        <div class="matched_words">
+                                             <h2 id="matched_words">0%</h2>
+                                             <div>MATCH</div>
+                                        </div>
+                                   </div>
+                              </div>                         </div>
+                    </div>
+                    
+               </td>
+          </tr>
+         </table>
+     </div>
+     <div class="row result">
+          <div class="col-md-12">
+               <pre id="result"></pre>
+          </div>
+     </div>
+     <div class="row">
+          <div class="col-md-6">
+               <textarea name="a" id="a" cols="30" rows="10" class="form-control" disabled>restaurant</textarea>
+               <div class="click_div"><button class="click"><i style="color: white;"
+                              class="fa-solid fa-arrow-right"></i></button></div>
+          </div>
+          <div class="col-md-6">
+               <textarea name="b" id="b" cols="30" rows="10" class="form-control" disabled>aura</textarea>
+          </div>
+     </div>
+</div>
+<div class="loader container" style=" padding: 32px 20px;
+border-radius: 6px;
+box-shadow: 0 16px 24px 2px rgb(0 0 0 / 14%), 0 6px 30px 5px rgb(0 0 0 / 12%), 0 8px 10px -5px rgb(0 0 0 / 20%);">
+     <p style="text-align: center;">loading..</p>
+</div>
+<span id="getvalue" data-filename="{{page.fileName}}"></span>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>

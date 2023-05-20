@@ -1,0 +1,118 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "h1": "コンテンツライター向けの最もスマートなツール",
+    "h2": "コンテンツの言い換え、文の翻訳、音訳ベースのタイピングツールのための多言語ツール。",
+    "TITLE": "Contenttool-コンテンツプロフェッショナル向けの最もスマートなツール",
+    "META": "ContentTools.ioは、コンテンツプロフェッショナルが日常的に使用するための最もスマートなツールを提供します。",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "パラフレーズツール",
+            "description": "プロフェッショナル向け言い換えツール",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/ja/paraphrasing-tool"
+        },
+        {
+            "name": "ドイツ語言い換えツール",
+            "description": "専門家のためのドイツ語言い換えツール",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/ja/german-paraphrase-tool"
+        },
+        {
+            "name": "ヒンディー語言い換えツール",
+            "description": "プロのためのヒンディー語言い換えツール",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/ja/hindi-paraphrase-tool"
+        },
+        {
+            "name": "すべての言い換えツール",
+            "url": "/ja/all-paraphrase-pages",
+            "description": "プロフェッショナル向けすべての言い換えツール",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
+            "name": "スペイン語言い換えツール",
+            "description": "専門家のためのスペイン語言い換えツール",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/ja/spanish-paraphrase-tool"
+        },
+        {
+            "name": "ロシア語の言い換えツール",
+            "description": "専門家のためのロシア語言い換えツール",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/ja/russian-paraphrase-tool"
+        },
+        {
+            "name": "音訳ツール",
+            "description": "英語からヒンディー語タイピング",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/ja/english-to-hindi-typing"
+        },
+        {
+            "name": "英語からベンガル語タイピング",
+            "description": "オンライン英語からベンガル語タイピング",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/ja/bangla-transliteration-tool"
+        },
+        {
+            "name": "ワードカウントツール",
+            "description": "オンライン単語数カウントツール",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg ",
+            "url": "/ja/word-count-tool"
+        },
+        {
+            "name": "文字数カウントツール",
+            "description": "オンライン文字数カウントツール",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/ja/character-count-tool"
+        },
+        {
+            "name": "センテンス翻訳",
+            "description": "XからYへのオンライン文翻訳",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/ja/sentence-translation"
+        },
+        {
+            "name": "サマリージェネレータ",
+            "description": "最高の無料オンラインサマリージェネレータ",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/ja/summary-generator"
+        },
+        {
+            "name": "パラグラフリライタ",
+            "description": "質の高いコンテンツのためのオンライン段落リライタ",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/ja/paragraph-rewriter"
+        },
+        {
+            "name": "テキストリライター",
+            "description": "優れたテキストリライタツール",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/ja/text-rewriter"
+        },
+        {
+            "name": "ページのタイピング",
+            "description": "優れたタイピングツール",
+            "color": "#a7a7cd",
+            "icon": "/img/typing.svg",
+            "url": "/ja/all-typing-pages"
+        }
+    ]
+}

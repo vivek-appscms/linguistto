@@ -1,0 +1,61 @@
+{% assign keyName = page.fileName %}
+{% assign language = page.language %}
+<!-- {{page.fileName}} -->
+
+<link href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.css' rel='stylesheet'>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/codemirror.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.16.0/mode/javascript/javascript.js'></script>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<style>
+    .CodeMirror {
+    border: 3px solid rgb(103,102,117,0.8);;
+    border-radius: 3px;
+    }
+    .string-div p {
+    color: white;
+    padding-left: 20px;
+    padding-top: 5px;
+    }
+</style>
+<div class="container">
+    <div class="main">
+        <!-- <h1 class="col-md-12 text">Character Count Tool </h1> -->
+
+        <div class="hr">
+            <hr class="hr-css" />
+        </div>
+        <div class="col-md-12 typing-main-div">
+            <div class="row">
+
+            </div>
+            <div class="row col-md-12 d-flex justify-content-center">
+                <div class="col-md-12 mb-3 pl-5">
+                    <div class="string-div">
+                    <p>Copy/paste or type text to count characters </p>
+                    <textarea onkeyup="inputHandle()" class="mt-3 counter-input" id="input-string"
+                        rows="10"></textarea>
+                    </div>
+                    <div class=" d-flex " style="font-size:35px; font-weight:bold">
+                        <span id="character-count" class="ml-3">0 Character</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var input_editor;
+    var textarea1 = document.getElementById("input-string");
+    input_editor = CodeMirror.fromTextArea(textarea1,{
+    lineNumbers: true,
+    mode: "text/x-csrc"
+    });
+    input_editor.on("keyup",  function() {
+        let inputString = input_editor
+        let characterCount = document.getElementById("character-count")
+        characterLength = inputString.getValue().length
+        if (characterLength <= 1) characterCount.innerText = `${characterLength} character`
+        else characterCount.innerText = `${characterLength} characters`
+    })
+</script>

@@ -1,0 +1,118 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "h1": "Alat paling cerdas untuk penulis Konten",
+    "h2": "Alat multibahasa untuk parafrase konten, terjemahan kalimat dan alat pengetikan berbasis transliterasi.",
+    "TITLE": "Contenttool - Alat paling cerdas untuk profesional konten",
+    "META": "ContentTools.io menyediakan alat cerdas untuk penggunaan sehari-hari oleh para profesional konten.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "features": [
+        {
+            "name": "Alat parafrase",
+            "description": "Alat parafrase untuk para profesional",
+            "color": "#8080ff",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/id/paraphrasing-tool"
+        },
+        {
+            "name": "Alat Parafrase Jerman",
+            "description": "Alat Parafrase Jerman untuk para profesional",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/german.svg",
+            "url": "/id/german-paraphrase-tool"
+        },
+        {
+            "name": "Alat parafrase Hindi",
+            "description": "Alat parafrase Hindi untuk para profesional",
+            "color": "#2c3774",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/id/hindi-paraphrase-tool"
+        },
+        {
+            "name": "Semua alat Paraphrasing",
+            "url": "/id/all-paraphrase-pages",
+            "description": "Semua alat Paraphrasing untuk para profesional",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg"
+        },
+        {
+            "name": "spanyol-paraphrase-alat",
+            "description": "Alat Parafrase Spanyol untuk para profesional",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/spanish.svg",
+            "url": "/id/spanish-paraphrase-tool"
+        },
+        {
+            "name": "Alat Parafrasis Rusia",
+            "description": "Alat Parafrase Rusia untuk para profesional",
+            "color": "#33cccc",
+            "icon": "/assets/img/rishain.svg",
+            "url": "/id/russian-paraphrase-tool"
+        },
+        {
+            "name": "Alat transliterasi",
+            "description": "Bahasa Inggris ke Hindi Mengetik",
+            "color": "#a7a7cd",
+            "icon": "/assets/img/hindi.svg",
+            "url": "/id/english-to-hindi-typing"
+        },
+        {
+            "name": "Bahasa Inggris ke Bangla Mengetik",
+            "description": "Pengetikan Bahasa Inggris ke Bangla Online",
+            "color": "#33cccc",
+            "icon": "/assets/img/german.svg",
+            "url": "/id/bangla-transliteration-tool"
+        },
+        {
+            "name": "Alat hitung kata",
+            "description": "Alat Hitung Kata Online",
+            "color": "#4373fc",
+            "icon": "/assets/img/paraprashing.svg ",
+            "url": "/id/word-count-tool"
+        },
+        {
+            "name": "Alat hitung karakter",
+            "description": "Alat Hitung Karakter Online",
+            "color": "#0e6d6d",
+            "icon": "/assets/img/paraprashing.svg",
+            "url": "/id/character-count-tool"
+        },
+        {
+            "name": "Terjemahan kalimat",
+            "description": "Terjemahan kalimat X ke Y online",
+            "color": "#2c3774",
+            "icon": "/assets/img/german.svg",
+            "url": "/id/sentence-translation"
+        },
+        {
+            "name": "Ringkasan Generator",
+            "description": "Generator ringkasan online gratis terbaik",
+            "color": "#2c3774",
+            "icon": "/assets/summary.svg",
+            "url": "/id/summary-generator"
+        },
+        {
+            "name": "Penulis Ulang Paragraf",
+            "description": "rewriter paragraf online untuk konten berkualitas",
+            "color": "#8080ff",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/id/paragraph-rewriter"
+        },
+        {
+            "name": "Rewriter Teks",
+            "description": "Alat rewriter teks yang sangat baik",
+            "color": "#0e6d6d",
+            "icon": "/assets/images/rewriting.svg",
+            "url": "/id/text-rewriter"
+        },
+        {
+            "name": "Mengetik halaman",
+            "description": "Alat mengetik yang sangat baik",
+            "color": "#a7a7cd",
+            "icon": "/img/typing.svg",
+            "url": "/id/all-typing-pages"
+        }
+    ]
+}

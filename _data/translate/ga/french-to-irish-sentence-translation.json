@@ -1,0 +1,73 @@
+{
+    "Language":"Gaeilge",
+    "htmlLangAtt": "ga",
+    "h1": "Fraincis go haistriúchán Gaeilge",
+    "h2": "An Aistriúchán Pianbhreithe is Fearr",
+    "TITLE": "french to irish sentence translation | Aistrigh do abairtí ar líne saor in aisce",
+    "META": "Aistrigh do chuid abairtí ó fhraincis go Gaeilge láithreach saor in aisce. Níl aon teorainneacha úsáide againn. Bain triail as saor in aisce!",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Meandaracha Fraincis go haistriúchán abairt Gaeilge",
+            "content": "Cuireann an uirlis seo bunachar sonraí iomlán i láthair duit le haistriúchán sentance Gaeilge a thuiscint láithreach. Chun toradh tapa agus cruinn a chlóscríobh ach an seoltóir i tiontaire sentance agus toradh a fháil ar do fingertips le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "aistriúchán Gaeilge go Gaeilge ar líne",
+            "content": "Faigh do chuid ábhair aistrithe Fraincis ar líne go Gaeilge. Tuiscint a fháil ar an téacs teanga iasachta láithreach gan aon am agus iarracht."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Aistritheoir pianbhreithe na Fraince go Gaeilge i roinnt céimeanna",
+            "content": "Tá sé níos éasca ná mar a cheap tú. Ní gá ach do pharagraph a chóipeáil agus transalation a fháil sa Fhraincis go Gaeilge i gceann cúpla soicind."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "aistriúchán Gaeilge ar líne saor in aisce",
+            "content": "Aistritheoir ar líne saor in aisce chun do chuid ama agus airgid a shábháil chun Fraincis a transalate go Gaeilis. ní mór dúinn dírithe nár chóir an bhrí agus na mothúcháin a chailleadh agus an téacs a aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Faigh torthaí tapa agus inmhianaithe na Fraince go Gaeilge",
+            "content": "Trassalator ar líne le haghaidh na Fraince chun an Ghaeilge a ghairmiúiliú d'earra cosúil le ceann dúchais. Tá Aistriúchán Pianbhreithe deartha go sonrach chun an teachtaireacht a thuiscint in aon teanga"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tá an Uirlis seo líofa i bhFraincis d'aistritheoirí Pianbhreithe na hÉireann.",
+            "content": "Ag cur gnéithe cultúrtha agus teanga san áireamh d'aistriúchán pianbhreithe na Fraince go Gaeilge. Ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistriúchán Pianbhreithe i bhFraincis go Gaeilge chun d'ábhar a dhéanamh gairmiúil",
+            "content": "Uirlis aistriúcháin abairtí ilteangach chun abairtí a aistriú go teanga ar bith a d'fhéadfadh a bheith i bhFraincis go Gaeilge. Níl ort ach an abairt a chlóscríobh i tiontaire pianbhreithe agus toradh a fháil ar do mhéar le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Déanann an tArd-Uirlis seo ailt, scéalta agus dánta i bhFraincis a thiontú go Gaeilge gan brí agus mothúchán a scaoileadh agus an téacs á aistriú i dteanga eile.",
+            "content": "Is alt nó scéalta é a aistrímid Fraincis go Gaeilge. Ní dhéanann an uirlis seo focal a aistriú de réir focal. Le bogearraí cliste, cinnteoireachta a chinneann sé na focail atá le húsáid agus cé na cinn atá le dí-rialú. dhírigh muid nár cheart an bhrí agus na mothúcháin a chailleadh agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistrímid Sleachta Fraincis go Gaeilge, agus vice versa, agus an bhrí a choinneáil gan athrú.",
+            "content": "Uaireanta athraíonn athfhriotail ag an am a athraíonn an Fhraincis go Gaeilge. Is é cuspóir an Aistriúcháin Pianbhreithe go sonrach an bhrí fíor a choinneáil gan athrú. Le AI chun cinn ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
+    ]
+}

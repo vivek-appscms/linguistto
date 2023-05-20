@@ -1,0 +1,73 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "h1": "irisch-deutsche Satzübersetzung",
+    "h2": "Beste Online-Satzübersetzung",
+    "TITLE": "irisch-deutsche Satzübersetzung | Übersetzen Sie Ihre Sätze online kostenlos",
+    "META": "Übersetzen Sie Ihre Sätze sofort und kostenlos vom Irischen ins Deutsche. Wir haben keine Nutzungsbeschränkungen. Probieren Sie es kostenlos aus!",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Sofortige irisch-deutsche Satzübersetzung",
+            "content": "Dieses Tool bietet Ihnen eine vollständige Datenbank für das sofortige Verständnis der irisch-deutschen Satzübersetzung. Für ein schnelles und genaues Ergebnis geben Sie einfach den Satz in den Sentance-Konverter ein und erhalten Sie ein Ergebnis mit der richtigen grammatischen Struktur."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "irisch-deutsche Satzübersetzung online",
+            "content": "Lassen Sie Ihre Inhalte online irisch nach deutsch übersetzen. Verstehen Sie den fremdsprachigen Text sofort ohne Zeit und Mühe."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Satzübersetzer Irisch nach Deutsch in wenigen Schritten",
+            "content": "Es ist einfacher als Sie dachten. Kopieren Sie einfach Ihren Pharagraphen und lassen Sie sich in wenigen Sekunden auf Irisch ins Deutsche übersetzen."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "kostenlose Online-Übersetzung von irisch-deutschen Sätzen",
+            "content": "Kostenloser Online-Übersetzer, um Zeit und Geld zu sparen, um Irisch ins Deutsche zu übersetzen. Wir haben uns darauf konzentriert, dass die Bedeutung und Emotionen bei der Übersetzung des Textes in eine andere Sprache nicht verloren gehen sollten."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Erhalten Sie schnell und die gewünschten Ergebnisse auf Deutsch",
+            "content": "Online-Übersetzer für Irisch nach Deutsch, um Ihren Artikel wie einen Muttersprachler zu professionalisieren. Die Satzübersetzung wurde speziell entwickelt, um die Botschaft in jeder Sprache verständlich zu machen"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Dieses Tool beherrscht irisch-deutsche Satzübersetzer.",
+            "content": "Berücksichtigung kultureller und sprachlicher Elemente bei der Satzübersetzung vom Irischen ins Deutsche. Es übersetzt nicht nur Sätze, sondern verfeinert den Inhalt weiter, um ihn an unterschiedliche Zielgruppen anzupassen."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Satzübersetzung in Irisch nach Deutsch, um Ihre Inhalte professionell zu gestalten",
+            "content": "Mehrsprachiges Satzübersetzungstool zum Übersetzen von Sätzen in jede Sprache, in der es sich um Irisch nach Geben Sie einfach den Satz in den Satzkonverter ein und erhalten Sie ein Ergebnis mit der richtigen grammatischen Struktur."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Dieses fortschrittliche Tool wandelt Artikel, Geschichten und Gedichte auf Irisch in Deutsch um, ohne an Bedeutung und Emotionen zu verlieren, während der Text in eine andere Sprache übersetzt wird.",
+            "content": "Entweder sind es Artikel oder Geschichten, die wir vom Irischen ins Deutsche übersetzen. Dieses Tool übersetzt nicht Wort für Wort. Mit intelligenter Entscheidungssoftware entscheidet es, welche Wörter verwendet werden und welche ignoriert werden sollen. Wir haben uns darauf konzentriert, dass die Bedeutung und Emotionen nicht verloren gehen sollten, wenn der Text in eine andere Sprache übersetzt wird."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Wir übersetzen Zitate vom Irischen ins Deutsche und umgekehrt, wobei die Bedeutung unverändert bleibt.",
+            "content": "Manchmal ändern sich die Zitate zum Zeitpunkt der Änderung von Irisch zu Deutsch. Das Ziel von Sentence Translation ist speziell, die wahre Bedeutung unverändert zu lassen. Mit fortschrittlicher KI werden nicht nur Sätze übersetzt, sondern auch Inhalte weiter verfeinert, um sie an unterschiedliche Zielgruppen anzupassen."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
+    ]
+}

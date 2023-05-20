@@ -1,0 +1,127 @@
+<div class="body-container">
+  <div class="container">
+
+    <input type="text" id="note-title" placeholder="note title" class="form-control"/>
+
+    <div class="options">
+      <div class="option-panel">
+        <a href="Javascript:dropdown()">
+          <span class = "selected-editor option-lbl">Plain Text Note</span>
+      <span class="caret option-lbl"></span>
+    </a>
+    </div>
+    <!-- <div class="option-panel">
+      <a href="Javascript:void(0)">
+      <i class="fa fa-file option-lbl" data-toggle="modal" data-target="#myModal"  aria-hidden="true"></i>
+      <span class="import-label option-lbl" data-toggle="modal" data-target="#myModal" > import word/pdf</span>
+    </a>
+    </div> -->
+    <div class="option-panel">
+        <div class="share-label option-lbl">
+          <a href="Javascript:void(0)">
+          <i class="fa fa-share-alt option-lbl" aria-hidden="true"></i>
+          <span class="option-lbl">Share</span>
+          </a>
+          <div class="share-content">
+            <div class="social-site">
+              <i class="fa-fw fab fa-facebook-square mb-0 py-3"></i>
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https://contenttool.io/" onclick="window.open(this.href,'pop-up','left=20,top=20,width=500,height=500,toolbar=1,resizable=0');return false;">Facebook</a>
+            </div>
+            <div class="social-site">
+              <i class="fa-fw fab fa-twitter mb-0 py-3"></i>
+              <a href="https://twitter.com/intent/tweet?url=https://contenttool.io/"  onclick="window.open(this.href,'pop-up','left=20,top=20,width=500,height=500,toolbar=1,resizable=0');return false;">Twitter</a>
+            </div>
+            <div class="social-site">
+              <i class="fa-fw fab fa-linkedin mb-0 py-3"></i>
+              <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://contenttool.io/"  onclick="window.open(this.href,'pop-up','left=20,top=20,width=500,height=500,toolbar=1,resizable=0');return false;">LinkedIn</a>
+            </div>
+          </div>
+        </div>
+
+    </div>
+    </div>
+    <div class="plain-text">
+        <div class="dropdown">
+          <div class="dropdown-content" style="display: none;">
+              <a href="Javascript:selectTextEditor(0)">Plain Text Note</a>
+              <a href="Javascript:selectTextEditor(1)">Rich Text Note</a>
+              <a href="Javascript:selectTextEditor(2)">Task List</a>
+          </div>
+        </div>
+        
+        
+
+      <div class="text-area">
+        <form action="">
+          <textarea name="plain-text" id="content_text" rows="20" class ="form-control"></textarea>
+        </form>
+      </div>
+      <div class="todo-list">
+        <div class="col-sm-12 p-0">
+          <div id="taskList" class="task-list ui-sortable">
+            <div class="task-item task-item-new">
+
+              <div class="d-flex">
+              <input type="checkbox" class="task-checkbox form-control" onclick="addClassChecked(this)"/>
+              <span
+                class="task-text"
+                contenteditable="true"
+                onfocus="fnTaskTextNewFocus(this);"
+                onkeydown="fnTaskTextNewKeyDown(event, this)">Add New Task Here</span>
+              <span class="task-save" onclick="fnTaskNewClicked(this);">
+                <i class="fas fa-check" style="color: black"></i>
+              </span>
+              <span
+                class="task-delete"
+                onclick="fnTaskDelete(this);"
+                style="display: none"
+              >
+                <i class="fas fa-trash" style="color: black"></i>
+              </div>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button type="submit" id="btn-submit" class="btn-primary">Save</button>
+      <!-- <button type="button" id="btn-clear">Clear All</button> -->
+    </div>
+    <div class="savedData">
+      <label for="saved-data" id="lbl-saved-notes">My Saved Notes</label>
+      <ul class="keyList">
+        <li class="dataBtn">
+  
+        </li>
+      </ul>
+      <!-- <div class="edit-dropDown">
+        <div class="content-edit" style="display: none;" name="">
+          <a href="Javascript:void(0)" onclick="getData(event)">Edit</a>
+          <a href="Javascript:selectTextEditor(1)">Delete</a>
+      </div>
+      </div> -->
+    </div>
+  </div>
+  <!-- <link rel="stylesheet" href="/css/notepad.css" />
+  <script src="/js/notepad.js"></script>
+  <script src="https://cdn.ckeditor.com/4.20.0/standard/ckeditor.js"></script> -->
+</div>
+
+<!-- <div class="modal" tabindex="-1" role="dialog" id="myModal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" style="color:black">Import Note from word and pdf file</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <img src="/assets/upload.png" alt="" width="50px" height="50px">
+        <label for="" style="color:black">Drag and drop document Here</label>
+        <input type="file" id="myfile" name="myfile" onchange="readFile(this)">
+      </div>
+      
+    </div>
+  </div>
+</div> -->

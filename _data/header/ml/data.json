@@ -1,0 +1,138 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/img/logo.svg",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "മറ്റ് ഉപകരണങ്ങൾ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ഹിന്ദി ടൈപ്പിംഗ് ഇംഗ്ലീഷ്",
+                        "url": "/ml/english-to-hindi-typing",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ഇംഗ്ലീഷ് മുതൽ ബംഗ്ലാ ടൈപ്പിംഗ്",
+                        "url": "/ml/bangla-transliteration-tool",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "മറ്റ് ഉപകരണങ്ങൾ",
+                "links": [
+                    {
+                        "name": "ടൈപ്പിംഗ് പേജുകൾ",
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "hover": "blue",
+                        "url": "/ml/all-typing-pages"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "വാചകം വിവർത്തനം",
+                        "url": "/ml/sentence-translation",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "മെറ്റാ, ടൈറ്റിൽ ചെക്കർ",
+                        "url": "/ml/meta-and-title-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "റാൻഡം നാമവിശേഷണ ജനറേറ്റർ",
+                        "url": "/ml/random-adjective-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ടെക്സ്റ്റ് വ്യത്യാസം ചെക്കർ",
+                        "url": "/ml/text-difference-checker",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "വാക്ക് എണ്ണം ഉപകരണം",
+                        "url": "/ml/word-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "കഥാപാത്രം എണ്ണം ഉപകരണം",
+                        "url": "/ml/character-count-tool",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ഖണ്ഡിക തിരുത്തൽ",
+                        "url": "/ml/paragraph-rewriter",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "ടെക്സ്റ്റ് റീറൈറ്റർ",
+                        "url": "/ml/text-rewriter",
+                        "hover": "blue"
+                    }
+                ]
+            },
+            {
+                "categoryName": "മറ്റ് ഉപകരണങ്ങൾ",
+                "links": [
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "റാൻഡം നാമം ജനറേറ്റർ",
+                        "url": "/ml/random-noun-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "റാൻഡം ഖണ്ഡിക ജനറേറ്റർ",
+                        "url": "/ml/random-paragraph-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "റാൻഡം ലെറ്റർ ജനറേറ്റർ",
+                        "url": "/ml/random-letter-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "റാൻഡം വിധി ജനറേറ്റർ",
+                        "url": "/ml/random-sentence-generator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "സെര്പ് സിമുലേറ്റർ",
+                        "url": "/ml/serp-simulator",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "വെബ്സൈറ്റ് വേഡ് എണ്ണം",
+                        "url": "/ml/website-word-count",
+                        "hover": "blue"
+                    },
+                    {
+                        "iconSrc": "/assets/img/germanblack.svg",
+                        "name": "റാൻഡം വാക്ക് ജനറേറ്റർ",
+                        "url": "/ml/random-word-generator",
+                        "hover": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "ബ്ലോഗ്",
+            "url": "/blog"
+        }
+    ]
+}

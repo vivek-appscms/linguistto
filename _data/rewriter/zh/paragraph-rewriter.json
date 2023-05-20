@@ -1,0 +1,55 @@
+{
+    "Language": "简体中文",
+    "htmlLangAtt": "zh",
+    "h1": "使用免费的在线段落重写器获取高质量的内容。",
+    "h2": "写作问题的终极解决方案",
+    "TITLE": "段落重写器-重写无限数量文档的最佳工具。 ",
+    "META": "基于Web的高级段落重写器是您重写或解释文章的理想场所。我们的工具提供了该主题的真正本质。最大限度地减少抄袭和语法错误的所有风险的最有效工具。",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "简单易用",
+            "content": "段落重写器易于使用。如果您有需要重写的段落，则只需将其复制并粘贴到我们的段落重写器中，该工具将为您完成这项工作。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "即时结果",
+            "content": "只要你点击 “释义”，结果就会立即显示，你不必等待结果的生成。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "跨平台",
+            "content": "我们的网站是独立于平台的。它适用于Window和iOS操作系统，无需下载即可使用。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "安全可靠",
+            "content": "我们的段落重写器使用起来完全安全，并且始终如一地产生真实而精确的结果。“精确的结果” 意味着每个更改的内容不仅没有抄袭，而且更易于阅读和理解。由于其独特性和有效性，它将增加内容的覆盖面和参与度。那么，你要失去什么？现在就试一试，玩得开心重写。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "独特且无抄袭的内容",
+            "content": "毫无疑问，它是互联网上最好的免费和专业段落微调器。在制作没有抄袭和重复问题的原创内容方面，它的表现令人钦佩，并且永远不会让消费者失望！使用我们的工具修改段落后，您可以通过抄袭检查器运行文档，以验证其原创性和独特性。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "免费使用",
+            "content": "还有什么比发现完全免费使用的文本微调器更令人兴奋的了吗？这不正是每个人都在寻找的吗？我们的段落重写器工具的功能是完全免费使用的，因此没有理由不使用它。"
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}

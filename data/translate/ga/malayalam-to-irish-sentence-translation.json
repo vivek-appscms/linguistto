@@ -1,0 +1,73 @@
+{
+    "Language":"Gaeilge",
+    "htmlLangAtt": "ga",
+    "h1": "Mailéalaimis go haistriúchán Gaeilge",
+    "h2": "An Aistriúchán Pianbhreithe is Fearr",
+    "TITLE": "malayalam to irish sentence translation | Aistrigh do abairtí ar líne saor in aisce",
+    "META": "Aistrigh do chuid abairtí ó Mailéalaimis go Gaeilge láithreach saor in aisce. Níl aon teorainneacha úsáide againn. Bain triail as saor in aisce!",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Mailéalaimis láithreach chuig aistriúchán na habairte Gaeilge",
+            "content": "Cuireann an uirlis seo bunachar sonraí iomlán i láthair duit le haghaidh Mailéalaimis a thuiscint láithreach go haistriúchán sentance Gaeilge. Chun toradh tapa agus cruinn a chlóscríobh ach an seoltóir i tiontaire sentance agus toradh a fháil ar do fingertips le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Mailéalaimis go haistriúchán Gaeilge ar líne",
+            "content": "Faigh do ábhar aistrithe ar líne Mailéalaimis go Gaeilge. Tuiscint a fháil ar an téacs teanga iasachta láithreach gan aon am agus iarracht."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Aistritheoir pianbhreithe Mailéalaimis go Gaeilge i roinnt céimeanna",
+            "content": "Tá sé níos éasca ná mar a cheap tú. Just a chóipeáil do pharagraph agus a fháil transalation i Mailéalaimis go Gaeilge i cúpla soicind."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Mailéalaimis ar líne saor in aisce chuig aistriúchán Gaeilge",
+            "content": "Aistritheoir ar líne saor in aisce chun do chuid ama agus airgid a shábháil chun malayalam a thrasalú go Gaeilis. dhírigh muid nár cheart an bhrí agus na mothúcháin a chailleadh agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Faigh torthaí tapa agus inmhianaithe go mailéalaimis go Gaeilge",
+            "content": "Trassalator ar líne do mhailéalaimis go Gaeilge chun d'earra a ghairmiúiliú mar cheann dúchais. Tá Aistriúchán Pianbhreithe deartha go sonrach chun an teachtaireacht a thuiscint in aon teanga"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Tá an Uirlis seo líofa sa mhalaeisia d'aistritheoirí Pianbhreithe Éireannacha.",
+            "content": "Ag cur gnéithe cultúrtha agus teanga san áireamh d'aistriúchán pianbhreithe na Mailéalaimis go Gaeilge. Ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistriúchán Pianbhreithe i Mailéalaimis go Gaeilge chun d'ábhar a dhéanamh gairmiúil",
+            "content": "Uirlis aistriúcháin abairtí ilteangach chun abairtí a aistriú go teanga ar bith a d'fhéadfadh a bheith ina mhailéalam go Gaeilge. Níl ort ach an abairt a chlóscríobh i tiontaire pianbhreithe agus toradh a fháil ar do mhéar le struchtúr gramadaí ceart."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Déanann an tArduirlis seo ailt, scéalta agus dánta a thiontú sa mhalaeisia go Gaeilge gan brí agus mothúchán a scaoileadh agus an téacs á aistriú i dteanga eile.",
+            "content": "Is alt nó scéalta é a aistrímid Mailéalaimis go Gaeilge. Ní dhéanann an uirlis seo focal a aistriú de réir focal. Le bogearraí cliste, cinnteoireachta a chinneann sé na focail atá le húsáid agus cé na cinn atá le dí-rialú. dhírigh muid nár cheart an bhrí agus na mothúcháin a chailleadh agus an téacs á aistriú i dteanga eile."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Aistrímid Sleachta malayalam go Gaeilge, agus vice versa, agus an bhrí a choinneáil gan athrú.",
+            "content": "Uaireanta athraíonn athfhriotail tráth an athraithe sa mhailéalaimis go Gaeilge. Is é cuspóir an Aistriúcháin Pianbhreithe go sonrach an bhrí fíor a choinneáil gan athrú. Le AI chun cinn ní hamháin go n-aistríonn sé pianbhreith é ábhar a bheachtú tuilleadh chun freastal ar lucht féachana éagsúla."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ],
+    "jsfilepaths":[
+        "/js/translation.js"
+    ]
+}

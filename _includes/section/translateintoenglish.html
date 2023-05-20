@@ -1,0 +1,144 @@
+
+{% assign keyName = page.translatein %}
+{% assign langName = page.langName %}
+{% assign language = page.language %}
+
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<script src="/js/translationintoen.js" data-language="{{page.language}}" ></script>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <p>Type in {{keyName}} and it will be transliterated to english </p>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="setting_div">
+                <div class="setting_button">
+                    <div id="clear_button" onmouseover="active_buttonkk('clear_text')"
+                        onmouseout="diavtivate_button('clear_text')" class="settings__image"><i
+                            class="fa fa-refresh" aria-hidden="true"></i></div>
+                    <ul class="settings__options" id="clear_text" style="display: none;">
+                        <li class="settings__option">
+                            <p class="settings__description" id="active_text">Clear Text</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="setting_button">
+                    <div id="fontsize_button" onmouseover="display_flex('font_size')"
+                        onmouseout="display_none('font_size')" class="settings__image"><i style="font-family: fangsong; color: #60A6E9; font-size: 20px; font-weight: 800px;">T</i></div>
+                    <ul class="settings__options" id="font_size"
+                        style="display: none; flex-direction: row; justify-content: space-around;">
+                        <li class="settings__option text" style="font-size: small;"><button type="button"
+                                onclick="font_size_fun('small')">T</button></li>
+                        <li class="settings__option text" style="font-size: medium;"><button type="button"
+                                onclick="font_size_fun('medium')">T</button></li>
+                        <li class="settings__option text" style="font-size: large;"><button type="button"
+                                onclick="font_size_fun('large')">T</button></li>
+                    </ul>
+                </div>
+                <div class="setting_button">
+                    <div id="fontfamily_button" onmouseover="display_flex('font_familty')"
+                        onmouseout="display_none('font_familty')" class="settings__image"><i class="fa-solid fa-font"></i></div>
+                    <ul class="settings__options" id="font_familty"
+                        style="display: none; flex-direction: row; justify-content: space-around;">
+                        <li class="settings__option text" style="font-family: roboto mono,monospace;"><button
+                                type="button" onclick="font_family_fun('roboto mono,monospace')">As</button>
+                        </li>
+                        <li class="settings__option text" style="font-family: mr-eaves-modern,sans-serif;">
+                            <button type="button"
+                                onclick="font_family_fun('mr-eaves-modern,sans-serif')">As</button></li>
+                        <li class="settings__option text" style="font-family: serif;"><button type="button"
+                                onclick="font_family_fun('serif')">As</button></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="display: flex; flex-direction: row;">
+        <div class="col-md-8" style="margin-left: 20px;">
+            <div class="flex-box">
+                <div class="main-heading">
+                    <div class="word-count-main">
+                        <div class="word-count">
+                            <ul class="count-top-bar1">
+                                <li class="borderStyle">
+                                    <p>Words</p>
+                                    <span id="wordCount">0</span>
+                                </li>
+                                <li class="borderStyle">
+                                    <p>Characters</p>
+                                    <span id="characterCount">0</span>
+                                </li>
+                                <li class="borderStyle">
+                                    <p>Sentences</p>
+                                    <span id="sentenceCount">0</span>
+                                </li>
+                                <li class="borderStyle">
+                                    <p>Paragraphs</p>
+                                    <span id="paragraphCount">0</span>
+                                </li>
+                            </ul>
+                            <label class="w-100">
+                                <textarea onkeyup="inputHandle()" class="mt-3 transliteration-input"
+                                  id="input-string"></textarea>
+                            </label>
+                            <div class="button_area">
+                                <button type="button" onclick="word_count()" class="btn btn-primary">word
+                                    Count</button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="word-counter-sidebar">
+                <div class="sidebar-details">
+                    <ul class="details-list">
+                        <li>
+                            <p>Reading Level</p><span id="readability" class="read-lvl">Not available</span>
+                        </li>
+                        <li>
+                            <p>Reading Time</p><span class="read-time" id="readtime">0 min</span>
+                        </li>
+                        <li>
+                            <p>Speaking Time</p><span class="spek-time" id="speaktime">0 min</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="sidebar__keywords">
+                    <div class="keyword__content">
+                        <div class="keyword__placeholder">
+                            <p class="keyword__placeholder-text">Enter text to display keywords</p>
+                        </div>
+                        <div class="keyword-tabs-content">
+                            <table cellspacing="15">
+                                <tbody id="tbody"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="main">
+            <div class="row col-md-12 d-flex justify-content-center">
+                <div class="col-md-12 mb-3 pl-5">
+                    <div class=" d-flex justify-content-left">
+                        <button onclick="inputHandle('transliterateButton')" class="ml-2"
+                            style="font-size:14px; font-weight:normal; height:30px">
+                            transliterate
+                        </button>
+                    </div>
+                </div>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>

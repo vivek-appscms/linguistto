@@ -1,0 +1,55 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "h1": "Verwenden Sie den kostenlosen Online-Absatzumschreiber für qualitativ hochwertige Inhalte.",
+    "h2": "Ultimative Lösung für Ihre Schreibprobleme",
+    "TITLE": "Absatzumschreiber - Das beste Tool zum Umschreiben einer unbegrenzten Anzahl von Dokumenten. ",
+    "META": "Der fortschrittliche webbasierte Absatzumschreiber ist der perfekte Ort, um die Artikel neu zu schreiben oder zu paraphrasieren. Unser Tool liefert die wahre Essenz des Themas. Das effektivste Tool zur Minimierung aller Risiken von Plagiaten und Grammatikfehlern.",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "Einfach zu benutzen",
+            "content": "Der Absatzumschreiber ist einfach zu bedienen. Wenn Sie einen Absatz haben, den Sie umschreiben müssen, können Sie ihn einfach kopieren und in unseren Absatzumschreiber einfügen. Das Tool erledigt die Arbeit für Sie."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "Sofortige Ergebnisse",
+            "content": "Die Ergebnisse werden angezeigt, sobald Sie auf Paraphrase klicken, und Sie müssen nicht auf die Generierung von Ergebnissen warten."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "Plattformübergreifend",
+            "content": "Unsere Website ist plattformunabhängig. Es funktioniert sowohl auf Windows- als auch auf iOS-Betriebssystemen und kann ohne erforderliche Downloads verwendet werden."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "Sicher und geschützt",
+            "content": "Unser Absatzumschreiber ist absolut sicher in der Anwendung und liefert konstant echte und präzise Ergebnisse. „Präzise Ergebnisse“ bedeutet, dass jeder geänderte Inhalt nicht nur frei von Plagiaten ist, sondern auch einfacher zu lesen und zu verstehen ist. Es erhöht die Reichweite und das Engagement Ihrer Inhalte aufgrund seiner Einzigartigkeit und Effektivität. Also, was musst du verlieren? Probieren Sie es gleich aus und haben Sie Spaß beim Umschreiben."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "Einzigartiger und plagiatfreier Inhalt",
+            "content": "Es ist ohne Zweifel der beste kostenlose und professionelle Absatzspinner, der im Internet verfügbar ist. Es leistet eine bewundernswerte Leistung und enttäuscht seine Verbraucher niemals, wenn es darum geht, Originalinhalte zu produzieren, die frei von Plagiaten und Vervielfältigungsproblemen sind! Nachdem Sie Ihren Absatz mit unserem Tool überarbeitet haben, können Sie die Originalität und Unterscheidungskraft überprüfen, indem Sie Ihr Dokument durch die Plagiatsprüfung führen."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "Kostenlos zu benutzen",
+            "content": "Gibt es etwas Aufregenderes, als einen Text-Spinner zu entdecken, der völlig kostenlos verwendet werden kann? Ist das nicht genau das, was jeder sucht? Die Funktionen unseres Tools zum Umschreiben von Absätzen können völlig kostenlos verwendet werden, sodass es keinen Grund gibt, es nicht zu verwenden."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/file-upload.css\" />"
+    ], 
+"jsfilepaths":[
+    "/js/paraprashing.js"
+  ]
+}
