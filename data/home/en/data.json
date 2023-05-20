@@ -92,7 +92,7 @@
       "color": "#2c3774",
       "icon": "/assets/summary.svg",
       "url": "/summary-generator"
-  },
+    },
     {
       "name": "Paragraph Rewriter",
       "description": "online paragraph rewriter for quality content",
@@ -134,6 +134,27 @@
       "description": "Free online lorem ipsum generator",
       "color": "#33cccc",
       "icon": "/img/typing.svg"
+    },
+    {
+      "name": "Text compare online",
+      "url": "/compare-phrases",
+      "description": "Free online text compare online",
+      "color": "#0e6d6d",
+      "icon": "/assets/images/rewriting.svg"
+    },
+    {
+      "name": "online notepad",
+      "url": "/notepad",
+      "description": "Free online notepad and todo list",
+      "color": "#a7a7cd",
+      "icon": "/assets/notepad-white.png"
+    },
+    {
+      "name": "Website tools",
+      "url": "/tools",
+      "description": "Online website tools",
+      "color": "#a7a7cd",
+      "icon": "/img/settings.png"
     }
   ]
 }

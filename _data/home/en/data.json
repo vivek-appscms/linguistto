@@ -148,6 +148,13 @@
       "description": "Free online notepad and todo list",
       "color": "#a7a7cd",
       "icon": "/assets/notepad-white.png"
+    },
+    {
+      "name": "Website tools",
+      "url": "/tools",
+      "description": "Online website tools",
+      "color": "#a7a7cd",
+      "icon": "/img/settings.png"
     }
   ]
 }

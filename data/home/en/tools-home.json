@@ -1,0 +1,83 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Smartest tools for Content writers",
+  "h2": "Useful tool for Content writers",
+  "TITLE": "Contenttool - Smartest tools for content professionals",
+  "META": "Contenttools.io provides smartest tools for day to day usage by content professionals.",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "features": [
+    {
+      "name": "Meta and title checker",
+      "description": "online meta and title checker",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/meta-and-title-checker"
+    },
+    {
+      "name": "Random adjective generator",
+      "description": "random adjective generator",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/random-adjective-generator"
+    },
+    {
+      "name": "Text difference checker",
+      "description": "online text difference checker",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/text-difference-checker"
+    },
+    {
+      "name": "Random noun generator",
+      "description": "online random noun generator",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/random-noun-generator"
+    },
+    {
+      "name": "Random paragraph generator",
+      "description": "online paragraph generator",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/random-paragraph-generator"
+    },
+    {
+      "name": "Random letter generator",
+      "description": "online random letter generator",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/random-letter-generator"
+    },
+    {
+      "name": "Random sentence generator",
+      "description": "online random sentence generator",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/random-sentence-generator"
+    },
+    {
+      "name": "Online serp simulator",
+      "description": "online serp simulator",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/serp-simulator"
+    },
+    {
+      "name": "Website word counter",
+      "description": "Online website word counter",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/website-word-count"
+    },
+    {
+      "name": "Random word generator",
+      "description": "Online random generator",
+      "color": "#8080ff",
+      "icon": "/img/settings.png",
+      "url": "/random-word-generator"
+    }
+  ]
+}
